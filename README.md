@@ -5,7 +5,6 @@
 
 [![Universidad](https://img.shields.io/badge/Universidad-Universidad_de_Cartagena-gold?style=for-the-badge&logo=education)](https://www.unicartagena.edu.co)
 [![Programa](https://img.shields.io/badge/Programa-Ingeniería_de_Software-blue?style=for-the-badge&logo=code)](https://www.unicartagena.edu.co)
-[![Obsidian](https://img.shields.io/badge/Obsidian-Vault_Ready-7A3EE8?style=for-the-badge&logo=obsidian)](https://obsidian.md)
 [![Estado](https://img.shields.io/badge/Semestre-2026--2-brightgreen?style=for-the-badge)](#)
 
 </div>
@@ -68,26 +67,6 @@ Documentos/UDC/
 | **Fundamentos de Matemáticas** | Sábados B (10:20 hs) | Atilano Arrieta | [Nota Principal](Fundamentos%20de%20Matemáticas/Fundamentos%20de%20Matemáticas.md) · [Cronograma](Fundamentos%20de%20Matemáticas/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Fundamentos%20de%20Matemáticas/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
 | **Introducción a la Ing. de Software** | Sábados B (08:40 hs) | Jhon Arrieta | [Nota Principal](Introducción%20a%20la%20Ingeniería%20de%20Software/Introducción%20a%20la%20Ingeniería%20de%20Software.md) · [Cronograma](Introducción%20a%20la%20Ingeniería%20de%20Software/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Introducción%20a%20la%20Ingeniería%20de%20Software/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
 | **Metodología de la Ed. a Distancia** | Sábados B (07:00 hs) | Raquel Leottau | [Nota Principal](Metodología%20de%20la%20Educación%20a%20Distancia/Metodología%20de%20la%20Educación%20a%20Distancia.md) · [Cronograma](Metodología%20de%20la%20Educación%20a%20Distancia/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Metodología%20de%20la%20Educación%20a%20Distancia/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
-
----
-
-## 🧠 Técnicas de Estudio & Aprendizaje Activo
-
-> [!TIP]
-> **1. Active Recall (Recuperación Activa)**
-> - Al terminar una lectura o clase, resolver problemas o escribir resúmenes de memoria sin mirar las soluciones.
-
-> [!NOTE]
-> **2. Spaced Repetition (Repetición Espaciada)**
-> - Repasar los conceptos clave en intervalos progresivos (1 día, 3 días, 7 días, 14 días) para consolidar la memoria a largo plazo.
-
-> [!IMPORTANT]
-> **3. Blank Page Method (Método de la Hoja en Blanco)**
-> - Tomar una hoja en blanco y reconstruir diagramas de flujo, código en Java o ejercicios de Cálculo desde cero para verificar la comprensión real.
-
-> [!SUCCESS]
-> **4. Técnica Feynman**
-> - Explicar conceptos complejos de ingeniería o matemáticas en lenguaje sencillo como si se los enseñaras a un principiante.
 
 ---
 
