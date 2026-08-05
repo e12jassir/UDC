@@ -1,0 +1,19 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary & Swap files
+*.tmp
+*.log
+*.swp
+*~
+
+# Obsidian Workspace state (user specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/backups/
