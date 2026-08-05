@@ -31,36 +31,28 @@ Documentos/UDC/
 ├── 📁 Algoritmos y Programación Básica/
 │   ├── 📄 Algoritmos y Programación Básica.md
 │   ├── 📄 Cronograma de Actividades.md
-│   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   ├── 📁 Recursos/
-│   └── 📁 protocolos/
+│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
 ├── 📁 Cálculo Diferencial/
 │   ├── 📄 Cálculo Diferencial.md
 │   ├── 📄 Cronograma de Actividades.md
-│   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   ├── 📁 Recursos/
-│   └── 📁 protocolos/
+│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
 ├── 📁 Cátedra Institucional/
 │   ├── 📄 Cátedra Institucional.md
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   ├── 📁 Unidad 1/ (Actividad 1 - Reflexión de Vida.md)
-│   └── 📁 protocolos/
+│   └── 📁 Unidad 1/ (Actividad 1 - Reflexión de Vida.md)
 ├── 📁 Fundamentos de Matemáticas/
 │   ├── 📄 Fundamentos de Matemáticas.md
 │   ├── 📄 Cronograma de Actividades.md
-│   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   └── 📁 protocolos/
+│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
 ├── 📁 Introducción a la Ingeniería de Software/
 │   ├── 📄 Introducción a la Ingeniería de Software.md
 │   ├── 📄 Cronograma de Actividades.md
-│   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   └── 📁 protocolos/
+│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
 ├── 📁 Metodología de la Educación a Distancia/
 │   ├── 📄 Metodología de la Educación a Distancia.md
 │   ├── 📄 Cronograma de Actividades.md
-│   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   └── 📁 protocolos/
+│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
 └── 📁 Plantillas/                          <-- Formatos institucionales en blanco
 ```
 
@@ -79,18 +71,23 @@ Documentos/UDC/
 
 ---
 
-## 🎯 Pilares Metodológicos Institucionales (UDC)
+## 🧠 Técnicas de Estudio & Aprendizaje Activo
 
-> [!IMPORTANT]
-> **1. Trabajo Colaborativo Contextualizado (TCC)**
-> - Extensión mínima de **3.000 palabras** por asignatura.
-> - Formato: Times New Roman 12, interlineado 1.5, normas APA/Icontec.
-> - Estructura obligatoria de 6 secciones: Presentación, Problemática, Justificación, Objetivos SMART, Solución planteada y Resultados/Bibliografía.
+> [!TIP]
+> **1. Active Recall (Recuperación Activa)**
+> - Al terminar una lectura o clase, resolver problemas o escribir resúmenes de memoria sin mirar las soluciones.
 
 > [!NOTE]
-> **2. Protocolos Individuales y Colaborativos (CIPAS)**
-> - Formatos oficiales institucionales de la Universidad de Cartagena.
-> - Entregables quincenales cargados en la plataforma virtual SIMA.
+> **2. Spaced Repetition (Repetición Espaciada)**
+> - Repasar los conceptos clave en intervalos progresivos (1 día, 3 días, 7 días, 14 días) para consolidar la memoria a largo plazo.
+
+> [!IMPORTANT]
+> **3. Blank Page Method (Método de la Hoja en Blanco)**
+> - Tomar una hoja en blanco y reconstruir diagramas de flujo, código en Java o ejercicios de Cálculo desde cero para verificar la comprensión real.
+
+> [!SUCCESS]
+> **4. Técnica Feynman**
+> - Explicar conceptos complejos de ingeniería o matemáticas en lenguaje sencillo como si se los enseñaras a un principiante.
 
 ---
 
