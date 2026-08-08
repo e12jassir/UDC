@@ -35,10 +35,15 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 ## Entregas y Actividades Destacadas
 
 - [[Unidad 1/Actividad 1 - Reflexión de Vida|Actividad 1 — Reflexión de Vida y Etapas (Unidad 1)]]
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Apertura:** 04 de Agosto de 2026
   - **Cierre de Entrega:** 17 de Agosto de 2026 (23:57 hrs)
   - **Formato:** PDF
-  - **Recursos vinculados:** `Unidad 1/modulou1.pdf` | `Unidad 1/DILIGENCIAR PLANTILLA DE PROTOCOLO INDIVIDUAL.pdf`
+
+## Estado de Avances del Semestre
+
+- [x] **Unidad 1:** [[Unidad 1/Actividad 1 - Reflexión de Vida|Actividad 1 — Reflexión de Vida]] redactada y subida oficialmente a SIMA.
+- [ ] **Unidad 2:** Lectura de Crecimiento Personal y Autoestima.
 
 ## Cómo Estudiar la Asignatura
 

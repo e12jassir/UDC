@@ -51,8 +51,10 @@ Documentos/UDC/
 ├── 📁 Metodología de la Educación a Distancia/
 │   ├── 📄 Metodología de la Educación a Distancia.md
 │   ├── 📄 Cronograma de Actividades.md
-│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-└── 📁 Plantillas/                          <-- Formatos institucionales en blanco
+├── 📁 Plantillas/                          <-- Formatos institucionales y guías oficiales
+│   ├── 📁 Institucional/                  <-- Horarios de laboratorios, proyecciones y calendarios
+│   ├── 📁 Protocolos/                     <-- Instructivos y plantillas oficiales de protocolos
+│   └── 📁 TCC/                            <-- Guías y formatos oficiales del Trabajo Colaborativo
 ```
 
 ---
