@@ -16,9 +16,9 @@ El semestre 2026-2 del programa de Ingeniería de Software (Universidad de Carta
 
 | Hora | Asignatura | Código | Docente | Ubicación |
 | :--- | :--- | :--- | :--- | :--- |
-| **07:00 – 08:40** | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación Básica]] | `IX24013-A1` | Carlos Cáceres | Bloque F · Lab Software |
-| **08:40 – 10:20** | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]] | `FN24014-A1` | Eyvis Marrugo | Bloque A · Salón 305 |
-| **10:20 – 12:00** | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]] | `CFBD243-A1` | Atilano Arrieta | Bloque A · Salón 305 |
+| **07:00 – 08:40** | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación Básica]] | `IX24013-A1` | Heybertt Moreno Díaz | Bloque F · Lab Software |
+| **08:40 – 10:20** | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]] | `FN24014-A1` | Eyvis Lucía Marrugo Batista | Bloque A · Salón 305 |
+| **10:20 – 12:00** | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]] | `CFBD243-A1` | Katherine Paternina Sierra | Bloque A · Salón 305 |
 
 ### 📘 Sábados B
 
@@ -26,9 +26,9 @@ El semestre 2026-2 del programa de Ingeniería de Software (Universidad de Carta
 
 | Hora | Asignatura | Código | Docente | Ubicación |
 | :--- | :--- | :--- | :--- | :--- |
-| **07:00 – 08:40** | [[Metodología de la Educación a Distancia/Metodología de la Educación a Distancia\|Metodología Educación a Distancia]] | `FN24015-A1` | Raquel Leottau | Bloque F · Sala Inf. 2 |
-| **08:40 – 10:20** | [[Introducción a la Ingeniería de Software/Introducción a la Ingeniería de Software\|Introducción a la Ing. de Software]] | `IX24014-A1` | Jhon Arrieta | Bloque A · Salón 301 |
-| **10:20 – 12:00** | [[Fundamentos de Matemáticas/Fundamentos de Matemáticas\|Fundamentos de Matemáticas]] | `CFBD242-A1` | Atilano Arrieta | Bloque A · Salón 305 |
+| **07:00 – 08:40** | [[Metodología de la Educación a Distancia/Metodología de la Educación a Distancia\|Metodología Educación a Distancia]] | `FN24015-A1` | Raquel Leottau Díaz | Bloque F · Sala Inf. 2 |
+| **08:40 – 10:20** | [[Introducción a la Ingeniería de Software/Introducción a la Ingeniería de Software\|Introducción a la Ing. de Software]] | `IX24014-A1` | Jhon Carlos Arrieta Arrieta | Bloque A · Salón 301 |
+| **10:20 – 12:00** | [[Fundamentos de Matemáticas/Fundamentos de Matemáticas\|Fundamentos de Matemáticas]] | `CFBD242-A1` | Atilano Arrieta Vivero | Bloque A · Salón 305 |
 
 ---
 

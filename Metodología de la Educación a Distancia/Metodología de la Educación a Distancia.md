@@ -7,7 +7,7 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 ## Información General
 
 - **Código:** `FN24015-A1`
-- **Docente:** Raquel Leottau
+- **Docente:** Raquel Leottau Díaz
 - **Horario:** Sábados B · 07:00 – 08:40 hrs.
 - **Ubicación:** Bloque F · Sala de Informática 2
 - **Créditos:** 2 (`96h` totales: `16h` presenciales, `8h` asincrónicas, `72h` autónomas)
@@ -23,7 +23,7 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 
 ## Estado de Avances del Semestre
 
-- [x] **Unidad 1:** Lectura del Módulo + [[Unidad 1/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
+- [x] **Unidad 1:** Lectura del Módulo + [[Unidades/Unidad 1/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
 - [ ] **Unidad 1:** Trabajo colaborativo CIPAS (Protocolo Colaborativo).
 - [ ] **Unidad 1:** Tutoría sincrónica Sábado B.
 

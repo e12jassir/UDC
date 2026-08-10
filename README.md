@@ -30,27 +30,39 @@ Documentos/UDC/
 ├── 📁 Algoritmos y Programación Básica/
 │   ├── 📄 Algoritmos y Programación Básica.md
 │   ├── 📄 Cronograma de Actividades.md
-│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
+│   ├── 📁 Entregables/
+│   ├── 📁 Recursos/
+│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
 ├── 📁 Cálculo Diferencial/
 │   ├── 📄 Cálculo Diferencial.md
 │   ├── 📄 Cronograma de Actividades.md
-│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
+│   ├── 📁 Entregables/
+│   ├── 📁 Recursos/
+│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
 ├── 📁 Cátedra Institucional/
 │   ├── 📄 Cátedra Institucional.md
 │   ├── 📄 Cronograma de Actividades.md
-│   ├── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
-│   └── 📁 Unidad 1/ (Actividad 1 - Reflexión de Vida.md)
+│   ├── 📁 Entregables/
+│   ├── 📁 Recursos/
+│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
 ├── 📁 Fundamentos de Matemáticas/
 │   ├── 📄 Fundamentos de Matemáticas.md
 │   ├── 📄 Cronograma de Actividades.md
-│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
+│   ├── 📁 Entregables/
+│   ├── 📁 Recursos/
+│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
 ├── 📁 Introducción a la Ingeniería de Software/
 │   ├── 📄 Introducción a la Ingeniería de Software.md
 │   ├── 📄 Cronograma de Actividades.md
-│   └── 📁 Trabajo Colaborativo 5/ (Rúbrica TCC.md)
+│   ├── 📁 Entregables/
+│   ├── 📁 Recursos/
+│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
 ├── 📁 Metodología de la Educación a Distancia/
 │   ├── 📄 Metodología de la Educación a Distancia.md
 │   ├── 📄 Cronograma de Actividades.md
+│   ├── 📁 Entregables/
+│   ├── 📁 Recursos/
+│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
 ├── 📁 Plantillas/                          <-- Formatos institucionales y guías oficiales
 │   ├── 📁 Institucional/                  <-- Horarios de laboratorios, proyecciones y calendarios
 │   ├── 📁 Protocolos/                     <-- Instructivos y plantillas oficiales de protocolos
@@ -63,12 +75,12 @@ Documentos/UDC/
 
 | Asignatura | Tutorías Presenciales | Docente | Recursos & Cronograma | Rúbrica TCC |
 | :--- | :---: | :--- | :---: | :---: |
-| **Algoritmos y Programación Básica** | Sábados A (07:00 hs) | Carlos Cáceres | [Nota Principal](Algoritmos%20y%20Programación%20Básica/Algoritmos%20y%20Programación%20Básica.md) · [Cronograma](Algoritmos%20y%20Programación%20Básica/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Algoritmos%20y%20Programación%20Básica/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
-| **Cálculo Diferencial** | Sábados A (10:20 hs) | Atilano Arrieta | [Nota Principal](Cálculo%20Diferencial/Cálculo%20Diferencial.md) · [Cronograma](Cálculo%20Diferencial/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Cálculo%20Diferencial/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
-| **Cátedra Institucional** | Sábados A (08:40 hs) | Eyvis Marrugo | [Nota Principal](Cátedra%20Institucional/Cátedra%20Institucional.md) · [Cronograma](Cátedra%20Institucional/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Cátedra%20Institucional/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
-| **Fundamentos de Matemáticas** | Sábados B (10:20 hs) | Atilano Arrieta | [Nota Principal](Fundamentos%20de%20Matemáticas/Fundamentos%20de%20Matemáticas.md) · [Cronograma](Fundamentos%20de%20Matemáticas/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Fundamentos%20de%20Matemáticas/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
-| **Introducción a la Ing. de Software** | Sábados B (08:40 hs) | Jhon Arrieta | [Nota Principal](Introducción%20a%20la%20Ingeniería%20de%20Software/Introducción%20a%20la%20Ingeniería%20de%20Software.md) · [Cronograma](Introducción%20a%20la%20Ingeniería%20de%20Software/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Introducción%20a%20la%20Ingeniería%20de%20Software/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
-| **Metodología de la Ed. a Distancia** | Sábados B (07:00 hs) | Raquel Leottau | [Nota Principal](Metodología%20de%20la%20Educación%20a%20Distancia/Metodología%20de%20la%20Educación%20a%20Distancia.md) · [Cronograma](Metodología%20de%20la%20Educación%20a%20Distancia/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Metodología%20de%20la%20Educación%20a%20Distancia/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Algoritmos y Programación Básica** | Sábados A (07:00 hs) | Heybertt Moreno Díaz | [Nota Principal](Algoritmos%20y%20Programación%20Básica/Algoritmos%20y%20Programación%20Básica.md) · [Cronograma](Algoritmos%20y%20Programación%20Básica/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Algoritmos%20y%20Programación%20Básica/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Cálculo Diferencial** | Sábados A (10:20 hs) | Katherine Paternina Sierra | [Nota Principal](Cálculo%20Diferencial/Cálculo%20Diferencial.md) · [Cronograma](Cálculo%20Diferencial/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Cálculo%20Diferencial/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Cátedra Institucional** | Sábados A (08:40 hs) | Eyvis Lucía Marrugo Batista | [Nota Principal](Cátedra%20Institucional/Cátedra%20Institucional.md) · [Cronograma](Cátedra%20Institucional/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Cátedra%20Institucional/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Fundamentos de Matemáticas** | Sábados B (10:20 hs) | Atilano Arrieta Vivero | [Nota Principal](Fundamentos%20de%20Matemáticas/Fundamentos%20de%20Matemáticas.md) · [Cronograma](Fundamentos%20de%20Matemáticas/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Fundamentos%20de%20Matemáticas/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Introducción a la Ing. de Software** | Sábados B (08:40 hs) | Jhon Carlos Arrieta Arrieta | [Nota Principal](Introducción%20a%20la%20Ingeniería%20de%20Software/Introducción%20a%20la%20Ingeniería%20de%20Software.md) · [Cronograma](Introducción%20a%20la%20Ingeniería%20de%20Software/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Introducción%20a%20la%20Ingeniería%20de%20Software/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Metodología de la Ed. a Distancia** | Sábados B (07:00 hs) | Raquel Leottau Díaz | [Nota Principal](Metodología%20de%20la%20Educación%20a%20Distancia/Metodología%20de%20la%20Educación%20a%20Distancia.md) · [Cronograma](Metodología%20de%20la%20Educación%20a%20Distancia/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Metodología%20de%20la%20Educación%20a%20Distancia/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
 
 ---
 

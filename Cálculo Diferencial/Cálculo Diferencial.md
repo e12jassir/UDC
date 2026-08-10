@@ -7,7 +7,7 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
 ## Información General
 
 - **Código:** `CFBD243-A1`
-- **Docente:** Atilano Arrieta
+- **Docente:** Katherine Paternina Sierra
 - **Horario:** Sábados A · 10:20 – 12:00 hrs.
 - **Ubicación:** Bloque A · Salón 305
 - **Créditos:** 3 (`144h` totales: `16h` presenciales, `20h` asincrónicas, `108h` autónomas)

@@ -7,7 +7,7 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
 ## Información General
 
 - **Código:** `IX24014-A1`
-- **Docente:** Jhon Arrieta
+- **Docente:** Jhon Carlos Arrieta Arrieta
 - **Horario:** Sábados B · 08:40 – 10:20 hrs.
 - **Ubicación:** Bloque A · Salón 301
 - **Créditos:** 2 (`96h` totales: `16h` presenciales, `8h` asincrónicas, `72h` autónomas)

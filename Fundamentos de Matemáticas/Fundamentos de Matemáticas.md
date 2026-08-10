@@ -7,7 +7,7 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
 ## Información General
 
 - **Código:** `CFBD242-A1`
-- **Docente:** Atilano Arrieta
+- **Docente:** Atilano Arrieta Vivero
 - **Horario:** Sábados B · 10:20 – 12:00 hrs.
 - **Ubicación:** Bloque A · Salón 305
 - **Créditos:** 2 (`144h` totales: `16h` presenciales, `20h` asincrónicas, `108h` autónomas)

@@ -15,3 +15,9 @@ Thumbs.db
 
 # Obsidian local settings
 .obsidian/
+
+# AI Agent Rules & Humanization Guides
+.agents/
+AGENTS.md
+Guia_Redaccion_Humana_IA.md
+
