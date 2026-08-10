@@ -32,37 +32,37 @@ Documentos/UDC/
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Entregables/
 │   ├── 📁 Recursos/
-│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
+│   └── 📁 Unidades/ (Unidad 1..4 con 📁 Guia/ y 📁 Actividades/, Trabajo Colaborativo 5)
 ├── 📁 Cálculo Diferencial/
 │   ├── 📄 Cálculo Diferencial.md
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Entregables/
 │   ├── 📁 Recursos/
-│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
+│   └── 📁 Unidades/ (Unidad 1..4 con 📁 Guia/ y 📁 Actividades/, Trabajo Colaborativo 5)
 ├── 📁 Cátedra Institucional/
 │   ├── 📄 Cátedra Institucional.md
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Entregables/
 │   ├── 📁 Recursos/
-│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
+│   └── 📁 Unidades/ (Unidad 1..4 con 📁 Guia/ y 📁 Actividades/, Trabajo Colaborativo 5)
 ├── 📁 Fundamentos de Matemáticas/
 │   ├── 📄 Fundamentos de Matemáticas.md
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Entregables/
 │   ├── 📁 Recursos/
-│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
+│   └── 📁 Unidades/ (Unidad 1..4 con 📁 Guia/ y 📁 Actividades/, Trabajo Colaborativo 5)
 ├── 📁 Introducción a la Ingeniería de Software/
 │   ├── 📄 Introducción a la Ingeniería de Software.md
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Entregables/
 │   ├── 📁 Recursos/
-│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
+│   └── 📁 Unidades/ (Unidad 1..4 con 📁 Guia/ y 📁 Actividades/, Trabajo Colaborativo 5)
 ├── 📁 Metodología de la Educación a Distancia/
 │   ├── 📄 Metodología de la Educación a Distancia.md
 │   ├── 📄 Cronograma de Actividades.md
 │   ├── 📁 Entregables/
 │   ├── 📁 Recursos/
-│   └── 📁 Unidades/ (Unidad 1..4, Trabajo Colaborativo 5)
+│   └── 📁 Unidades/ (Unidad 1..4 con 📁 Guia/ y 📁 Actividades/, Trabajo Colaborativo 5)
 ├── 📁 Plantillas/                          <-- Formatos institucionales y guías oficiales
 │   ├── 📁 Institucional/                  <-- Horarios de laboratorios, proyecciones y calendarios
 │   ├── 📁 Protocolos/                     <-- Instructivos y plantillas oficiales de protocolos

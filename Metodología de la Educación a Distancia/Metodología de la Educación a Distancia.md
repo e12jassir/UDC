@@ -23,7 +23,7 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 
 ## Estado de Avances del Semestre
 
-- [x] **Unidad 1:** Lectura del Módulo + [[Unidades/Unidad 1/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
+- [x] **Unidad 1:** Lectura del Módulo + [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
 - [ ] **Unidad 1:** Trabajo colaborativo CIPAS (Protocolo Colaborativo).
 - [ ] **Unidad 1:** Tutoría sincrónica Sábado B.
 
