@@ -34,7 +34,7 @@ El semestre 2026-2 del programa de Ingeniería de Software (Universidad de Carta
 
 ## 🗓️ Entre Semana
 
-- **Inglés I (`ENGV001-E2`):** Martes de 18:15 a 21:15 hrs. *(Clase Oficial Presencial / Sincrónica)*.
+- **Inglés I (`ENGV001-E2`):** Martes de 18:10 a 21:10 hrs. *(Clase Sincrónica 100% Virtual)*.
 
 ---
 

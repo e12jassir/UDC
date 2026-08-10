@@ -15,14 +15,15 @@
 
 > [!IMPORTANT]
 > **Consolidado General de Entregas y Tareas — Semestre 2026-2 (6 Materias)**  
-> *Fecha actual de referencia: Sábado, 08 de Agosto de 2026*
+> *Fecha actual de referencia: Sábado, 08 de Agosto de 2026*  
+> *Nota sobre Cuestionarios:* Las evaluaciones/cuestionarios en SIMA se habilitan el mismo día fijado en la plataforma y se presentan ese mismo día.
 
 | Estado | Día / Fecha Límite | Asignatura | Actividad / Entregable Específico | Destino / Plataforma |
 | :---: | :--- | :--- | :--- | :--- |
 | 🟢 **Subido** | **Completado** | **Metodología** | Protocolo Individual 1 cargado oficialmente en plataforma SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Actividad 1 (Reflexión de Vida) cargada oficialmente en SIMA | Entregado en SIMA |
 | ⏳ **Hoy** | **Sábado 08 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20) | Piedra de Bolívar |
-| 🟡 **Pendiente** | **Martes 11 Ago** | **Inglés I** | Asistencia a clase presencial / sincrónica (18:15 hs) | Aula / SIMA |
+| 🟡 **Pendiente** | **Martes 11 Ago** | **Inglés I** | Asistencia a clase sincrónica virtual (18:10 – 21:10 hs) | Campus Virtual / SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟡 **Pendiente** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Algoritmos (07:00), Cátedra (08:40), Cálculo (10:20) | Piedra de Bolívar |
@@ -91,7 +92,7 @@ graph TD
 
 | Día | Horario | Asignatura Objetiva | Actividad Específica a Realizar |
 | :--- | :---: | :--- | :--- |
-| **Martes** | 18:15 – 21:15 | **Inglés I (`ENGV001-E2`)** | 🏫 **Clase Oficial Presencial / Sincrónica** |
+| **Martes** | 18:10 – 21:10 | **Inglés I (`ENGV001-E2`)** | 💻 **Clase Sincrónica 100% Virtual** |
 | **Miércoles** | 18:00 – 19:40 | [[Metodología de la Educación a Distancia/Metodología de la Educación a Distancia\|Metodología Ed. Distancia]] | Lecturas del módulo semanal (Moodle / roles docentes) y borrador de protocolo individual. |
 | | 19:40 – 21:15 | [[Cátedra Institucional/Unidad 1/Actividad 1 - Reflexión de Vida\|Cátedra Institucional]] | Advance de **Actividad 1 — Reflexión de Vida** (7-12, 12-16, 17+ años). |
 | **Jueves** | 18:00 – 19:40 | [[Introducción a la Ingeniería de Software/Introducción a la Ingeniería de Software\|Introducción a la Ing. Software]] | Lectura de capitulado (Pressman / Weber) y síntesis de infraestructura/SO. |
@@ -108,7 +109,7 @@ graph TD
 
 | Día | Horario | Asignatura Objetiva | Actividad Específica a Realizar |
 | :--- | :---: | :--- | :--- |
-| **Martes** | 18:15 – 21:15 | **Inglés I (`ENGV001-E2`)** | 🏫 **Clase Oficial Presencial / Sincrónica** |
+| **Martes** | 18:10 – 21:10 | **Inglés I (`ENGV001-E2`)** | 💻 **Clase Sincrónica 100% Virtual** |
 | **Miércoles** | 18:00 – 19:40 | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación]] | Práctica en computadora (pseudocódigo, compilación en Java JDK, ciclos/arreglos). |
 | | 19:40 – 21:15 | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]] | Lecturas de Proyecto de Vida, Autoestima o Historia UDC + preparación de protocolos. |
 | **Jueves** | 18:00 – 20:30 | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]] | Resolución a mano de problemas de límites, continuidad o derivadas. |
