@@ -26,6 +26,7 @@
 | 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟡 **Pendiente** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Algoritmos (07:00), Cátedra (08:40), Cálculo (10:20) | Piedra de Bolívar |
+| 🚨 **Límite** | **Sábado 15 Ago** | **Cálculo** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:59 hs) |
 | 🚨 **Límite** | **Lunes 17 Ago** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:00 hs) |
 | 🚨 **Límite** | **Miércoles 19 Ago** | **Metodología** | 📝 **Entregable:** Línea de tiempo sobre Historia de la Educación a Distancia | Campus SIMA (23:57 hs) |
 | 🟡 **Pendiente** | **Sábado 22 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20) | Piedra de Bolívar |
@@ -38,6 +39,8 @@
 | 🚨 **Límite** | **Miércoles 02 Sep** | **Ing. Software** | 📝 **Entregable:** Línea de tiempo de Arquitectura de Computadoras (RISC vs CISC) | Campus SIMA (23:57 hs) |
 | 🚨 **Límite** | **Miércoles 09 Sep** | **Ing. Software** | 📝 **Entregable:** Infografía / Mapa conceptual "Cómo funciona Internet" | Campus SIMA (23:57 hs) |
 | 🚨 **Límite** | **Viernes 11 Sep** | **Cálculo** | 📝 **Taller Unidad 2:** Continuidad en un intervalo y Teorema de Valor Intermedio | Campus SIMA (23:57 hs) |
+| 🚨 **Límite** | **Viernes 18 Sep** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:57 hs) |
+| 🚨 **Límite** | **Viernes 18 Sep** | **Ing. Software** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:57 hs) |
 | 🚨 **Cierre** | **Lunes 28 Sep** | **Todas (6)** | 🚨 **Cierre Oficial 2.º Corte Evaluativo en SIMA** | Campus SIMA |
 | 🚨 **Límite** | **Miércoles 30 Sep** | **Ing. Software** | 📝 **Entregable:** Cuadro comparativo de Sistemas Operativos (Windows/Linux/Mac) | Campus SIMA (23:57 hs) |
 | 🚨 **Límite** | **Miércoles 07 Oct** | **Metodología** | 📝 **Entregable:** Mapa conceptual de Los 3 Momentos del Aprendizaje | Campus SIMA (23:57 hs) |
@@ -139,6 +142,7 @@ graph TD
 - [x] **Cátedra (U1):** Actividad 1 (Reflexión de Vida) cargada oficialmente en plataforma SIMA.
 - [x] **Cátedra (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Miércoles 12 Ago, 23:55 hs).
 - [x] **Cátedra (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Jueves 13 Ago, 23:55 hs).
+- [ ] **Cálculo (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Sábado 15 Ago, 23:59 hs).
 - [ ] **Cátedra (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Lunes 17 Ago, 23:00 hs).
 - [ ] **Metodología (U1):** Los 3 momentos del aprendizaje (Estudio autónomo TAE, CIPAS, Tutoría).
 - [ ] **Algoritmos (U1):** Configuración del entorno de desarrollo Java JDK e IDE.
@@ -192,6 +196,8 @@ graph TD
 
 #### 📍 Semana 7 & 8: Del 13 al 26 de Septiembre (Cierre 2.º Corte Evaluativo)
 - [ ] **Metodología (U2):** Manejo avanzado y prácticas en el Campus Virtual SIMA.
+- [ ] **Ing. Software (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
+- [ ] **Ing. Software (U1):** 📝 **Actividad de la Unidad 1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
 - [ ] **Ing. Software (U2):** Sistema de Nombres de Dominio (DNS) y funcionamiento de servidores Web.
 - [ ] **Cálculo (U2):** Definición de la Derivada como límite del cociente incremental.
 - [ ] **Algoritmos (U2):** Estructuras de control cíclicas (`while`, `do-while`, `for`) en Java.
