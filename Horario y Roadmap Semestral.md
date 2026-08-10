@@ -23,8 +23,8 @@
 | 🟢 **Subido** | **Completado** | **Cátedra** | Actividad 1 (Reflexión de Vida) cargada oficialmente en SIMA | Entregado en SIMA |
 | ⏳ **Hoy** | **Sábado 08 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20) | Piedra de Bolívar |
 | 🟡 **Pendiente** | **Martes 11 Ago** | **Inglés I** | Asistencia a clase presencial / sincrónica (18:15 hs) | Aula / SIMA |
-| 🚨 **Límite** | **Miércoles 12 Ago** | **Cátedra** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:55 hs) |
-| 🚨 **Límite** | **Jueves 13 Ago** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:55 hs) |
+| 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
+| 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟡 **Pendiente** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Algoritmos (07:00), Cátedra (08:40), Cálculo (10:20) | Piedra de Bolívar |
 | 🚨 **Límite** | **Lunes 17 Ago** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:00 hs) |
 | 🚨 **Límite** | **Miércoles 19 Ago** | **Metodología** | 📝 **Entregable:** Línea de tiempo sobre Historia de la Educación a Distancia | Campus SIMA (23:57 hs) |
@@ -137,8 +137,8 @@ graph TD
 
 #### 📍 Semana 2: Del 09 al 15 de Agosto (Preparación SÁBADO A)
 - [x] **Cátedra (U1):** Actividad 1 (Reflexión de Vida) cargada oficialmente en plataforma SIMA.
-- [ ] **Cátedra (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Miércoles 12 Ago, 23:55 hs).
-- [ ] **Cátedra (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Jueves 13 Ago, 23:55 hs).
+- [x] **Cátedra (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Miércoles 12 Ago, 23:55 hs).
+- [x] **Cátedra (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Jueves 13 Ago, 23:55 hs).
 - [ ] **Cátedra (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Lunes 17 Ago, 23:00 hs).
 - [ ] **Metodología (U1):** Los 3 momentos del aprendizaje (Estudio autónomo TAE, CIPAS, Tutoría).
 - [ ] **Algoritmos (U1):** Configuración del entorno de desarrollo Java JDK e IDE.
