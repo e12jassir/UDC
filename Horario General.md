@@ -14,11 +14,11 @@ El semestre 2026-2 del programa de Ingeniería de Software (Universidad de Carta
 
 **Tutorías:** `01 Ago` · `15 Ago` · `29 Ago` · `12 Sep` · `26 Sep` · `10 Oct` · `24 Oct` · `07 Nov`
 
-| Hora | Asignatura | Código | Docente | Ubicación |
-| :--- | :--- | :--- | :--- | :--- |
-| **07:00 – 08:40** | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación Básica]] | `IX24013-A1` | Heybertt Moreno Díaz | Bloque F · Lab Software |
-| **08:40 – 10:20** | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]] | `FN24014-A1` | Eyvis Lucía Marrugo Batista | Bloque A · Salón 305 |
-| **10:20 – 12:00** | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]] | `CFBD243-A1` | Katherine Paternina Sierra | Bloque A · Salón 305 |
+| Hora              | Asignatura                                                                                              | Código       | Docente                     | Ubicación               |
+| :---------------- | :------------------------------------------------------------------------------------------------------ | :----------- | :-------------------------- | :---------------------- |
+| **07:00 – 08:40** | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación Básica]] | `IX24013-A1` | Heybertt Moreno Díaz        | Bloque F · Lab Software |
+| **08:40 – 10:20** | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]]                                  | `FN24014-A1` | Eyvis Lucía Marrugo Batista | Bloque A · Salón 305    |
+| **10:20 – 12:00** | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]]                                        | `CFBD243-A1` | Katherine Paternina Sierra  | Bloque A · Salón 305    |
 
 ### 📘 Sábados B
 

@@ -28,16 +28,17 @@ graph LR
 
 ### A. Las 3 Grandes Eras Históricas
 
-#### 1. Era de la Correspondencia (Desde mediados del Siglo XIX)
-- **Hito Fundacional (1840):** **Sir Isaac Pitman** en Inglaterra organiza el primer intento rudimentario de educación por correspondencia. Enviaba lecciones de taquigrafía escritas en tarjetas postales y recibía las tareas de sus alumnos para su corrección.
-- **Institucionalización (1843):** Nace la *Sociedad de Correspondencia Fonográfica* para estructurar los ejercicios y correcciones.
+#### 1. Era de la Correspondencia (Siglo XVIII – Siglo XIX)
+- **Antecedente Documentado (1728):** **Caleb Phillips** en Boston ofrece lecciones semanales de taquigrafía enviadas por correo postal. Marca el inicio documentado de la instrucción asincrónica sin presencia física del docente.
+- **Institucionalización (1840 – 1843):** **Sir Isaac Pitman** formaliza la enseñanza enviando lecciones y correcciones de taquigrafía por correo. En 1843 se funda la *Phonographic Correspondence Society*, estableciendo la primera estructura organizada de tutoría y evaluación a distancia.
 - **Mecanismos:** Imprenta, material impreso (módulos, guías) y servicio postal público.
 - **Naturaleza Comunicativa:** Unidireccional y asincrónica de respuesta muy lenta. El material debía ser autosuficiente porque el tutor tardaba semanas en responder.
 
-#### 2. Era de las Telecomunicaciones (Mid-Siglo XX)
+#### 2. Era de las Telecomunicaciones / Multimedia (Mediados del Siglo XX / 1969)
 - **Tecnologías:** Radio educativa, televisión abierta/cerrada, audiocasetes, videocasetes y teléfono.
 - **Avance:** Permitió la **difusión masiva del conocimiento** rompiendo fronteras geográficas a gran escala.
-- **Limitación Pedagógica:** Siguió siendo predominantemente **unidireccional**. El estudiante era un receptor de programas audiovisuales sin interacción en tiempo real con el docente o sus pares.
+- **Fundación de la Open University (1969):** Se crea en el Reino Unido, consolidando la EaD con estatus universitario e introduciendo el modelo de diseño instruccional sistemático, combinando materiales impresos, emisiones de TV y tutorías regionales.
+- **Limitación Pedagógica:** Siguió siendo predominantemente **unidireccional** en sus inicios. El estudiante era un receptor de programas audiovisuales sin interacción fluida sincrónica.
 
 #### 3. Era Telemática y Digital (Fines del Siglo XX - Presente)
 - **Tecnologías:** Fusión de computadoras personalizadas, redes de alta velocidad, bases de datos y la Web.
