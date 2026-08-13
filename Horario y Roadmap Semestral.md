@@ -15,21 +15,21 @@
 
 > [!IMPORTANT]
 > **Consolidado General de Entregas y Tareas — Semestre 2026-2 (6 Materias)**  
-> *Fecha actual de referencia: Sábado, 08 de Agosto de 2026*  
+> *Fecha actual de referencia: Jueves, 13 de Agosto de 2026*  
 > *Nota sobre Cuestionarios:* Las evaluaciones/cuestionarios en SIMA se habilitan el mismo día fijado en la plataforma y se presentan ese mismo día.
 
 | Estado | Día / Fecha Límite | Asignatura | Actividad / Entregable Específico | Destino / Plataforma |
 | :---: | :--- | :--- | :--- | :--- |
 | 🟢 **Subido** | **Completado** | **Metodología** | Protocolo Individual 1 cargado oficialmente en plataforma SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Actividad 1 (Reflexión de Vida) cargada oficialmente en SIMA | Entregado en SIMA |
-| ⏳ **Hoy** | **Sábado 08 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20) | Piedra de Bolívar |
-| 🟡 **Pendiente** | **Martes 11 Ago** | **Inglés I** | Asistencia a clase sincrónica virtual (18:10 – 21:10 hs) | Campus Virtual / SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
-| 🟡 **Pendiente** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Algoritmos (07:00), Cátedra (08:40), Cálculo (10:20) | Piedra de Bolívar |
-| 🚨 **Límite** | **Sábado 15 Ago** | **Cálculo** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:59 hs) |
-| 🚨 **Límite** | **Lunes 17 Ago** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:00 hs) |
-| 🚨 **Límite** | **Miércoles 19 Ago** | **Metodología** | 📝 **Entregable:** Línea de tiempo sobre Historia de la Educación a Distancia | Campus SIMA (23:57 hs) |
+| 🟢 **Hecho** | **Completado** | **Cálculo** | Protocolo Individual Unidad 1 listo para entrega | Archivo local listo |
+| 🟢 **Hecho** | **Completado** | **Metodología** | Línea de tiempo sobre Historia de la Educación a Distancia | Archivo local listo |
+| ⏳ **Próximo** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Algoritmos (07:00), Cátedra (08:40), Cálculo (10:20) | Piedra de Bolívar |
+| 🚨 **Límite** | **Sábado 15 Ago** | **Cálculo** | 📝 **Protocolo Individual Unidad 1** (Carga en SIMA) | Campus SIMA (23:59 hs) |
+| 🚨 **Límite** | **Lunes 17 Ago** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 1** (Se presenta al abrir) | Campus SIMA (23:00 hs) |
+| 🚨 **Límite** | **Miércoles 19 Ago** | **Metodología** | 📝 **Entregable:** Línea de tiempo (Carga en SIMA) | Campus SIMA (23:57 hs) |
 | 🟡 **Pendiente** | **Sábado 22 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20) | Piedra de Bolívar |
 | 🚨 **Límite** | **Lunes 24 Ago** | **Fundamentos** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:59 hs) |
 | 🚨 **Límite** | **Martes 25 Ago** | **Fundamentos** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:59 hs) |
@@ -143,8 +143,8 @@ graph TD
 - [x] **Cátedra (U1):** Actividad 1 (Reflexión de Vida) cargada oficialmente en plataforma SIMA.
 - [x] **Cátedra (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Miércoles 12 Ago, 23:55 hs).
 - [x] **Cátedra (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Jueves 13 Ago, 23:55 hs).
-- [ ] **Cálculo (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Sábado 15 Ago, 23:59 hs).
-- [ ] **Cátedra (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Lunes 17 Ago, 23:00 hs).
+- [x] **Cálculo (U1):** 📝 **Protocolo Individual U1** (Completado y redactado localmente).
+- [ ] **Cátedra (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Lunes 17 Ago, 23:00 hs — Se habilita ese día).
 - [ ] **Metodología (U1):** Los 3 momentos del aprendizaje (Estudio autónomo TAE, CIPAS, Tutoría).
 - [ ] **Algoritmos (U1):** Configuración del entorno de desarrollo Java JDK e IDE.
 - [ ] **Cálculo (U1):** Factorización y racionalización para resolución de límites.
@@ -153,7 +153,7 @@ graph TD
 - [ ] **Sábado 15 (Presencial A):** 🏫 Tutorías de **Algoritmos** (07:00), **Cátedra** (08:40) y **Cálculo** (10:20).
 
 #### 📍 Semana 3: Del 16 al 22 de Agosto (Preparación SÁBADO B)
-- [ ] **Metodología (U1):** 📝 **Entregable:** Línea de tiempo sobre Historia de la Educación a Distancia.
+- [x] **Metodología (U1):** 📝 **Entregable:** Línea de tiempo sobre Historia de la Educación a Distancia (Completada).
 - [ ] **Ing. Software (U1):** Memoria RAM, ROM, memoria caché y almacenamiento.
 - [ ] **Fundamentos (U1):** Notación y clases de conjuntos (Pertenencia e Inclusión).
 - [ ] **Cálculo (U1):** Límites laterales, infinitos y al infinito.
