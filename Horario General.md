@@ -14,27 +14,28 @@ El semestre 2026-2 del programa de Ingeniería de Software (Universidad de Carta
 
 **Tutorías:** `01 Ago` · `15 Ago` · `29 Ago` · `12 Sep` · `26 Sep` · `10 Oct` · `24 Oct` · `07 Nov`
 
-| Hora              | Asignatura                                                                                              | Código       | Docente                     | Ubicación               |
-| :---------------- | :------------------------------------------------------------------------------------------------------ | :----------- | :-------------------------- | :---------------------- |
-| **07:00 – 08:40** | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación Básica]] | `IX24013-A1` | Heybertt Moreno Díaz        | Bloque F · Lab Software |
-| **08:40 – 10:20** | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]]                                  | `FN24014-A1` | Eyvis Lucía Marrugo Batista | Bloque A · Salón 305    |
-| **10:20 – 12:00** | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]]                                        | `CFBD243-A1` | Katherine Paternina Sierra  | Bloque A · Salón 305    |
+| Hora | Asignatura | Código / Grupo | Docente | Ubicación |
+| :--- | :--- | :--- | :--- | :--- |
+| **08:40 – 10:20** | [[Cátedra Institucional/Cátedra Institucional\|Cátedra Institucional]] | `FN24014-A1` | Eyvis Lucía Marrugo Batista | Bloque A · Salón 305 |
+| **10:20 – 12:00** | *(Receso / Estudio Autónomo)* | — | — | — |
+| **12:00 – 13:50** | [[Algoritmos y Programación Básica/Algoritmos y Programación Básica\|Algoritmos y Programación Básica]] | `IX24013-B1` | Heybertt Moreno Díaz | Bloque G · Salón 204 (Lab Inteligencia) |
 
 ### 📘 Sábados B
 
 **Tutorías:** `08 Ago` · `22 Ago` · `05 Sep` · `19 Sep` · `03 Oct` · `17 Oct` · `31 Oct` · `21 Nov`
 
-| Hora | Asignatura | Código | Docente | Ubicación |
+| Hora | Asignatura | Código / Grupo | Docente | Ubicación |
 | :--- | :--- | :--- | :--- | :--- |
 | **07:00 – 08:40** | [[Metodología de la Educación a Distancia/Metodología de la Educación a Distancia\|Metodología Educación a Distancia]] | `FN24015-A1` | Raquel Leottau Díaz | Bloque F · Sala Inf. 2 |
 | **08:40 – 10:20** | [[Introducción a la Ingeniería de Software/Introducción a la Ingeniería de Software\|Introducción a la Ing. de Software]] | `IX24014-A1` | Jhon Carlos Arrieta Arrieta | Bloque A · Salón 301 |
 | **10:20 – 12:00** | [[Fundamentos de Matemáticas/Fundamentos de Matemáticas\|Fundamentos de Matemáticas]] | `CFBD242-A1` | Atilano Arrieta Vivero | Bloque A · Salón 305 |
+| **12:00 – 13:50** | [[Cálculo Diferencial/Cálculo Diferencial\|Cálculo Diferencial]] | `CFBD243-B1` | Katherine Paternina Sierra | Bloque A · Salón 305 |
 
 ---
 
 ## 🗓️ Entre Semana
 
-- **Inglés I (`ENGV001-E2`):** Martes de 18:10 a 21:10 hrs. *(Clase Sincrónica 100% Virtual)*.
+- **Inglés I (`ENGV001-E2`):** Miércoles de 13:50 a 17:10 hrs (1:50 p.m. – 5:10 p.m.). *(Clase Sincrónica 100% Virtual)*.
 
 ---
 

@@ -6,10 +6,10 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
 
 ## Información General
 
-- **Código:** `IX24013-A1`
+- **Código:** `IX24013-B1`
 - **Docente:** Heybertt Moreno Díaz
-- **Horario:** Sábados A · 07:00 – 08:40 hrs.
-- **Ubicación:** Bloque F (Biblioteca), 2.º piso – Laboratorio de Software
+- **Horario:** Sábados A · 12:00 – 13:50 hrs (1:50 p.m.)
+- **Ubicación:** Bloque G, 2.º piso · Salón 204 (Laboratorio de Inteligencia)
 - **Créditos:** 3 (`144h` totales: `16h` presenciales, `20h` asincrónicas, `108h` autónomas)
 
 ## Sistema de Evaluación
