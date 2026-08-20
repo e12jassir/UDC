@@ -1,79 +1,47 @@
-# Protocolo Individual — Unidad 1: Lógica Proposicional y Teoría de Conjuntos
+Protocolo individual
 
-**Asignatura:** Fundamentos de Matemáticas  
-**Código:** `CFBD242-A1`  
-**Estudiante:** Esteban David Marrugo Jassir  
-**Docente:** Atilano Arrieta Vivero  
-**Fecha de Entrega:** Lunes, 24 de Agosto de 2026 (SIMA - 23:59 hs)  
-**Modalidad:** Individual  
+• Nombre: Esteban David Marrugo Jassir
+• Programa: Ingeniería de Software
+• Código: 7502620036
+• Semestre: 1
 
----
+Descripción del texto o actividad a realizar: Este protocolo individual corresponde a la realización del tema «Lógica y Conjuntos» en la asignatura de Fundamentos de Matemáticas, a partir de la lectura y análisis del Módulo de la Unidad 1. La actividad se basa en entender cómo funcionan las proposiciones simples y compuestas, el uso de los conectivos lógicos, el armado de tablas de verdad para identificar tautologías, contradicciones o contingencias, y la forma de definir conjuntos por extensión y comprensión.
 
-## 1. Descripción del Tema de la Unidad
+Palabras claves: Proposición lógica, Conectivos lógicos, Implicación, Bicondicional, Tablas de verdad, Tautología, Contradicción, Contingencia, Relación de pertenencia, Determinación por comprensión.
 
-Esta unidad aborda las bases formales del razonamiento matemático: la **lógica proposicional** y la **teoría intuitiva de conjuntos**. Analicé el concepto de proposición como unidad fundamental que posee un único valor de verdad (verdadero o falso), los operadores lógicos (negación, conjunción, disyunción, condicional y bicondicional), la construcción de tablas de verdad para clasificar fórmulas en tautologías, contradicciones o contingencias, y los métodos de determinación de conjuntos por extensión y comprensión junto a sus relaciones de pertenencia e inclusión.
+Objetivos de las lecturas o actividad a realizar:
+• Comprender la diferencia entre proposiciones simples y compuestas, identificando cuándo un enunciado tiene un valor de verdad claro.
+• Aprender el funcionamiento de los conectivos lógicos y armar tablas de verdad para saber si una fórmula es tautología, contradicción o contingencia.
+• Identificar la relación de pertenencia en conjuntos y aprender a describirlos tanto por extensión como por comprensión.
 
----
+Conceptos claves y definiciones:
+• Proposición: Es un enunciado o afirmación que solo puede ser verdadero o falso. No aplican preguntas ni opiniones porque no tienen un valor de verdad fijo.
+• Conectivos lógicos: Son los símbolos que usamos para unir proposiciones simples y formar condiciones compuestas, como la negación, la conjunción o la disyunción.
+• Implicación (P ⇒ Q): Es una expresión condicional que solo resulta falsa cuando la primera parte es verdadera y la segunda es falsa. En cualquier otro caso da verdadero.
+• Bicondicional (P ⇔ Q): Expresión que solo es verdadera cuando ambas proposiciones tienen el mismo valor de verdad (ambas verdaderas o ambas falsas).
+• Tablas de verdad: Es un cuadro ordenado donde se prueban todas las combinaciones posibles de verdadero y falso para hallar el resultado final de una fórmula.
+• Tautología y Contradicción: Una tautología es una fórmula que da verdadero en todas las filas de la tabla; una contradicción es la que da siempre falso en todas sus combinaciones.
+• Contingencia: Proposición compuesta cuya tabla de verdad arroja al menos un valor verdadero y al menos un valor falso en sus combinaciones posibles, dependiendo de los valores de sus variables de entrada.
+• Relación de pertenencia (x ∈ A): Indica si un elemento forma parte o no de un conjunto determinado.
+• Determinación por comprensión: Es definir un conjunto indicando la propiedad o condición que cumplen sus elementos, en lugar de listar los elementos uno por uno.
 
-## 2. Palabras Clave
+Resumen de la(as) lecturas: En esta unidad vimos dos temas principales: la lógica proposicional y los conjuntos. En la parte de lógica aprendimos qué son las proposiciones, que básicamente son afirmaciones que pueden ser verdaderas o falsas. Por eso, una pregunta o una opinión no se consideran proposiciones, porque no tienen un valor de verdad definido.
 
-*Proposición lógica, Conectivos lógicos, Tautología, Contradicción, Equivalencia lógica, Relación de pertenencia ($x \in A$), Determinación por comprensión, Tablas de verdad.*
+Las proposiciones se pueden representar con letras como P, Q y R. También vimos los conectivos lógicos, entre ellos la negación, la conjunción, la disyunción, la implicación y la doble implicación. La implicación me pareció un poco más complicada, porque solamente es falsa cuando la primera proposición es verdadera y la segunda es falsa.
 
----
+Para trabajar con proposiciones compuestas usamos las tablas de verdad, donde se muestran las diferentes combinaciones de verdadero y falso. Con los resultados podemos saber si una expresión es una tautología, una contradicción o una contingencia, y también vimos que dos expresiones pueden ser equivalentes cuando tienen los mismos resultados.
 
-## 3. Objetivos de Aprendizaje
+En la segunda parte vimos los conjuntos. Un conjunto es un grupo de elementos que tienen alguna característica en común. Para indicar que un elemento pertenece a un conjunto usamos el símbolo ∈. Los conjuntos se pueden representar por extensión, escribiendo sus elementos, o por comprensión, explicando la condición que deben cumplir.
 
-1. Identificar proposiciones simples y compuestas, determinando su valor de verdad mediante el uso riguroso de conectivos lógicos.
-2. Construir tablas de verdad para evaluar la validez de esquemas proposicionales y comprobar equivalencias lógicas.
-3. Describir y manipular conjuntos utilizando notación formal por extensión y comprensión con predicados.
-4. Conectar el rigor de la lógica simbólica con el diseño de condiciones y estructuras de control en ingeniería de software.
+Metodología de trabajo (Cómo realizó la actividad): Primero leí la guía de la Unidad 1 para revisar los temas y entender de qué trataba más o menos. Después estudié los temas con algunos videos de Profe Alex, especialmente la parte de los conectivos lógicos y las tablas de verdad. Cuando terminé de estudiar, hice ejercicios y tomé apuntes en Obsidian que es mi plataforma de notas para tener los conceptos más importantes organizados. Y al final, utilicé NotebookLM para repasar los conceptos y terminar de entender algunas cosas que no me habían quedado claras.
 
----
+Conclusiones de la lectura o actividad: Al terminar esta actividad me di cuenta de que la lógica no es solo teoría para llenar tablas en papel, sino que es la misma base que usamos al momento de programar. Cada condicional o filtro que uno escribe en el código funciona exactamente con estas reglas. Entender bien cómo operan los conectivos, y en especial la implicación, ayuda a razonar de forma más ordenada para no enredarse cuando se arman condiciones complejas. Además, la parte de conjuntos me sirvió para entender cómo se agrupan y filtran datos bajo una condición específica.
 
-## 4. Síntesis y Comprensión del Contenido
+Discusiones y recomendaciones: Durante el estudio de la unidad se evidencia que uno de los puntos más contraintuitivos es la tabla de verdad del condicional (P → Q), ya que en el lenguaje cotidiano solemos asociar la implicación con una relación directa de causa y efecto, mientras que en lógica formal solo evalúa la validez de los valores de verdad (siendo verdadera si el antecedente es falso). Además, pasar de la notación por comprensión a la extensión en conjuntos infinitos o mal definidos puede generar ambigüedades.
+Como recomendación, sugiero profundizar en ejercicios prácticos de simplificación lógica mediante leyes del álgebra de Boole antes de abordar condicionales anidados en programación, y complementar la teoría con el modelado formal de casos de prueba para algoritmos.
 
-### A. Proposiciones y Conectivos Lógicos
-
-Una proposición es un enunciado declarativo que es verdadero ($V$) o falso ($F$), sin ambigüedad. A partir de proposiciones atómicas ($P, Q, R$) construimos proposiciones moleculares mediante conectivos:
-
-1. **Negación ($\neg P$ / $\sim P$):** Invierte el valor de verdad.
-2. **Conjunción ($P \land Q$):** Verdadera únicamente si ambas proposiciones son verdaderas. En programación equivale al operador `&&`.
-3. **Disyunción ($P \lor Q$):** Verdadera si al menos una componente es verdadera; solo es falsa si ambas son falsas (`||`).
-4. **Condicional o Implicación ($P \Rightarrow Q$):** Solo resulta falsa cuando el antecedente ($P$) es verdadero y el consecuente ($Q$) es falso. En cualquier otro caso es verdadera.
-5. **Bicondicional o Doble Implicación ($P \Leftrightarrow Q$):** Verdadera cuando ambas componentes comparten el mismo valor de verdad ($V \Leftrightarrow V$ o $F \Leftrightarrow F$).
-
-### B. Evaluación mediante Tablas de Verdad
-
-Para un esquema con $n$ variables proposicionales, existen $2^n$ combinaciones posibles de valores de verdad. La evaluación final clasifica la proposición en:
-
-* **Tautología:** La última columna es exclusivamente verdadera en todos los casos posibles (ej. $P \lor \neg P$).
-* **Contradicción:** La última columna es falsa en todas las combinaciones (ej. $P \land \neg P$).
-* **Contingencia:** El resultado contiene al menos un valor verdadero y al menos un valor falso.
-
-Dos proposiciones $P$ y $Q$ son **lógicamente equivalentes** ($P \equiv Q$) cuando la fórmula $P \Leftrightarrow Q$ constituye una tautología, lo que significa que poseen tablas de verdad idénticas en todas sus filas.
-
-### C. Fundamentos de la Teoría de Conjuntos
-
-Un conjunto es una colección bien definida de objetos llamados elementos. 
-
-* **Pertenencia vs. Inclusión:** Si $x$ forma parte de $A$, escribimos $x \in A$. Si todos los elementos de un conjunto $B$ están dentro de $A$, se trata de inclusión: $B \subseteq A$.
-* **Formas de descripción:**
-  1. *Por Extensión:* Enumerando explícitamente cada elemento: $A = \{2, 4, 6, 8\}$.
-  2. *Por Comprensión:* Definiendo un predicado $P(x)$ que caracteriza exclusivamente a sus miembros: $A = \{x \in \mathbb{Z} \mid x \text{ es par } \land 1 \le x \le 8\}$.
-
----
-
-## 5. Reflexión y Aplicación Práctica en Ingeniería de Software
-
-Al estudiar esta unidad, lo que más me llamó la atención es cómo la lógica proposicional no es simplemente teoría abstracta, sino el núcleo mismo de la arquitectura del software. En el código que escribimos a diario, cada instrucción condicional (`if`, `while`, filtros booleanos) ejecuta exactamente estas operaciones.
-
-Comprender las leyes de la lógica y las tablas de verdad permite simplificar expresiones booleanas complejas, evitar errores de ejecución por condiciones mal anidadas y optimizar algoritmos. Por ejemplo, entender la implicación lógica ayuda a razonar sobre precondiciones y postcondiciones en funciones y pruebas unitarias. La notación de conjuntos, por su parte, es el lenguaje universal que estructura las bases de datos relacionales y el modelado de datos.
-
----
-
-## 6. Referencias Bibliográficas
-
-- Jiménez René, M. (2018). *Matemáticas 1*. Pearson Educación.
-- Miller, C. D., Heeren, V. E., & Hornsby, J. (2013). *Matemática: Razonamiento y aplicaciones* (12.ª ed.). Pearson Educación.
-- Escudero Trujillo, R. (2016). *Matemáticas básicas*. Pearson Educación.
-- Universidad de Cartagena. (2026). *Módulo de la unidad 1: Fundamentos de matemáticas*. Facultad de Ingeniería.
+Bibliografía:
+• Escudero Trujillo, R. (2016). Matemáticas básicas. Pearson Educación.
+• Jiménez René, M. (2018). Matemáticas 1. Pearson Educación.
+• Miller, C. D., Heeren, V. E., & Hornsby, J. (2013). Matemática: Razonamiento y aplicaciones (12.ª ed.). Pearson Educación.
+• Universidad de Cartagena - CTEV. (2026). Módulo Unidad 1: Lógica y Conjuntos - Fundamentos de Matemáticas. Facultad de Ingeniería. Cartagena, Colombia.

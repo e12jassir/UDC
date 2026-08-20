@@ -81,6 +81,7 @@ Documentos/UDC/
 | **Introducción a la Ing. de Software** | Sábados B (08:40 hs) | Jhon Carlos Arrieta Arrieta | [Nota Principal](Introducción%20a%20la%20Ingeniería%20de%20Software/Introducción%20a%20la%20Ingeniería%20de%20Software.md) · [Cronograma](Introducción%20a%20la%20Ingeniería%20de%20Software/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Introducción%20a%20la%20Ingeniería%20de%20Software/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
 | **Fundamentos de Matemáticas** | Sábados B (10:20 hs) | Atilano Arrieta Vivero | [Nota Principal](Fundamentos%20de%20Matemáticas/Fundamentos%20de%20Matemáticas.md) · [Cronograma](Fundamentos%20de%20Matemáticas/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Fundamentos%20de%20Matemáticas/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
 | **Cálculo Diferencial** | Sábados B (12:00 hs) | Katherine Paternina Sierra | [Nota Principal](Cálculo%20Diferencial/Cálculo%20Diferencial.md) · [Cronograma](Cálculo%20Diferencial/Cronograma%20de%20Actividades.md) | [Rúbrica TCC](Cálculo%20Diferencial/Unidades/Trabajo%20Colaborativo%205/Rúbrica%20TCC.md) |
+| **Inglés I** | Miércoles Virtual (13:50 hs) | Docente Institucional | [Nota Principal](Inglés%20I/Inglés%20I.md) · [Cronograma](Inglés%20I/Cronograma%20de%20Actividades.md) | Transversal Institucional |
 
 ---
 

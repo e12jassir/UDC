@@ -28,13 +28,17 @@
 | 🟢 **Subido** | **Completado** | **Metodología** | Línea de tiempo sobre Historia de la Educación a Distancia cargada oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | 📝 Evaluación Cuestionario Unidad 1 presentado y aprobado en SIMA | Entregado en SIMA |
 | 🏫 **Pasado** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
+| 🟢 **Subido** | **Completado** | **Fundamentos** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
+| 🟢 **Subido** | **Completado** | **Fundamentos** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🏫 **Esta Semana** | **Sábado 22 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
-| ⏳ **Próximo** | **Lunes 24 Ago** | **Fundamentos** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:59 hs) |
-| ⏳ **Próximo** | **Martes 25 Ago** | **Fundamentos** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:59 hs) |
+| ⏳ **Próximo** | **Miércoles 26 Ago** | **Cátedra** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (23:41 hs) |
 | ⏳ **Próximo** | **Miércoles 26 Ago** | **Fundamentos** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
+| ⏳ **Próximo** | **Jueves 27 Ago** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 2** | Campus SIMA (23:42 hs) |
 | 📌 **Cierre Corte** | **Viernes 28 Ago** | **Todas (6)** | 🚨 **Cierre Oficial 1.er Corte Evaluativo (Acumulado 60% en SIMA)** | Campus SIMA |
 | 🏫 **Próximo** | **Sábado 29 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
 | ⏳ **Próximo** | **Domingo 30 Ago** | **Fundamentos** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
+| ⏳ **Próximo** | **Lunes 31 Ago** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:21 hs) |
+| ⏳ **Próximo** | **Lunes 31 Ago** | **Cátedra** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:43 hs) |
 | 📅 **Programado** | **Miércoles 02 Sep** | **Ing. Software** | 📝 **Entregable:** Línea de tiempo de Arquitectura de Computadoras (RISC vs CISC) | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Miércoles 09 Sep** | **Ing. Software** | 📝 **Entregable:** Infografía / Mapa conceptual "Cómo funciona Internet" | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:59 hs) |
