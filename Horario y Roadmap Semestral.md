@@ -31,7 +31,7 @@
 | 🟢 **Subido** | **Completado** | **Fundamentos** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Fundamentos** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
 | 🏫 **Esta Semana** | **Sábado 22 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
-| ⏳ **Próximo** | **Miércoles 26 Ago** | **Cátedra** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (23:41 hs) |
+| 🟢 **Subido** | **Completado** | **Cátedra** | 📝 Protocolo Individual Unidad 2 cargado oficialmente en SIMA | Entregado en SIMA |
 | ⏳ **Próximo** | **Miércoles 26 Ago** | **Fundamentos** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
 | ⏳ **Próximo** | **Jueves 27 Ago** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 2** | Campus SIMA (23:42 hs) |
 | 📌 **Cierre Corte** | **Viernes 28 Ago** | **Todas (6)** | 🚨 **Cierre Oficial 1.er Corte Evaluativo (Acumulado 60% en SIMA)** | Campus SIMA |

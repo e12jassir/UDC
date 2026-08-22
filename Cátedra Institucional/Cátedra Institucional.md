@@ -46,12 +46,17 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** 13 de Agosto de 2026 (23:55 hrs)
   - **Formato:** DOCX / PDF
+- **Protocolo Individual Unidad 2**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Cierre de Entrega:** 26 de Agosto de 2026 (23:41 hrs)
+  - **Formato:** PDF / DOCX
 
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** [[Unidades/Unidad 1/Actividad 1 - Reflexión de Vida|Actividad 1 — Reflexión de Vida]] redactada y subida oficialmente a SIMA.
 - [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
 - [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
+- [x] **Unidad 2:** Protocolo Individual Unidad 2 redactado y subido oficialmente a SIMA.
 - [ ] **Unidad 2:** Lectura de Crecimiento Personal y Autoestima.
 
 ## Cómo Estudiar la Asignatura
