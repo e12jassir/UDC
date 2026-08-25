@@ -46,18 +46,33 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** 13 de Agosto de 2026 (23:55 hrs)
   - **Formato:** DOCX / PDF
-- **Protocolo Individual Unidad 2**
+- [[Entregables/Protocolo Individual 2 - Catedra|Protocolo Individual Unidad 2]]
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** 26 de Agosto de 2026 (23:41 hrs)
   - **Formato:** PDF / DOCX
+- [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]]
+  - **Estado:** 📝 **Listo para entregar en SIMA**
+  - **Cierre de Entrega:** Jueves, 27 de Agosto de 2026 (23:42 hs)
+  - **Formato:** Markdown / PDF
+- **Evaluación Cuestionario Unidad 2**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Cuestionario:** Lunes, 31 de Agosto de 2026 (23:21 hs)
+  - **Plataforma:** Campus Virtual SIMA
+- [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2 — Crecimiento Personal]]
+  - **Estado:** 📝 **Listo para entregar en SIMA**
+  - **Cierre de Entrega:** Lunes, 31 de Agosto de 2026 (23:43 hs)
+  - **Formato:** Markdown / PDF
 
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** [[Unidades/Unidad 1/Actividad 1 - Reflexión de Vida|Actividad 1 — Reflexión de Vida]] redactada y subida oficialmente a SIMA.
 - [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
 - [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
-- [x] **Unidad 2:** Protocolo Individual Unidad 2 redactado y subido oficialmente a SIMA.
-- [ ] **Unidad 2:** Lectura de Crecimiento Personal y Autoestima.
+- [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada en SIMA.
+- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Catedra|Protocolo Individual Unidad 2]] redactado y subido oficialmente a SIMA.
+- [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]] redactado en CIPAS y listo para entrega en SIMA (Vence Jueves 27 Ago, 23:42 hs).
+- [x] **Unidad 2:** [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2]] redactada y lista para entrega en SIMA (Vence Lunes 31 Ago, 23:43 hs).
+- [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Lunes 31 Ago, 23:21 hs).
 
 ## Cómo Estudiar la Asignatura
 

@@ -32,6 +32,33 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
 - **Unidad 7:** Arreglos Unidimensionales (Vectores)
 - **Unidad 8:** Arreglos Multidimensionales (Matrices)
 
+## Entregas y Actividades Destacadas
+
+- **Protocolo Individual Unidad 1**
+  - **Estado:** 📅 **Programado en SIMA**
+  - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
+  - **Formato:** DOCX / PDF
+- **Protocolo Colaborativo Unidad 1**
+  - **Estado:** 📅 **Programado en SIMA**
+  - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
+  - **Formato:** DOCX / PDF
+- **Actividad de la Unidad 1**
+  - **Estado:** 📅 **Programado en SIMA**
+  - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
+  - **Formato:** PDF / Archivo comprimido con código fuente
+- **Evaluación Cuestionario Unidad 1**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Cuestionario:** Domingo, 20 de Septiembre de 2026 (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
+
+## Estado de Avances del Semestre
+
+- [x] **Unidad 1:** Asistencia a primera tutoría presencial Sábado A (15 Ago).
+- [ ] **Unidad 1:** Redactar Protocolo Individual Unidad 1 (Vence Jueves 10 Sep, 23:59 hs).
+- [ ] **Unidad 1:** Consolidar Protocolo Colaborativo Unidad 1 en CIPAS (Vence Jueves 10 Sep, 23:59 hs).
+- [ ] **Unidad 1:** Resolver y cargar Actividad de la Unidad 1 (Vence Martes 15 Sep, 23:59 hs).
+- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Domingo 20 Sep, 23:59 hs).
+
 ## Cómo Estudiar la Asignatura
 
 - **Pseudocódigo Primero:** escribir en español los pasos del algoritmo antes de codificar en el IDE.

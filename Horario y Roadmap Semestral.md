@@ -15,7 +15,7 @@
 
 > [!IMPORTANT]
 > **Consolidado General de Entregas y Tareas — Semestre 2026-2 (6 Materias)**  
-> *Fecha actual de referencia: Lunes, 17 de Agosto de 2026*  
+> *Fecha actual de referencia: Lunes, 24 de Agosto de 2026*  
 > *Nota sobre Cuestionarios:* Las evaluaciones/cuestionarios en SIMA se habilitan el mismo día fijado en la plataforma y se presentan ese mismo día.
 
 | Estado | Día / Fecha Límite | Asignatura | Actividad / Entregable Específico | Destino / Plataforma |
@@ -28,9 +28,9 @@
 | 🟢 **Subido** | **Completado** | **Metodología** | Línea de tiempo sobre Historia de la Educación a Distancia cargada oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Cátedra** | 📝 Evaluación Cuestionario Unidad 1 presentado y aprobado en SIMA | Entregado en SIMA |
 | 🏫 **Pasado** | **Sábado 15 Ago** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
-| 🟢 **Subido** | **Completado** | **Fundamentos** | Protocolo Individual Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
+| 🟢 **Subido** | **Completado (4.10)** | **Fundamentos** | Protocolo Individual Unidad 1 calificado oficialmente en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Fundamentos** | Protocolo Colaborativo Unidad 1 cargado oficialmente en SIMA | Entregado en SIMA |
-| 🏫 **Esta Semana** | **Sábado 22 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
+| 🏫 **Pasado** | **Sábado 22 Ago** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
 | 🟢 **Subido** | **Completado** | **Cátedra** | 📝 Protocolo Individual Unidad 2 cargado oficialmente en SIMA | Entregado en SIMA |
 | ⏳ **Próximo** | **Miércoles 26 Ago** | **Fundamentos** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
 | ⏳ **Próximo** | **Jueves 27 Ago** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 2** | Campus SIMA (23:42 hs) |
@@ -39,11 +39,13 @@
 | ⏳ **Próximo** | **Domingo 30 Ago** | **Fundamentos** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
 | ⏳ **Próximo** | **Lunes 31 Ago** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:21 hs) |
 | ⏳ **Próximo** | **Lunes 31 Ago** | **Cátedra** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:43 hs) |
-| 📅 **Programado** | **Miércoles 02 Sep** | **Ing. Software** | 📝 **Entregable:** Línea de tiempo de Arquitectura de Computadoras (RISC vs CISC) | Campus SIMA (23:57 hs) |
-| 📅 **Programado** | **Miércoles 09 Sep** | **Ing. Software** | 📝 **Entregable:** Infografía / Mapa conceptual "Cómo funciona Internet" | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Jueves 03 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Sábado 05 Sep** | **Cálculo** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
+| 🏫 **Programado** | **Sábado 05 Sep** | **Presencial B** | 🏫 **Tutorías Sábados B**: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
 | 📅 **Programado** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Viernes 11 Sep** | **Cálculo** | 📝 **Taller Unidad 2:** Continuidad en un intervalo y Teorema de Valor Intermedio | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Sábado 12 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
+| 🏫 **Programado** | **Sábado 12 Sep** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
 | 📅 **Programado** | **Martes 15 Sep** | **Algoritmos** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Viernes 18 Sep** | **Ing. Software** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Viernes 18 Sep** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:57 hs) |
@@ -165,12 +167,14 @@ graph TD
 - [ ] **Cálculo (U1):** Límites laterales, infinitos y al infinito.
 - [ ] **Algoritmos (U1):** Estructuras secuenciales y tipos de datos primitivos en Java.
 - [ ] **Cátedra (U1):** Proyecto de Vida inicial e historia de la Universidad de Cartagena.
-- [ ] **Sábado 22 (Presencial B):** 🏫 Tutorías de **Metodología** (07:00), **Ing. Software** (08:40), **Fundamentos** (10:20) y **Cálculo** (12:00).
+- [x] **Sábado 22 (Presencial B):** 🏫 Tutorías de **Metodología** (07:00), **Ing. Software** (08:40), **Fundamentos** (10:20) y **Cálculo** (12:00).
 
 #### 📍 Semana 4: Del 23 al 29 de Agosto (Cierre 1.er Corte Evaluativo)
-- [ ] **Fundamentos (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Lunes 24 Ago, 23:59 hs).
-- [ ] **Fundamentos (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Martes 25 Ago, 23:59 hs).
+- [x] **Fundamentos (U1):** 📝 **Protocolo Individual U1** (Cargado oficialmente en SIMA).
+- [x] **Fundamentos (U1):** 📝 **Protocolo Colaborativo U1** (Cargado oficialmente en SIMA).
+- [x] **Cátedra (U2):** 📝 **Protocolo Individual U2** (Cargado oficialmente en SIMA).
 - [ ] **Fundamentos (U1):** 📝 **Actividad de la Unidad 1** (Plazo SIMA: Miércoles 26 Ago, 23:59 hs).
+- [ ] **Cátedra (U2):** 📝 **Protocolo Colaborativo U2** (Plazo SIMA: Jueves 27 Ago, 23:42 hs).
 - [ ] **Fundamentos (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Domingo 30 Ago, 23:59 hs).
 - [ ] **Algoritmos (U1):** Estructuras condicionales (`if-else` y `switch`) en Java.
 - [ ] **Cálculo (U1):** Asíntotas verticales y horizontales de una función.
@@ -184,19 +188,23 @@ graph TD
 ### 🟡 UNIDAD 2: Modelos Pedagógicos y Herramientas Técnicas (Semanas 5 a 8: Del 30 Ago al 26 Sep)
 
 #### 📍 Semana 5: Del 30 Ago al 05 de Septiembre (Preparación SÁBADO B)
-- [ ] **Ing. Software (U2):** 📝 **Entregable:** Línea de tiempo de Arquitectura de Computadoras (RISC vs CISC).
+- [ ] **Cátedra (U2):** 📝 **Evaluación Cuestionario U2** (Plazo SIMA: Lunes 31 Ago, 23:21 hs).
+- [ ] **Cátedra (U2):** 📝 **Actividad de la Unidad 2** (Plazo SIMA: Lunes 31 Ago, 23:43 hs).
+- [ ] **Metodología (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Jueves 03 Sep, 23:59 hs).
+- [ ] **Cálculo (U1):** 📝 **Actividad de la Unidad 1** (Plazo SIMA: Sábado 05 Sep, 23:59 hs).
+- [ ] **Ing. Software (U2):** Línea de tiempo de Arquitectura de Computadoras (RISC vs CISC).
 - [ ] **Fundamentos (U2):** Expresiones algebraicas, polinomios y productos notables.
 - [ ] **Metodología (U2):** Estrategias de "Aprender a aprender" en entornos a distancia.
 - [ ] **Cátedra (U2):** Crecimiento personal, autoconocimiento y autoestima.
 - [ ] **Cálculo (U2):** Concepto de continuidad de una función en un punto.
 - [ ] **Algoritmos (U2):** Variables, operadores aritméticos y lógicos en Java.
-- [ ] **Sábado 05 (Presencial B):** 🏫 Tutorías de **Metodología**, **Ing. Software**, **Fundamentos** y **Cálculo**.
+- [ ] **Sábado 05 (Presencial B):** 🏫 Tutorías de **Metodología** (07:00), **Ing. Software** (08:40), **Fundamentos** (10:20) y **Cálculo** (12:00).
 
 #### 📍 Semana 6: Del 06 al 12 de Septiembre (Preparación SÁBADO A)
-- [ ] **Ing. Software (U2):** 📝 **Entregable:** Infografía / Mapa conceptual "Cómo funciona Internet".
 - [ ] **Algoritmos (U1):** 📝 **Protocolo Individual U1** (Plazo SIMA: Jueves 10 Sep, 23:59 hs).
 - [ ] **Algoritmos (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Jueves 10 Sep, 23:59 hs).
-- [ ] **Cálculo (U2):** 📝 **Taller Unidad 2:** Continuidad en un intervalo y Teorema del Valor Intermedio.
+- [ ] **Cálculo (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Sábado 12 Sep, 23:59 hs).
+- [ ] **Ing. Software (U2):** Infografía / Mapa conceptual "Cómo funciona Internet".
 - [ ] **Fundamentos (U2):** Factorización de polinomios (Casos I al X).
 - [ ] **Cátedra (U2):** Desarrollo personal y proyección de metas universitarias.
 - [ ] **Metodología (U2):** Calidad de la enseñanza a distancia y modelos constructivistas.
@@ -204,11 +212,11 @@ graph TD
 - [ ] **Sábado 12 (Presencial A):** 🏫 Tutorías de **Cátedra** (08:40) y **Algoritmos** (12:00).
 
 #### 📍 Semana 7 & 8: Del 13 al 26 de Septiembre (Cierre 2.º Corte Evaluativo)
-- [ ] **Metodología (U2):** Manejo avanzado y prácticas en el Campus Virtual SIMA.
 - [ ] **Algoritmos (U1):** 📝 **Actividad de la Unidad 1** (Plazo SIMA: Martes 15 Sep, 23:59 hs).
 - [ ] **Ing. Software (U1):** 📝 **Actividad de la Unidad 1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
 - [ ] **Ing. Software (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
 - [ ] **Algoritmos (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Domingo 20 Sep, 23:59 hs).
+- [ ] **Metodología (U2):** Manejo avanzado y prácticas en el Campus Virtual SIMA.
 - [ ] **Ing. Software (U2):** Sistema de Nombres de Dominio (DNS) y funcionamiento de servidores Web.
 - [ ] **Cálculo (U2):** Definición de la Derivada como límite del cociente incremental.
 - [ ] **Algoritmos (U2):** Estructuras de control cíclicas (`while`, `do-while`, `for`) en Java.

@@ -32,6 +32,33 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
 - **Unidad 7:** Conceptos Básicos de Trigonometría I (Razones, círculo unitario, identidades, ecuaciones)
 - **Unidad 8:** Conceptos Básicos de Trigonometría II (Ecuaciones de cónicas: parábola, circunferencia, elipse, hipérbola)
 
+## Entregas y Actividades Destacadas
+
+- [[Entregables/Protocolo Individual 1 - Fundamentos|Protocolo Individual Unidad 1]]
+  - **Estado:** 🟢 **Calificado en SIMA (Nota: 4,10 / 5,00)**
+  - **Fecha de Entrega:** 18 de Agosto de 2026 (Enviado con 6 días de anticipación)
+  - **Docente:** Atilano Arrieta Vivero
+  - **Formato:** PDF
+- [[Entregables/Protocolo Colaborativo 1 - Fundamentos|Protocolo Colaborativo Unidad 1]]
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Formato:** Markdown / PDF
+- [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1 — Taller de Lógica Matemática y Razonamiento]]
+  - **Estado:** 📝 **Listo para entregar en SIMA**
+  - **Cierre de Entrega:** Miércoles, 26 de Agosto de 2026 (23:59 hs)
+  - **Formato:** Markdown / PDF
+- **Evaluación Cuestionario Unidad 1**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Cuestionario:** Domingo, 30 de Agosto de 2026 (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
+
+## Estado de Avances del Semestre
+
+- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
+- [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
+- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1]] redactada y lista para entrega en SIMA.
+- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Domingo 30 Ago, 23:59 hs).
+- [ ] **Unidad 2:** Lectura de teoría de conjuntos y operaciones algebraicas.
+
 ## Cómo Estudiar la Asignatura
 
 - **El Concepto de Función es el Eje:** comprender a fondo el dominio, rango y gráfica de funciones antes de avanzar.

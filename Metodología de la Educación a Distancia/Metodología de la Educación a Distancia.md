@@ -21,11 +21,26 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 | **Evaluaciones de Unidades** | 20% | Cuestionarios temáticos en línea en SIMA |
 | **Evaluación Final** | 40% | Examen escrito/presencial del modelo metodológico |
 
+## Entregas y Actividades Destacadas
+
+- [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual Unidad 1]]
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Formato:** Markdown / PDF
+- **Línea de Tiempo — Historia de la Educación a Distancia (Unidad 1)**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Formato:** PDF
+- **Evaluación Cuestionario Unidad 1**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Cuestionario:** Jueves, 03 de Septiembre de 2026 (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
+
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** Lectura del Módulo + [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
-- [ ] **Unidad 1:** Trabajo colaborativo CIPAS (Protocolo Colaborativo).
-- [ ] **Unidad 1:** Tutoría sincrónica Sábado B.
+- [x] **Unidad 1:** Línea de tiempo sobre Historia de la Educación a Distancia elaborada y subida a SIMA.
+- [x] **Unidad 1:** Tutorías presenciales Sábados B (08 Ago y 22 Ago) asistidas.
+- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Jueves 03 Sep, 23:59 hs).
+- [ ] **Unidad 2:** Lectura de historia, evolución y modelos de la educación a distancia.
 
 ## Contenido del Curso
 
