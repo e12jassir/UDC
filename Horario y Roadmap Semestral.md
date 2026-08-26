@@ -173,8 +173,8 @@ graph TD
 - [x] **Fundamentos (U1):** 📝 **Protocolo Individual U1** (Cargado oficialmente en SIMA).
 - [x] **Fundamentos (U1):** 📝 **Protocolo Colaborativo U1** (Cargado oficialmente en SIMA).
 - [x] **Cátedra (U2):** 📝 **Protocolo Individual U2** (Cargado oficialmente en SIMA).
-- [ ] **Fundamentos (U1):** 📝 **Actividad de la Unidad 1** (Plazo SIMA: Miércoles 26 Ago, 23:59 hs).
-- [ ] **Cátedra (U2):** 📝 **Protocolo Colaborativo U2** (Plazo SIMA: Jueves 27 Ago, 23:42 hs).
+- [x] **Fundamentos (U1):** 📝 **Actividad de la Unidad 1** (Cargada en SIMA).
+- [x] **Cátedra (U2):** 📝 **Protocolo Colaborativo U2** (Cargado en SIMA).
 - [ ] **Fundamentos (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Domingo 30 Ago, 23:59 hs).
 - [ ] **Algoritmos (U1):** Estructuras condicionales (`if-else` y `switch`) en Java.
 - [ ] **Cálculo (U1):** Asíntotas verticales y horizontales de una función.
