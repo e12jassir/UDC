@@ -41,8 +41,8 @@
 | 🟢 **Subido** | **Completado** | **Cátedra** | 📝 Actividad de la Unidad 2 cargada en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Completado** | **Metodología** | 📝 Evaluación Cuestionario Unidad 1 presentado en SIMA | Entregado en SIMA |
 | 🏫 **Pasado** | **Sábado 05 Sep** | **Presencial B** | 🏫 Tutorías Sábados B: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
-| ⏳ **Próximo** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Individual Unidad 3** (Listo para entrega) | Campus SIMA (15:50 hs ⚠️) |
-| ⏳ **Próximo** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 3** (Listo para entrega) | Campus SIMA (15:50 hs ⚠️) |
+| 🟢 **Subido** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Individual Unidad 3** cargado en SIMA | Entregado en SIMA |
+| 🟢 **Subido** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 3** cargado en SIMA | Entregado en SIMA |
 | ⏳ **Próximo** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** (Listo para entrega) | Campus SIMA (23:59 hs) |
 | ⏳ **Próximo** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 1** (Listo para entrega) | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Viernes 11 Sep** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:21 hs) |
@@ -211,8 +211,8 @@ graph TD
 - [x] **Sábado 05 (Presencial B):** 🏫 Tutorías de **Metodología** (07:00), **Ing. Software** (08:40), **Fundamentos** (10:20) y **Cálculo** (12:00).
 
 #### 📍 Semana 6: Del 06 al 12 de Septiembre (Preparación SÁBADO A)
-- [x] **Cátedra (U3):** 📝 **Protocolo Individual U3** (Redactado y listo para entrega en SIMA - Vence Mié 09 Sep, 15:50 hs ⚠️).
-- [x] **Cátedra (U3):** 📝 **Protocolo Colaborativo U3** (Consolidado en CIPAS y listo para entrega en SIMA - Vence Mié 09 Sep, 15:50 hs ⚠️).
+- [x] **Cátedra (U3):** 📝 **Protocolo Individual U3** (Cargado oficialmente en SIMA).
+- [x] **Cátedra (U3):** 📝 **Protocolo Colaborativo U3** (Cargado oficialmente en SIMA).
 - [x] **Algoritmos (U1):** 📝 **Protocolo Individual U1** (Redactado y listo para entrega en SIMA - Vence Jueves 10 Sep, 23:59 hs).
 - [x] **Algoritmos (U1):** 📝 **Protocolo Colaborativo U1** (Consolidado en CIPAS y listo para entrega en SIMA - Vence Jueves 10 Sep, 23:59 hs).
 - [ ] **Cátedra (U3):** 📝 **Evaluación Cuestionario U3** (Plazo SIMA: Viernes 11 Sep, 23:21 hs).

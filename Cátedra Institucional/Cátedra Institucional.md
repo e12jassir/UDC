@@ -63,11 +63,11 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Cierre de Entrega:** Lunes, 31 de Agosto de 2026 (23:43 hs)
   - **Formato:** Markdown / PDF
 - [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]]
-  - **Estado:** 📝 **Redactado y listo para entregar**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs ⚠️)
   - **Formato:** Markdown / PDF
 - [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]]
-  - **Estado:** 📝 **Consolidado en CIPAS y listo para entregar**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs)
   - **Formato:** Markdown / PDF
 - **Evaluación Cuestionario Unidad 3**
@@ -89,8 +89,8 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 - [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]] redactado en CIPAS y listo para entrega en SIMA (Vence Jueves 27 Ago, 23:42 hs).
 - [x] **Unidad 2:** [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2]] redactada y subida oficialmente a SIMA.
 - [x] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Lunes 31 Ago, 23:21 hs).
-- [x] **Unidad 3:** [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]] redactado y listo para entrega en SIMA (Vence Mié 09 Sep, 15:50 hs).
-- [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y listo para entrega en SIMA.
+- [x] **Unidad 3:** [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]] redactado y subido oficialmente a SIMA.
+- [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y subido oficialmente a SIMA.
 - [ ] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA (Viernes 11 Sep, 23:21 hs).
 - [ ] **Unidad 3:** Resolver y subir Actividad de la Unidad 3 (Vence Viernes 11 Sep, 23:41 hs).
 
