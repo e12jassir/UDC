@@ -12,43 +12,40 @@
 
 ## 📌 Diagnóstico de los Principales Problemas de Comunicación
 
-La comunicación no es simplemente emitir datos en una sola dirección; es un proceso vivo donde dos o más personas interactúan, interpretan y se retroalimentan. Cuando fallan los canales, la empatía o la claridad, el mensaje se distorsiona y surgen los roces. A partir de los conceptos analizados en la guía sobre habilidades sociales, asertividad y manejo de conflictos, desarrollo a continuación mi análisis dividido en el plano social y en mi experiencia personal.
+La comunicación no es simplemente emitir datos en una sola dirección; es un proceso donde dos o más personas interactúan, interpretan y se retroalimentan. Cuando fallan los canales, la empatía o la claridad, el mensaje se distorsiona y surgen los roces. A partir de los conceptos analizados en la guía sobre habilidades sociales, asertividad y manejo de conflictos, desarrollo mi análisis dividido en el plano de la sociedad actual y en mi propia experiencia personal.
 
 ---
 
 ### 1. En la sociedad actual
 
-Observo tres dificultades centrales que entorpecen la convivencia cotidiana:
+Veo tres dificultades puntuales que dañan la convivencia y el entendimiento entre las personas:
 
-#### A. La trampa de la inmediatez y el fin de la escucha activa
-Hoy se responde en automático. Muy poca gente escucha para comprender; la mayoría solo espera su turno para hablar o contraatacar. Este ritmo acelerado, alimentado por la mensajería instantánea y las redes sociales, premia la reacción rápida antes que la reflexión. Nos cuesta tolerar el silencio, interrumpimos al interlocutor antes de que cierre su idea y sacamos conclusiones apresuradas. El diálogo real desaparece cuando nadie tiene la paciencia de escuchar al otro hasta el final.
+#### A. La prisa por responder y la falta de escucha real
+La verdad es que hoy en día muy poca gente te escucha de verdad. La mayoría solo te oye por encima, esperando su turno para hablar sin entender realmente lo que estás diciendo. Esto viene impulsado en gran parte por las redes sociales y aplicaciones como WhatsApp, donde se premia responder rápido antes que procesar el mensaje con calma. Casi nunca nos detenemos a reflexionar sobre lo que la otra persona siente o necesita expresar. Y muchas veces también caemos en el error de interrumpir antes de que el otro termine de redondear su idea. Al final, el diálogo real desaparece cuando nadie tiene la paciencia de escuchar a su interlocutor hasta el final.
 
-#### B. La pérdida de los matices no verbales en el entorno digital
-La guía de la unidad señala con acierto que los gestos, la mirada, el tono de voz y la postura corporal transmiten tanto o más que las palabras mismas. Al trasladar casi todas nuestras conversaciones a textos planos de WhatsApp o correos breves, amputamos esa riqueza no verbal. Un mensaje escueto puede interpretarse como hostilidad, una broma puede sonar a sarcasmo ofensivo y un desacuerdo normal escala a discusión por falta de tono humano. Vivimos hiperconectados, pero nos cuesta cada vez más sostener conversaciones presenciales cara a cara sin mirar el celular de reojo.
+#### B. La pérdida de los matices no verbales en las pantallas
+En los entornos digitales es muy difícil captar con qué intención viene un mensaje. En una pantalla se pierden elementos decisivos de la comunicación humana: los gestos, la mirada y la postura corporal. Sin esas señales, un mismo texto se puede interpretar de mil maneras según el estado de ánimo de quien lo lea. Una ironía inocente puede sonar ofensiva y un mensaje corto o directo suena frío, dando a entender que no hay interés en hablar. Vivimos pegados a las pantallas, pero nos cuesta sostener conversaciones presenciales sin desviar la mirada al teléfono cada dos minutos.
 
-#### C. Polarización y oscilación entre pasividad y agresividad
-Falta asertividad en los espacios públicos y de debate. Muchas personas caen en uno de dos extremos: o se callan por miedo al conflicto acumulando resentimiento (estilo pasivo), o imponen sus opiniones atacando la dignidad de quien piensa distinto (estilo agresivo). Se ha perdido la noción de que disentir no convierte al otro en enemigo. Defender un punto de vista con respeto y escuchar una postura contraria sin ofenderse parece una rareza, cuando debería ser el estándar básico de cualquier comunidad.
+#### C. La polarización entre la pasividad y la agresividad
+Falta un equilibrio asertivo en las relaciones cotidianas. Por un lado, están las personas que se callan absolutamente todo por no incomodar, por miedo a generar una discusión o simplemente por encajar con el grupo (estilo pasivo). Por el otro, están quienes hacen todo lo contrario: no respetan la postura ajena, imponen sus creencias a la fuerza y descalifican al que piensa distinto (estilo agresivo). Esto empobrece cualquier debate. Tener criterio propio y expresar lo que pensamos es fundamental, pero siempre manteniendo el respeto por la dignidad del otro. Disentir no tiene por qué ser pelear.
 
 ---
 
 ### 2. En usted (Autodiagnóstico personal)
 
-Al mirarme al espejo con honestidad desde mi rol como estudiante de Ingeniería de Software, reconozco tres trabas comunicativas concretas:
+Mirándome con honestidad en mi día a día como estudiante de Ingeniería de Software, identifico tres problemas concretos en los que debo trabajar:
 
-#### A. La tendencia a sobre-explicar y asumir contexto técnico
-Al estar metido de lleno en la lógica del código, arquitecturas y herramientas como Obsidian o Linux, a veces caigo en el error de dar por sentado que mi interlocutor maneja los mismos conceptos o el mismo ritmo mental. Tiendo a usar términos demasiado técnicos o a sobrecargar de detalles innecesarios explicaciones que deberían ser simples. Me falta desarrollar mayor flexibilidad para adaptar el vocabulario al contexto de la otra persona, asegurándome de que el fondo del mensaje llegue sin confundir.
+#### A. Vocabulario sobrecargado y asunción de contexto técnico
+Al tener ya un recorrido práctico en el mundo del software y la tecnología, he desarrollado un vocabulario muy técnico. Eso no está mal en sí mismo, pero a veces olvido que quienes me rodean no manejan ese mismo dialecto. Tiendo a usar términos especializados o a sobre-explicar las cosas de más, cuando en realidad lo que necesito es transmitir la idea de forma clara, directa y sencilla para que el mensaje llegue sin fricción ni rodeos a cualquiera.
 
-#### B. Atención dividida y desconexión por multitarea
-Cuando estoy programando o resolviendo un problema académico en la computadora y alguien me habla, me cuesta cortar el flujo de trabajo de golpe. A menudo respondo con monosílabos mientras sigo mirando la pantalla. Aunque mi intención no sea ignorar a la persona, mi lenguaje corporal transmite desinterés o impaciencia. Sé que mirar a los ojos y pausar lo que estoy haciendo es una muestra elemental de respeto y presencia que necesito convertir en un hábito fijo.
+#### B. Atención dividida y desconexión visual al trabajar
+Cuando estoy concentrado estudiando o avanzando en mis proyectos de código en la computadora, me cuesta un montón soltar el flujo de trabajo en el momento en que alguien me habla. Suelo contestar con monosílabos mientras sigo con la mirada fija en el monitor. Aunque mi intención nunca sea ignorar a la persona, mi lenguaje corporal transmite desinterés o impaciencia, y he tenido malentendidos por esa razón. La solución que debo aplicar es clara: pausar conscientemente lo que estoy haciendo, despegar la vista de la pantalla y mirar a los ojos al otro. Es una muestra básica de respeto que demuestra que de verdad me importa lo que me está diciendo.
 
-#### C. Dificultad para ejercer el derecho a decir "NO" a tiempo
-Uno de los derechos asertivos fundamentales que revisamos en la unidad es el derecho a decir "no" sin culpa para proteger nuestras prioridades y descanso. En mi caso, por querer colaborar con los compañeros de CIPAS o abarcar más compromisos de los que mi horario permite, a veces acepto tareas de más. Esa falta de límite inicial después me genera sobrecarga y estrés innecesario. Aprender a comunicar una negativa con educación, claridad y sin rodeos es un área donde debo seguir madurando.
+#### C. La dificultad para decir "NO" por pena o complacencia
+Este es uno de los puntos que más me cuesta. Me pasa muy seguido que me piden favores o tareas que no están a mi alcance o que realmente no quiero asumir en ese momento, y por pura pena termino diciendo que sí. Esa falta de límite termina jugándome en contra porque me sobrecargo de trabajo y me desgasto. Como vimos en la guía al estudiar los derechos asertivos, tenemos el derecho a decir "no" sin sentir culpa ni sentir que le fallamos a alguien. Necesito ejercitar esa firmeza con criterio propio: aprender a negarme con educación y amabilidad cuando no pueda o no deba comprometerme.
 
 ---
 
-### 3. Conclusión y Plan de Mejora
+### 3. Conclusión y Compromiso de Mejora
 
-Reconocer estas fallas no tiene sentido si queda en papel mojado. Mejorar mi comunicación requiere dos acciones puntuales:
-
-1. **Presencia deliberada:** Soltar teclado y pantalla cuando interactúo con alguien, aplicando escucha activa antes de formular una respuesta.
-2. **Claridad asertiva:** Expresar acuerdos, dudas y límites con tranquilidad y respeto, tanto en las tutorías universitarias como en el trabajo colaborativo de grupo.
+Hacer este ejercicio me deja en claro que las habilidades sociales no son un adorno teórico; son herramientas prácticas de supervivencia académica y profesional. Como futuro ingeniero de software, mi éxito no dependerá únicamente de qué tan bien programe o resuelva algoritmos, sino de mi capacidad para escuchar a mi equipo, explicar conceptos sin soberbia y comunicarme con asertividad y presencia real.
