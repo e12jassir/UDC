@@ -25,6 +25,13 @@ Inglés I es una asignatura transversal de formación institucional orientada al
 | **Unidad 3** | **Sem. 9 – 12** | Likes and Dislikes, Sports, Family, Daily Routines (Simple Present) | 📝 **Unit 3 Assessment** (Semana 12) |
 | **Unidad 4** | **Sem. 13 – 16** | Describing People Appearance, Present Progressive, At the Airport | 📝 **Unit 4 Assessment** (Semana 15)<br>🗣️ **Speaking Final Evaluation** (Semana 16) |
 
+## Entregables y Actividades Destacadas
+
+- [[Entregables/Guion_Video_Conversacion_Ingles_I|Guion de Video de Conversación (Unidad 1)]]
+  - **Estado:** 📝 **Guion redactado y listo para grabación**
+  - **Requerimiento:** Video de 2 a 3 minutos presentando personas en el vecindario con verbo *to be*, preguntas Wh- y formas afirmativas/negativas.
+  - **Formato:** Video / Producción oral
+
 ---
 
 ## 🧭 Cronograma Detallado y Enlaces

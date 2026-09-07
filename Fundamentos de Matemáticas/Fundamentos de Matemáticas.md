@@ -47,16 +47,16 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
   - **Cierre de Entrega:** Miércoles, 26 de Agosto de 2026 (23:59 hs)
   - **Formato:** Markdown / PDF
 - **Evaluación Cuestionario Unidad 1**
-  - **Estado:** ⏳ **Programado en SIMA**
+  - **Estado:** 🟢 **Aprobado en SIMA (Nota: 5,00 / 5,00)**
   - **Cierre de Cuestionario:** Domingo, 30 de Agosto de 2026 (23:59 hs)
   - **Plataforma:** Campus Virtual SIMA
 
 ## Estado de Avances del Semestre
 
-- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
+- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA (Nota: 4,10 / 5,00).
 - [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
-- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1]] redactada y lista para entrega en SIMA.
-- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Domingo 30 Ago, 23:59 hs).
+- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1]] redactada y subida a SIMA.
+- [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada en SIMA (Nota: 5,00 / 5,00).
 - [ ] **Unidad 2:** Lectura de teoría de conjuntos y operaciones algebraicas.
 
 ## Cómo Estudiar la Asignatura

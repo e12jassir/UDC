@@ -51,17 +51,33 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Cierre de Entrega:** 26 de Agosto de 2026 (23:41 hrs)
   - **Formato:** PDF / DOCX
 - [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]]
-  - **Estado:** 📝 **Listo para entregar en SIMA**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Jueves, 27 de Agosto de 2026 (23:42 hs)
   - **Formato:** Markdown / PDF
 - **Evaluación Cuestionario Unidad 2**
-  - **Estado:** ⏳ **Programado en SIMA**
+  - **Estado:** 🟢 **Presentado en SIMA**
   - **Cierre de Cuestionario:** Lunes, 31 de Agosto de 2026 (23:21 hs)
   - **Plataforma:** Campus Virtual SIMA
 - [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2 — Crecimiento Personal]]
-  - **Estado:** 📝 **Listo para entregar en SIMA**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Lunes, 31 de Agosto de 2026 (23:43 hs)
   - **Formato:** Markdown / PDF
+- [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]]
+  - **Estado:** 📝 **Redactado y listo para entregar**
+  - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs ⚠️)
+  - **Formato:** Markdown / PDF
+- [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]]
+  - **Estado:** 📝 **Consolidado en CIPAS y listo para entregar**
+  - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs)
+  - **Formato:** Markdown / PDF
+- **Evaluación Cuestionario Unidad 3**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Cuestionario:** Viernes, 11 de Septiembre de 2026 (23:21 hs)
+  - **Plataforma:** Campus Virtual SIMA
+- **Actividad de la Unidad 3**
+  - **Estado:** 📅 **Programado en SIMA**
+  - **Cierre de Entrega:** Viernes, 11 de Septiembre de 2026 (23:41 hs)
+  - **Formato:** PDF
 
 ## Estado de Avances del Semestre
 
@@ -71,8 +87,12 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 - [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada en SIMA.
 - [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Catedra|Protocolo Individual Unidad 2]] redactado y subido oficialmente a SIMA.
 - [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]] redactado en CIPAS y listo para entrega en SIMA (Vence Jueves 27 Ago, 23:42 hs).
-- [x] **Unidad 2:** [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2]] redactada y lista para entrega en SIMA (Vence Lunes 31 Ago, 23:43 hs).
-- [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Lunes 31 Ago, 23:21 hs).
+- [x] **Unidad 2:** [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2]] redactada y subida oficialmente a SIMA.
+- [x] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Lunes 31 Ago, 23:21 hs).
+- [x] **Unidad 3:** [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]] redactado y listo para entrega en SIMA (Vence Mié 09 Sep, 15:50 hs).
+- [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y listo para entrega en SIMA.
+- [ ] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA (Viernes 11 Sep, 23:21 hs).
+- [ ] **Unidad 3:** Resolver y subir Actividad de la Unidad 3 (Vence Viernes 11 Sep, 23:41 hs).
 
 ## Cómo Estudiar la Asignatura
 

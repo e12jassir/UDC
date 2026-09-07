@@ -39,19 +39,44 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
   - **Formato:** Markdown / PDF
 - **Actividad de la Unidad 1 (Taller de Límites e Indeterminaciones)**
   - **Estado:** 📅 **Programado en SIMA**
-  - **Cierre de Entrega:** Sábado, 05 de Septiembre de 2026 (23:59 hs)
+  - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
   - **Formato:** PDF
 - **Evaluación Cuestionario Unidad 1**
   - **Estado:** ⏳ **Programado en SIMA**
   - **Cierre de Cuestionario:** Sábado, 12 de Septiembre de 2026 (23:59 hs)
   - **Plataforma:** Campus Virtual SIMA
+- **Actividad de la Unidad 2 (Derivada de Funciones)**
+  - **Estado:** 📅 **Abierta en SIMA** (Desde Vie 04 Sep, 13:57 hs)
+  - **Cierre de Entrega:** Sábado, 03 de Octubre de 2026 (23:59 hs)
+  - **Formato:** PDF / Taller
+- **Evaluación Cuestionario Unidad 2**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Ventana de Apertura:** Viernes 25 Sep (06:20 hs) – Domingo 27 Sep (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
+- **Actividad de la Unidad 3**
+  - **Estado:** 📅 **Abierta en SIMA** (Desde Vie 04 Sep, 14:00 hs)
+  - **Cierre de Entrega:** Sábado, 24 de Octubre de 2026 (23:59 hs)
+  - **Formato:** PDF / Taller
+- **Evaluación Cuestionario Unidad 3**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Ventana de Apertura:** Lunes 19 Oct (06:20 hs) – Miércoles 21 Oct (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
+- **Evaluación Cuestionario Unidad 4**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Ventana de Apertura:** Jueves 05 Nov (06:20 hs) – Sábado 07 Nov (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
 
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
-- [ ] **Unidad 1:** Resolver y subir Actividad de la Unidad 1 (Vence Sábado 05 Sep, 23:59 hs).
 - [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Sábado 12 Sep, 23:59 hs).
-- [ ] **Unidad 2:** Lectura de continuidad y límites laterales.
+- [ ] **Unidad 1:** Resolver y subir Actividad de la Unidad 1 (Vence Martes 15 Sep, 23:59 hs).
+- [ ] **Unidad 2:** Descargar y estudiar Módulo de Derivada de Funciones.
+- [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (25 al 27 Sep).
+- [ ] **Unidad 2:** Resolver y subir Actividad de la Unidad 2 (Vence Sábado 03 Oct, 23:59 hs).
+- [ ] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA (19 al 21 Oct).
+- [ ] **Unidad 3:** Resolver y subir Actividad de la Unidad 3 (Vence Sábado 24 Oct, 23:59 hs).
+- [ ] **Unidad 4:** Presentar Evaluación Cuestionario Unidad 4 en SIMA (05 al 07 Nov).
 
 ## Cómo Estudiar la Asignatura
 

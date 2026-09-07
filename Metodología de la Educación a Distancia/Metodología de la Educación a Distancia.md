@@ -30,7 +30,7 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Formato:** PDF
 - **Evaluación Cuestionario Unidad 1**
-  - **Estado:** ⏳ **Programado en SIMA**
+  - **Estado:** 🟢 **Aprobado / Completado en SIMA**
   - **Cierre de Cuestionario:** Jueves, 03 de Septiembre de 2026 (23:59 hs)
   - **Plataforma:** Campus Virtual SIMA
 
@@ -39,7 +39,7 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 - [x] **Unidad 1:** Lectura del Módulo + [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
 - [x] **Unidad 1:** Línea de tiempo sobre Historia de la Educación a Distancia elaborada y subida a SIMA.
 - [x] **Unidad 1:** Tutorías presenciales Sábados B (08 Ago y 22 Ago) asistidas.
-- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Jueves 03 Sep, 23:59 hs).
+- [x] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Jueves 03 Sep, 23:59 hs).
 - [ ] **Unidad 2:** Lectura de historia, evolución y modelos de la educación a distancia.
 
 ## Contenido del Curso
