@@ -12,40 +12,24 @@
 
 ## 📌 Diagnóstico de los Principales Problemas de Comunicación
 
-La comunicación no es simplemente emitir datos en una sola dirección; es un proceso donde dos o más personas interactúan, interpretan y se retroalimentan. Cuando fallan los canales, la empatía o la claridad, el mensaje se distorsiona y surgen los roces. A partir de los conceptos analizados en la guía sobre habilidades sociales, asertividad y manejo de conflictos, desarrollo mi análisis dividido en el plano de la sociedad actual y en mi propia experiencia personal.
+A continuación, explico los principales problemas de comunicación que observo en la sociedad actual y en mí mismo a partir de lo estudiado en la unidad y mi propia experiencia:
 
 ---
 
 ### 1. En la sociedad actual
 
-Veo tres dificultades puntuales que dañan la convivencia y el entendimiento entre las personas:
+La verdad es que yo pienso que hoy en día muy poca gente te escucha de verdad. La mayoría solo te oye y espera su turno para hablar sin entenderte realmente, y esto está impulsado por las redes sociales y apps de mensajería como WhatsApp, donde se premia el hecho de responder rápido, pero muy pocas veces realmente a la gente le importa de verdad lo que está escuchando de ti. Y muchas veces también interrumpimos a la otra persona cuando está hablando antes de que termine, entonces el diálogo real desaparece cuando nadie tiene la paciencia de escuchar realmente a la otra persona hasta el final.
 
-#### A. La prisa por responder y la falta de escucha real
-La verdad es que hoy en día muy poca gente te escucha de verdad. La mayoría solo te oye por encima, esperando su turno para hablar sin entender realmente lo que estás diciendo. Esto viene impulsado en gran parte por las redes sociales y aplicaciones como WhatsApp, donde se premia responder rápido antes que procesar el mensaje con calma. Casi nunca nos detenemos a reflexionar sobre lo que la otra persona siente o necesita expresar. Y muchas veces también caemos en el error de interrumpir antes de que el otro termine de redondear su idea. Al final, el diálogo real desaparece cuando nadie tiene la paciencia de escuchar a su interlocutor hasta el final.
+También he notado que en redes sociales es muy difícil llegar a entender realmente con qué intenciones viene un mensaje, ya que aquí muchas partes de la comunicación como gestos, mirada y expresión corporal no están presentes. Muchas veces podemos interpretar un mensaje de varias maneras según la persona: la ironía puede sonar ofensiva, muchas veces los mensajes pueden sonar secos y eso hace que las personas piensen que no tienes interés de hablar con ellas.
 
-#### B. La pérdida de los matices no verbales en las pantallas
-En los entornos digitales es muy difícil captar con qué intención viene un mensaje. En una pantalla se pierden elementos decisivos de la comunicación humana: los gestos, la mirada y la postura corporal. Sin esas señales, un mismo texto se puede interpretar de mil maneras según el estado de ánimo de quien lo lea. Una ironía inocente puede sonar ofensiva y un mensaje corto o directo suena frío, dando a entender que no hay interés en hablar. Vivimos pegados a las pantallas, pero nos cuesta sostener conversaciones presenciales sin desviar la mirada al teléfono cada dos minutos.
-
-#### C. La polarización entre la pasividad y la agresividad
-Falta un equilibrio asertivo en las relaciones cotidianas. Por un lado, están las personas que se callan absolutamente todo por no incomodar, por miedo a generar una discusión o simplemente por encajar con el grupo (estilo pasivo). Por el otro, están quienes hacen todo lo contrario: no respetan la postura ajena, imponen sus creencias a la fuerza y descalifican al que piensa distinto (estilo agresivo). Esto empobrece cualquier debate. Tener criterio propio y expresar lo que pensamos es fundamental, pero siempre manteniendo el respeto por la dignidad del otro. Disentir no tiene por qué ser pelear.
+Otra cosa importante es que hay mucha polarización entre agresividad y pasividad. Hay personas que se callan todo para no incomodar, no hacer enojar o simplemente por encajar con los demás, y hay personas que hacen todo lo contrario: no respetan la opinión ajena e imponen sus creencias sin importar lo que piensen los demás. Esto está mal, ya que siempre debemos tener criterio propio y debemos hablar, pero siempre manteniendo el respeto por las demás personas.
 
 ---
 
 ### 2. En usted (Autodiagnóstico personal)
 
-Mirándome con honestidad en mi día a día como estudiante de Ingeniería de Software, identifico tres problemas concretos en los que debo trabajar:
+Me pasa mucho que, al tener ya bastante experiencia en este mundo del software, he desarrollado un vocabulario bastante técnico. Si bien no está mal, a veces olvido que las demás personas muchas veces no manejan el mismo dialecto que yo; tiendo a usar términos demasiado técnicos o a sobreexplicar mucho las cosas cuando no debería ser así, sino solo explicar de tal manera que la otra persona entienda bien mi mensaje.
 
-#### A. Vocabulario sobrecargado y asunción de contexto técnico
-Al tener ya un recorrido práctico en el mundo del software y la tecnología, he desarrollado un vocabulario muy técnico. Eso no está mal en sí mismo, pero a veces olvido que quienes me rodean no manejan ese mismo dialecto. Tiendo a usar términos especializados o a sobre-explicar las cosas de más, cuando en realidad lo que necesito es transmitir la idea de forma clara, directa y sencilla para que el mensaje llegue sin fricción ni rodeos a cualquiera.
+También me pasa que cuando estoy estudiando o trabajando en mis proyectos y alguien me habla, me cuesta dejar mi flujo de trabajo al momento, ya que suelo responder a la persona mientras sigo mirando la pantalla. Aunque mi intención no sea ignorar a la persona, a veces mi lenguaje corporal muestra lo contrario y he tenido problemas por eso. Entonces la solución es hacer una pausa y mirar a los ojos a la otra persona, ya que esto es una muestra de respeto y de que sí te interesa lo que está diciendo la persona.
 
-#### B. Atención dividida y desconexión visual al trabajar
-Cuando estoy concentrado estudiando o avanzando en mis proyectos de código en la computadora, me cuesta un montón soltar el flujo de trabajo en el momento en que alguien me habla. Suelo contestar con monosílabos mientras sigo con la mirada fija en el monitor. Aunque mi intención nunca sea ignorar a la persona, mi lenguaje corporal transmite desinterés o impaciencia, y he tenido malentendidos por esa razón. La solución que debo aplicar es clara: pausar conscientemente lo que estoy haciendo, despegar la vista de la pantalla y mirar a los ojos al otro. Es una muestra básica de respeto que demuestra que de verdad me importa lo que me está diciendo.
-
-#### C. La dificultad para decir "NO" por pena o complacencia
-Este es uno de los puntos que más me cuesta. Me pasa muy seguido que me piden favores o tareas que no están a mi alcance o que realmente no quiero asumir en ese momento, y por pura pena termino diciendo que sí. Esa falta de límite termina jugándome en contra porque me sobrecargo de trabajo y me desgasto. Como vimos en la guía al estudiar los derechos asertivos, tenemos el derecho a decir "no" sin sentir culpa ni sentir que le fallamos a alguien. Necesito ejercitar esa firmeza con criterio propio: aprender a negarme con educación y amabilidad cuando no pueda o no deba comprometerme.
-
----
-
-### 3. Conclusión y Compromiso de Mejora
-
-Hacer este ejercicio me deja en claro que las habilidades sociales no son un adorno teórico; son herramientas prácticas de supervivencia académica y profesional. Como futuro ingeniero de software, mi éxito no dependerá únicamente de qué tan bien programe o resuelva algoritmos, sino de mi capacidad para escuchar a mi equipo, explicar conceptos sin soberbia y comunicarme con asertividad y presencia real.
+Por último, me cuesta un montón decir NO. Me pasa mucho que las personas me piden favores o que haga cosas que muchas veces o no están a mi alcance o no quiero hacerlas, y por pura pena digo que sí cuando en realidad no es lo que quiero. Creo que es muy necesario mejorar este aspecto, porque no podemos adaptarnos a lo que las demás personas quieran: debemos tener criterio propio y saber cuándo decir NO.
