@@ -35,11 +35,11 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
 ## Entregas y Actividades Destacadas
 
 - [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual Unidad 1]]
-  - **Estado:** 📝 **Redactado y listo para entregar en SIMA**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
   - **Formato:** DOCX / PDF
 - [[Entregables/Protocolo Colaborativo 1 - Algoritmos|Protocolo Colaborativo Unidad 1]]
-  - **Estado:** 📝 **Consolidado en CIPAS y listo para entregar en SIMA**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
   - **Formato:** DOCX / PDF / Markdown
 - **Actividad de la Unidad 1**
@@ -54,9 +54,9 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** Asistencia a primera tutoría presencial Sábado A (15 Ago).
-- [x] **Unidad 1:** Redactar Protocolo Individual Unidad 1 (Vence Jueves 10 Sep, 23:59 hs).
+- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
 - [x] **Unidad 1:** Resolver y cargar Actividad de la Unidad 1 (Vence Martes 15 Sep, 23:59 hs).
-- [x] **Unidad 1:** Consolidar Protocolo Colaborativo Unidad 1 en CIPAS (Vence Jueves 10 Sep, 23:59 hs).
+- [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 consolidado en CIPAS y subido oficialmente a SIMA.
 - [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Domingo 20 Sep, 23:59 hs).
 
 ## Cómo Estudiar la Asignatura

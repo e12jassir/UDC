@@ -43,8 +43,8 @@
 | 🏫 **Pasado** | **Sábado 05 Sep** | **Presencial B** | 🏫 Tutorías Sábados B: Metodología (07:00), Ing. Software (08:40), Fundamentos (10:20), Cálculo (12:00) | Piedra de Bolívar |
 | 🟢 **Subido** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Individual Unidad 3** cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 3** cargado en SIMA | Entregado en SIMA |
-| ⏳ **Próximo** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** (Listo para entrega) | Campus SIMA (23:59 hs) |
-| ⏳ **Próximo** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 1** (Listo para entrega) | Campus SIMA (23:59 hs) |
+| 🟢 **Subido** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** cargado en SIMA | Entregado en SIMA |
+| 🟢 **Subido** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 1** cargado en SIMA | Entregado en SIMA |
 | 📅 **Programado** | **Viernes 11 Sep** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:21 hs) |
 | 📅 **Programado** | **Viernes 11 Sep** | **Cátedra** | 📝 **Actividad de la Unidad 3** | Campus SIMA (23:41 hs) |
 | 📅 **Programado** | **Sábado 12 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
@@ -213,8 +213,8 @@ graph TD
 #### 📍 Semana 6: Del 06 al 12 de Septiembre (Preparación SÁBADO A)
 - [x] **Cátedra (U3):** 📝 **Protocolo Individual U3** (Cargado oficialmente en SIMA).
 - [x] **Cátedra (U3):** 📝 **Protocolo Colaborativo U3** (Cargado oficialmente en SIMA).
-- [x] **Algoritmos (U1):** 📝 **Protocolo Individual U1** (Redactado y listo para entrega en SIMA - Vence Jueves 10 Sep, 23:59 hs).
-- [x] **Algoritmos (U1):** 📝 **Protocolo Colaborativo U1** (Consolidado en CIPAS y listo para entrega en SIMA - Vence Jueves 10 Sep, 23:59 hs).
+- [x] **Algoritmos (U1):** 📝 **Protocolo Individual U1** (Cargado oficialmente en SIMA).
+- [x] **Algoritmos (U1):** 📝 **Protocolo Colaborativo U1** (Cargado oficialmente en SIMA).
 - [ ] **Cátedra (U3):** 📝 **Evaluación Cuestionario U3** (Plazo SIMA: Viernes 11 Sep, 23:21 hs).
 - [ ] **Cátedra (U3):** 📝 **Actividad de la Unidad 3** (Plazo SIMA: Viernes 11 Sep, 23:41 hs).
 - [ ] **Cálculo (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Sábado 12 Sep, 23:59 hs).
