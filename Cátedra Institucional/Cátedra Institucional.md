@@ -74,10 +74,10 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Estado:** ⏳ **Programado en SIMA**
   - **Cierre de Cuestionario:** Viernes, 11 de Septiembre de 2026 (23:21 hs)
   - **Plataforma:** Campus Virtual SIMA
-- **Actividad de la Unidad 3**
-  - **Estado:** 📅 **Programado en SIMA**
+- [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3 — Habilidades Sociales y Comunicación]]
+  - **Estado:** 📝 **Redactada y lista para entrega en SIMA**
   - **Cierre de Entrega:** Viernes, 11 de Septiembre de 2026 (23:41 hs)
-  - **Formato:** PDF
+  - **Formato:** Markdown / PDF
 
 ## Estado de Avances del Semestre
 
@@ -92,7 +92,7 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 - [x] **Unidad 3:** [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]] redactado y subido oficialmente a SIMA.
 - [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y subido oficialmente a SIMA.
 - [ ] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA (Viernes 11 Sep, 23:21 hs).
-- [ ] **Unidad 3:** Resolver y subir Actividad de la Unidad 3 (Vence Viernes 11 Sep, 23:41 hs).
+- [x] **Unidad 3:** [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3]] redactada y lista para entrega en SIMA (Vence Viernes 11 Sep, 23:41 hs).
 
 ## Cómo Estudiar la Asignatura
 

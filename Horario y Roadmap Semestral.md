@@ -46,7 +46,7 @@
 | 🟢 **Subido** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 1** cargado en SIMA | Entregado en SIMA |
 | 📅 **Programado** | **Viernes 11 Sep** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:21 hs) |
-| 📅 **Programado** | **Viernes 11 Sep** | **Cátedra** | 📝 **Actividad de la Unidad 3** | Campus SIMA (23:41 hs) |
+| ⏳ **Próximo** | **Viernes 11 Sep** | **Cátedra** | 📝 **Actividad de la Unidad 3** (Lista para entrega) | Campus SIMA (23:41 hs) |
 | 📅 **Programado** | **Sábado 12 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
 | 🏫 **Próximo** | **Sábado 12 Sep** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
 | 📅 **Programado** | **Martes 15 Sep** | **Cálculo** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
@@ -216,7 +216,7 @@ graph TD
 - [x] **Algoritmos (U1):** 📝 **Protocolo Individual U1** (Cargado oficialmente en SIMA).
 - [x] **Algoritmos (U1):** 📝 **Protocolo Colaborativo U1** (Cargado oficialmente en SIMA).
 - [ ] **Cátedra (U3):** 📝 **Evaluación Cuestionario U3** (Plazo SIMA: Viernes 11 Sep, 23:21 hs).
-- [ ] **Cátedra (U3):** 📝 **Actividad de la Unidad 3** (Plazo SIMA: Viernes 11 Sep, 23:41 hs).
+- [x] **Cátedra (U3):** 📝 **Actividad de la Unidad 3** (Redactada y lista para entrega en SIMA - Vence Viernes 11 Sep, 23:41 hs).
 - [ ] **Cálculo (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Sábado 12 Sep, 23:59 hs).
 - [ ] **Ing. Software (U2):** Infografía / Mapa conceptual "Cómo funciona Internet".
 - [ ] **Fundamentos (U2):** Factorización de polinomios (Casos I al X).
