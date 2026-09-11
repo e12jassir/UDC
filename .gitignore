@@ -21,3 +21,6 @@ Thumbs.db
 AGENTS.md
 Guia_Redaccion_Humana_IA.md
 
+.~lock.*
+*.docx#
+Documentos Personales/

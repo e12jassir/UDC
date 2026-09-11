@@ -43,9 +43,10 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
   - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
   - **Formato:** DOCX / PDF / Markdown
 - **Actividad de la Unidad 1**
-  - **Estado:** 📝 **Resuelta y lista para entregar en SIMA**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Fecha de entrega:** Viernes, 11 de Septiembre de 2026
   - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** PDF / Archivo comprimido con código fuente
+  - **Formato:** PDF
 - **Evaluación Cuestionario Unidad 1**
   - **Estado:** ⏳ **Programado en SIMA**
   - **Cierre de Cuestionario:** Domingo, 20 de Septiembre de 2026 (23:59 hs)

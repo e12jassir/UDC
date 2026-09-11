@@ -31,10 +31,10 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
 
 ## Entregas y Actividades Destacadas
 
-- **Actividad de la Unidad 1**
-  - **Estado:** 📅 **Programado en SIMA**
+- [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Actividad de la Unidad 1 — Conceptualización y Bases Teóricas]]
+  - **Estado:** 🟢 **Redactado y completo (Pendiente grabación de videos individuales para SIMA)**
   - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:57 hs)
-  - **Formato:** DOCX / PDF
+  - **Formato:** Markdown / PDF / DOCX
 - **Protocolo Colaborativo Unidad 1**
   - **Estado:** 📅 **Programado en SIMA**
   - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:57 hs)
@@ -43,7 +43,7 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** Asistencia a tutorías presenciales Sábados B (08 Ago y 22 Ago).
-- [ ] **Unidad 1:** Desarrollar Actividad de la Unidad 1 (Vence Viernes 18 Sep, 23:57 hs).
+- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Actividad de la Unidad 1]] desarrollada y redactada al 100% (100 preguntas argumentadas).
 - [ ] **Unidad 1:** Consolidar Protocolo Colaborativo Unidad 1 en CIPAS (Vence Viernes 18 Sep, 23:57 hs).
 - [ ] **Unidad 2:** Lectura de funcionamiento de Internet, servidores DNS y dominios.
 

@@ -33,6 +33,23 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
   - **Estado:** 🟢 **Aprobado / Completado en SIMA**
   - **Cierre de Cuestionario:** Jueves, 03 de Septiembre de 2026 (23:59 hs)
   - **Plataforma:** Campus Virtual SIMA
+- **Protocolo Individual Unidad 2**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Entrega:** Miércoles, 16 de Septiembre de 2026 (23:59 hs)
+  - **Formato:** PDF
+- **Protocolo Colaborativo Unidad 2**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Entrega:** Jueves, 17 de Septiembre de 2026 (23:59 hs)
+  - **Requisito especial:** Enlace a documento Google Docs con correo institucional y permisos de edición para el equipo
+- **Actividad de la Unidad 2**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
+  - **Formato:** PDF
+- **Evaluación Cuestionario Unidad 2**
+  - **Estado:** ⏳ **Programado en SIMA**
+  - **Apertura:** Viernes, 18 de Septiembre de 2026 (06:20 hs)
+  - **Cierre de Evaluación:** Domingo, 20 de Septiembre de 2026 (23:59 hs)
+  - **Plataforma:** Campus Virtual SIMA
 
 ## Estado de Avances del Semestre
 
@@ -40,7 +57,10 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 - [x] **Unidad 1:** Línea de tiempo sobre Historia de la Educación a Distancia elaborada y subida a SIMA.
 - [x] **Unidad 1:** Tutorías presenciales Sábados B (08 Ago y 22 Ago) asistidas.
 - [x] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Jueves 03 Sep, 23:59 hs).
-- [ ] **Unidad 2:** Lectura de historia, evolución y modelos de la educación a distancia.
+- [ ] **Unidad 2:** Redactar y subir Protocolo Individual Unidad 2 (Vence Miércoles 16 Sep, 23:59 hs).
+- [ ] **Unidad 2:** Consolidar Protocolo Colaborativo Unidad 2 en Google Docs institucional (Vence Jueves 17 Sep, 23:59 hs).
+- [ ] **Unidad 2:** Desarrollar y subir Actividad de la Unidad 2 (Vence Viernes 18 Sep, 23:59 hs).
+- [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Viernes 18 Sep 06:20 hs a Domingo 20 Sep, 23:59 hs).
 
 ## Contenido del Curso
 
