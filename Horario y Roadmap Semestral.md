@@ -51,8 +51,8 @@
 | 🏫 **Próximo** | **Sábado 12 Sep** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
 | 📅 **Programado** | **Martes 15 Sep** | **Cálculo** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:59 hs) |
 | 🟢 **Subido** | **Viernes 11 Sep** | **Algoritmos** | 📝 **Actividad de la Unidad 1** (19 ejercicios resueltos en Python/PDF) | Entregado en SIMA |
-| 📅 **Programado** | **Miércoles 16 Sep** | **Fundamentos** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Miércoles 16 Sep** | **Metodología** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (23:59 hs) |
+| 📝 **Listo** | **Miércoles 16 Sep** | **Fundamentos** | 📝 **Protocolo Individual Unidad 2** (DOCX/PDF generados y listos) | Campus SIMA (23:59 hs) |
+| 📝 **Listo** | **Miércoles 16 Sep** | **Metodología** | 📝 **Protocolo Individual Unidad 2** (DOCX/PDF generados y listos) | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Jueves 17 Sep** | **Fundamentos** | 📝 **Protocolo Colaborativo Unidad 2 (Google Docs)** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Jueves 17 Sep** | **Metodología** | 📝 **Protocolo Colaborativo Unidad 2 (Google Docs)** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:59 hs) |
@@ -224,8 +224,8 @@ graph TD
 - [ ] **Cálculo (U1):** 📝 **Actividad de la Unidad 1 (Taller de Límites)** (Reprogramada en SIMA: Martes 15 Sep, 23:59 hs).
 - [x] **Ing. Software (U1):** 📝 **Actividad de la Unidad 1** (Redactada al 100% con 100 preguntas argumentadas - Pendiente grabación de videos para entrega en SIMA - Vence Viernes 18 Sep, 23:57 hs).
 - [ ] **Ing. Software (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
-- [ ] **Fundamentos (U2):** 📝 **Protocolo Individual U2** (Plazo SIMA: Miércoles 16 Sep, 23:59 hs).
-- [ ] **Metodología (U2):** 📝 **Protocolo Individual U2** (Plazo SIMA: Miércoles 16 Sep, 23:59 hs).
+- [x] **Fundamentos (U2):** 📝 **Protocolo Individual U2** (Redactado y generado en DOCX/PDF - Listo para entrega en SIMA - Vence Miércoles 16 Sep).
+- [x] **Metodología (U2):** 📝 **Protocolo Individual U2** (Redactado y generado en DOCX/PDF - Listo para entrega en SIMA - Vence Miércoles 16 Sep).
 - [ ] **Fundamentos (U2):** 📝 **Protocolo Colaborativo U2 (Google Docs)** (Plazo SIMA: Jueves 17 Sep, 23:59 hs).
 - [ ] **Metodología (U2):** 📝 **Protocolo Colaborativo U2 (Google Docs)** (Plazo SIMA: Jueves 17 Sep, 23:59 hs).
 - [ ] **Fundamentos (U2):** 📝 **Actividad de la Unidad 2** (Plazo SIMA: Viernes 18 Sep, 23:59 hs).

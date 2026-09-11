@@ -42,11 +42,14 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
   - **Formato:** DOCX / PDF / Markdown
-- **Actividad de la Unidad 1**
+- [[Entregables/Actividad Unidad 1 - Algoritmos|Actividad de la Unidad 1 — 19 Ejercicios de Lógica y Programación]]
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Fecha de entrega:** Viernes, 11 de Septiembre de 2026
+  - **Fecha de entrega:** Viernes, 11 de Septiembre de 2026 (4 días antes del límite)
   - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** PDF
+  - **Formato:** DOCX / PDF (19 problemas con análisis, pseudocódigo, Python y ejecución)
+- [[Entregables/Ejercicios Complementarios - Algoritmos|Ejercicios Complementarios — 6 Problemas Resueltos]]
+  - **Estado:** 🟢 **Completados y documentados en Python y Pseudocódigo**
+  - **Formato:** Markdown / Python
 - **Evaluación Cuestionario Unidad 1**
   - **Estado:** ⏳ **Programado en SIMA**
   - **Cierre de Cuestionario:** Domingo, 20 de Septiembre de 2026 (23:59 hs)
@@ -56,8 +59,9 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
 
 - [x] **Unidad 1:** Asistencia a primera tutoría presencial Sábado A (15 Ago).
 - [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
-- [x] **Unidad 1:** Resolver y cargar Actividad de la Unidad 1 (Vence Martes 15 Sep, 23:59 hs).
-- [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 consolidado en CIPAS y subido oficialmente a SIMA.
+- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Algoritmos|Actividad de la Unidad 1 (19 Ejercicios)]] resuelta al 100% y cargada en SIMA.
+- [x] **Unidad 1:** [[Entregables/Ejercicios Complementarios - Algoritmos|Ejercicios Complementarios (6 Problemas)]] resueltos.
+- [x] **Unidad 1:** [[Entregables/Protocolo Colaborativo 1 - Algoritmos|Protocolo Colaborativo Unidad 1]] consolidado en CIPAS y subido a SIMA.
 - [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Domingo 20 Sep, 23:59 hs).
 
 ## Cómo Estudiar la Asignatura

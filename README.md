@@ -1,3 +1,10 @@
+---
+aliases:
+  - UDC
+  - Inicio
+  - Home
+---
+
 <div align="center">
 
 # 🏛️ Universidad de Cartagena — Bóveda Académica 2026-2
