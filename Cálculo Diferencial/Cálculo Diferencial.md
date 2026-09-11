@@ -42,8 +42,8 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
   - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
   - **Formato:** PDF
 - **Evaluación Cuestionario Unidad 1**
-  - **Estado:** ⏳ **Programado en SIMA**
-  - **Cierre de Cuestionario:** Sábado, 12 de Septiembre de 2026 (23:59 hs)
+  - **Estado:** 🟢 **Aprobado con Calificación Perfecta en SIMA (5,00 / 5,00)**
+  - **Fecha de Presentación:** Viernes, 11 de Septiembre de 2026
   - **Plataforma:** Campus Virtual SIMA
 - **Actividad de la Unidad 2 (Derivada de Funciones)**
   - **Estado:** 📅 **Abierta en SIMA** (Desde Vie 04 Sep, 13:57 hs)
@@ -69,7 +69,7 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
-- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Sábado 12 Sep, 23:59 hs).
+- [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 presentada y aprobada con 5.00/5.00 en SIMA.
 - [ ] **Unidad 1:** Resolver y subir Actividad de la Unidad 1 (Vence Martes 15 Sep, 23:59 hs).
 - [ ] **Unidad 2:** Descargar y estudiar Módulo de Derivada de Funciones.
 - [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (25 al 27 Sep).
