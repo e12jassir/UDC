@@ -28,33 +28,33 @@
 
 ## 🗣️ Conversation Script (Balanced 50% - 50%)
 
-**Student A (Esteban):** Hey! Welcome to our neighborhood. Let's introduce some people who live around here.
+**Student A (Esteban):** Hey Álvaro! Welcome to our neighborhood. Let's introduce some people who live around here.
 
-**Student B (Classmate):** That's a great idea! Who is that man over there by the bakery? *(Points / shows photo 1)*
+**Student B (Álvaro):** That's a great idea! Who is that man over there by the bakery? *(Points / shows photo 1)*
 
-**Student A (Esteban):** His name is **Álvaro Mendoza**. He is **35 years old**, and he is our local baker.
+**Student A (Esteban):** His name is **Carlos Mendoza**. He is **35 years old**, and he is our local baker.
 
-**Student B (Classmate):** **Is he** Colombian?
+**Student B (Álvaro):** **Is he** Colombian?
 
 **Student A (Esteban):** Yes, **he is**! He is from Cartagena, and his bread is delicious. Now look across the street. Who is that woman with the camera? **Is she** a tourist? *(Shows photo 2)*
 
-**Student B (Classmate):** No, **she isn't**! Her name is **Mariana Gómez**. She is **28 years old**, and she is a professional photographer.
+**Student B (Álvaro):** No, **she isn't**! Her name is **Mariana Gómez**. She is **28 years old**, and she is a professional photographer.
 
 **Student A (Esteban):** **Where is** she from?
 
-**Student B (Classmate):** She is **Mexican**, from Guadalajara, but she lives here now. And over there, **who are** those two young men near the park bench? **Are they** brothers? *(Shows photo 3)*
+**Student B (Álvaro):** She is **Mexican**, from Guadalajara, but she lives here now. And over there, **who are** those two young men near the park bench? **Are they** brothers? *(Shows photo 3)*
 
 **Student A (Esteban):** Yes, **they are**! Their names are **Mateo Rossi** and **Lucas Rossi**. They are **24 years old**, and they are software developers.
 
-**Student B (Classmate):** **Are they** Spanish?
+**Student B (Álvaro):** **Are they** Spanish?
 
 **Student A (Esteban):** No, **they aren't** Spanish. They are **Italian**, but their work is completely remote. 
 
-**Student B (Classmate):** That is awesome! And what about the young woman reading under the tree? **Is she** a doctor? *(Shows photo 4)*
+**Student B (Álvaro):** That is awesome! And what about the young woman reading under the tree? **Is she** a doctor? *(Shows photo 4)*
 
 **Student A (Esteban):** No, **she isn't** a doctor yet. Her name is **Elena Torres**. She is **21 years old**, and she is an English teacher and a university student.
 
-**Student B (Classmate):** Wow, our neighborhood is full of talented people!
+**Student B (Álvaro):** Wow, our neighborhood is full of talented people!
 
 **Student A (Esteban):** It really is! Let's go say hello and grab a coffee.
 
