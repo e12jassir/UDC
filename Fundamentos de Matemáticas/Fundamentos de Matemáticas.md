@@ -51,13 +51,12 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
   - **Cierre de Cuestionario:** Domingo, 30 de Agosto de 2026 (23:59 hs)
   - **Plataforma:** Campus Virtual SIMA
 - [[Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2 — Expresiones Algebraicas y Funciones]]
-  - **Estado:** 📝 **Redactado al 100% y generado en PDF/DOCX oficial (Listo para entrega en SIMA)**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Miércoles, 16 de Septiembre de 2026 (23:59 hs)
   - **Formato:** DOCX / PDF
-- **Protocolo Colaborativo Unidad 2**
-  - **Estado:** ⏳ **Programado en SIMA**
-  - **Cierre de Entrega:** Jueves, 17 de Septiembre de 2026 (23:59 hs)
-  - **Requisito especial:** Enlace a documento Google Docs con correo institucional y permisos de edición para el equipo
+- [[Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]]
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
 - **Actividad de la Unidad 2**
   - **Estado:** ⏳ **Programado en SIMA**
   - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
@@ -69,8 +68,8 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
 - [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
 - [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1]] redactada y subida a SIMA.
 - [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada en SIMA (Nota: 5,00 / 5,00).
-- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2]] redactado al 100% y generado en PDF/DOCX (Listo para entrega en SIMA - Vence Miércoles 16 Sep).
-- [ ] **Unidad 2:** Consolidar Protocolo Colaborativo Unidad 2 en Google Docs institucional (Vence Jueves 17 Sep, 23:59 hs).
+- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2]] redactado al 100% y generado en PDF/DOCX (Cargado oficialmente en SIMA).
+- [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]] redactado y subido oficialmente a SIMA.
 - [ ] **Unidad 2:** Desarrollar y subir Actividad de la Unidad 2 (Vence Viernes 18 Sep, 23:59 hs).
 
 ## Cómo Estudiar la Asignatura

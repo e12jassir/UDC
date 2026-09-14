@@ -14,45 +14,37 @@
 
 ---
 
-## 🗣️ Conversation Script
+## 🗣️ Conversation Script (Balanced Speaking Time: 50% - 50%)
 
-**Student A:** Hey! Welcome to my neighborhood. Let me show you around and introduce some people who live here.
+**Student A (Esteban):** Hey! Welcome to our neighborhood. Let's introduce some people who live around here.
 
-**Student B:** Great! Who is that man over there by the bakery?
+**Student B (Classmate):** That's a great idea! Who is that man over there by the bakery?
 
-**Student A:** His name is Carlos Mendoza. He is 35 years old, and he is our local baker.
+**Student A (Esteban):** His name is Carlos Mendoza. He is 35 years old, and he is our local baker.
 
-**Student B:** Is he Colombian?
+**Student B (Classmate):** Is he Colombian?
 
-**Student A:** Yes, he is! He is from Cartagena. His bread is delicious.
+**Student A (Esteban):** Yes, he is! He is from Cartagena, and his bread is delicious. Now look across the street. Who is that woman with the camera? Is she a tourist?
 
-**Student B:** Nice! And who is the woman with the camera across the street? Is she a tourist?
+**Student B (Classmate):** No, she isn't! Her name is Mariana Gómez. She is 28 years old, and she is a professional photographer.
 
-**Student A:** No, she isn't. Her name is Mariana Gómez. She is 28 years old, and she is a professional photographer.
+**Student A (Esteban):** Where is she from?
 
-**Student B:** Where is she from?
+**Student B (Classmate):** She is Mexican, from Guadalajara, but she lives here now. And over there, who are those two young men near the park bench? Are they brothers?
 
-**Student A:** She is Mexican, from Guadalajara, but she lives here now.
+**Student A (Esteban):** Yes, they are! Their names are Mateo Rossi and Lucas Rossi. They are 24 years old, and they are software developers.
 
-**Student B:** That's cool. And who are those two young men near the park bench? Are they brothers?
+**Student B (Classmate):** Are they Spanish?
 
-**Student A:** Yes, they are! Their names are Mateo Rossi and Lucas Rossi. They are 24 years old, and they are software developers.
+**Student A (Esteban):** No, they aren't Spanish. They are Italian, but their work is completely remote. 
 
-**Student B:** Are they Spanish?
+**Student B (Classmate):** That is awesome! And what about the young woman reading under the tree? Is she a doctor?
 
-**Student A:** No, they aren't Spanish. They are Italian, but their work is completely remote.
+**Student A (Esteban):** No, she isn't a doctor yet. Her name is Elena Torres. She is 21 years old, and she is an English teacher and a university student.
 
-**Student B:** How interesting! And what about the young woman reading under the tree? Who is she?
+**Student B (Classmate):** Wow, our neighborhood is full of talented people!
 
-**Student A:** Her name is Elena Torres. She is 21 years old.
-
-**Student B:** Is she a doctor?
-
-**Student A:** No, she isn't a doctor yet. She is an English teacher and a university student. She is Colombian.
-
-**Student B:** Our neighborhood is full of talented people!
-
-**Student A:** It really is! Let's go say hello and grab a coffee.
+**Student A (Esteban):** It really is! Let's go say hello and grab a coffee.
 
 ---
 

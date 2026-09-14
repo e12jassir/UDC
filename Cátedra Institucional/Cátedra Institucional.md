@@ -92,7 +92,7 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 - [x] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Lunes 31 Ago, 23:21 hs).
 - [x] **Unidad 3:** [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]] redactado y subido oficialmente a SIMA.
 - [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y subido oficialmente a SIMA.
-- [ ] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA (Viernes 11 Sep, 23:21 hs — Machete: [[Entregables/Guia_Cuestionario_Unidad_3_Catedra|Guía Cuestionario U3]]).
+- [x] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA — Aprobada con 5.00/5.00 (Machete: [[Entregables/Guia_Cuestionario_Unidad_3_Catedra|Guía Cuestionario U3]]).
 - [x] **Unidad 3:** [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3]] redactada y subida oficialmente a SIMA.
 
 ## Cómo Estudiar la Asignatura

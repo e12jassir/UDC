@@ -17,23 +17,35 @@ Inglés I es una asignatura transversal de formación institucional orientada al
 
 ## 🗺️ Estructura del Curso por Unidades
 
-| Unidad | Semanas | Núcleo Temático | Hitos Evaluativos |
-| :---: | :---: | :--- | :--- |
-| **General** | — | Inducción, Foro de presentación, Prior Knowledge Test | Diagnóstico |
-| **Unidad 1** | **Sem. 1 – 4** | Jobs, Verb to be, Countries & Nationalities, Numbers, Wh-Questions | 📝 **Unit 1 Assessment** (Semana 4) |
-| **Unidad 2** | **Sem. 5 – 8** | Simple Present, City Locations, Food & Drinks, Countable/Uncountable Nouns | 📝 **Unit 2 Assessment** (Semana 8) |
-| **Unidad 3** | **Sem. 9 – 12** | Likes and Dislikes, Sports, Family, Daily Routines (Simple Present) | 📝 **Unit 3 Assessment** (Semana 12) |
-| **Unidad 4** | **Sem. 13 – 16** | Describing People Appearance, Present Progressive, At the Airport | 📝 **Unit 4 Assessment** (Semana 15)<br>🗣️ **Speaking Final Evaluation** (Semana 16) |
+|    Unidad    |     Semanas      | Núcleo Temático                                                            | Hitos Evaluativos                                                                    |
+| :----------: | :--------------: | :------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| **General**  |        —         | Inducción, Foro de presentación, Prior Knowledge Test                      | Diagnóstico                                                                          |
+| **Unidad 1** |  **Sem. 1 – 4**  | Jobs, Verb to be, Countries & Nationalities, Numbers, Wh-Questions         | 📝 **Unit 1 Assessment** (Semana 4)                                                  |
+| **Unidad 2** |  **Sem. 5 – 8**  | Simple Present, City Locations, Food & Drinks, Countable/Uncountable Nouns | 📝 **Unit 2 Assessment** (Semana 8)                                                  |
+| **Unidad 3** | **Sem. 9 – 12**  | Likes and Dislikes, Sports, Family, Daily Routines (Simple Present)        | 📝 **Unit 3 Assessment** (Semana 12)                                                 |
+| **Unidad 4** | **Sem. 13 – 16** | Describing People Appearance, Present Progressive, At the Airport          | 📝 **Unit 4 Assessment** (Semana 15)<br>🗣️ **Speaking Final Evaluation** (Semana 16) |
 
 ## Entregables y Actividades Destacadas
 
 - [[Entregables/Guion_Video_Conversacion_Ingles_I|Guion de Video de Conversación (Unidad 1)]]
   - **Estado:** 📝 **Guion redactado y listo para grabación**
-  - **Requerimiento:** Video de 2 a 3 minutos presentando personas en el vecindario con verbo *to be*, preguntas Wh- y formas afirmativas/negativas.
+  - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
+  - **Requerimiento:** Video de 2 a 3 minutos presentando personas en el vecindario con verbo _to be_, preguntas Wh- y formas afirmativas/negativas.
   - **Formato:** Video / Producción oral
 
 ---
 
 ## 🧭 Cronograma Detallado y Enlaces
+
+- Corte 1 ($C_1$): 20% ($0.20$)
+- Corte 2 ($C_2$): 20% ($0.20$)
+- Corte 3 ($C_3$): 60% ($0.60$)
+- Nota mínima de aprobación: $3.0$ sobre una escala de $0.0$ a $5.0$.
+- **Fórmula de Calificación:**
+  $$\text{Nota Final} = 0.20 \cdot C_1 + 0.20 \cdot C_2 + 0.60 \cdot C_3$$
+- **Despeje de la Incógnita $C_3$ para Aprobar:**
+  $$0.20(C_1 + C_2) + 0.60 \cdot C_3 \ge 3.0$$
+  $$0.60 \cdot C_3 \ge 3.0 - 0.20(C_1 + C_2)$$
+  $$C_3 \ge \frac{3.0 - 0.20(C_1 + C_2)}{0.60}$$   
 - [[Cronograma de Actividades|Cronograma de Actividades - Inglés I]]
 - [[Guía de Estudio|Guía de Estudio General UDC]]

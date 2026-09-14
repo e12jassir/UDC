@@ -37,10 +37,10 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
 - [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual Unidad 1]]
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Formato:** Markdown / PDF
-- **Actividad de la Unidad 1 (Taller de Límites e Indeterminaciones)**
-  - **Estado:** 📅 **Programado en SIMA**
-  - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** PDF
+- [[Entregables/Actividad 1 - Limites.pdf|Actividad de la Unidad 1 (Taller de Límites e Indeterminaciones)]]
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
+  - **Formato:** Manuscrito escaneado / PDF
 - **Evaluación Cuestionario Unidad 1**
   - **Estado:** 🟢 **Aprobado con Calificación Perfecta en SIMA (5,00 / 5,00)**
   - **Fecha de Presentación:** Viernes, 11 de Septiembre de 2026
@@ -70,7 +70,7 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
 
 - [x] **Unidad 1:** [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
 - [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 presentada y aprobada con 5.00/5.00 en SIMA.
-- [ ] **Unidad 1:** Resolver y subir Actividad de la Unidad 1 (Vence Martes 15 Sep, 23:59 hs).
+- [x] **Unidad 1:** Resolver y subir Actividad de la Unidad 1 (Cargado en SIMA).
 - [ ] **Unidad 2:** Descargar y estudiar Módulo de Derivada de Funciones.
 - [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (25 al 27 Sep).
 - [ ] **Unidad 2:** Resolver y subir Actividad de la Unidad 2 (Vence Sábado 03 Oct, 23:59 hs).

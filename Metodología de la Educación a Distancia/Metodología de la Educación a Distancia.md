@@ -34,14 +34,14 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
   - **Cierre de Cuestionario:** Jueves, 03 de Septiembre de 2026 (23:59 hs)
   - **Plataforma:** Campus Virtual SIMA
 - [[Entregables/Protocolo Individual 2 - Metodologia|Protocolo Individual Unidad 2 — Los Tres Momentos del Aprendizaje]]
-  - **Estado:** 📝 **Redactado al 100% y generado en PDF/DOCX oficial (Listo para entrega en SIMA)**
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Miércoles, 16 de Septiembre de 2026 (23:59 hs)
   - **Formato:** DOCX / PDF
-- **Protocolo Colaborativo Unidad 2**
-  - **Estado:** ⏳ **Programado en SIMA**
-  - **Cierre de Entrega:** Jueves, 17 de Septiembre de 2026 (23:59 hs)
+- [[Entregables/Protocolo Colaborativo 2 - Metodologia|Protocolo Colaborativo Unidad 2]]
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
   - **Requisito especial:** Enlace a documento Google Docs con correo institucional y permisos de edición para el equipo
-- **Actividad de la Unidad 2**
+- [[Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2 — Los Momentos Metodológicos del Aprendizaje]]
   - **Estado:** ⏳ **Programado en SIMA**
   - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
   - **Formato:** PDF
@@ -55,11 +55,10 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 
 - [x] **Unidad 1:** Lectura del Módulo + [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual 1]] redactado y subido oficialmente a SIMA.
 - [x] **Unidad 1:** Línea de tiempo sobre Historia de la Educación a Distancia elaborada y subida a SIMA.
-- [x] **Unidad 1:** Tutorías presenciales Sábados B (08 Ago y 22 Ago) asistidas.
 - [x] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Jueves 03 Sep, 23:59 hs).
-- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Metodologia|Protocolo Individual Unidad 2]] redactado al 100% y generado en PDF/DOCX (Listo para entrega en SIMA - Vence Miércoles 16 Sep).
-- [ ] **Unidad 2:** Consolidar Protocolo Colaborativo Unidad 2 en Google Docs institucional (Vence Jueves 17 Sep, 23:59 hs).
-- [ ] **Unidad 2:** Desarrollar y subir Actividad de la Unidad 2 (Vence Viernes 18 Sep, 23:59 hs).
+- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Metodologia|Protocolo Individual Unidad 2]] redactado al 100% y cargado oficialmente en SIMA.
+- [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Metodologia|Protocolo Colaborativo Unidad 2]] redactado y subido oficialmente a SIMA.
+- [x] **Unidad 2:** [[Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] desarrollada y lista (Mapa Conceptual, Estrategia 3C, Diapositivas y Guion de Video).
 - [ ] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Viernes 18 Sep 06:20 hs a Domingo 20 Sep, 23:59 hs).
 
 ## Contenido del Curso
