@@ -32,7 +32,7 @@
 
 **Student B (Classmate):** That's a great idea! Who is that man over there by the bakery? *(Points / shows photo 1)*
 
-**Student A (Esteban):** His name is **Carlos Mendoza**. He is **35 years old**, and he is our local baker.
+**Student A (Esteban):** His name is **Álvaro Mendoza**. He is **35 years old**, and he is our local baker.
 
 **Student B (Classmate):** **Is he** Colombian?
 
