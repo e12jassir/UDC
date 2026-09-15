@@ -1,75 +1,81 @@
-# Oral Production: Video Conversation — People in My Neighborhood
+# Oral Production: Video Conversation — People in My Neighborhood (Versión Sin Fotos)
 
 **Course:** Inglés I (ENGV001-E2) — Universidad de Cartagena  
 **Speakers:** Student A (Esteban Marrugo) & Student B (Álvaro)  
-**Target Duration:** 2:15 – 2:45 minutes  
+**Target Duration:** 2:15 – 2:45 minutes (Cumple perfecto los 2 a 3 min)  
+**Contexto:** Sentados conversando (en terraza, ventana o videollamada), mirando y señalando hacia la calle. Cero fotos, pura conversación fluida.
 
 ---
 
-## 🗣️ Guion Bilingüe (Fotos Repartidas 50%-50% en Meet)
+## 🗣️ Guion de Grabación (100% Sin Fotos)
 
-**Student A (Esteban):** Hey Álvaro! How's it going? Let me show you some photos of people in my neighborhood.  
-*(¡Hey Álvaro! ¿Cómo vas? Déjame mostrarte algunas fotos de la gente de mi barrio).*
+**Student A (Esteban):** Hey Álvaro! How's it going? Welcome to my neighborhood. There are always interesting people around here.  
+*(¡Hey Álvaro! ¿Cómo vas? Bienvenido a mi barrio. Siempre hay gente interesante por aquí).*
 
-**Student B (Álvaro):** Sounds good! Oh, look at this photo I have here. Who's that guy by the bakery?  
-📸 *(AQUÍ ÁLVARO MUESTRA LA FOTO 1: Carlos el Panadero)*  
-*(Suena bien. Oh, mira esta foto que tengo aquí. ¿Quién es ese hombre por la panadería?)*
+**Student B (Álvaro):** Sounds good, Esteban! Oh, look over there across the street. Who is that guy by the bakery?  
+*(¡Suena bien, Esteban! Oh, mira allá al otro lado de la calle. ¿Quién es ese hombre por la panadería?)*
 
-**Student A (Esteban):** Oh, that's Carlos Mendoza. He's 35, and he's actually our local baker.  
-*(Ah, ese es Carlos Mendoza. Tiene 35 años y de hecho es nuestro panadero local).*
+**Student A (Esteban):** That's Carlos Mendoza. He is 35 years old, and he is actually our local baker.  
+*(Ese es Carlos Mendoza. Tiene 35 años y de hecho es nuestro panadero local).*
 
-**Student B (Álvaro):** No way, is he Colombian?  
-*(No me digas, ¿es colombiano?)*
+**Student B (Álvaro):** No way! Is he Colombian?  
+*(¡No me digas! ¿Es colombiano?)*
 
-**Student A (Esteban):** Yeah, he's from right here, Cartagena. His bread is honestly amazing.  
-*(Sí, es de aquí mismo, de Cartagena. Su pan es sinceramente increíble).*
+**Student A (Esteban):** Yeah, he is from right here, Cartagena! His bread is honestly amazing.  
+*(Sí, ¡es de aquí mismo, de Cartagena! Su pan es sinceramente increíble).*
 
 ---
 
-**Student A (Esteban):** Now check out this photo I took — see this woman with the camera? Is she a tourist?  
-📸 *(AQUÍ ESTEBAN MUESTRA LA FOTO 2: Mariana la Fotógrafa)*  
-*(Ahora mira esta foto que tomé: ¿ves a esta mujer con la cámara? ¿Es turista?)*
+**Student A (Esteban):** Now look over there near the coffee shop — see that woman with the camera? Is she a tourist?  
+*(Ahora mira allá cerca de la cafetería: ¿ves a esa mujer con la cámara? ¿Es turista?)*
 
-**Student B (Álvaro):** Hmm, no, she isn't! That's Mariana Gómez. She's 28, and she's a professional photographer.  
+**Student B (Álvaro):** Hmm, no, she isn't! That's Mariana Gómez. She is 28 years old, and she is a professional photographer.  
 *(Hmm, ¡no, no lo es! Esa es Mariana Gómez. Tiene 28 años y es fotógrafa profesional).*
 
-**Student A (Esteban):** Oh nice, where's she from?  
-*(Ah qué bien, ¿de dónde es ella?)*
+**Student A (Esteban):** Oh nice! Where is she from?  
+*(¡Ah, qué bien! ¿De dónde es ella?)*
 
-**Student B (Álvaro):** She's Mexican, from Guadalajara, but she's here now for work.  
-*(Es mexicana, de Guadalajara, pero está aquí ahora por trabajo).*
+**Student B (Álvaro):** She is Mexican, from Guadalajara, but she is here in Cartagena for work.  
+*(Es mexicana, de Guadalajara, pero está aquí en Cartagena por trabajo).*
 
 ---
 
-**Student B (Álvaro):** Look at another picture I have! Who are those two guys by the bench? Are they brothers, you think?  
-📸 *(AQUÍ ÁLVARO MUESTRA LA FOTO 3: Mateo y Lucas los Programadores)*  
-*(¡Mira otra foto que tengo! ¿Quiénes son esos dos muchachos junto al banco? ¿Crees que son hermanos?)*
+**Student B (Álvaro):** And check out those two guys on the bench near the park. Are they brothers, you think?  
+*(Y mira a esos dos muchachos en el banco cerca del parque. ¿Crees que son hermanos?)*
 
-**Student A (Esteban):** Yeah, actually, they are! That's Mateo and Lucas Rossi. They're both 24, and they're software developers.  
-*(Sí, ¡de hecho sí lo son! Esos son Mateo y Lucas Rossi. Ambos tienen 24 años y son desarrolladores de software).*
+**Student A (Esteban):** Yeah, actually, they are! That's Mateo and Lucas Rossi. They are 24 years old, and they are software developers.  
+*(Sí, ¡de hecho sí lo son! Esos son Mateo y Lucas Rossi. Tienen 24 años y son desarrolladores de software).*
 
 **Student B (Álvaro):** Are they Spanish?  
 *(¿Son españoles?)*
 
-**Student A (Esteban):** Nope, they aren't Spanish! They're Italian — but their job's fully remote, so they're based here now.  
-*(Nop, ¡no son españoles! Son italianos, pero su trabajo es 100% remoto, así que están radicados aquí ahora).*
+**Student A (Esteban):** Nope, they aren't Spanish! They are Italian — but their job is fully remote, so they live here now.  
+*(Nop, ¡no son españoles! Son italianos, pero su trabajo es 100% remoto, así que viven aquí ahora).*
 
 ---
 
-**Student A (Esteban):** That's awesome. And what about this picture I have here? Is she a doctor or something?  
-📸 *(AQUÍ ESTEBAN MUESTRA LA FOTO 4: Elena la Profesora/Estudiante)*  
-*(Eso está genial. ¿Y qué hay de esta foto que tengo aquí? ¿Es médica o algo así?)*
+**Student A (Esteban):** That's awesome. And what about that girl sitting under the tree with the books? Is she a doctor?  
+*(Eso está genial. ¿Y qué hay de esa muchacha sentada bajo el árbol con los libros? ¿Es médica?)*
 
-**Student B (Álvaro):** No, she isn't a doctor yet! That's Elena Torres. She's 21 — she's an English teacher and also a university student.  
-*(¡No, todavía no es médica! Esa es Elena Torres. Tiene 21 años, es profesora de inglés y también estudiante universitaria).*
+**Student B (Álvaro):** No, she isn't a doctor yet! That's Elena Torres. She is 21 years old. She is an English teacher and also a university student.  
+*(¡No, todavía no es médica! Esa es Elena Torres. Tiene 21 años. Es profesora de inglés y también estudiante universitaria).*
 
 ---
 
-**Student A (Esteban):** Wow, our neighborhood is full of interesting people.  
-*(Vaya, nuestro barrio está lleno de gente interesante).*
+**Student A (Esteban):** Wow, our neighborhood really is full of talented people!  
+*(¡Vaya, nuestro barrio realmente está lleno de gente talentosa!)*
 
-**Student B (Álvaro):** Right? Well, talk to you later, Esteban! Have a good day.  
-*(¿Cierto? Bueno, ¡hablamos luego, Esteban! Que tengas un buen día).*
+**Student B (Álvaro):** Totally agree! Well, talk to you later, Esteban. Have a great day!  
+*(¡Totalmente de acuerdo! Bueno, ¡hablamos luego, Esteban! ¡Que tengas un gran día!)*
 
-**Student A (Esteban):** You too, Álvaro! See you.  
+**Student A (Esteban):** You too, Álvaro! See you around.  
 *(¡Tú también, Álvaro! Nos vemos).*
+
+---
+
+## 🎯 Pronunciación Rápida para asegurar el 5.0
+
+- **Photographer:** `/fə-TOG-ra-fer/` *(fuerza en "TOG", nunca digan "foto-graf-er")*
+- **Italian:** `/ih-TAL-yan/` *(la "i" suave)*
+- **Developers:** `/dih-VEL-op-ers/` *(fuerza en "VEL")*
+- **Thirty-five:** `/ˈθɜːrti faɪv/` *(treinta y cinco)*
