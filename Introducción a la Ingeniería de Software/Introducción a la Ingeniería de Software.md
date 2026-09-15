@@ -31,22 +31,16 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
 
 ## Entregas y Actividades Destacadas
 
-- [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Actividad de la Unidad 1 — Conceptualización y Bases Teóricas]]
-  - **Estado:** 🟢 **Redactado al 100% (100 preguntas)**
-  - **Guión de Sustentación:** [[Entregables/Guion_Video_Sustentacion_Ingenieria_Software|Guión de Video de Sustentación (2:30 – 3:00 min)]]
-  - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:57 hs)
-  - **Formato:** Markdown / PDF / DOCX + Enlace a video en YouTube/Drive
-- [[Entregables/Protocolo Colaborativo 1 - Ingenieria Software|Protocolo Colaborativo Unidad 1]]
-  - **Estado:** 📝 **Redactado al 100% (Listo para subir enlace Google Docs a SIMA)**
-  - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:57 hs)
-  - **Formato:** Documento Google Docs institucional (Texto en línea)
+- [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Protocolo Colaborativo Unidad 1 — 100 Preguntas y Video de Sustentación]]
+  - **Estado:** 🟢 **Subido y Entregado en SIMA (PDF con enlace a Video)**
+  - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
+  - **Formato:** Documento PDF con enlace de video
 
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** Asistencia a tutorías presenciales Sábados B (08 Ago y 22 Ago).
-- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Actividad de la Unidad 1]] desarrollada y redactada al 100% (100 preguntas argumentadas).
-- [x] **Unidad 1:** [[Entregables/Guion_Video_Sustentacion_Ingenieria_Software|Guión de Video de Sustentación Individual]] redactado y listo para grabación.
-- [ ] **Unidad 1:** Consolidar Protocolo Colaborativo Unidad 1 en CIPAS (Vence Viernes 18 Sep, 23:57 hs).
+- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Protocolo Colaborativo Unidad 1]] redactado al 100% (100 preguntas argumentadas) y entregado en PDF.
+- [x] **Unidad 1:** Video de sustentación individual grabado, procesado en HD y enlazado en el documento oficial.
 - [ ] **Unidad 2:** Lectura de funcionamiento de Internet, servidores DNS y dominios.
 
 ## Cómo Estudiar la Asignatura

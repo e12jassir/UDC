@@ -59,8 +59,7 @@
 | 📅 **Programado** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Viernes 18 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Domingo 20 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs, abre 18 Sep) |
-| 📅 **Programado** | **Viernes 18 Sep** | **Ing. Software** | 📝 **Actividad de la Unidad 1** | Campus SIMA (23:57 hs) |
-| 📅 **Programado** | **Viernes 18 Sep** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 1** | Campus SIMA (23:57 hs) |
+| 🟢 **Subido** | **Lunes 14 Sep** | **Ing. Software** | 📝 [[Introducción a la Ingeniería de Software/Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Protocolo Colaborativo Unidad 1 (100 preguntas + Video Sustentación)]] | Entregado en SIMA |
 | 📅 **Programado** | **Domingo 20 Sep** | **Algoritmos** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Domingo 27 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs, abre 25 Sep) |
 | 📌 **Cierre Corte** | **Lunes 28 Sep** | **Todas (6)** | 🚨 **Cierre Oficial 2.º Corte Evaluativo en SIMA** | Campus SIMA |
