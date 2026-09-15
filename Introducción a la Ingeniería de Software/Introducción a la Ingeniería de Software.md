@@ -36,10 +36,10 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
   - **Guión de Sustentación:** [[Entregables/Guion_Video_Sustentacion_Ingenieria_Software|Guión de Video de Sustentación (2:30 – 3:00 min)]]
   - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:57 hs)
   - **Formato:** Markdown / PDF / DOCX + Enlace a video en YouTube/Drive
-- **Protocolo Colaborativo Unidad 1**
-  - **Estado:** 📅 **Programado en SIMA**
+- [[Entregables/Protocolo Colaborativo 1 - Ingenieria Software|Protocolo Colaborativo Unidad 1]]
+  - **Estado:** 📝 **Redactado al 100% (Listo para subir enlace Google Docs a SIMA)**
   - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:57 hs)
-  - **Formato:** DOCX / PDF
+  - **Formato:** Documento Google Docs institucional (Texto en línea)
 
 ## Estado de Avances del Semestre
 

@@ -12,7 +12,7 @@
 
 | Nombre Completo | Código Estudiantil | Enlace de Video de Sustentación Individual |
 | :--- | :---: | :--- |
-| **Esteban David Marrugo Jassir** | `7502620036` | `[Enlace Pendiente - Google Drive / YouTube Institucional]` |
+| **Esteban David Marrugo Jassir** | `7502620036` | [Video de Sustentación Individual](https://drive.google.com/file/d/1LYkn41Nbq8P3lyiO0KVQL7IRjr-4IKhE/view?usp=drive_link) |
 | **Cristian Andrés Flórez Arboleda** | `75026200XX` | `[Enlace Pendiente - Google Drive / YouTube Institucional]` |
 | *(Tercer integrante a definir)* | `75026200XX` | `[Enlace Pendiente - Google Drive / YouTube Institucional]` |
 
