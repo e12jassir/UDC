@@ -50,7 +50,7 @@
 | 🟢 **Subido** | **Viernes 11 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 1** aprobado con 5.00/5.00 en SIMA | Entregado en SIMA |
 | 🏫 **Pasado** | **Sábado 12 Sep** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
 | 🟢 **Subido** | **Lunes 14 Sep** | **Cálculo** | 📝 [[Cálculo Diferencial/Entregables/Actividad 1 - Limites.pdf|Actividad de la Unidad 1]] (Taller de Límites escaneado) | Entregado en SIMA |
-| 📅 **Programado** | **Martes 15 Sep** | **Inglés I** | 🗣️ [[Inglés I/Entregables/Guion_Video_Conversacion_Ingles_I|Video Producción Oral U1]] (People in My Neighborhood) | Campus SIMA (23:59 hs) |
+| 🟢 **Subido** | **Martes 15 Sep** | **Inglés I** | 🗣️ [[Inglés I/Entregables/Guion_Video_Conversacion_Ingles_I|Video Producción Oral U1]] (People in My Neighborhood) cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Viernes 11 Sep** | **Algoritmos** | 📝 **Actividad de la Unidad 1** (19 ejercicios resueltos en Python/PDF) | Entregado en SIMA |
 | 🟢 **Subido** | **Miércoles 16 Sep** | **Fundamentos** | 📝 [[Fundamentos de Matemáticas/Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Miércoles 16 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Protocolo Individual 2 - Metodologia|Protocolo Individual Unidad 2]] cargado en SIMA | Entregado en SIMA |
@@ -222,6 +222,7 @@ graph TD
 #### 📍 Semana 7 & 8: Del 13 al 26 de Septiembre (Cierre 2.º Corte Evaluativo)
 - [x] **Algoritmos (U1):** 📝 **Actividad de la Unidad 1** (Cargada oficialmente en SIMA - 11 Sep).
 - [x] **Cálculo (U1):** 📝 **Actividad de la Unidad 1 (Taller de Límites)** (Cargada oficialmente en SIMA - 14 Sep).
+- [x] **Inglés I (U1):** 🗣️ **Video Producción Oral U1** (People in My Neighborhood) grabado y entregado en SIMA (15 Sep).
 - [x] **Ing. Software (U1):** 📝 **Actividad de la Unidad 1** (Redactada al 100% con 100 preguntas argumentadas - Pendiente grabación de videos para entrega en SIMA - Vence Viernes 18 Sep, 23:57 hs).
 - [ ] **Ing. Software (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
 - [x] **Fundamentos (U2):** 📝 **Protocolo Individual U2** (Cargado oficialmente en SIMA).

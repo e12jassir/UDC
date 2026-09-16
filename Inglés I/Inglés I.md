@@ -28,10 +28,10 @@ Inglés I es una asignatura transversal de formación institucional orientada al
 ## Entregables y Actividades Destacadas
 
 - [[Entregables/Guion_Video_Conversacion_Ingles_I|Guion de Video de Conversación (Unidad 1)]]
-  - **Estado:** 📝 **Guion redactado y listo para grabación**
-  - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
+  - **Estado:** 🟢 **Video grabado y entregado oficialmente en SIMA**
+  - **Fecha de Entrega:** Martes, 15 de Septiembre de 2026 (21:33 hs)
   - **Requerimiento:** Video de 2 a 3 minutos presentando personas en el vecindario con verbo _to be_, preguntas Wh- y formas afirmativas/negativas.
-  - **Formato:** Video / Producción oral
+  - **Formato:** Video / Producción oral (Grabación con Álvaro Castillo)
 
 ---
 
