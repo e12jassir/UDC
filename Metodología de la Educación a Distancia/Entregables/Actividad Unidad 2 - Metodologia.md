@@ -11,6 +11,10 @@
 • Esteban David Marrugo Jassir (Cód. 7502620036)  
 • Cristian Andrés Flórez Arboleda  
 
+### Enlaces de Sustentación Oficial:
+• 🔗 **Presentación Digital (Diapositivas):** [Diapositivas Interactivas HTML / Archivo Adjunto]  
+• 🎥 **Video de Sustentación (No Listado / Drive):** `[Pegar enlace del video grabado aquí]`  
+
 ---
 
 # 1. Momentos Metodológicos del Aprendizaje

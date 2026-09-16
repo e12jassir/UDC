@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sustentación Unidad 2 — Estrategia 3C (Momentos Metodológicos EAD)</title>
+  <style>
+    :root {
+      --bg: #090d16;
+      --card-bg: #111827;
+      --border: #1f2937;
+      --accent: #0ea5e9; /* Sky blue academic */
+      --accent-secondary: #10b981; /* Emerald green */
+      --text: #cbd5e1;
+      --text-bold: #f8fafc;
+      --gold: #f59e0b;
+      --purple: #8b5cf6;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      overflow: hidden;
+    }
+
+    .deck-container {
+      width: 92vw;
+      max-width: 1250px;
+      height: 84vh;
+      position: relative;
+    }
+
+    .slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 44px 52px;
+      display: none;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 12px 36px rgba(0,0,0,0.7);
+      animation: fadeIn 0.25s ease-in-out;
+    }
+
+    .slide.active {
+      display: flex;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Slide Header */
+    .slide-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 14px;
+    }
+
+    .slide-title {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--text-bold);
+      letter-spacing: -0.5px;
+    }
+
+    .slide-subtitle {
+      font-size: 14px;
+      color: var(--accent);
+      margin-top: 4px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+    }
+
+    .badge {
+      background: #1e293b;
+      border: 1px solid #334155;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 12px;
+      color: #94a3b8;
+      font-weight: 600;
+    }
+
+    /* Slide Body */
+    .slide-body {
+      flex: 1;
+      display: flex;
+      gap: 28px;
+      margin: 22px 0;
+      align-items: stretch;
+    }
+
+    .col {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .card {
+      background: rgba(15, 23, 42, 0.7);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px 22px;
+    }
+
+    .card-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--accent-secondary);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .card-content {
+      font-size: 13.5px;
+      line-height: 1.55;
+      color: var(--text);
+    }
+
+    .highlight-box {
+      background: rgba(14, 165, 233, 0.08);
+      border-left: 4px solid var(--accent);
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+      font-size: 13.5px;
+      line-height: 1.5;
+    }
+
+    ul.clean-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    ul.clean-list li {
+      position: relative;
+      padding-left: 22px;
+      font-size: 13.5px;
+      line-height: 1.45;
+    }
+
+    ul.clean-list li::before {
+      content: "▹";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: bold;
+    }
+
+    /* Slide Footer */
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid var(--border);
+      padding-top: 12px;
+      font-size: 12px;
+      color: #64748b;
+    }
+
+    .presenters {
+      display: flex;
+      gap: 16px;
+      font-weight: 500;
+    }
+
+    .presenter-chip {
+      background: #1e293b;
+      padding: 4px 10px;
+      border-radius: 6px;
+      color: #cbd5e1;
+    }
+
+    /* Controls Bar */
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      margin-top: 16px;
+    }
+
+    button.ctrl-btn {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: #f8fafc;
+      padding: 9px 20px;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.2s;
+    }
+
+    button.ctrl-btn:hover {
+      background: var(--accent);
+      color: #040d1a;
+      border-color: var(--accent);
+    }
+
+    .slide-indicator {
+      font-size: 14px;
+      font-weight: 600;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="deck-container">
+
+    <!-- DIAPOSITIVA 1: PORTADA -->
+    <div class="slide active" id="slide-1">
+      <div class="slide-header">
+        <div>
+          <div class="slide-title">Estrategia 3C: Captura, Co-Validación y Consolidación</div>
+          <div class="slide-subtitle">Modelo Ágil de Aprendizaje Autónomo en la Educación a Distancia</div>
+        </div>
+        <div class="badge">Unidad 2 · MEAD</div>
+      </div>
+      <div class="slide-body" style="align-items: center; justify-content: center; gap: 36px;">
+        <div style="flex: 1.2; display: flex; flex-direction: column; gap: 16px;">
+          <div class="card" style="border-left: 4px solid var(--accent); background: rgba(14, 165, 233, 0.05);">
+            <div class="card-title" style="color: var(--accent); font-size: 17px;">🏛️ Universidad de Cartagena — Facultad de Ingeniería</div>
+            <p class="card-content" style="font-size: 14px;">
+              <strong>Programa:</strong> Ingeniería de Software (Semestre 1 - 2026-2)<br>
+              <strong>Asignatura:</strong> Metodologías y Estrategias de la Educación a Distancia<br>
+              <strong>Docente:</strong> Raquel Leottau Díaz
+            </p>
+          </div>
+          <div class="highlight-box">
+            <strong>Propósito de la Actividad:</strong> Articular dialécticamente los Tres Momentos Metodológicos del Aprendizaje (Amaury Lora Sfer) para transformar la flexibilidad de la EAD en disciplina, rigor colaborativo y retención conceptual de largo plazo.
+          </div>
+        </div>
+        <div style="flex: 0.8;">
+          <div class="card" style="border: 1px solid #334155; background: #0f172a;">
+            <div class="card-title" style="color: var(--gold);">👥 Equipo CIPAS — Grupo 8</div>
+            <ul class="clean-list" style="margin-top: 10px;">
+              <li><strong>Esteban David Marrugo Jassir</strong><br><span style="color: #64748b;">Cód. 7502620036</span></li>
+              <li><strong>Cristian Andrés Flórez Arboleda</strong><br><span style="color: #64748b;">Ingeniería de Software</span></li>
+            </ul>
+            <div style="margin-top: 16px; padding-top: 12px; border-top: 1px solid #1e293b; font-size: 12px; color: #94a3b8;">
+              📍 Sede Piedra de Bolívar · CTEV
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="slide-footer">
+        <div class="presenters">
+          <span class="presenter-chip">Voz 1: Esteban Marrugo</span>
+          <span class="presenter-chip">Voz 2: Cristian Flórez</span>
+        </div>
+        <div>Diapositiva 1 / 6</div>
+      </div>
+    </div>
+
+    <!-- DIAPOSITIVA 2: EL PROBLEMA Y JUSTIFICACIÓN -->
+    <div class="slide" id="slide-2">
+      <div class="slide-header">
+        <div>
+          <div class="slide-title">El Problema de la EAD y Justificación Metodológica</div>
+          <div class="slide-subtitle">Superando la fragmentación viciada del trabajo en equipo</div>
+        </div>
+        <div class="badge">Diagnóstico & Fundamento</div>
+      </div>
+      <div class="slide-body">
+        <div class="col">
+          <div class="card" style="border-left: 4px solid #ef4444;">
+            <div class="card-title" style="color: #f87171;">⚠️ El Vicio Tradicional en Distancia</div>
+            <ul class="clean-list">
+              <li><strong>Confundir flexibilidad con procrastinación:</strong> Dejar lecturas complejas para la víspera del vencimiento en SIMA.</li>
+              <li><strong>El síndrome del mosaico o retazo:</strong> Repartir puntos de un taller sin debatir ("tú haces el 1 y yo el 2").</li>
+              <li><strong>Aislamiento cognitivo:</strong> Intentar resolver dudas sin contraste dialógico entre pares.</li>
+            </ul>
+          </div>
+          <div class="highlight-box">
+            Amaury Lora Sfer (2014) advierte que quien no estudia no aprende, y que el CIPAS fracasa si los miembros llegan vacíos sin haber leído previamente.
+          </div>
+        </div>
+        <div class="col">
+          <div class="card" style="border-left: 4px solid var(--accent-secondary);">
+            <div class="card-title">💡 La Justificación de la Estrategia 3C</div>
+            <ul class="clean-list">
+              <li><strong>Inspiración en Software Ágil:</strong> Rutinas continuas y medibles, no maratones caóticas de última hora.</li>
+              <li><strong>Obligatoriedad del insumo individual:</strong> Ningún integrante participa en el debate sin mostrar sus notas previas.</li>
+              <li><strong>Maximización de la tutoría:</strong> Los sábados con el docente no son para dictar clases básicas, sino para resolver dudas de fondo.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="slide-footer">
+        <div class="presenters">
+          <span class="presenter-chip">Explica: Cristian Flórez</span>
+        </div>
+        <div>Diapositiva 2 / 6</div>
+      </div>
+    </div>
+
+    <!-- DIAPOSITIVA 3: LOS TRES MOMENTOS Y MAPA CONCEPTUAL -->
+    <div class="slide" id="slide-3">
+      <div class="slide-header">
+        <div>
+          <div class="slide-title">Articulación Dialéctica: Los Tres Momentos</div>
+          <div class="slide-subtitle">Estructura jerárquica del aprendizaje en la Universidad de Cartagena</div>
+        </div>
+        <div class="badge">Mapa Conceptual</div>
+      </div>
+      <div class="slide-body">
+        <div class="col">
+          <div class="card">
+            <div class="card-title" style="color: #38bdf8;">1. Estudio Individual y Autónomo</div>
+            <div class="card-content">
+              Lectura analítica del módulo en SIMA, cálculo de créditos (2h a 3h autónomas por crédito) y estructuración del <strong>Protocolo Individual</strong>. Es el insumo vital e intransferible.
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color: #4ade80;">2. Co-Validación en CIPAS</div>
+            <div class="card-content">
+              Encuentro dialógico entre pares. Se contrastan modelos mentales, se destruyen sesgos y se redacta el <strong>Protocolo Colaborativo</strong>, filtrando las dudas complejas no resueltas.
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color: #facc15;">3. Tutoría Presencial (Sábados)</div>
+            <div class="card-content">
+              El docente actúa como tutor mediador y co-validador. Se debaten las preguntas de fondo y se consolida la síntesis tutorial, cerrando el ciclo de <em>aprender a aprender</em>.
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card" style="height: 100%; display: flex; flex-direction: column; justify-content: center; background: #0b1329;">
+            <div style="text-align: center; margin-bottom: 12px; font-weight: 700; color: #93c5fd;">
+              Flujo Cíclico Metodológico (Lora Sfer)
+            </div>
+            <div style="font-family: monospace; font-size: 13px; line-height: 1.8; color: #cbd5e1; background: #020617; padding: 16px; border-radius: 8px; border: 1px solid #1e293b;">
+              [Módulo SIMA]<br>
+              &nbsp;&nbsp;&nbsp;│<br>
+              &nbsp;&nbsp;&nbsp;▼<br>
+              <strong>Momento 1:</strong> Estudio Autónomo (Obsidian + Feynman)<br>
+              &nbsp;&nbsp;&nbsp;│ <i>(Insumo: Protocolo Individual)</i><br>
+              &nbsp;&nbsp;&nbsp;▼<br>
+              <strong>Momento 2:</strong> CIPAS Co-validación (Discord + Google Docs)<br>
+              &nbsp;&nbsp;&nbsp;│ <i>(Insumo: Dudas Semilla y Protocolo Colab.)</i><br>
+              &nbsp;&nbsp;&nbsp;▼<br>
+              <strong>Momento 3:</strong> Tutoría Presencial CTEV (Docente Mediador)<br>
+              &nbsp;&nbsp;&nbsp;│<br>
+              &nbsp;&nbsp;&nbsp;└──► Retroalimenta: <strong>Aprender a Aprender</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="slide-footer">
+        <div class="presenters">
+          <span class="presenter-chip">Explica: Esteban Marrugo & Cristian Flórez</span>
+        </div>
+        <div>Diapositiva 3 / 6</div>
+      </div>
+    </div>
+
+    <!-- DIAPOSITIVA 4: FASES DE LA ESTRATEGIA 3C Y HERRAMIENTAS -->
+    <div class="slide" id="slide-4">
+      <div class="slide-header">
+        <div>
+          <div class="slide-title">Operatividad: Fases de la Estrategia 3C</div>
+          <div class="slide-subtitle">Distribución semanal de cargas y ecosistema digital</div>
+        </div>
+        <div class="badge">Estrategia Aplicada</div>
+      </div>
+      <div class="slide-body">
+        <div class="col">
+          <div class="card" style="border-top: 3px solid var(--accent);">
+            <div class="card-title">Fase 1: CAPTURA (Lun - Mié)</div>
+            <p class="card-content">
+              • Lectura activa del módulo de la unidad.<br>
+              • Técnica Feynman en <strong>Obsidian</strong>: explicar en palabras propias.<br>
+              • Redacción del protocolo individual sin atajos.
+            </p>
+          </div>
+          <div class="card" style="border-top: 3px solid var(--accent-secondary);">
+            <div class="card-title">Fase 2: CO-VALIDACIÓN (Jue - Vie)</div>
+            <p class="card-content">
+              • Llamada de 60-90 min en canal de voz en <strong>Discord</strong>.<br>
+              • Co-escritura en vivo sobre <strong>Google Docs Institucional</strong>.<br>
+              • Filtrado estricto de "Dudas Semilla" para el tutor.
+            </p>
+          </div>
+          <div class="card" style="border-top: 3px solid var(--gold);">
+            <div class="card-title">Fase 3: CONSOLIDACIÓN (Sábados B)</div>
+            <p class="card-content">
+              • Participación activa en la sesión presencial de las 07:00 am.<br>
+              • Discusión plenaria de dudas complejas con la docente Raquel.
+            </p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <div class="card-title" style="color: var(--purple);">🛠️ Roles Rotativos en CIPAS</div>
+            <ul class="clean-list">
+              <li><strong>Moderador de Tiempo:</strong> Controla intervenciones (máx. 5 min por concepto) y evita dispersión.</li>
+              <li><strong>Relator de Síntesis:</strong> Digita en tiempo real los consensos del equipo en Google Docs.</li>
+              <li><strong>Revisor Técnico:</strong> Valida normas APA 7, ortografía y concordancia con la rúbrica SIMA.</li>
+            </ul>
+          </div>
+          <div class="card" style="background: rgba(16, 185, 129, 0.05); border: 1px solid rgba(16, 185, 129, 0.2);">
+            <div class="card-title" style="color: var(--accent-secondary);">💻 Stack Digital Implementado</div>
+            <p class="card-content" style="font-size: 13px;">
+              <strong>Obsidian:</strong> Markdown atómico local.<br>
+              <strong>Discord:</strong> Comunicación sincrónica ágil.<br>
+              <strong>Google Workspace UDC:</strong> Registro trazable y transparente.<br>
+              <strong>Google Calendar:</strong> Time-blocking de 3h por crédito.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="slide-footer">
+        <div class="presenters">
+          <span class="presenter-chip">Explica: Esteban Marrugo</span>
+        </div>
+        <div>Diapositiva 4 / 6</div>
+      </div>
+    </div>
+
+    <!-- DIAPOSITIVA 5: SEGUIMIENTO, EVALUACIÓN Y RESULTADOS -->
+    <div class="slide" id="slide-5">
+      <div class="slide-header">
+        <div>
+          <div class="slide-title">Seguimiento, Evaluación y Resultados</div>
+          <div class="slide-subtitle">Mecanismos de control interno y métricas de éxito</div>
+        </div>
+        <div class="badge">Control de Calidad</div>
+      </div>
+      <div class="slide-body">
+        <div class="col">
+          <div class="card" style="border-left: 4px solid var(--gold);">
+            <div class="card-title" style="color: var(--gold);">🚦 Filtros de Control Interno</div>
+            <ul class="clean-list">
+              <li><strong>Pase de Entrada al CIPAS:</strong> Al entrar a Discord, cada miembro comparte pantalla 30s mostrando sus notas de Fase 1. Quien no leyó, queda de oyente y no firma.</li>
+              <li><strong>Lista de Chequeo de Co-validación:</strong>
+                <br>• ¿Cubrimos toda la guía?
+                <br>• ¿Quedó registrada al menos una discrepancia real debatida?
+                <br>• ¿Tenemos 1 o 2 preguntas de alto nivel para el profesor?
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card" style="border-left: 4px solid var(--accent-secondary);">
+            <div class="card-title">📈 Resultados Medibles Obtenidos</div>
+            <ul class="clean-list">
+              <li><strong>Cero Entregas de Emergencia:</strong> Se elimina la ansiedad de subir trabajos incompletos a las 23:55 hs.</li>
+              <li><strong>Calidad Académica Superior:</strong> Entregables rigurosos con estándares de calificación > 4.5 en SIMA.</li>
+              <li><strong>Preparación Temprana de Parciales:</strong> Los cuestionarios se resuelven sobre conceptos procesados semana a semana.</li>
+              <li><strong>Habilidades Profesionales:</strong> Entrenamiento directo en trabajo colaborativo distribuido (entorno real de Software).</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="slide-footer">
+        <div class="presenters">
+          <span class="presenter-chip">Explica: Cristian Flórez</span>
+        </div>
+        <div>Diapositiva 5 / 6</div>
+      </div>
+    </div>
+
+    <!-- DIAPOSITIVA 6: CONCLUSIÓN Y APRENDER A APRENDER -->
+    <div class="slide" id="slide-6">
+      <div class="slide-header">
+        <div>
+          <div class="slide-title">Impacto en el Proceso de "Aprender a Aprender"</div>
+          <div class="slide-subtitle">Metacognición, autonomía y conclusiones finales</div>
+        </div>
+        <div class="badge">Cierre Metacognitivo</div>
+      </div>
+      <div class="slide-body">
+        <div class="col">
+          <div class="card">
+            <div class="card-title" style="color: var(--accent);">🧠 Desarrollo de la Metacognición</div>
+            <p class="card-content">
+              El estudiante deja de memorizar pasivamente y aprende a auditar su propio conocimiento. Detecta con honestidad qué no entiende durante la Fase 1 antes de que un examen se lo demuestre.
+            </p>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color: var(--accent-secondary);">🤝 Co-Construcción Social</div>
+            <p class="card-content">
+              Al explicar y defender un concepto frente al compañero en la Fase 2, se comprueba la máxima pedagógica: <em>"Quien enseña, aprende dos veces"</em>.
+            </p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card" style="background: rgba(14, 165, 233, 0.08); border: 1px solid var(--accent); height: 100%; display: flex; flex-direction: column; justify-content: center; text-align: center; padding: 28px;">
+            <div style="font-size: 18px; font-style: italic; color: #f8fafc; line-height: 1.6; margin-bottom: 18px;">
+              "En la educación a distancia, quien no estudia no aprende; pero quien aprende a co-validar en equipo, lidera con autonomía su formación como ingeniero."
+            </div>
+            <div style="font-size: 13px; color: var(--accent); font-weight: 600;">
+              CIPAS Grupo 8 · Esteban Marrugo & Cristian Flórez<br>
+              Universidad de Cartagena
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="slide-footer">
+        <div class="presenters">
+          <span class="presenter-chip">Conclusión: Esteban Marrugo & Cristian Flórez</span>
+        </div>
+        <div>Diapositiva 6 / 6</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Barra de Navegación -->
+  <div class="controls">
+    <button class="ctrl-btn" onclick="prevSlide()">◀ Anterior</button>
+    <div class="slide-indicator" id="slideIndicator">1 / 6</div>
+    <button class="ctrl-btn" onclick="nextSlide()">Siguiente ▶</button>
+    <button class="ctrl-btn" style="background: #0f766e;" onclick="toggleFullScreen()">⛶ Pantalla Completa</button>
+  </div>
+
+  <script>
+    let currentSlide = 1;
+    const totalSlides = 6;
+
+    function showSlide(index) {
+      if (index < 1) index = 1;
+      if (index > totalSlides) index = totalSlides;
+      currentSlide = index;
+
+      for (let i = 1; i <= totalSlides; i++) {
+        const slide = document.getElementById(`slide-${i}`);
+        if (slide) {
+          slide.classList.toggle('active', i === currentSlide);
+        }
+      }
+
+      document.getElementById('slideIndicator').innerText = `${currentSlide} / ${totalSlides}`;
+    }
+
+    function nextSlide() {
+      if (currentSlide < totalSlides) showSlide(currentSlide + 1);
+    }
+
+    function prevSlide() {
+      if (currentSlide > 1) showSlide(currentSlide - 1);
+    }
+
+    function toggleFullScreen() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen();
+      } else {
+        if (document.exitFullscreen) {
+          document.exitFullscreen();
+        }
+      }
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+        nextSlide();
+      } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+        prevSlide();
+      } else if (e.key === 'f' || e.key === 'F') {
+        toggleFullScreen();
+      }
+    });
+  </script>
+</body>
+</html>
