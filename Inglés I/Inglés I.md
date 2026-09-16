@@ -32,6 +32,11 @@ Inglés I es una asignatura transversal de formación institucional orientada al
   - **Fecha de Entrega:** Martes, 15 de Septiembre de 2026 (21:33 hs)
   - **Requerimiento:** Video de 2 a 3 minutos presentando personas en el vecindario con verbo _to be_, preguntas Wh- y formas afirmativas/negativas.
   - **Formato:** Video / Producción oral (Grabación con Álvaro Castillo)
+- [[Entregables/Actividad_Unidad_2_Market_Description|Actividad Escrita Unidad 2 (Market Description)]]
+  - **Estado:** 📝 **Texto redactado y blindado (7 oraciones) — Listo para subir**
+  - **Ventana en SIMA:** Miércoles, 07 de Octubre al Martes, 13 de Octubre de 2026 (23:59 hs)
+  - **Requerimiento:** Texto corto (5 a 8 oraciones) describiendo visita a un mercado con *there is / there are*, presente simple, comida/bebida y compra sencilla.
+  - **Formato:** Texto en línea / PDF
 
 ---
 

@@ -67,6 +67,7 @@
 | 📅 **Programado** | **Sábado 03 Oct** | **Cálculo** | 📝 **Actividad de la Unidad 2 (Derivada de Funciones)** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Miércoles 07 Oct** | **Metodología** | 📝 **Entregable:** Mapa conceptual de Los 3 Momentos del Aprendizaje | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Viernes 09 Oct** | **Fundamentos** | 📝 **Taller Unidad 3:** Resolución de problemas con Ecuaciones Cuadráticas | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Martes 13 Oct** | **Inglés I** | 📝 [[Inglés I/Entregables/Actividad_Unidad_2_Market_Description|Actividad Unidad 2 (Market Description)]] | Campus SIMA (23:59 hs, abre 07 Oct) |
 | 📅 **Programado** | **Miércoles 14 Oct** | **Ing. Software** | 📝 **Entregable:** Análisis de casos de uso de Internet de las Cosas (IoT) | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Miércoles 21 Oct** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:59 hs, abre 19 Oct) |
 | 📅 **Programado** | **Viernes 23 Oct** | **Algoritmos** | 📝 **Taller Unidad 3:** Funciones y Modularidad en Java | Campus SIMA (23:57 hs) |
