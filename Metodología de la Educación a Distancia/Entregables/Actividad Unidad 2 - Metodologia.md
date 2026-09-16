@@ -243,3 +243,15 @@ Para que esta estrategia no se quede en el papel, establecimos un filtro estrict
 
 En la educación a distancia, quien no estudia no aprende; pero quien aprende a co-validar en equipo, lidera con autonomía su formación universitaria. Muchísimas gracias por su atención."
 
+---
+
+# 4. Referencias Bibliográficas (Normas APA 7.ª Edición)
+
+- **Costa Román, Ó., & Garcia Gaitero, O.** (2017). *El aprendizaje autorregulado y las estrategias de aprendizaje*. Tendencias Pedagógicas, (30), 117–130. https://doi.org/10.15366/tp2017.30.007
+- **García Aretio, L.** (2014). *Bases, mediaciones y futuro de la educación a distancia en la sociedad digital*. Editorial Síntesis.
+- **Hernández-Sellés, N., Muñoz-Carril, P. C., & González-Sanmamed, M.** (2023). *Roles del docente universitario en procesos de aprendizaje colaborativo en entornos virtuales*. RIED. Revista Iberoamericana de Educación a Distancia, 26(1), 45–66. https://doi.org/10.5944/ried.26.1.34005
+- **Lluch Molins, L., & Portillo Blázquez, M. C.** (2018). *La competencia de aprender a aprender en el marco de la educación superior*. Revista de Docencia Universitaria (REDU), 16(2), 223–239. https://doi.org/10.4995/redu.2018.10268
+- **Lora Sfer, A.** (2014). *Metodología de la Educación Abierta y a Distancia: Los Tres Momentos del Aprendizaje y los CIPAS en la Universidad de Cartagena*. Centro de Tecnologías para la Educación Virtual (CTEV), Universidad de Cartagena.
+- **Sangrá, A., Guitert, M., & Behar, P. A.** (2023). *Competencias y metodologías innovadoras para la educación digital*. RIED. Revista Iberoamericana de Educación a Distancia, 26(1), 9–23. https://doi.org/10.5944/ried.26.1.36015
+
+
