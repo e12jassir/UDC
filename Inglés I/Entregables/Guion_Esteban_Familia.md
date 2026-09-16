@@ -1,4 +1,4 @@
-# Oral Production: Video Presentation — Esteban's Script (Family)
+# Oral Production: Video Presentation — Esteban's Script (Versión 100% Natural & Callejera)
 
 **Course:** Inglés I (ENGV001-E2) — Universidad de Cartagena  
 **Speaker:** Esteban David Marrugo Jassir  
@@ -6,35 +6,37 @@
 
 ---
 
-## 🎙️ Guion en Inglés (Listo para Leer a Cámara)
+## 🎙️ Guion en Inglés (Fluido, Cero Robótico)
 
-> "Awesome, Álvaro! Now it's my turn to introduce three important people in my life.
+> "Hey Álvaro, what's up bro! All good? Nice, man!
 > 
-> First is my dad, **Darwin Marrugo**. He is **45 (forty-five)** years old. Is he a mechanic? No, he isn't! He is a **dump truck driver**, and he is from Turbaco, Colombia.
+> Well, let me tell you about my family real quick.
 > 
-> Second is my mom, **Ingrid**. She is **35 (thirty-five)** years old, and she is a **pharmacy manager**. She is very smart and hard-working!
+> First up is my dad, **Darwin Marrugo**. He's **45 (forty-five)**. Is he a mechanic or something? Nah, he isn't! He's actually a **dump truck driver**, straight from Turbaco, Colombia.
 > 
-> And last but not least is my little sister, **Gabriela**. She is **9 (nine)** years old, and she is an **elementary school student**. She is always cheerful and creative.
+> Then there's my mom, **Ingrid**. She's **35 (thirty-five)**, and she's a **pharmacy manager**. She's super smart and hard-working.
 > 
-> That's all for our presentation today. Thank you so much for watching, and have a great day. Bye!"
+> And last but not least, my little sister **Gabriela**. She's only **9 (nine)**, she's an **elementary school student**, and honestly, she's always super cheerful and creative!
+> 
+> So yeah, that's pretty much my family! Thank you guys for watching, have a good one. Peace!"
 
 ---
 
 ## 🗣️ Traducción al Español
-> "¡Genial, Álvaro! Ahora es mi turno de presentar a tres personas importantes en mi vida.  
-> Primero está mi papá, **Darwin Marrugo**. Él tiene **45 años**. ¿Es mecánico? ¡No, no lo es! Es **conductor de volquetas** y es de Turbaco, Colombia.  
-> Segunda es mi mamá, **Ingrid**. Ella tiene **35 años** y es **administradora de farmacia**. ¡Es muy inteligente y trabajadora!  
-> Y por último pero no menos importante está mi hermanita, **Gabriela**. Ella tiene **9 años** y es **estudiante de primaria**. Siempre es muy alegre y creativa.  
-> Eso es todo por nuestra presentación de hoy. Muchas gracias por ver el video y que tengan un gran día. ¡Chao!"
+> "¡Hey Álvaro, qué hubo bro! ¿Todo bien? ¡Bien, man!  
+> Bueno, déjame contarte sobre mi familia rapidito.  
+> Primero que todo está mi papá, **Darwin Marrugo**. Tiene **45**. ¿Es mecánico o algo así? ¡Nah, no lo es! En realidad es **conductor de volquetas**, directo de Turbaco, Colombia.  
+> Luego está mi mamá, **Ingrid**. Tiene **35**, y es **administradora de farmacia**. Es superinteligente y trabajadora.  
+> Y por último pero no menos importante, mi hermanita **Gabriela**. Solo tiene **9**, es **estudiante de primaria**, y la verdad, ¡siempre es superalegre y creativa!  
+> Así que sí, ¡esa es básicamente mi familia! Muchas gracias a todos por ver el video, que tengan un buen día. ¡Hablamos!"
 
 ---
 
-## 🎯 Guía de Pronunciación Fonética
+## 🎯 Guía Rápida de Entonación
 
-- **Dump truck driver:** `/dʌmp trʌk DRAI-ver/` *(damp trák drái-ver — conductor de volquetas)*
-- **Pharmacy manager:** `/FAR-ma-si MAN-a-jer/` *(fár-ma-si mán-a-yer — administradora de farmacia)*
-- **Elementary school student:** `/el-e-MEN-ta-ri skool STYOO-dent/` *(el-e-mén-ta-ri skul stiú-dent)*
-- **Forty-five:** `/FOR-ti faiv/` *(fór-ti fáiv — 45)*
-- **Thirty-five:** `/THER-ti faiv/` *(zér-ti fáiv — 35)*
-- **Nine:** `/nain/` *(náin — 9)*
-- **Hard-working:** `/hard WER-king/` *(jard uér-king — trabajadora)*
+- *"Hey Álvaro, what's up bro! All good? Nice, man!"* 👉 Tíralo relajado, con sonrisa y buena vibra.
+- *"Is he a mechanic or something? Nah, he isn't!"* 👉 Haz la pregunta con tono curioso y el *"Nah, he isn't!"* con seguridad criolla.
+- **Dump truck driver:** `damp trák drái-ver`
+- **Pharmacy manager:** `fár-ma-si mán-a-yer`
+- **Elementary school student:** `el-e-mén-ta-ri skul stiú-dent`
+- *"Have a good one. Peace!"* 👉 El remate perfecto: natural y sin sonar a folleto escolar.
