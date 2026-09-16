@@ -56,21 +56,20 @@
 | 🟢 **Subido** | **Miércoles 16 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Protocolo Individual 2 - Metodologia|Protocolo Individual Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Lunes 14 Sep** | **Fundamentos** | 📝 [[Fundamentos de Matemáticas/Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Lunes 14 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Protocolo Colaborativo 2 - Metodologia|Protocolo Colaborativo Unidad 2]] cargado en SIMA | Entregado en SIMA |
-| 📅 **Programado** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Viernes 18 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Domingo 20 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs, abre 18 Sep) |
-| 🟢 **Subido** | **Lunes 14 Sep** | **Ing. Software** | 📝 [[Introducción a la Ingeniería de Software/Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Protocolo Colaborativo Unidad 1 (100 preguntas + Video Sustentación)]] | Entregado en SIMA |
+| 📅 **Programado** | **Jueves 17 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Viernes 18 Sep** | **Ing. Software** | 📝 [[Introducción a la Ingeniería de Software/Entregables/Actividad_Unidad_1_Caso_Rappi|Actividad Unidad 1 (Caso Rappi + Sustentación)]] | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2 (Ecuaciones)** | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Viernes 18 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Domingo 20 Sep** | **Algoritmos** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Domingo 27 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs, abre 25 Sep) |
+| 📅 **Programado** | **Domingo 27 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs) |
 | 📌 **Cierre Corte** | **Lunes 28 Sep** | **Todas (6)** | 🚨 **Cierre Oficial 2.º Corte Evaluativo en SIMA** | Campus SIMA |
-| 📅 **Programado** | **Miércoles 30 Sep** | **Ing. Software** | 📝 **Entregable:** Cuadro comparativo de Sistemas Operativos (Windows/Linux/Mac) | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Sábado 03 Oct** | **Cálculo** | 📝 **Actividad de la Unidad 2 (Derivada de Funciones)** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Miércoles 07 Oct** | **Metodología** | 📝 **Entregable:** Mapa conceptual de Los 3 Momentos del Aprendizaje | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Viernes 09 Oct** | **Fundamentos** | 📝 **Taller Unidad 3:** Resolución de problemas con Ecuaciones Cuadráticas | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Lunes 12 Oct** | **Algoritmos** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Martes 13 Oct** | **Inglés I** | 📝 [[Inglés I/Entregables/Actividad_Unidad_2_Market_Description|Actividad Unidad 2 (Market Description)]] | Campus SIMA (23:59 hs, abre 07 Oct) |
-| 📅 **Programado** | **Miércoles 14 Oct** | **Ing. Software** | 📝 **Entregable:** Análisis de casos de uso de Internet de las Cosas (IoT) | Campus SIMA (23:57 hs) |
-| 📅 **Programado** | **Miércoles 21 Oct** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:59 hs, abre 19 Oct) |
-| 📅 **Programado** | **Viernes 23 Oct** | **Algoritmos** | 📝 **Taller Unidad 3:** Funciones y Modularidad en Java | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Jueves 15 Oct** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 2** | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Martes 20 Oct** | **Algoritmos** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Miércoles 21 Oct** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Sábado 24 Oct** | **Cálculo** | 📝 **Actividad de la Unidad 3** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Miércoles 28 Oct** | **Cátedra** | 📝 **Entregable:** Ensayo reflexivo sobre La Motivación (Unidad 4) | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Jueves 29 Oct** | **Metodología** | 📝 **Entregable:** Infografía de Fundamentos Pedagógicos de Ed. a Distancia | Campus SIMA (23:57 hs) |
