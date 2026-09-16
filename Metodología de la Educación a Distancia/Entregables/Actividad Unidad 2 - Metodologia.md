@@ -194,56 +194,52 @@ Estructura diseñada para presentación en Canva, Google Slides o PowerPoint:
 
 # 3. Guion Oficial del Video de Sustentación
 
-**Modalidad:** Grabación en pareja (ambos integrantes aparecen en pantalla y hablan 50% - 50%).  
-**Plataforma sugerida:** Google Meet o Discord con cámaras encendidas y diapositivas compartidas.  
+**Modalidad:** Sustentación Individual en calidad de Vocero del CIPAS (por inasistencia a la tutoría presencial).  
+**Recurso en pantalla:** Diapositivas interactivas en HTML / pantalla completa con cámara encendida.  
 **Duración objetivo:** 3:30 a 4:00 minutos.  
 
 ---
 
-**[0:00 - 0:45] Introducción y Contexto**  
-*Cámaras encendidas de Esteban y Cristian. Diapositiva 1 en pantalla.*
+### [0:00 - 0:45] Diapositiva 1 — Portada y Presentación
+"Un cordial saludo para la docente Raquel Leottau Díaz y compañeros del curso. Mi nombre es **Esteban David Marrugo Jassir**, estudiante de primer semestre de Ingeniería de Software en la Universidad de Cartagena y vocero del **CIPAS Grupo 8**. 
 
-**Esteban:**  
-"Un cordial saludo para la docente Raquel Leottau Díaz y compañeros del curso. Somos el CIPAS Grupo 8, conformado por Cristian Andrés Flórez Arboleda y mi persona, Esteban David Marrugo Jassir, del primer semestre de Ingeniería de Software de la Universidad de Cartagena. Hoy venimos a presentar nuestra propuesta metodológica de la Unidad 2: la **Estrategia 3C**, un modelo estructurado para vivir de manera real y efectiva los tres momentos metodológicos del aprendizaje en la educación a distancia."
-
-**Cristian:**  
-"Esta estrategia nace de una necesidad real que identificamos en nuestro proceso formativo. Muchas veces se tiene la falsa idea de que estudiar a distancia consiste únicamente en dividirse las preguntas de un taller a última hora. Como bien señala el pedagogo Amaury Lora Sfer, la educación a distancia no funciona como un mosaico de partes pegadas, sino como un proceso dialéctico donde el estudio individual, el debate en CIPAS y la tutoría presencial están estrechamente articulados."
+Debido a mi inasistencia a la sesión presencial programada, procedo a realizar la sustentación oficial de nuestra actividad de la Unidad 2: la **Estrategia 3C: Captura, Co-validación y Consolidación**, un modelo metodológico diseñado para aplicar con rigor los tres momentos del aprendizaje en la educación abierta y a distancia."
 
 ---
 
-**[0:45 - 1:45] Los Tres Momentos y el Mapa Conceptual**  
-*Diapositivas 2 y 3 en pantalla.*
+### [0:45 - 1:30] Diapositiva 2 — El Problema y la Justificación
+*(Pasar a Diapositiva 2)*  
+"Esta propuesta nace de un diagnóstico real que vivimos en la modalidad a distancia. Muchas veces se comete el grave error de confundir la flexibilidad de horarios con la procrastinación, o de caer en la mala práctica de dividirse los talleres como retazos de tela: 'yo hago dos puntos y tú haces los otros dos'. 
 
-**Esteban:**  
-"Para ilustrar esta articulación, construimos nuestro mapa conceptual jerárquico. En la cúspide se encuentra la Educación a Distancia de la Universidad de Cartagena, que se ramifica en los tres momentos obligatorios:
-El **primer momento** es el estudio individual y autónomo. Aquí el estudiante analiza el módulo institucional, gestiona sus horarios de acuerdo a los créditos académicos y produce sus notas reflexivas.
-Este estudio individual es el insumo indispensable que alimenta al **segundo momento**: el trabajo colaborativo en CIPAS. Aquí no venimos a repartirnos párrafos, venimos a co-validar; es decir, a contrastar qué entendió cada uno y redactar nuestro protocolo colaborativo."
-
-**Cristian:**  
-"Y de esa discusión en equipo surge el insumo para el **tercer momento**: la tutoría presencial de los sábados. El tutor en el salón no llega a dictar una clase magistral desde cero; llega a cumplir su rol de mediador pedagógico, resolviendo aquellas dudas complejas que el CIPAS no pudo destrabar solo. Cuando la tutoría concluye, esa síntesis retroalimenta nuevamente la autonomía del estudiante, completando el ciclo virtuoso de aprender a aprender."
+Como bien sostiene el pedagogo Amaury Lora Sfer, la educación a distancia no es un mosaico de partes pegadas, sino un proceso dialéctico. Si el estudiante no realiza un estudio individual previo, el trabajo en CIPAS fracasa; y si el CIPAS no co-valida saberes, la tutoría presencial del sábado pierde todo su valor formativo."
 
 ---
 
-**[1:45 - 3:00] Fases de la Estrategia 3C y Herramientas Digitales**  
-*Diapositivas 4 y 5 en pantalla.*
+### [1:30 - 2:20] Diapositiva 3 — Los Tres Momentos y el Mapa Conceptual
+*(Pasar a Diapositiva 3)*  
+"Para modelar esta articulación, diseñamos nuestro mapa conceptual jerárquico basado en los Tres Momentos Metodológicos:
 
-**Esteban:**  
-"Para llevar esto a la práctica diaria de un estudiante de Ingeniería de Software, creamos la **Estrategia 3C: Captura, Co-validación y Consolidación**.
-La primera fase, **Captura**, ocurre de lunes a miércoles. Cada integrante lee el módulo de la unidad y procesa los conceptos en Obsidian con la técnica Feynman, explicando cada tema con palabras propias. Nadie puede saltarse esta fase."
-
-**Cristian:**  
-"La segunda fase, **Co-validación**, se realiza entre jueves y viernes. Nos conectamos por un canal de voz en Discord y abrimos un Google Docs institucional. Mediante roles rotativos —un moderador de tiempo y un relator— comparamos los apuntes de cada uno, resolvemos discrepancias y redactamos el protocolo colaborativo. Si surge una duda donde ninguno de los dos llega a un acuerdo, la marcamos como 'Duda Semilla' para llevarla a clase."
-
-**Esteban:**  
-"La tercera fase, **Consolidación**, se vive el sábado presencial en la tutoría. Allí participamos activamente exponiendo las conclusiones del equipo y consultando nuestras dudas semilla con la profesora Raquel. Para evaluar que la estrategia funcione, implementamos una regla de oro: un 'Pase de Entrada' al CIPAS; el compañero que no haya realizado su lectura individual previa no puede firmar la entrega colaborativa."
+1. **Primer Momento: Estudio Individual y Autónomo.** Es la génesis del proceso. El estudiante analiza el módulo en SIMA, gestiona sus horas según el sistema de créditos (dedicando entre 2 y 3 horas autónomas por crédito) y redacta su Protocolo Individual. Es un insumo obligatorio e intransferible.
+2. **Segundo Momento: Co-validación en CIPAS.** Aquí los integrantes nos reunimos no a repartir tareas, sino a confrontar qué entendió cada uno, resolver discrepancias y redactar el Protocolo Colaborativo, identificando las dudas complejas no resueltas.
+3. **Tercer Momento: Tutoría Presencial.** Los sábados en el salón, el profesor no llega a dictar una clase magistral desde cero; actúa como un mediador pedagógico que co-valida las dudas de fondo que el grupo llevó preparadas, consolidando el ciclo de aprender a aprender."
 
 ---
 
-**[3:00 - 3:45] Conclusiones y Cierre**  
-*Diapositiva 6 en pantalla. Cámaras de ambos.*
+### [2:20 - 3:15] Diapositivas 4 y 5 — Fases de la Estrategia 3C y Mecanismos de Control
+*(Pasar a Diapositiva 4)*  
+"Aterrizando esta teoría a la práctica de la Ingeniería de Software, creamos la **Estrategia 3C**:
+- **Fase 1 - Captura (Lunes a Miércoles):** Cada miembro procesa el módulo en su gestor personal como Obsidian, aplicando la técnica Feynman para explicar los conceptos con palabras propias.
+- **Fase 2 - Co-validación (Jueves a Viernes):** Nos reunimos por canal de voz en Discord y abrimos un Google Docs institucional. Con roles rotativos (moderador y relator), contrastamos apuntes, resolvemos diferencias y filtramos las 'Dudas Semilla'.
+- **Fase 3 - Consolidación (Sábados):** Se participa activamente en la tutoría con la docente Raquel para resolver las dudas complejas.
 
-**Cristian:**  
-"Esta estrategia impacta directamente en el principio de 'aprender a aprender', porque nos enseña a ser autocríticos con nuestro tiempo, a detectar vacíos conceptuales antes de las evaluaciones y a entender que el aprendizaje en equipo se construye mediante el diálogo y la responsabilidad compartida."
+*(Pasar a Diapositiva 5)*  
+Para que esta estrategia no se quede en el papel, establecimos un filtro estricto: el **Pase de Entrada al CIPAS**. Quien no comparta pantalla al iniciar la llamada mostrando su lectura y notas de la Fase 1, pasa a calidad de oyente y no firma el protocolo de la semana. Con esto eliminamos las entregas improvisadas de última hora y garantizamos un dominio conceptual real para las evaluaciones."
 
-**Esteban:**  
-"Como conclusión final, entendemos que la flexibilidad de la educación a distancia no es tiempo libre para postergar, sino la libertad para autogestionar el conocimiento con rigor profesional. Muchas gracias por su atención."
+---
+
+### [3:15 - 3:45] Diapositiva 6 — Conclusión y Cierre
+*(Pasar a Diapositiva 6)*  
+"Como conclusión final, esta estrategia impacta directamente en nuestra capacidad de aprender a aprender: nos enseña a ser autocríticos con el manejo del tiempo, a detectar vacíos conceptuales a tiempo y a entender que el trabajo en equipo en la industria del software exige disciplina y comunicación asertiva.
+
+En la educación a distancia, quien no estudia no aprende; pero quien aprende a co-validar en equipo, lidera con autonomía su formación universitaria. Muchísimas gracias por su atención."
+
