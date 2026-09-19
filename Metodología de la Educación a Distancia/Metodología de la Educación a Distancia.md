@@ -42,9 +42,9 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
   - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
   - **Requisito especial:** Enlace a documento Google Docs con correo institucional y permisos de edición para el equipo
 - [[Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2 — Los Momentos Metodológicos del Aprendizaje]]
-  - **Estado:** ⏳ **Programado en SIMA**
-  - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** PDF
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Fecha de Entrega:** Jueves, 17 de Septiembre de 2026
+  - **Formato:** PDF / DOCX con Mapa Conceptual y Estrategia 3C
 - **Evaluación Cuestionario Unidad 2**
   - **Estado:** ⏳ **Programado en SIMA**
   - **Apertura:** Viernes, 18 de Septiembre de 2026 (06:20 hs)

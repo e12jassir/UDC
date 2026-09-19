@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 860" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 800; fill: #0f172a; letter-spacing: -0.5px; }
+      .subtitle { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #475569; }
+      .root-title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #ffffff; }
+      .root-sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 400; fill: #bfdbfe; }
+      
+      .mom-title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; font-weight: 700; }
+      .mom-badge { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; }
+      
+      .item-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 700; fill: #1e293b; }
+      .item-desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11.5px; font-weight: 400; fill: #475569; line-height: 1.4; }
+      
+      .conn-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #0369a1; text-anchor: middle; }
+      .conn-bg { fill: #f0f9ff; stroke: #bae6fd; stroke-width: 1px; rx: 4px; }
+      
+      .cycle-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 700; fill: #047857; text-anchor: middle; }
+      
+      .shadow { filter: drop-shadow(0 4px 6px rgba(0,0,0,0.06)); }
+    </style>
+
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0284c7"/>
+    </marker>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#059669"/>
+    </marker>
+    <marker id="arrow-purple" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#7c3aed"/>
+    </marker>
+    <marker id="arrow-cycle" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#10b981"/>
+    </marker>
+
+    <!-- Linear Gradients -->
+    <linearGradient id="grad-root" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#003366"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+
+    <linearGradient id="grad-mom1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f0fdf4"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <linearGradient id="grad-mom2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <linearGradient id="grad-mom3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fdf4ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="1280" height="860" fill="#f8fafc"/>
+  <rect x="20" y="20" width="1240" height="820" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" class="shadow"/>
+
+  <!-- Header Section -->
+  <g transform="translate(60, 55)">
+    <rect x="0" y="0" width="6" height="48" rx="3" fill="#003366"/>
+    <text x="18" y="22" class="title">LOS TRES MOMENTOS METODOLÓGICOS DEL APRENDIZAJE EN LA EAD</text>
+    <text x="18" y="42" class="subtitle">Universidad de Cartagena · Centro de Tecnologías para la Educación Virtual (CTEV) · Modelo Dialéctico de Amaury Lora Sfer</text>
+  </g>
+
+  <!-- Root Concept Box -->
+  <g transform="translate(360, 125)" class="shadow">
+    <rect width="560" height="74" rx="12" fill="url(#grad-root)"/>
+    <text x="280" y="32" text-anchor="middle" class="root-title">EDUCACIÓN ABIERTA Y A DISTANCIA (EAD)</text>
+    <text x="280" y="54" text-anchor="middle" class="root-sub">Construcción dialéctica del conocimiento fundamentada en la autonomía y el diálogo colaborativo</text>
+  </g>
+
+  <!-- Connector Downwards from Root -->
+  <path d="M 640 199 L 640 250" stroke="#0284c7" stroke-width="2.5" fill="none" marker-end="url(#arrow-blue)"/>
+  <g transform="translate(515, 214)">
+    <rect x="0" y="0" width="250" height="22" rx="4" fill="#f0f9ff" stroke="#bae6fd" stroke-width="1"/>
+    <text x="125" y="15" class="conn-label">se estructura secuencialmente en</text>
+  </g>
+
+  <!-- Central Hub: Los Tres Momentos -->
+  <g transform="translate(420, 252)" class="shadow">
+    <rect width="440" height="42" rx="8" fill="#0f172a"/>
+    <text x="220" y="26" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">
+      TRES MOMENTOS METODOLÓGICOS INTERDEPENDIENTES
+    </text>
+  </g>
+
+  <!-- Fork Connectors to 3 Columns -->
+  <!-- Left branch (Momento 1) -->
+  <path d="M 520 294 L 520 325 L 235 325 L 235 360" stroke="#059669" stroke-width="2" fill="none" marker-end="url(#arrow-green)"/>
+  <!-- Center branch (Momento 2) -->
+  <path d="M 640 294 L 640 360" stroke="#0284c7" stroke-width="2" fill="none" marker-end="url(#arrow-blue)"/>
+  <!-- Right branch (Momento 3) -->
+  <path d="M 760 294 L 760 325 L 1045 325 L 1045 360" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#arrow-purple)"/>
+
+  <!-- ========================================================================= -->
+  <!-- COLUMNA 1: MOMENTO 1 (ESTUDIO INDIVIDUAL) -->
+  <!-- ========================================================================= -->
+  <g transform="translate(60, 365)" class="shadow">
+    <!-- Card Frame -->
+    <rect width="350" height="340" rx="12" fill="url(#grad-mom1)" stroke="#86efac" stroke-width="1.5"/>
+    <rect x="0" y="0" width="350" height="48" rx="12" fill="#059669"/>
+    <rect x="0" y="36" width="350" height="12" fill="#059669"/>
+    <text x="20" y="24" class="mom-badge" fill="#bbf7d0">MOMENTO 1 · GÉNESIS</text>
+    <text x="20" y="42" class="mom-title" fill="#ffffff">Estudio Individual y Autónomo</text>
+
+    <!-- Point 1 -->
+    <g transform="translate(18, 66)">
+      <circle cx="6" cy="6" r="4" fill="#059669"/>
+      <text x="18" y="10" class="item-label">Lectura analítica e investigación</text>
+      <text x="18" y="26" class="item-desc">Procesamiento crítico del módulo en SIMA y</text>
+      <text x="18" y="40" class="item-desc">fuentes externas con técnica de notas propias.</text>
+    </g>
+
+    <!-- Point 2 -->
+    <g transform="translate(18, 126)">
+      <circle cx="6" cy="6" r="4" fill="#059669"/>
+      <text x="18" y="10" class="item-label">Gestión de créditos académicos</text>
+      <text x="18" y="26" class="item-desc">Autorregulación del tiempo: 2 a 3 horas de</text>
+      <text x="18" y="40" class="item-desc">estudio independiente semanal por crédito.</text>
+    </g>
+
+    <!-- Point 3 (Insumo) -->
+    <g transform="translate(18, 186)">
+      <rect width="314" height="60" rx="8" fill="#dcfce7" stroke="#86efac" stroke-width="1"/>
+      <text x="12" y="22" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="700" fill="#14532d">INSUMO OBLIGATORIO GENERADO:</text>
+      <text x="12" y="40" font-family="'Segoe UI', Arial" font-size="12" font-weight="700" fill="#059669">• Protocolo Individual</text>
+      <text x="145" y="40" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="400" fill="#166534">+ Dudas iniciales</text>
+    </g>
+
+    <!-- Role -->
+    <g transform="translate(18, 260)">
+      <text x="0" y="14" font-family="'Segoe UI', Arial" font-size="11" font-weight="700" fill="#475569">POSTURA ÉTICA:</text>
+      <text x="0" y="32" font-family="'Segoe UI', Arial" font-size="11.5" font-style="italic" fill="#0f172a">«Quien no estudia, no aprende» (Lora Sfer)</text>
+      <text x="0" y="48" font-family="'Segoe UI', Arial" font-size="11" fill="#64748b">Sin estudio previo, el trabajo en grupo fracasa.</text>
+    </g>
+  </g>
+
+  <!-- Horizontal Connector: Momento 1 -> Momento 2 -->
+  <path d="M 410 520 L 465 520" stroke="#0284c7" stroke-width="2" fill="none" marker-end="url(#arrow-blue)"/>
+  <g transform="translate(412, 492)">
+    <rect width="52" height="20" rx="4" fill="#f0f9ff" stroke="#bae6fd" stroke-width="1"/>
+    <text x="26" y="14" font-family="'Segoe UI', Arial" font-size="9.5" font-weight="700" fill="#0284c7" text-anchor="middle">Aporta</text>
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- COLUMNA 2: MOMENTO 2 (TRABAJO EN CIPAS) -->
+  <!-- ========================================================================= -->
+  <g transform="translate(465, 365)" class="shadow">
+    <!-- Card Frame -->
+    <rect width="350" height="340" rx="12" fill="url(#grad-mom2)" stroke="#93c5fd" stroke-width="1.5"/>
+    <rect x="0" y="0" width="350" height="48" rx="12" fill="#0284c7"/>
+    <rect x="0" y="36" width="350" height="12" fill="#0284c7"/>
+    <text x="20" y="24" class="mom-badge" fill="#bae6fd">MOMENTO 2 · CO-CONSTRUCCIÓN</text>
+    <text x="20" y="42" class="mom-title" fill="#ffffff">Trabajo Colaborativo en CIPAS</text>
+
+    <!-- Point 1 -->
+    <g transform="translate(18, 66)">
+      <circle cx="6" cy="6" r="4" fill="#0284c7"/>
+      <text x="18" y="10" class="item-label">Co-validación dialógica entre pares</text>
+      <text x="18" y="26" class="item-desc">Contraste de modelos mentales. Discusión</text>
+      <text x="18" y="40" class="item-desc">constructiva y resolución de discrepancias.</text>
+    </g>
+
+    <!-- Point 2 -->
+    <g transform="translate(18, 126)">
+      <circle cx="6" cy="6" r="4" fill="#0284c7"/>
+      <text x="18" y="10" class="item-label">Superación de la fragmentación</text>
+      <text x="18" y="26" class="item-desc">Se prohíbe dividirse talleres mecánicamente.</text>
+      <text x="18" y="40" class="item-desc">Construcción en red sincrónica (Discord / Docs).</text>
+    </g>
+
+    <!-- Point 3 (Insumo) -->
+    <g transform="translate(18, 186)">
+      <rect width="314" height="60" rx="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1"/>
+      <text x="12" y="22" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="700" fill="#1e3a8a">PRODUCTO SINTETIZADO:</text>
+      <text x="12" y="40" font-family="'Segoe UI', Arial" font-size="12" font-weight="700" fill="#0284c7">• Protocolo Colaborativo</text>
+      <text x="160" y="40" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="400" fill="#1e40af">+ Dudas Semilla</text>
+    </g>
+
+    <!-- Role -->
+    <g transform="translate(18, 260)">
+      <text x="0" y="14" font-family="'Segoe UI', Arial" font-size="11" font-weight="700" fill="#475569">DINÁMICA DE ROLES:</text>
+      <text x="0" y="32" font-family="'Segoe UI', Arial" font-size="11.5" fill="#0f172a">Moderador · Relator/Compilador · Revisor</text>
+      <text x="0" y="48" font-family="'Segoe UI', Arial" font-size="11" fill="#64748b">Filtro: Pase de entrada para garantizar aportes.</text>
+    </g>
+  </g>
+
+  <!-- Horizontal Connector: Momento 2 -> Momento 3 -->
+  <path d="M 815 520 L 870 520" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#arrow-purple)"/>
+  <g transform="translate(817, 492)">
+    <rect width="52" height="20" rx="4" fill="#fdf4ff" stroke="#f0abfc" stroke-width="1"/>
+    <text x="26" y="14" font-family="'Segoe UI', Arial" font-size="9.5" font-weight="700" fill="#7c3aed" text-anchor="middle">Prepara</text>
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- COLUMNA 3: MOMENTO 3 (TUTORÍA PRESENCIAL) -->
+  <!-- ========================================================================= -->
+  <g transform="translate(870, 365)" class="shadow">
+    <!-- Card Frame -->
+    <rect width="350" height="340" rx="12" fill="url(#grad-mom3)" stroke="#d8b4fe" stroke-width="1.5"/>
+    <rect x="0" y="0" width="350" height="48" rx="12" fill="#7c3aed"/>
+    <rect x="0" y="36" width="350" height="12" fill="#7c3aed"/>
+    <text x="20" y="24" class="mom-badge" fill="#f3e8ff">MOMENTO 3 · CONSOLIDACIÓN</text>
+    <text x="20" y="42" class="mom-title" fill="#ffffff">Tutoría Presencial (Sábados)</text>
+
+    <!-- Point 1 -->
+    <g transform="translate(18, 66)">
+      <circle cx="6" cy="6" r="4" fill="#7c3aed"/>
+      <text x="18" y="10" class="item-label">El tutor como mediador pedagógico</text>
+      <text x="18" y="26" class="item-desc">No dicta clase magistral tradicional. Orienta,</text>
+      <text x="18" y="40" class="item-desc">co-valida y resuelve vacíos de alto nivel.</text>
+    </g>
+
+    <!-- Point 2 -->
+    <g transform="translate(18, 126)">
+      <circle cx="6" cy="6" r="4" fill="#7c3aed"/>
+      <text x="18" y="10" class="item-label">Debate plenario y socialización</text>
+      <text x="18" y="26" class="item-desc">Confrontación entre los distintos CIPAS para</text>
+      <text x="18" y="40" class="item-desc">ampliar la perspectiva grupal de la unidad.</text>
+    </g>
+
+    <!-- Point 3 (Insumo) -->
+    <g transform="translate(18, 186)">
+      <rect width="314" height="60" rx="8" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="1"/>
+      <text x="12" y="22" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="700" fill="#581c87">CIERRE Y FORMALIZACIÓN:</text>
+      <text x="12" y="40" font-family="'Segoe UI', Arial" font-size="12" font-weight="700" fill="#7c3aed">• Síntesis Tutorial</text>
+      <text x="145" y="40" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="400" fill="#6b21a8">+ Evaluación formativa</text>
+    </g>
+
+    <!-- Role -->
+    <g transform="translate(18, 260)">
+      <text x="0" y="14" font-family="'Segoe UI', Arial" font-size="11" font-weight="700" fill="#475569">RESULTADO FINAL:</text>
+      <text x="0" y="32" font-family="'Segoe UI', Arial" font-size="11.5" fill="#0f172a">Claridad conceptual y disolución de dudas</text>
+      <text x="0" y="48" font-family="'Segoe UI', Arial" font-size="11" fill="#64748b">Cierre riguroso del ciclo temático de la unidad.</text>
+    </g>
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- RETROALIMENTACIÓN CÍCLICA HACIA "APRENDER A APRENDER" -->
+  <!-- ========================================================================= -->
+  <!-- Bottom bar: Aprender a Aprender -->
+  <g transform="translate(260, 740)" class="shadow">
+    <rect width="760" height="52" rx="10" fill="#047857"/>
+    <text x="380" y="24" text-anchor="middle" font-family="'Segoe UI', Arial" font-size="14" font-weight="700" fill="#ffffff">
+      META PEDAGÓGICA TRANSVERSAL: «APRENDER A APRENDER»
+    </text>
+    <text x="380" y="42" text-anchor="middle" font-family="'Segoe UI', Arial" font-size="11.5" font-weight="400" fill="#a7f3d0">
+      Desarrollo de la metacognición, autorregulación y autonomía del estudiante en Ingeniería de Software
+    </text>
+  </g>
+
+  <!-- Curve line from Momento 3 down to Aprender a Aprender -->
+  <path d="M 1045 705 L 1045 766 L 1020 766" stroke="#059669" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#arrow-cycle)"/>
+
+  <!-- Curve line from Aprender a Aprender up to Momento 1 (Closing the loop) -->
+  <path d="M 260 766 L 235 766 L 235 705" stroke="#059669" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#arrow-cycle)"/>
+
+  <text x="140" y="750" font-family="'Segoe UI', Arial" font-size="10.5" font-weight="600" fill="#047857">Fortalece la</text>
+  <text x="140" y="764" font-family="'Segoe UI', Arial" font-size="10.5" font-weight="600" fill="#047857">autonomía para</text>
+  <text x="140" y="778" font-family="'Segoe UI', Arial" font-size="10.5" font-weight="600" fill="#047857">el siguiente ciclo</text>
+
+  <text x="1060" y="750" font-family="'Segoe UI', Arial" font-size="10.5" font-weight="600" fill="#047857">Alimenta el</text>
+  <text x="1060" y="764" font-family="'Segoe UI', Arial" font-size="10.5" font-weight="600" fill="#047857">criterio reflexivo</text>
+</svg>

@@ -24,3 +24,9 @@ Guia_Redaccion_Humana_IA.md
 .~lock.*
 *.docx#
 Documentos Personales/
+
+# Graphify artifacts
+graphify-out/
+scratch/
+# Local Pi runtime state
+.atl/

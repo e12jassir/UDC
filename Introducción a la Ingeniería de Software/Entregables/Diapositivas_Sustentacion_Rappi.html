@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rappi: análisis de una super-app</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Sans:wght@400;500;700&display=swap">
+<style>
+:root{
+  --paper:#F4F4FA; --ink:#1F1A3D; --muted:#565285; --line:#D9D8EA; --card:#FFFFFF;
+  --orange:#FF441F; --orange-text:#C92C0C; --sun:#FFC23D; --teal:#0E8C86;
+  --deep:#1F1A3D; --letterbox:#E3E2F0; --ctl-bg:#1F1A3D; --ctl-fg:#F4F4FA;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#18152F; --ink:#F2F1FB; --muted:#B5B2DA; --line:#38345F; --card:#221E44;
+    --orange-text:#FF7B5E; --letterbox:#0E0C1F; --ctl-bg:#F2F1FB; --ctl-fg:#18152F;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#18152F; --ink:#F2F1FB; --muted:#B5B2DA; --line:#38345F; --card:#221E44;
+  --orange-text:#FF7B5E; --letterbox:#0E0C1F; --ctl-bg:#F2F1FB; --ctl-fg:#18152F;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--letterbox);color:var(--ink);font-family:'DM Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;overflow:hidden}
+h1,h2,h3{font-family:'Bricolage Grotesque','Trebuchet MS',system-ui,sans-serif;font-optical-sizing:auto;margin:0}
+
+.stage{
+  position:absolute;left:50%;top:50%;width:1280px;height:720px;
+  transform:translate(-50%,-50%) scale(var(--s,1));transform-origin:center;
+  overflow:hidden;background:var(--paper);
+  --route:var(--orange);--track:var(--line);--pinbg:var(--paper);--ct:var(--muted);
+}
+.stage[data-tone="hot"]{--route:var(--deep);--track:rgba(31,26,61,.25);--pinbg:var(--orange);--ct:var(--deep)}
+.stage[data-tone="deep"]{--route:var(--orange);--track:#3A3566;--pinbg:#1F1A3D;--ct:#B9B6DD}
+
+.slide{
+  position:absolute;inset:0;padding:60px 80px 92px;background:var(--paper);color:var(--ink);
+  opacity:0;visibility:hidden;transition:opacity .25s ease,visibility .25s;
+}
+.slide.on{opacity:1;visibility:visible}
+.slide.hot{background:var(--orange);color:var(--deep);--ink:var(--deep);--muted:#2E2350;--line:rgba(31,26,61,.3);--card:rgba(255,255,255,.4)}
+.slide.deep{background:#1F1A3D;color:#F2F1FB;--ink:#F2F1FB;--muted:#B9B6DD;--line:#3A3566;--card:#28234F;--orange-text:#FF7B5E}
+
+h2{font-weight:800;font-size:44px;line-height:1.08;letter-spacing:-.02em;margin-bottom:28px;max-width:1000px;text-wrap:balance}
+h3{font-weight:700;font-size:26px;line-height:1.15;letter-spacing:-.01em}
+p{font-size:23px;line-height:1.45;margin:0 0 16px;max-width:62ch}
+.foot{position:absolute;left:80px;right:80px;bottom:76px;font-size:19px;color:var(--muted);margin:0;max-width:none}
+
+/* ---------- Portada ---------- */
+.cover h1{font-weight:800;font-size:230px;line-height:.9;letter-spacing:-.045em;margin:6px 0 20px -8px}
+.cover .lead{font-size:28px;line-height:1.3;max-width:560px;font-weight:500}
+.who{position:absolute;left:80px;bottom:88px;margin:0;display:grid;grid-template-columns:340px 340px;gap:12px 20px}
+.who div{display:flex;flex-direction:column}
+.who dt{font-size:16px;color:var(--muted)}
+.who dd{margin:0;font-size:20px;font-weight:700}
+.cover-route{position:absolute;right:60px;top:40px;width:410px;height:520px}
+
+/* ---------- Datos del caso ---------- */
+.split{display:grid;gap:56px}
+.split.a{grid-template-columns:1fr 430px}
+.facts{margin:0}
+.facts div{display:flex;align-items:baseline;gap:20px;padding:14px 0;border-bottom:1px solid var(--line)}
+.facts div:first-child{border-top:1px solid var(--line)}
+.facts b{font-family:'Bricolage Grotesque','Trebuchet MS',sans-serif;font-weight:800;font-size:54px;letter-spacing:-.03em;min-width:170px;color:var(--orange-text)}
+.facts span{font-size:20px;line-height:1.3;color:var(--muted)}
+
+
+/* ---------- Bloques ---------- */
+
+.rows{border-bottom:1px solid var(--line)}
+.rows .r{display:grid;grid-template-columns:270px 1fr;gap:24px;padding:13px 0;border-top:1px solid var(--line);align-items:baseline}
+.rows h3{font-size:26px}
+.close .rows .r{grid-template-columns:320px 1fr}
+.rows p{font-size:21px;line-height:1.4;margin:0;max-width:none}
+
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:30px 36px}
+.grid3 div{border-top:3px solid var(--orange);padding-top:14px}
+.grid3 h3{font-size:25px;margin-bottom:8px}
+.grid3 p{font-size:20px;line-height:1.4;margin:0}
+
+/* ---------- Tablas ---------- */
+table{width:100%;border-collapse:collapse}
+th{font-weight:500;font-size:18px;color:var(--muted);text-align:left;padding:0 14px 10px}
+td{padding:12px 14px;font-size:21px;line-height:1.35;border-top:1px solid var(--line);vertical-align:top}
+td:first-child{font-family:'Bricolage Grotesque','Trebuchet MS',sans-serif;font-weight:700;font-size:24px;white-space:nowrap}
+tr:last-child td{border-bottom:1px solid var(--line)}
+table.tight td{padding:9px 14px;font-size:20px}
+table.tight td:first-child{font-size:22px}
+
+/* ---------- Tendencias ---------- */
+.trend{display:grid;grid-template-columns:560px 1fr;gap:36px}
+.panel{background:#1F1A3D;color:#F2F1FB;border-radius:4px;padding:32px 34px}
+.panel h3{font-size:34px;margin-bottom:14px}
+.panel p{font-size:21px;line-height:1.42;margin:0 0 12px;color:#E4E2F6}
+.panel .sun{color:var(--sun);font-weight:700}
+.side div{padding:14px 0;border-top:1px solid var(--line)}
+.side div:first-child{border-top:0;padding-top:0}
+.side h3{font-size:25px;margin-bottom:6px}
+.side p{font-size:20px;line-height:1.4;margin:0}
+
+/* ---------- Procesador y memoria ---------- */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:48px}
+.two > div > h3{font-size:30px;margin-bottom:6px}
+.hw{display:grid;grid-template-columns:132px 1fr;gap:14px;padding:10px 0;border-top:1px solid var(--line)}
+.hw b{font:700 22px 'Bricolage Grotesque',sans-serif}
+.hw span{font-size:19px;line-height:1.36}
+.flow{display:flex;gap:0;margin:22px 0 0;padding:0;list-style:none;counter-reset:f}
+.flow li{flex:1;position:relative;padding:30px 18px 0 0;font-size:19px;line-height:1.35;counter-increment:f}
+.flow li::before{content:counter(f);position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%;background:var(--orange);color:var(--deep);font:800 14px/24px 'Bricolage Grotesque',sans-serif;text-align:center;z-index:1}
+.flow li::after{content:'';position:absolute;left:26px;right:6px;top:11px;height:2px;background:var(--line)}
+.flow li:last-child::after{display:none}
+.flow-t{font-size:19px;color:var(--muted);margin:16px 0 0}
+
+/* ---------- Periféricos ---------- */
+.io{display:grid;grid-template-columns:1fr 430px;gap:52px}
+.io .in div{display:grid;grid-template-columns:200px 1fr;gap:14px;padding:9px 0;border-top:1px solid var(--line);align-items:baseline}
+.io b{font:700 22px 'Bricolage Grotesque',sans-serif}
+.io span{font-size:19.5px;line-height:1.35}
+.steps{list-style:none;margin:0;padding:0 0 0 0;counter-reset:s;position:relative}
+.steps::before{content:'';position:absolute;left:15px;top:14px;bottom:30px;width:2px;background:var(--line)}
+.steps li{position:relative;padding:0 0 18px 50px;counter-increment:s;font-size:20px;line-height:1.35}
+.steps li::before{content:counter(s);position:absolute;left:0;top:-2px;width:32px;height:32px;border-radius:50%;background:var(--orange);color:var(--deep);font:800 16px/32px 'Bricolage Grotesque',sans-serif;text-align:center}
+.steps b{display:block;font:700 23px 'Bricolage Grotesque',sans-serif}
+.io h3.col{font-size:28px;margin-bottom:8px}
+
+/* ---------- Línea de tiempo ---------- */
+.tl{position:relative;height:370px;margin-top:6px}
+.tl::before{content:'';position:absolute;left:0;right:0;top:50%;height:4px;background:var(--line);transform:translateY(-2px)}
+.ev{position:absolute;width:214px;left:calc((var(--i) + .5) * 12.5%);transform:translateX(-50%);text-align:center;--c:var(--ink);--ct:var(--ink)}
+.ev.rp{--c:var(--orange);--ct:var(--orange-text)}
+.ev.up{bottom:calc(50% + 26px)}
+.ev.dn{top:calc(50% + 26px)}
+.ev::after{content:'';position:absolute;left:50%;width:18px;height:18px;border-radius:50%;background:var(--c);transform:translateX(-50%)}
+.ev.up::after{bottom:-36px}
+.ev.dn::after{top:-36px}
+.ev b{display:block;font:800 32px 'Bricolage Grotesque',sans-serif;color:var(--ct);letter-spacing:-.02em}
+.ev span{display:block;font-size:19px;line-height:1.35}
+.legend{display:flex;gap:30px;font-size:18px;color:var(--muted);margin-top:8px}
+.legend i{display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:8px;vertical-align:-1px}
+
+/* ---------- Cierre ---------- */
+.close p.big{font-size:36px;line-height:1.3;font-weight:500;max-width:960px;letter-spacing:-.005em}
+
+/* ---------- Ruta de progreso ---------- */
+.route{position:absolute;left:80px;right:80px;bottom:30px;height:26px;display:flex;align-items:center;gap:16px;--p:0}
+.track{position:relative;flex:1;height:4px;background:var(--track);border-radius:2px}
+.fill{position:absolute;left:0;top:0;bottom:0;width:calc(var(--p) * 100%);background:var(--route);border-radius:2px;transition:width .5s ease}
+.pin{position:absolute;top:50%;left:calc(var(--p) * 100%);width:18px;height:18px;border-radius:50%;background:var(--route);border:4px solid var(--pinbg);box-sizing:content-box;transform:translate(-50%,-50%);transition:left .5s ease}
+.count{font-size:16px;color:var(--ct);font-variant-numeric:tabular-nums;min-width:52px;text-align:right}
+.home{width:26px;height:26px;fill:var(--route)}
+
+/* ---------- Controles ---------- */
+.ctl{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);display:flex;gap:8px;opacity:0;transition:opacity .25s;z-index:5;pointer-events:none}
+.ctl.show,.ctl:focus-within{opacity:1;pointer-events:auto}
+.ctl button{width:44px;height:44px;border-radius:50%;border:0;background:var(--ctl-bg);color:var(--ctl-fg);display:grid;place-items:center;cursor:pointer;opacity:.9}
+.ctl button:hover{opacity:1}
+.ctl svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+button:focus-visible{outline:3px solid var(--orange);outline-offset:3px}
+
+@media (prefers-reduced-motion:reduce){
+  .slide,.fill,.pin,.ctl{transition:none}
+}
+</style>
+</head>
+<body>
+
+<main class="stage" id="stage" data-tone="hot">
+
+<!-- 1. Portada -->
+<section class="slide hot cover on" aria-label="Portada">
+  <h1>Rappi</h1>
+  <p class="lead">Análisis y aplicación de los fundamentos de la ingeniería de software y la arquitectura de computación</p>
+  <dl class="who">
+    <div><dt>Estudiante</dt><dd>Esteban David Marrugo Jassir</dd></div>
+    <div><dt>Programa</dt><dd>Ingeniería de Software</dd></div>
+    <div><dt>Universidad</dt><dd>Universidad de Cartagena</dd></div>
+    <div><dt>Asignatura</dt><dd>Introducción a la Ing. de Software</dd></div>
+    <div><dt>Docente</dt><dd>Jhon Carlos Arrieta Arrieta</dd></div>
+    <div><dt>Fecha</dt><dd>Septiembre de 2026</dd></div>
+  </dl>
+  <svg class="cover-route" viewBox="0 0 410 520" aria-hidden="true">
+    <path d="M56 470 C 56 350, 270 380, 250 268 C 232 170, 84 176, 122 92 C 146 40, 290 52, 336 56" fill="none" stroke="#1F1A3D" stroke-width="6" stroke-linecap="round" stroke-dasharray="1 16"/>
+    <circle cx="56" cy="470" r="15" fill="#1F1A3D"/>
+    <circle cx="250" cy="268" r="14" fill="#FFC23D" stroke="#1F1A3D" stroke-width="5"/>
+    <g transform="translate(322 20) scale(3)" fill="#1F1A3D"><path d="M3 11.5 12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></g>
+  </svg>
+</section>
+
+<!-- 2. El caso -->
+<section class="slide" aria-label="El caso de estudio">
+  <div class="split a">
+    <div>
+      <h2>De domicilios en Bogotá a super-app en nueve países</h2>
+      <p>Rappi la fundaron en 2015 tres colombianos, Simón Borrero, Sebastián Mejía y Felipe Villamarín, que venían de Grability, una empresa de software de e-commerce para supermercados.</p>
+      <p>Probaron el marketplace en Bogotá y en seis meses ya tenían 200 mil usuarios registrados. Hoy en la misma pantalla se pide comida, mercado, medicinas, un hotel o una tarjeta de crédito.</p>
+    </div>
+    <dl class="facts">
+      <div><b>9</b><span>países de Latinoamérica</span></div>
+      <div><b>250+</b><span>ciudades</span></div>
+      <div><b>30 M+</b><span>usuarios, según el dato de 2024</span></div>
+      <div><b>28 M+</b><span>órdenes procesadas cada mes</span></div>
+    </dl>
+  </div>
+</section>
+
+<!-- 3. Problema y tipo de software -->
+<section class="slide" aria-label="Problema que resuelve y tipo de software">
+  <div class="split" style="grid-template-columns:430px 1fr;gap:40px">
+    <div>
+      <h2 style="font-size:40px">Tres actores que no se conocen y necesitan coordinarse en minutos</h2>
+      <p style="font-size:22px">Sin una plataforma, cada restaurante armaría su propia app, su flota y su cobro. Rappi pone el software en el medio: recibe el pedido, lo asigna a un repartidor y cobra.</p>
+      <p style="font-size:22px">Es software de plataforma, un marketplace, hecho de cuatro programas: la app del usuario, la del rappitendero, la del comercio y el backend en la nube.</p>
+    </div>
+    <svg viewBox="0 0 640 500" role="img" aria-label="Diagrama: Rappi conecta al usuario, al comercio y al rappitendero" style="width:100%;height:auto;max-height:500px">
+      <g style="stroke:var(--muted)" stroke-width="2.5" fill="none">
+        <line x1="320" y1="250" x2="160" y2="85"/>
+        <line x1="320" y1="250" x2="480" y2="85"/>
+        <line x1="320" y1="250" x2="320" y2="425"/>
+      </g>
+      <circle cx="320" cy="250" r="72" fill="#FF441F"/>
+      <text x="320" y="254" text-anchor="middle" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="800" font-size="34" fill="#1F1A3D">Rappi</text>
+      <text x="320" y="280" text-anchor="middle" font-family="DM Sans, system-ui, sans-serif" font-weight="500" font-size="16" fill="#1F1A3D">backend en la nube</text>
+      <g font-family="DM Sans, system-ui, sans-serif">
+        <rect x="30" y="30" width="260" height="108" rx="4" style="fill:var(--card);stroke:var(--line)" stroke-width="2"/>
+        <text x="52" y="68" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="700" font-size="25" style="fill:var(--ink)">Usuario</text>
+        <text x="52" y="95" font-size="18" style="fill:var(--muted)">quiere algo, y lo quiere ya</text>
+        <text x="52" y="121" font-size="17" font-weight="700" style="fill:var(--orange-text)">App móvil y web</text>
+        <rect x="350" y="30" width="260" height="108" rx="4" style="fill:var(--card);stroke:var(--line)" stroke-width="2"/>
+        <text x="372" y="68" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="700" font-size="25" style="fill:var(--ink)">Comercio</text>
+        <text x="372" y="95" font-size="18" style="fill:var(--muted)">vende sin montar su flota</text>
+        <text x="372" y="121" font-size="17" font-weight="700" style="fill:var(--orange-text)">Tablet o panel web</text>
+        <rect x="190" y="372" width="260" height="108" rx="4" style="fill:var(--card);stroke:var(--line)" stroke-width="2"/>
+        <text x="212" y="410" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="700" font-size="25" style="fill:var(--ink)">Rappitendero</text>
+        <text x="212" y="437" font-size="18" style="fill:var(--muted)">repartidor independiente</text>
+        <text x="212" y="463" font-size="17" font-weight="700" style="fill:var(--orange-text)">App móvil</text>
+      </g>
+    </svg>
+  </div>
+</section>
+
+<!-- 4. Principios -->
+<section class="slide" aria-label="Principios de ingeniería de software">
+  <h2>Cinco principios que sostienen la app</h2>
+  <div class="rows">
+    <div class="r"><h3>Modularidad</h3><p>Microservicios: cada función corre por separado y se lanza sin tocar el resto de la plataforma.</p></div>
+    <div class="r"><h3>Escalabilidad</h3><p>Tiene que aguantar los picos de demanda y más de 28 millones de órdenes al mes.</p></div>
+    <div class="r"><h3>Seguridad</h3><p>Más de 20 servicios de seguridad de AWS. Solo en Colombia bloquea cerca de un millón de intentos de ataque por semana.</p></div>
+    <div class="r"><h3>Calidad y pruebas</h3><p>Pruebas unitarias y de integración, TDD y revisión de código: todo eso lo piden sus ofertas de empleo.</p></div>
+    <div class="r"><h3>Mantenibilidad</h3><p>Integración y despliegue continuos para cambiar el sistema mientras sigue atendiendo pedidos.</p></div>
+  </div>
+</section>
+
+<!-- 5. Equipo -->
+<section class="slide" aria-label="Equipo de desarrollo">
+  <h2>Quién construye algo así</h2>
+  <div class="grid3">
+    <div><h3>Producto y diseño</h3><p>Deciden qué se construye y cómo se ve y se siente en la pantalla.</p></div>
+    <div><h3>Desarrollo móvil</h3><p>Las apps del usuario y del repartidor, en Android e iOS.</p></div>
+    <div><h3>Backend</h3><p>Los servicios del servidor. En sus ofertas piden Go, Java y Kotlin.</p></div>
+    <div><h3>Datos e IA</h3><p>Ciencia de datos y machine learning para predecir comportamientos y afinar el servicio.</p></div>
+    <div><h3>Nube y seguridad</h3><p>AWS, contenedores con Kubernetes y protección de la información.</p></div>
+    <div><h3>Calidad y operación</h3><p>Pruebas, monitoreo y soporte para que el sistema no se caiga.</p></div>
+  </div>
+  <p class="foot">Los equipos se organizan por vertical de negocio, por ejemplo Ads o Affordability, y cada uno responde por sus propios servicios.</p>
+</section>
+
+<!-- 6. Sector y modelo de negocio -->
+<section class="slide" aria-label="Sector y modelo de negocio">
+  <h2 style="margin-bottom:16px">Sector y modelo de negocio</h2>
+  <p style="font-size:22px;max-width:none;margin-bottom:18px">Rappi está en el comercio bajo demanda: vende domicilios, pero construye software de plataforma que toca fintech, logística de última milla y publicidad digital.</p>
+  <table class="tight">
+    <thead><tr><th>Fuente</th><th>Quién paga</th><th>Cómo funciona</th></tr></thead>
+    <tbody>
+      <tr><td>Comisión</td><td>Comercios</td><td>Un porcentaje de cada venta que entra por la app. Es la fuente principal.</td></tr>
+      <tr><td>Tarifas</td><td>Usuarios</td><td>Costo de envío y de servicio, según la distancia y la demanda.</td></tr>
+      <tr><td>Rappi Prime</td><td>Usuarios</td><td>Membresía con envíos gratis y otros beneficios.</td></tr>
+      <tr><td>Publicidad</td><td>Marcas y comercios</td><td>Pagan por aparecer mejor ubicados dentro de la app.</td></tr>
+      <tr><td>Fintech</td><td>Usuarios</td><td>RappiPay, billetera creada en 2019 con Davivienda, y la tarjeta RappiCard.</td></tr>
+    </tbody>
+  </table>
+  <p class="foot">Es un modelo mixto: abrir la cuenta es gratis y el dinero llega por comisión, suscripción, publicidad y servicios financieros.</p>
+</section>
+
+<!-- 7. Tendencias -->
+<section class="slide" aria-label="Tendencias tecnológicas">
+  <h2>Tendencias que se notan en su desarrollo</h2>
+  <div class="trend">
+    <div class="panel">
+      <h3>Entrega ultrarrápida</h3>
+      <p>Turbo trabaja con dark stores, tiendas que solo despachan domicilios, para entregar en menos de 10 minutos.</p>
+      <p>Turbo Restaurantes arrancó en Bogotá en enero de 2024: el restaurante cocina en menos de 5 minutos y el repartidor recorre no más de 2 kilómetros.</p>
+      <p class="sun">Por eso la tecnología importa: cada minuto de margen se calcula.</p>
+    </div>
+    <div class="side">
+      <div><h3>Super-app</h3><p>Pasó de domicilios a tarjeta de crédito, hoteles y compras en comercios electrónicos.</p></div>
+      <div><h3>Datos e inteligencia artificial</h3><p>Modelos de predicción sobre los datos de cada pedido, y atención al cliente con Amazon Connect.</p></div>
+      <div><h3>Nube y microservicios</h3><p>Mejoras de georreferenciación bajaron más de 55% el costo de Turbo, según el reporte con AWS.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 8. Arquitectura -->
+<section class="slide deep" aria-label="Arquitectura de computación">
+  <h2 style="font-size:40px;margin-bottom:22px">Arquitectura: clientes móviles, internet y una nube de microservicios</h2>
+  <svg viewBox="0 0 1120 380" style="width:100%;height:auto" role="img" aria-label="Diagrama de arquitectura: dispositivos, internet y nube AWS">
+    <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M1 1 9 5 1 9z" fill="#FF441F"/></marker></defs>
+    <g font-family="DM Sans, system-ui, sans-serif">
+      <g fill="#28234F" stroke="#3A3566" stroke-width="2">
+        <rect x="0" y="10" width="250" height="96" rx="4"/>
+        <rect x="0" y="142" width="250" height="96" rx="4"/>
+        <rect x="0" y="274" width="250" height="96" rx="4"/>
+      </g>
+      <g fill="#F2F1FB" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="700" font-size="22">
+        <text x="20" y="48">Usuario</text>
+        <text x="20" y="180">Rappitendero</text>
+        <text x="20" y="312">Comercio</text>
+      </g>
+      <g fill="#B9B6DD" font-size="17">
+        <text x="20" y="76">App móvil o web</text>
+        <text x="20" y="208">Celular con GPS y mapa</text>
+        <text x="20" y="340">Tablet con los pedidos</text>
+      </g>
+      <g stroke="#B9B6DD" stroke-width="2" fill="none">
+        <path d="M250 58 C 300 58, 300 190, 340 190"/>
+        <path d="M250 190 L 340 190"/>
+        <path d="M250 322 C 300 322, 300 190, 340 190"/>
+      </g>
+      <circle cx="372" cy="190" r="32" fill="#FF441F"/>
+      <text x="372" y="196" text-anchor="middle" font-size="15" font-weight="700" fill="#1F1A3D">REST</text>
+      <text x="372" y="248" text-anchor="middle" font-size="16" fill="#B9B6DD">internet</text>
+      <path d="M404 190 L 468 190" stroke="#FF441F" stroke-width="3" marker-end="url(#ah)"/>
+      <rect x="470" y="0" width="650" height="380" rx="10" fill="none" stroke="#FF441F" stroke-width="2.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+      <text x="494" y="34" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="700" font-size="22" fill="#FF7B5E">Nube de AWS, cerca del 95% de la infraestructura</text>
+      <g fill="#28234F" stroke="#3A3566" stroke-width="2">
+        <rect x="494" y="62" width="290" height="140" rx="4"/>
+        <rect x="806" y="62" width="290" height="140" rx="4"/>
+        <rect x="494" y="222" width="290" height="140" rx="4"/>
+        <rect x="806" y="222" width="290" height="140" rx="4"/>
+      </g>
+      <g fill="#F2F1FB" font-family="Bricolage Grotesque, Trebuchet MS, sans-serif" font-weight="700" font-size="22">
+        <text x="514" y="100">Microservicios</text>
+        <text x="826" y="100">Mensajería de eventos</text>
+        <text x="514" y="260">Bases de datos</text>
+        <text x="826" y="260">Caché en memoria</text>
+      </g>
+      <g fill="#B9B6DD" font-size="18">
+        <text x="514" y="130">En contenedores Docker,</text><text x="514" y="154">orquestados con Kubernetes.</text><text x="514" y="178">Se hablan por gRPC.</text>
+        <text x="826" y="130">Kafka o RabbitMQ pasan</text><text x="826" y="154">los eventos, como un pedido</text><text x="826" y="178">nuevo, entre servicios.</text>
+        <text x="514" y="290">SQL (PostgreSQL, MySQL) para</text><text x="514" y="314">pedidos y pagos; NoSQL para</text><text x="514" y="338">datos de acceso rápido.</text>
+        <text x="826" y="290">Redis guarda en RAM las</text><text x="826" y="314">respuestas más pedidas.</text>
+      </g>
+    </g>
+  </svg>
+  <p class="foot" style="color:#B9B6DD;bottom:70px">Tipo: cliente-servidor distribuido sobre la nube. Los componentes concretos salen de las ofertas de empleo de Rappi Technology Colombia.</p>
+</section>
+
+<!-- 9. Procesador y memoria -->
+<section class="slide" aria-label="Procesador y memoria">
+  <h2 style="margin-bottom:20px;font-size:40px">Procesador y memoria en el celular y la nube</h2>
+  <div class="two">
+    <div>
+      <h3>En el celular</h3>
+      <div class="hw"><b>CPU</b><span>Ejecuta la interfaz, dibuja el mapa y procesa cada toque en pantalla.</span></div>
+      <div class="hw"><b>RAM</b><span>Guarda lo que estás usando: el carrito, la pantalla abierta, el mapa a la vista.</span></div>
+      <div class="hw"><b>Almacenamiento</b><span>Conserva la sesión y las imágenes ya descargadas para no pedirlas otra vez.</span></div>
+    </div>
+    <div>
+      <h3>En la nube</h3>
+      <div class="hw"><b>CPU</b><span>Atiende muchas solicitudes a la vez. Con chips AWS Graviton ganó cerca de 15% de eficiencia.</span></div>
+      <div class="hw"><b>RAM</b><span>Cachés como Redis guardan las respuestas frecuentes y evitan consultar la base de datos cada vez.</span></div>
+      <div class="hw"><b>Almacenamiento</b><span>Las bases de datos guardan de forma permanente pedidos, usuarios y pagos.</span></div>
+    </div>
+  </div>
+  <p class="flow-t">Qué pasa cuando tocas Pedir</p>
+  <ol class="flow" style="margin-top:12px">
+    <li>El celular arma la petición (CPU y RAM)</li>
+    <li>Viaja por internet hasta la nube</li>
+    <li>Un microservicio la valida y usa la caché</li>
+    <li>El pedido se guarda en la base de datos</li>
+  </ol>
+</section>
+
+<!-- 10. Periféricos -->
+<section class="slide" aria-label="Periféricos y sistemas de entrada">
+  <h2 style="margin-bottom:20px;font-size:40px;max-width:none">Periféricos y entrada: casi todo viene en el celular</h2>
+  <div class="io">
+    <div class="in">
+      <div><b>Pantalla táctil</b><span>La entrada principal: buscar, elegir y confirmar con toques.</span></div>
+      <div><b>Teclado y micrófono</b><span>Escribir la dirección o dictar la búsqueda.</span></div>
+      <div><b>GPS</b><span>Ubica al usuario y sigue al repartidor en tiempo real.</span></div>
+      <div><b>Cámara</b><span>Escanear códigos o subir fotos cuando el proceso lo pide.</span></div>
+      <div><b>Biometría</b><span>Huella o rostro del celular para confirmar el ingreso y los pagos.</span></div>
+      <div><b>Tablet del comercio</b><span>Avisa con sonido cuando llega un pedido y recibe el toque de aceptar.</span></div>
+    </div>
+    <div>
+      <h3 class="col">Cómo se introduce un pedido</h3>
+      <ol class="steps">
+        <li><b>Buscar</b>Escribes o dictas lo que quieres.</li>
+        <li><b>Elegir</b>Tocas producto, cantidad y extras.</li>
+        <li><b>Ubicar</b>El GPS propone la dirección y la corriges si hace falta.</li>
+        <li><b>Pagar</b>Tarjeta, billetera digital o efectivo.</li>
+        <li><b>Seguir</b>El mapa muestra al repartidor hasta la puerta.</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<!-- 11. Hace 20-30 años -->
+<section class="slide" aria-label="Un sistema similar hace 20 o 30 años">
+  <h2>Un domicilio hace 20 o 30 años</h2>
+  <table>
+    <thead><tr><th>Aspecto</th><th>Entre 1996 y 2006</th><th>Hoy</th></tr></thead>
+    <tbody>
+      <tr><td>Pedir</td><td>Llamada por teléfono fijo, con el menú en papel.</td><td>App con catálogo, fotos y precios al día.</td></tr>
+      <tr><td>Ubicación</td><td>Dictabas la dirección y esperabas que la entendieran.</td><td>GPS y mapa; el repartidor ve la ruta.</td></tr>
+      <tr><td>Pago</td><td>Efectivo al recibir.</td><td>Tarjeta, billetera digital o efectivo.</td></tr>
+      <tr><td>Seguimiento</td><td>Volver a llamar para preguntar si ya salió.</td><td>Estado del pedido y repartidor en el mapa.</td></tr>
+      <tr><td>Sistema</td><td>Un computador local o ninguno, cada negocio por su cuenta.</td><td>Una nube compartida que atiende millones de pedidos.</td></tr>
+    </tbody>
+  </table>
+  <p class="foot">Ni siquiera existía el smartphone: el primer iPhone salió en 2007.</p>
+</section>
+
+<!-- 12. Línea de tiempo -->
+<section class="slide" aria-label="Cambios tecnológicos">
+  <h2>La tecnología que abrió el camino, y los hitos de Rappi</h2>
+  <div class="tl">
+    <div class="ev up" style="--i:0"><b>2006</b><span>AWS lanza sus primeros servicios en la nube</span></div>
+    <div class="ev dn" style="--i:1"><b>2007</b><span>Sale el primer iPhone</span></div>
+    <div class="ev up" style="--i:2"><b>2008</b><span>Abren las tiendas de aplicaciones para iOS y Android</span></div>
+    <div class="ev dn rp" style="--i:3"><b>2015</b><span>Nace Rappi en Bogotá</span></div>
+    <div class="ev up rp" style="--i:4"><b>2016</b><span>Entra a la aceleradora Y Combinator</span></div>
+    <div class="ev dn rp" style="--i:5"><b>2018</b><span>Ronda de US$200 millones y primer unicornio colombiano</span></div>
+    <div class="ev up rp" style="--i:6"><b>2019</b><span>Lanza RappiPay con Davivienda</span></div>
+    <div class="ev dn rp" style="--i:7"><b>2024</b><span>Turbo Restaurantes y lista TIME100</span></div>
+  </div>
+  <div class="legend"><span><i style="background:var(--ink)"></i>Tecnología que lo hizo posible</span><span><i style="background:var(--orange)"></i>Hitos de Rappi</span></div>
+</section>
+
+<!-- 13. Hacia dónde puede ir y cierre -->
+<section class="slide hot close" aria-label="Hacia dónde puede ir y cierre">
+  <h2 style="margin-bottom:18px">Hacia dónde puede ir</h2>
+  <div class="rows">
+    <div class="r"><h3>Ya está en marcha</h3><p>IA en la atención al cliente con Amazon Connect, modelos de predicción y entregas de radio corto.</p></div>
+    <div class="r"><h3>Hipótesis: automatizar</h3><p>Robots, drones o vehículos eléctricos en la última milla, que hoy siguen en pruebas en varios países.</p></div>
+    <div class="r"><h3>Hipótesis: más servicios</h3><p>Más finanzas dentro de la app y ajuste fino por barrio con IA, sobre RappiPay y RappiCard.</p></div>
+  </div>
+  <p class="big" style="font-size:30px;margin-top:24px;max-width:1000px">Lo que me llevo: pedir un almuerzo son dos toques, y detrás hay un celular, un GPS, microservicios y una nube que aguanta millones de órdenes. <b style="font-weight:800">La ingeniería de software está en que nada de eso se note.</b></p>
+</section>
+
+
+<div class="route" id="route" aria-hidden="true">
+  <div class="track"><div class="fill"></div><div class="pin"></div></div>
+  <span class="count" id="count">1 / 13</span>
+  <svg class="home" viewBox="0 0 24 24"><path d="M3 11.5 12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>
+</div>
+</main>
+
+<div class="ctl" id="ctl">
+  <button id="prev" aria-label="Diapositiva anterior"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>
+  <button id="next" aria-label="Diapositiva siguiente"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>
+  <button id="fs" aria-label="Pantalla completa"><svg viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+</div>
+
+<script>
+(function(){
+  var stage = document.getElementById('stage');
+  var route = document.getElementById('route');
+  var count = document.getElementById('count');
+  var ctl = document.getElementById('ctl');
+  var slides = Array.prototype.slice.call(stage.querySelectorAll('.slide'));
+  var n = slides.length, i = 0, hideT;
+
+  function fit(){
+    var s = Math.min(window.innerWidth / 1280, window.innerHeight / 720);
+    stage.style.setProperty('--s', s);
+  }
+
+  function go(k){
+    i = Math.max(0, Math.min(n - 1, k));
+    slides.forEach(function(el, j){
+      el.classList.toggle('on', j === i);
+      el.setAttribute('aria-hidden', j === i ? 'false' : 'true');
+    });
+    var cur = slides[i];
+    stage.dataset.tone = cur.classList.contains('hot') ? 'hot' : (cur.classList.contains('deep') ? 'deep' : 'base');
+    route.style.setProperty('--p', n > 1 ? i / (n - 1) : 0);
+    count.textContent = (i + 1) + ' / ' + n;
+    try { history.replaceState(null, '', '#' + (i + 1)); } catch (e) {}
+  }
+
+  function wake(){
+    ctl.classList.add('show');
+    clearTimeout(hideT);
+    hideT = setTimeout(function(){ ctl.classList.remove('show'); }, 2600);
+  }
+
+  document.getElementById('prev').addEventListener('click', function(){ go(i - 1); });
+  document.getElementById('next').addEventListener('click', function(){ go(i + 1); });
+  document.getElementById('fs').addEventListener('click', function(){
+    try {
+      if (document.fullscreenElement) { document.exitFullscreen(); }
+      else { document.documentElement.requestFullscreen(); }
+    } catch (e) {}
+  });
+
+  document.addEventListener('keydown', function(e){
+    var k = e.key;
+    if (k === 'ArrowRight' || k === 'PageDown' || k === ' ' || k === 'Enter') { e.preventDefault(); go(i + 1); }
+    else if (k === 'ArrowLeft' || k === 'PageUp' || k === 'Backspace') { e.preventDefault(); go(i - 1); }
+    else if (k === 'Home') { go(0); }
+    else if (k === 'End') { go(n - 1); }
+    else if (k === 'f' || k === 'F') { document.getElementById('fs').click(); }
+  });
+
+  var x0 = null;
+  document.addEventListener('touchstart', function(e){ x0 = e.touches[0].clientX; wake(); }, {passive:true});
+  document.addEventListener('touchend', function(e){
+    if (x0 === null) return;
+    var dx = e.changedTouches[0].clientX - x0;
+    if (Math.abs(dx) > 50) go(i + (dx < 0 ? 1 : -1));
+    x0 = null;
+  }, {passive:true});
+
+  document.addEventListener('mousemove', wake);
+  window.addEventListener('resize', fit);
+
+  var start = 0;
+  try { var h = parseInt(location.hash.slice(1), 10); if (h >= 1 && h <= n) start = h - 1; } catch (e) {}
+  fit();
+  go(start);
+  wake();
+})();
+</script>
+</body>
+</html>

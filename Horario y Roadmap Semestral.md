@@ -57,7 +57,7 @@
 | 🟢 **Subido** | **Lunes 14 Sep** | **Fundamentos** | 📝 [[Fundamentos de Matemáticas/Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Lunes 14 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Protocolo Colaborativo 2 - Metodologia|Protocolo Colaborativo Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 📅 **Programado** | **Jueves 17 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Viernes 18 Sep** | **Ing. Software** | 📝 [[Introducción a la Ingeniería de Software/Entregables/Actividad_Unidad_1_Caso_Rappi|Actividad Unidad 1 (Caso Rappi + Sustentación)]] | Campus SIMA (23:57 hs) |
+| 🟢 **Subido** | **Viernes 18 Sep** | **Ing. Software** | 📝 [[Introducción a la Ingeniería de Software/Entregables/Actividad_Unidad_1_Caso_Rappi|Actividad Unidad 1 (Caso Rappi + Sustentación)]] | Entregado en SIMA |
 | 📅 **Programado** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2 (Ecuaciones)** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Viernes 18 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Domingo 20 Sep** | **Algoritmos** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |

@@ -1,0 +1,550 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "M\u00f3dulo 0",
+      "x": 0,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "id": "n_ing_alta_cohesion_bajo_acoplamiento",
+      "type": "file",
+      "file": "Alta Cohesi\u00f3n y Bajo Acoplamiento.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ind_event_driven_kafka",
+      "type": "file",
+      "file": "Arquitectura Event-Driven (Apache Kafka).md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rappi_backend_microservicios",
+      "type": "file",
+      "file": "Backend Distribuido & Microservicios.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_arq_cluster_redis_ram",
+      "type": "file",
+      "file": "Cl\u00faster Redis en RAM (Latencia Nanosegundos).md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ing_squads_desarrollo",
+      "type": "file",
+      "file": "C\u00e9lulas \u00c1giles de Desarrollo (Squads).md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_arq_jerarquia_memoria_cache",
+      "type": "file",
+      "file": "Jerarqu\u00eda de Memoria (Cach\u00e9 L1L2L3).md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ing_circuit_breaker",
+      "type": "file",
+      "file": "Patr\u00f3n Circuit Breaker & Resiliencia.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_arq_servidores_cloud_graviton",
+      "type": "file",
+      "file": "Servidores Blade x86 y AWS Graviton.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ing_teorema_cap",
+      "type": "file",
+      "file": "Teorema CAP (Consistencia vs Disponibilidad).md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "M\u00f3dulo 1",
+      "x": 740,
+      "y": 0,
+      "width": 660,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_rappi_consumer_app",
+      "type": "file",
+      "file": "Consumer App (Aplicaci\u00f3n del Cliente).md",
+      "x": 760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_per_camara_cmos_biometria",
+      "type": "file",
+      "file": "C\u00e1mara CMOS & Biometr\u00eda Facial.md",
+      "x": 960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_per_entrada_contextual",
+      "type": "file",
+      "file": "Entrada de Datos Contextual vs Directa.md",
+      "x": 1160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_arq_gpu_renderizado_vectorial",
+      "type": "file",
+      "file": "GPU M\u00f3vil (Renderizado Vectorial 60 FPS).md",
+      "x": 760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_per_pantalla_capacitiva",
+      "type": "file",
+      "file": "Pantalla T\u00e1ctil Capacitiva (Gestos y Toques).md",
+      "x": 960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "M\u00f3dulo 2",
+      "x": 1480,
+      "y": 0,
+      "width": 660,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_ind_quick_commerce",
+      "type": "file",
+      "file": "Comercio R\u00e1pido (Quick-Commerce).md",
+      "x": 1500,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ind_cloud_elasticity",
+      "type": "file",
+      "file": "Computaci\u00f3n El\u00e1stica en la Nube (AWSGCP).md",
+      "x": 1700,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rappi_merchant_portal",
+      "type": "file",
+      "file": "Merchant Portal (Restaurante Aliado).md",
+      "x": 1900,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ind_modelos_monetizacion",
+      "type": "file",
+      "file": "Monetizaci\u00f3n Multicanal (Comisiones, Prime, Ads).md",
+      "x": 1500,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rappi_ecosistema_plataforma",
+      "type": "file",
+      "file": "Plataforma Multilateral Rappi.md",
+      "x": 1700,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "M\u00f3dulo 3",
+      "x": 0,
+      "y": 500,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_rappi_courier_app",
+      "type": "file",
+      "file": "Courier App (Rappitendero).md",
+      "x": 20,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_per_motor_haptico",
+      "type": "file",
+      "file": "Motor H\u00e1ptico (Vibraci\u00f3n de Alerta en Moto).md",
+      "x": 220,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_arq_arm_big_little",
+      "type": "file",
+      "file": "Procesador ARM (big.LITTLE Eficiencia).md",
+      "x": 20,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_per_sensor_a_gps",
+      "type": "file",
+      "file": "Sensor A-GPS (Receptor GNSS + Celular).md",
+      "x": 220,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "M\u00f3dulo 4",
+      "x": 740,
+      "y": 500,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_doc_actividad_unidad_1_caso_rappi",
+      "type": "file",
+      "file": "Documento Acad\u00e9mico Caso Rappi (U1).md",
+      "x": 760,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_guion_video_10_min",
+      "type": "file",
+      "file": "Guion Sustentaci\u00f3n en Video (10 Minutos).md",
+      "x": 960,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_diapositivas_html",
+      "type": "file",
+      "file": "Presentaci\u00f3n Diapositivas Interactivas HTML.md",
+      "x": 760,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "M\u00f3dulo 5",
+      "x": 1480,
+      "y": 500,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_ing_crisis_del_software",
+      "type": "file",
+      "file": "Crisis del Software & Deuda T\u00e9cnica.md",
+      "x": 1500,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_cuestionario_conceptualizacion",
+      "type": "file",
+      "file": "Cuestionario de Conceptualizaci\u00f3n Te\u00f3rica UDC.md",
+      "x": 1700,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_udc_app_propuesta",
+      "type": "file",
+      "file": "Propuesta UDC App Institucional.md",
+      "x": 1500,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "M\u00f3dulo 6",
+      "x": 0,
+      "y": 980,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_evo_drones_edge_ai",
+      "type": "file",
+      "file": "Entregas Aut\u00f3nomas (Drones, LiDAR y Edge AI).md",
+      "x": 20,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_evo_revolucion_smartphones_4g",
+      "type": "file",
+      "file": "Revoluci\u00f3n de Smartphones, 4G y Nube El\u00e1stica.md",
+      "x": 220,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_evo_pedidos_analogicos_1995",
+      "type": "file",
+      "file": "Sistemas Anal\u00f3gicos (Tel\u00e9fono Fijo y Papel Carb\u00f3n).md",
+      "x": 20,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_doc_actividad_unidad_1_caso_rappi_rappi_ecosistema_plataforma",
+      "fromNode": "n_doc_actividad_unidad_1_caso_rappi",
+      "toNode": "n_rappi_ecosistema_plataforma",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_actividad_unidad_1_caso_rappi_doc_guion_video_10_min",
+      "fromNode": "n_doc_actividad_unidad_1_caso_rappi",
+      "toNode": "n_doc_guion_video_10_min",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_guion_video_10_min_doc_diapositivas_html",
+      "fromNode": "n_doc_guion_video_10_min",
+      "toNode": "n_doc_diapositivas_html",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_cuestionario_conceptualizacion_ing_crisis_del_software",
+      "fromNode": "n_doc_cuestionario_conceptualizacion",
+      "toNode": "n_ing_crisis_del_software",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_cuestionario_conceptualizacion_udc_app_propuesta",
+      "fromNode": "n_doc_cuestionario_conceptualizacion",
+      "toNode": "n_udc_app_propuesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_evo_pedidos_analogicos_1995",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_evo_pedidos_analogicos_1995",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_ind_cloud_elasticity",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_ind_cloud_elasticity",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_ind_modelos_monetizacion",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_ind_modelos_monetizacion",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_ind_quick_commerce",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_ind_quick_commerce",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_rappi_backend_microservicios",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_rappi_backend_microservicios",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_rappi_consumer_app",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_rappi_consumer_app",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_rappi_courier_app",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_rappi_courier_app",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_rappi_merchant_portal",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_rappi_merchant_portal",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_ecosistema_plataforma_udc_app_propuesta",
+      "fromNode": "n_rappi_ecosistema_plataforma",
+      "toNode": "n_udc_app_propuesta",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_rappi_consumer_app_arq_gpu_renderizado_vectorial",
+      "fromNode": "n_rappi_consumer_app",
+      "toNode": "n_arq_gpu_renderizado_vectorial",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_consumer_app_per_camara_cmos_biometria",
+      "fromNode": "n_rappi_consumer_app",
+      "toNode": "n_per_camara_cmos_biometria",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_consumer_app_per_entrada_contextual",
+      "fromNode": "n_rappi_consumer_app",
+      "toNode": "n_per_entrada_contextual",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_consumer_app_per_pantalla_capacitiva",
+      "fromNode": "n_rappi_consumer_app",
+      "toNode": "n_per_pantalla_capacitiva",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_courier_app_arq_arm_big_little",
+      "fromNode": "n_rappi_courier_app",
+      "toNode": "n_arq_arm_big_little",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_courier_app_per_motor_haptico",
+      "fromNode": "n_rappi_courier_app",
+      "toNode": "n_per_motor_haptico",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_courier_app_per_sensor_a_gps",
+      "fromNode": "n_rappi_courier_app",
+      "toNode": "n_per_sensor_a_gps",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_arq_cluster_redis_ram",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_arq_cluster_redis_ram",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_arq_servidores_cloud_graviton",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_arq_servidores_cloud_graviton",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_ind_event_driven_kafka",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_ind_event_driven_kafka",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_ing_alta_cohesion_bajo_acoplamiento",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_ing_alta_cohesion_bajo_acoplamiento",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_ing_circuit_breaker",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_ing_circuit_breaker",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_ing_squads_desarrollo",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_ing_squads_desarrollo",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_rappi_backend_microservicios_ing_teorema_cap",
+      "fromNode": "n_rappi_backend_microservicios",
+      "toNode": "n_ing_teorema_cap",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_arq_jerarquia_memoria_cache_arq_cluster_redis_ram",
+      "fromNode": "n_arq_jerarquia_memoria_cache",
+      "toNode": "n_arq_cluster_redis_ram",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_evo_pedidos_analogicos_1995_evo_revolucion_smartphones_4g",
+      "fromNode": "n_evo_pedidos_analogicos_1995",
+      "toNode": "n_evo_revolucion_smartphones_4g",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_evo_revolucion_smartphones_4g_evo_drones_edge_ai",
+      "fromNode": "n_evo_revolucion_smartphones_4g",
+      "toNode": "n_evo_drones_edge_ai",
+      "label": "conceptually_related_to [EXTRACTED]"
+    }
+  ]
+}

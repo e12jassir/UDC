@@ -35,12 +35,18 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
   - **Estado:** 🟢 **Subido y Entregado en SIMA (PDF con enlace a Video)**
   - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
   - **Formato:** Documento PDF con enlace de video
+- [[Entregables/Actividad 1 Rappi.pdf|Actividad Unidad 1 — Análisis y Aplicación (Caso: Rappi)]]
+  - **Estado:** 🟢 **Subido y Entregado en SIMA (PDF Oficial + Sustentación 16 min)**
+  - **Fecha de Entrega:** Viernes, 18 de Septiembre de 2026 (21:50 hs)
+  - **Formato:** Documento PDF de 15 páginas en APA 7 con enlace a video en Google Drive
+  - **Materiales:** [[Entregables/Diapositivas_Sustentacion_Rappi.html|Diapositivas Interactivas]], [[Entregables/Guion_Sustentacion_Rappi|Guion de Sustentación]], [[Entregables/Mapa_Conceptual_Rappi_Mermaid|Mapa Conceptual]]
 
 ## Estado de Avances del Semestre
 
 - [x] **Unidad 1:** Asistencia a tutorías presenciales Sábados B (08 Ago y 22 Ago).
 - [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos Ingenieria Software|Protocolo Colaborativo Unidad 1]] redactado al 100% (100 preguntas argumentadas) y entregado en PDF.
-- [x] **Unidad 1:** Video de sustentación individual grabado, procesado en HD y enlazado en el documento oficial.
+- [x] **Unidad 1:** [[Entregables/Actividad 1 Rappi.pdf|Actividad Unidad 1 (Caso Rappi)]] investigada, redactada en APA 7 y entregada en SIMA.
+- [x] **Unidad 1:** Video de sustentación individual (16 minutos) grabado con diapositivas interactivas y enlazado.
 - [ ] **Unidad 2:** Lectura de funcionamiento de Internet, servidores DNS y dominios.
 
 ## Cómo Estudiar la Asignatura

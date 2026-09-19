@@ -3,113 +3,213 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sustentación Unidad 2 — Estrategia 3C (Momentos Metodológicos EAD)</title>
+  <title>Estrategia 3C · Sustentación MEAD · Esteban Marrugo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
   <style>
+    /* ══════════════════════════════════════════════════════════
+       DESIGN TOKENS — Modern Linear/Vercel Dark Elegance
+       ══════════════════════════════════════════════════════════ */
     :root {
-      --bg: #090d16;
-      --card-bg: #111827;
-      --border: #1f2937;
-      --accent: #0ea5e9; /* Sky blue academic */
-      --accent-secondary: #10b981; /* Emerald green */
-      --text: #cbd5e1;
-      --text-bold: #f8fafc;
-      --gold: #f59e0b;
-      --purple: #8b5cf6;
+      --bg-main:       #050811;
+      --bg-deck:       #090e1a;
+      --bg-card:       rgba(15, 23, 42, 0.75);
+      --bg-card-hover: rgba(22, 33, 58, 0.85);
+      --bg-glass:      rgba(15, 23, 42, 0.6);
+
+      --border-subtle: rgba(255, 255, 255, 0.07);
+      --border-card:   rgba(255, 255, 255, 0.1);
+      --border-focus:  rgba(56, 189, 248, 0.4);
+
+      --text-main:     #f8fafc;
+      --text-secondary:#cbd5e1;
+      --text-muted:    #64748b;
+      --text-dim:      #475569;
+
+      /* Strategic Accents */
+      --sky:           #38bdf8;
+      --sky-glow:      rgba(56, 189, 248, 0.15);
+      --sky-border:    rgba(56, 189, 248, 0.3);
+
+      --emerald:       #10b981;
+      --emerald-glow:  rgba(16, 185, 129, 0.15);
+      --emerald-border:rgba(16, 185, 129, 0.3);
+
+      --amber:         #f59e0b;
+      --amber-glow:    rgba(245, 158, 11, 0.15);
+      --amber-border:  rgba(245, 158, 11, 0.3);
+
+      --rose:          #f43f5e;
+      --rose-glow:     rgba(244, 63, 94, 0.12);
+      --rose-border:   rgba(244, 63, 94, 0.28);
+
+      --violet:        #8b5cf6;
+      --violet-glow:   rgba(139, 92, 246, 0.15);
+
+      --radius-sm: 8px;
+      --radius-md: 14px;
+      --radius-lg: 20px;
+
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
     }
 
-    * {
+    *, *::before, *::after {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
 
     body {
-      background-color: var(--bg);
-      color: var(--text);
+      font-family: var(--font-sans);
+      background-color: var(--bg-main);
+      color: var(--text-main);
       display: flex;
       flex-direction: column;
-      justify-content: center;
       align-items: center;
+      justify-content: center;
       min-height: 100vh;
       overflow: hidden;
+      -webkit-font-smoothing: antialiased;
+      background-image: 
+        radial-gradient(ellipse 65% 50% at 50% -10%, rgba(56, 189, 248, 0.09), transparent),
+        radial-gradient(ellipse 50% 40% at 50% 110%, rgba(16, 185, 129, 0.05), transparent);
     }
 
-    .deck-container {
-      width: 92vw;
-      max-width: 1250px;
-      height: 84vh;
+    /* ══════════════════════════════════════════════════════════
+       DECK STAGE (16:9 Presentation Frame)
+       ══════════════════════════════════════════════════════════ */
+    .deck-stage {
+      width: 93vw;
+      max-width: 1300px;
+      aspect-ratio: 16 / 9;
       position: relative;
+      perspective: 1000px;
     }
 
     .slide {
       position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 44px 52px;
+      inset: 0;
+      background: var(--bg-deck);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
       display: none;
       flex-direction: column;
-      justify-content: space-between;
-      box-shadow: 0 12px 36px rgba(0,0,0,0.7);
-      animation: fadeIn 0.25s ease-in-out;
+      box-shadow: 
+        0 25px 60px -15px rgba(0, 0, 0, 0.9),
+        0 0 0 1px rgba(255, 255, 255, 0.05) inset;
+      backdrop-filter: blur(16px);
     }
 
     .slide.active {
       display: flex;
+      animation: slideIn 0.32s cubic-bezier(0.16, 1, 0.3, 1) forwards;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(6px); }
-      to { opacity: 1; transform: translateY(0); }
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateY(12px) scale(0.995);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+      }
     }
 
-    /* Slide Header */
+    /* Top Multicolored Edge Accent */
+    .deck-topbar {
+      height: 3.5px;
+      width: 100%;
+      background: linear-gradient(90deg, 
+        var(--sky) 0%, 
+        var(--violet) 35%, 
+        var(--emerald) 70%, 
+        var(--amber) 100%
+      );
+      flex-shrink: 0;
+    }
+
+    /* Content Area */
+    .slide-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 34px 50px 24px;
+      min-height: 0;
+    }
+
+    /* Header Component */
     .slide-header {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      border-bottom: 2px solid var(--border);
-      padding-bottom: 14px;
+      margin-bottom: 24px;
+      flex-shrink: 0;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.6px;
+      text-transform: uppercase;
+      color: var(--sky);
+      margin-bottom: 6px;
+    }
+
+    .eyebrow-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--sky);
+      box-shadow: 0 0 8px var(--sky);
     }
 
     .slide-title {
-      font-size: 26px;
-      font-weight: 700;
-      color: var(--text-bold);
-      letter-spacing: -0.5px;
+      font-size: 29px;
+      font-weight: 800;
+      color: var(--text-main);
+      letter-spacing: -0.8px;
+      line-height: 1.15;
     }
 
-    .slide-subtitle {
-      font-size: 14px;
-      color: var(--accent);
-      margin-top: 4px;
-      font-weight: 500;
-      text-transform: uppercase;
-      letter-spacing: 0.8px;
-    }
-
-    .badge {
-      background: #1e293b;
-      border: 1px solid #334155;
+    .slide-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(30, 41, 59, 0.65);
+      border: 1px solid rgba(255, 255, 255, 0.08);
       padding: 6px 14px;
-      border-radius: 20px;
-      font-size: 12px;
-      color: #94a3b8;
+      border-radius: 9999px;
+      font-size: 11.5px;
       font-weight: 600;
+      color: var(--text-secondary);
     }
 
-    /* Slide Body */
+    .badge-chip {
+      background: var(--sky-glow);
+      color: var(--sky);
+      border: 1px solid var(--sky-border);
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-family: var(--font-mono);
+      font-size: 10px;
+    }
+
+    /* Main Flex Body */
     .slide-body {
       flex: 1;
       display: flex;
-      gap: 28px;
-      margin: 22px 0;
+      gap: 22px;
       align-items: stretch;
+      min-height: 0;
     }
 
     .col {
@@ -117,460 +217,894 @@
       display: flex;
       flex-direction: column;
       gap: 14px;
+      min-height: 0;
     }
+    .col-65 { flex: 1.35; }
+    .col-35 { flex: 0.85; }
 
+    /* ══════════════════════════════════════════════════════════
+       CARD DESIGN SYSTEM
+       ══════════════════════════════════════════════════════════ */
     .card {
-      background: rgba(15, 23, 42, 0.7);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 18px 22px;
-    }
-
-    .card-title {
-      font-size: 15px;
-      font-weight: 700;
-      color: var(--accent-secondary);
-      margin-bottom: 8px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .card-content {
-      font-size: 13.5px;
-      line-height: 1.55;
-      color: var(--text);
-    }
-
-    .highlight-box {
-      background: rgba(14, 165, 233, 0.08);
-      border-left: 4px solid var(--accent);
-      padding: 12px 16px;
-      border-radius: 0 8px 8px 0;
-      font-size: 13.5px;
-      line-height: 1.5;
-    }
-
-    ul.clean-list {
-      list-style: none;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-md);
+      padding: 20px 24px;
       display: flex;
       flex-direction: column;
-      gap: 10px;
-    }
-
-    ul.clean-list li {
+      gap: 8px;
+      transition: border-color 0.2s, background-color 0.2s;
       position: relative;
-      padding-left: 22px;
-      font-size: 13.5px;
+    }
+    .card:hover {
+      border-color: rgba(255, 255, 255, 0.16);
+      background: var(--bg-card-hover);
+    }
+
+    .card.blue {
+      border-top: 3px solid var(--sky);
+      background: linear-gradient(180deg, var(--sky-glow) 0%, var(--bg-card) 38%);
+    }
+    .card.green {
+      border-top: 3px solid var(--emerald);
+      background: linear-gradient(180deg, var(--emerald-glow) 0%, var(--bg-card) 38%);
+    }
+    .card.amber {
+      border-top: 3px solid var(--amber);
+      background: linear-gradient(180deg, var(--amber-glow) 0%, var(--bg-card) 38%);
+    }
+    .card.danger {
+      border-left: 3.5px solid var(--rose);
+      background: linear-gradient(90deg, var(--rose-glow) 0%, var(--bg-card) 45%);
+    }
+
+    .card-tag {
+      font-family: var(--font-mono);
+      font-size: 10.5px;
+      font-weight: 700;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .card-tag.blue  { color: var(--sky); }
+    .card-tag.green { color: var(--emerald); }
+    .card-tag.amber { color: var(--amber); }
+    .card-tag.rose  { color: var(--rose); }
+
+    .card-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text-main);
+      letter-spacing: -0.3px;
+      line-height: 1.25;
+    }
+
+    .card-desc {
+      font-size: 13.2px;
+      line-height: 1.6;
+      color: var(--text-secondary);
+    }
+    .card-desc strong {
+      color: var(--text-main);
+      font-weight: 600;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       PILL / ROW LISTS
+       ══════════════════════════════════════════════════════════ */
+    .pill-list {
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+
+    .pill-item {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 11px 16px;
+      font-size: 13px;
+      color: var(--text-secondary);
       line-height: 1.45;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .pill-item:hover {
+      transform: translateX(3px);
+      border-color: rgba(255, 255, 255, 0.14);
+      color: var(--text-main);
+    }
+    .pill-item strong {
+      color: var(--text-main);
+      font-weight: 600;
+    }
+    .pill-icon {
+      font-size: 17px;
+      flex-shrink: 0;
     }
 
-    ul.clean-list li::before {
-      content: "▹";
+    /* ══════════════════════════════════════════════════════════
+       CONNECTIVE FLOW (Momento 1 -> 2 -> 3)
+       ══════════════════════════════════════════════════════════ */
+    .flow-rail {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      height: 100%;
+      justify-content: center;
+    }
+
+    .flow-step {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 13px 16px;
+      background: rgba(15, 23, 42, 0.65);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      transition: all 0.2s;
+    }
+    .flow-step:hover {
+      border-color: rgba(255, 255, 255, 0.18);
+      background: rgba(30, 41, 59, 0.5);
+    }
+
+    .flow-badge {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: 13px;
+      font-weight: 800;
+      flex-shrink: 0;
+    }
+    .flow-badge.blue  { background: var(--sky-glow); color: var(--sky); border: 1.5px solid var(--sky-border); }
+    .flow-badge.green { background: var(--emerald-glow); color: var(--emerald); border: 1.5px solid var(--emerald-border); }
+    .flow-badge.amber { background: var(--amber-glow); color: var(--amber); border: 1.5px solid var(--amber-border); }
+
+    .flow-connector {
+      width: 2px;
+      height: 12px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.2), rgba(255,255,255,0.05));
+      margin-left: 28px;
+    }
+
+    .flow-heading {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+    .flow-caption {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       COVER SLIDE SPECIFICS
+       ══════════════════════════════════════════════════════════ */
+    .cover-container {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1.15fr 1px 0.85fr;
+      gap: 38px;
+      align-items: center;
+    }
+
+    .cover-divider {
+      width: 1px;
+      height: 80%;
+      background: linear-gradient(180deg, 
+        transparent, 
+        rgba(255, 255, 255, 0.12) 20%, 
+        rgba(255, 255, 255, 0.12) 80%, 
+        transparent
+      );
+    }
+
+    .cover-badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--sky-glow);
+      border: 1px solid var(--sky-border);
+      color: var(--sky);
+      font-family: var(--font-mono);
+      font-size: 10.5px;
+      font-weight: 600;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      padding: 5px 12px;
+      border-radius: 6px;
+      margin-bottom: 16px;
+    }
+
+    .cover-hero-title {
+      font-size: 40px;
+      font-weight: 900;
+      letter-spacing: -1.2px;
+      line-height: 1.05;
+      color: var(--text-main);
+    }
+    .cover-hero-gradient {
+      background: linear-gradient(90deg, #38bdf8 0%, #818cf8 60%, #34d399 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .cover-hero-sub {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.65;
+      margin-top: 14px;
+      max-width: 480px;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       TAG CHIPS & TECH STACK
+       ══════════════════════════════════════════════════════════ */
+    .tag-cluster {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-top: auto;
+      padding-top: 10px;
+    }
+    .tag-chip {
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 5px;
+      padding: 3.5px 9px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       STAT METRIC CARDS
+       ══════════════════════════════════════════════════════════ */
+    .metric-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .metric-box {
+      background: rgba(15, 23, 42, 0.65);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-md);
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .metric-val {
+      font-family: var(--font-mono);
+      font-size: 34px;
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -1px;
+    }
+    .metric-val.blue { color: var(--sky); }
+    .metric-val.green { color: var(--emerald); }
+
+    .metric-lbl {
+      font-size: 11.5px;
+      color: var(--text-muted);
+      font-weight: 500;
+      line-height: 1.35;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       QUOTE CARD (Paulo Freire)
+       ══════════════════════════════════════════════════════════ */
+    .quote-card {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: linear-gradient(135deg, 
+        rgba(56, 189, 248, 0.08) 0%, 
+        rgba(139, 92, 246, 0.08) 50%, 
+        rgba(16, 185, 129, 0.05) 100%
+      );
+      border: 1px solid rgba(56, 189, 248, 0.25);
+      border-radius: var(--radius-md);
+      padding: 36px 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .quote-card::before {
+      content: "“";
       position: absolute;
-      left: 0;
-      color: var(--accent);
-      font-weight: bold;
+      top: -25px;
+      left: 20px;
+      font-size: 160px;
+      color: rgba(255, 255, 255, 0.03);
+      font-family: serif;
+      pointer-events: none;
     }
 
-    /* Slide Footer */
+    .quote-tagline {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 2.2px;
+      text-transform: uppercase;
+      color: var(--sky);
+      margin-bottom: 14px;
+    }
+
+    .quote-body {
+      font-size: 17.5px;
+      font-style: italic;
+      font-weight: 500;
+      color: var(--text-main);
+      line-height: 1.65;
+      max-width: 440px;
+    }
+
+    .quote-credit {
+      margin-top: 18px;
+      font-size: 12.5px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+    .quote-subcredit {
+      font-size: 11.5px;
+      color: var(--text-muted);
+      margin-top: 3px;
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       FOOTER & PROGRESS BAR
+       ══════════════════════════════════════════════════════════ */
     .slide-footer {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      border-top: 1px solid var(--border);
+      border-top: 1px solid var(--border-subtle);
       padding-top: 12px;
-      font-size: 12px;
-      color: #64748b;
+      margin-top: 18px;
+      font-size: 11.5px;
+      color: var(--text-muted);
+      flex-shrink: 0;
     }
 
-    .presenters {
+    .slide-footer-author {
       display: flex;
-      gap: 16px;
+      align-items: center;
+      gap: 10px;
       font-weight: 500;
     }
 
-    .presenter-chip {
-      background: #1e293b;
-      padding: 4px 10px;
-      border-radius: 6px;
-      color: #cbd5e1;
+    .footer-dot {
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background: var(--text-dim);
     }
 
-    /* Controls Bar */
-    .controls {
+    .progress-track {
+      height: 2.5px;
+      background: rgba(255, 255, 255, 0.06);
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--sky), var(--emerald));
+      transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* ══════════════════════════════════════════════════════════
+       EXTERNAL CONTROL BAR
+       ══════════════════════════════════════════════════════════ */
+    .control-bar {
       display: flex;
       align-items: center;
-      gap: 18px;
-      margin-top: 16px;
+      gap: 14px;
+      margin-top: 18px;
     }
 
-    button.ctrl-btn {
-      background: #1e293b;
-      border: 1px solid #334155;
-      color: #f8fafc;
-      padding: 9px 20px;
-      border-radius: 8px;
+    .nav-btn {
+      background: rgba(15, 23, 42, 0.8);
+      border: 1px solid var(--border-card);
+      color: var(--text-secondary);
+      padding: 8px 20px;
+      border-radius: var(--radius-sm);
+      font-family: inherit;
+      font-size: 13px;
       font-weight: 600;
       cursor: pointer;
-      font-size: 13px;
-      transition: all 0.2s;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.16s ease;
+    }
+    .nav-btn:hover {
+      background: var(--sky);
+      border-color: var(--sky);
+      color: #030712;
     }
 
-    button.ctrl-btn:hover {
-      background: var(--accent);
-      color: #040d1a;
-      border-color: var(--accent);
+    .nav-btn.btn-fs {
+      background: rgba(16, 185, 129, 0.12);
+      border-color: var(--emerald-border);
+      color: var(--emerald);
+    }
+    .nav-btn.btn-fs:hover {
+      background: var(--emerald);
+      color: #030712;
     }
 
-    .slide-indicator {
-      font-size: 14px;
+    .indicator-pill {
+      font-family: var(--font-mono);
+      font-size: 12.5px;
       font-weight: 600;
-      color: #94a3b8;
+      color: var(--text-muted);
+      min-width: 52px;
+      text-align: center;
+      background: rgba(15, 23, 42, 0.5);
+      border: 1px solid var(--border-subtle);
+      padding: 6px 12px;
+      border-radius: var(--radius-sm);
+    }
+
+    .kbd-hint {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-dim);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-left: 8px;
+    }
+    .kbd-key {
+      background: rgba(30, 41, 59, 0.7);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: var(--text-muted);
     }
   </style>
 </head>
 <body>
 
-  <div class="deck-container">
+  <!-- ══════════════════════════════════════════════════════════
+       MAIN PRESENTATION STAGE
+       ══════════════════════════════════════════════════════════ -->
+  <div class="deck-stage" id="presentation">
 
-    <!-- DIAPOSITIVA 1: PORTADA -->
+    <!-- ━━━━ SLIDE 1: PORTADA & MARCO INSTITUCIONAL ━━━━ -->
     <div class="slide active" id="slide-1">
-      <div class="slide-header">
-        <div>
-          <div class="slide-title">Estrategia 3C: Captura, Co-Validación y Consolidación</div>
-          <div class="slide-subtitle">Modelo Ágil de Aprendizaje Autónomo en la Educación a Distancia</div>
+      <div class="deck-topbar"></div>
+      <div class="slide-content">
+        <div class="slide-header">
+          <div>
+            <div class="eyebrow"><span class="eyebrow-dot"></span> Sustentación Académica · Unidad 2</div>
+            <div class="slide-title">Metodologías de la Educación a Distancia</div>
+          </div>
+          <div class="slide-badge">
+            <span>Periodo 2026-2</span>
+            <span class="badge-chip">MEAD</span>
+          </div>
         </div>
-        <div class="badge">Unidad 2 · MEAD</div>
-      </div>
-      <div class="slide-body" style="align-items: center; justify-content: center; gap: 36px;">
-        <div style="flex: 1.2; display: flex; flex-direction: column; gap: 16px;">
-          <div class="card" style="border-left: 4px solid var(--accent); background: rgba(14, 165, 233, 0.05);">
-            <div class="card-title" style="color: var(--accent); font-size: 17px;">🏛️ Universidad de Cartagena — Facultad de Ingeniería</div>
-            <p class="card-content" style="font-size: 14px;">
-              <strong>Programa:</strong> Ingeniería de Software (Semestre 1 - 2026-2)<br>
-              <strong>Asignatura:</strong> Metodologías y Estrategias de la Educación a Distancia<br>
-              <strong>Docente:</strong> Raquel Leottau Díaz
+
+        <div class="cover-container">
+          <!-- Left: Title & Concept -->
+          <div>
+            <div class="cover-badge-pill">Estrategia Metodológica Propuesta</div>
+            <div class="cover-hero-title">
+              Estrategia <span class="cover-hero-gradient">3C</span>
+            </div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text-secondary); margin-top: 6px;">
+              Captura · Co-Validación · Consolidación
+            </div>
+            <p class="cover-hero-sub">
+              Modelo ágil de aprendizaje autorregulado que articula dialécticamente los <strong>Tres Momentos Metodológicos</strong> postulados por Amaury Lora Sfer en la educación superior a distancia.
             </p>
           </div>
-          <div class="highlight-box">
-            <strong>Propósito de la Actividad:</strong> Articular dialécticamente los Tres Momentos Metodológicos del Aprendizaje (Amaury Lora Sfer) para transformar la flexibilidad de la EAD en disciplina, rigor colaborativo y retención conceptual de largo plazo.
+
+          <div class="cover-divider"></div>
+
+          <!-- Right: Identity Data -->
+          <div style="display: flex; flex-direction: column; gap: 14px;">
+            <div class="card" style="gap: 6px;">
+              <div class="card-tag blue">Institución & Programa</div>
+              <div style="font-size: 14.5px; font-weight: 700; color: var(--text-main);">
+                Universidad de Cartagena
+              </div>
+              <div style="font-size: 12.5px; color: var(--text-secondary);">
+                Facultad de Ingeniería · Ingeniería de Software
+              </div>
+              <div style="height: 1px; background: var(--border-subtle); margin: 6px 0;"></div>
+              <div style="font-size: 12px; color: var(--text-muted);">
+                Docente Tutor: <span style="color: var(--text-secondary); font-weight: 600;">Raquel Leottau Díaz</span>
+              </div>
+            </div>
+
+            <div class="card" style="gap: 5px; border-color: rgba(245, 158, 11, 0.25); background: linear-gradient(180deg, rgba(245, 158, 11, 0.08) 0%, var(--bg-card) 45%);">
+              <div class="card-tag amber">Equipo de Trabajo · CIPAS 8</div>
+              <div style="font-size: 16px; font-weight: 800; color: var(--text-main);">
+                Esteban David Marrugo Jassir
+              </div>
+              <div style="font-size: 12px; color: var(--text-muted); font-family: var(--font-mono);">
+                Vocero · Cód. 7502620036 · CTEV Piedra de Bolívar
+              </div>
+            </div>
           </div>
         </div>
-        <div style="flex: 0.8;">
-          <div class="card" style="border: 1px solid #334155; background: #0f172a;">
-            <div class="card-title" style="color: var(--gold);">👥 CIPAS — Grupo 8</div>
-            <div style="margin-top: 10px; font-size: 13.5px; line-height: 1.6;">
-              <p><strong>Sustentador / Vocero:</strong></p>
-              <p style="color: #38bdf8; font-weight: 600;">Esteban David Marrugo Jassir</p>
-              <p style="color: #64748b; font-size: 12px;">Cód. 7502620036 · Semestre 1</p>
-            </div>
-            <div style="margin-top: 16px; padding-top: 12px; border-top: 1px solid #1e293b; font-size: 12px; color: #94a3b8;">
-              📍 Sede Piedra de Bolívar · CTEV
-            </div>
+
+        <div class="slide-footer">
+          <div class="slide-footer-author">
+            <span>CIPAS Grupo 8</span>
+            <span class="footer-dot"></span>
+            <span>Esteban Marrugo</span>
           </div>
+          <div>1 de 5</div>
         </div>
       </div>
-      <div class="slide-footer">
-        <div class="presenters">
-          <span class="presenter-chip">CIPAS Grupo 8 · Sustenta: Esteban Marrugo</span>
-        </div>
-        <div>Diapositiva 1 / 6</div>
-      </div>
+      <div class="progress-track"><div class="progress-fill" style="width: 20%;"></div></div>
     </div>
 
-    <!-- DIAPOSITIVA 2: EL PROBLEMA Y JUSTIFICACIÓN -->
+    <!-- ━━━━ SLIDE 2: EL PROBLEMA & JUSTIFICACIÓN ━━━━ -->
     <div class="slide" id="slide-2">
-      <div class="slide-header">
-        <div>
-          <div class="slide-title">El Problema de la EAD y Justificación Metodológica</div>
-          <div class="slide-subtitle">Superando la fragmentación viciada del trabajo en equipo</div>
-        </div>
-        <div class="badge">Diagnóstico & Fundamento</div>
-      </div>
-      <div class="slide-body">
-        <div class="col">
-          <div class="card" style="border-left: 4px solid #ef4444;">
-            <div class="card-title" style="color: #f87171;">⚠️ El Vicio Tradicional en Distancia</div>
-            <ul class="clean-list">
-              <li><strong>Confundir flexibilidad con procrastinación:</strong> Dejar lecturas complejas para la víspera del vencimiento en SIMA.</li>
-              <li><strong>El síndrome del mosaico o retazo:</strong> Repartir puntos de un taller sin debatir ("tú haces el 1 y yo el 2").</li>
-              <li><strong>Aislamiento cognitivo:</strong> Intentar resolver dudas sin contraste dialógico entre pares.</li>
-            </ul>
+      <div class="deck-topbar"></div>
+      <div class="slide-content">
+        <div class="slide-header">
+          <div>
+            <div class="eyebrow"><span class="eyebrow-dot"></span> Diagnóstico Situacional</div>
+            <div class="slide-title">¿Qué falla comúnmente en la Educación a Distancia?</div>
           </div>
-          <div class="highlight-box">
-            Amaury Lora Sfer (2014) advierte que quien no estudia no aprende, y que el CIPAS fracasa si los miembros llegan vacíos sin haber leído previamente.
+          <div class="slide-badge">Fundamentación</div>
+        </div>
+
+        <div class="slide-body">
+          <!-- Columna Izquierda: Los 3 Vicios -->
+          <div class="col">
+            <div class="card danger">
+              <div class="card-tag rose">⚠️ El Vicio Tradicional</div>
+              <div class="pill-list" style="margin-top: 4px;">
+                <div class="pill-item">
+                  <span class="pill-icon">⏰</span>
+                  <span><strong>Confundir flexibilidad con procrastinación:</strong> aplazar lecturas analíticas densas hasta la víspera de la entrega en SIMA.</span>
+                </div>
+                <div class="pill-item">
+                  <span class="pill-icon">✂️</span>
+                  <span><strong>El síndrome del mosaico (retazos):</strong> "tú haces el punto 1 y yo el 2". Se compila sin debatir, contrastar ni aprender.</span>
+                </div>
+                <div class="pill-item">
+                  <span class="pill-icon">🫥</span>
+                  <span><strong>Aislamiento cognitivo:</strong> resolver dudas en soledad, sin contraste dialógico entre pares para evidenciar errores mentales.</span>
+                </div>
+              </div>
+            </div>
+
+            <div style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: var(--radius-sm); padding: 13px 18px; font-size: 12.5px; line-height: 1.55; color: var(--text-secondary);">
+              <span style="color: var(--amber); font-weight: 700;">Fundamento (Lora Sfer, 2014):</span> "Quien no estudia no aprende". El CIPAS fracasa de raíz cuando sus integrantes se presentan vacíos a la reunión.
+            </div>
+          </div>
+
+          <!-- Columna Derecha: Respuesta 3C -->
+          <div class="col">
+            <div class="card" style="flex: 1; border-top: 3px solid var(--emerald); background: linear-gradient(180deg, var(--emerald-glow) 0%, var(--bg-card) 40%);">
+              <div class="card-tag green">💡 La Solución: Estrategia 3C</div>
+              <div class="pill-list" style="flex: 1; justify-content: center;">
+                <div class="pill-item">
+                  <span class="pill-icon">🔁</span>
+                  <span><strong>Rutinas semanales estructuradas:</strong> avance continuo y medible, eliminando maratones caóticas de última hora.</span>
+                </div>
+                <div class="pill-item">
+                  <span class="pill-icon">📋</span>
+                  <span><strong>Obligatoriedad del insumo individual:</strong> nadie participa en el debate sin haber procesado sus notas previas.</span>
+                </div>
+                <div class="pill-item">
+                  <span class="pill-icon">🎯</span>
+                  <span><strong>Maximización de la tutoría presencial:</strong> el docente tutor no dicta teoría básica, resuelve dudas complejas de fondo.</span>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="col">
-          <div class="card" style="border-left: 4px solid var(--accent-secondary);">
-            <div class="card-title">💡 La Justificación de la Estrategia 3C</div>
-            <ul class="clean-list">
-              <li><strong>Inspiración en Software Ágil:</strong> Rutinas continuas y medibles, no maratones caóticas de última hora.</li>
-              <li><strong>Obligatoriedad del insumo individual:</strong> Ningún integrante participa en el debate sin mostrar sus notas previas.</li>
-              <li><strong>Maximización de la tutoría:</strong> Los sábados con el docente no son para dictar clases básicas, sino para resolver dudas de fondo.</li>
-            </ul>
+
+        <div class="slide-footer">
+          <div class="slide-footer-author">
+            <span>CIPAS Grupo 8</span>
+            <span class="footer-dot"></span>
+            <span>Esteban Marrugo</span>
           </div>
+          <div>2 de 5</div>
         </div>
       </div>
-      <div class="slide-footer">
-        <div class="presenters">
-          <span class="presenter-chip">CIPAS Grupo 8 · Sustenta: Esteban Marrugo</span>
-        </div>
-        <div>Diapositiva 2 / 6</div>
-      </div>
+      <div class="progress-track"><div class="progress-fill" style="width: 40%;"></div></div>
     </div>
 
-    <!-- DIAPOSITIVA 3: LOS TRES MOMENTOS Y MAPA CONCEPTUAL -->
+    <!-- ━━━━ SLIDE 3: LOS TRES MOMENTOS METODOLÓGICOS ━━━━ -->
     <div class="slide" id="slide-3">
-      <div class="slide-header">
-        <div>
-          <div class="slide-title">Articulación Dialéctica: Los Tres Momentos</div>
-          <div class="slide-subtitle">Estructura jerárquica del aprendizaje en la Universidad de Cartagena</div>
+      <div class="deck-topbar"></div>
+      <div class="slide-content">
+        <div class="slide-header">
+          <div>
+            <div class="eyebrow"><span class="eyebrow-dot"></span> Modelo Teórico UDC</div>
+            <div class="slide-title">Articulación de los Tres Momentos del Aprendizaje</div>
+          </div>
+          <div class="slide-badge">Lora Sfer</div>
         </div>
-        <div class="badge">Mapa Conceptual</div>
+
+        <div class="slide-body">
+          <!-- Flow Izquierdo -->
+          <div class="col col-35">
+            <div class="flow-rail">
+              <div class="flow-step">
+                <div class="flow-badge blue">1</div>
+                <div>
+                  <div class="flow-heading">Estudio Autónomo</div>
+                  <div class="flow-caption">Lectura analítica + Protocolo Individual</div>
+                </div>
+              </div>
+              <div class="flow-connector"></div>
+              <div class="flow-step">
+                <div class="flow-badge green">2</div>
+                <div>
+                  <div class="flow-heading">Co-Validación CIPAS</div>
+                  <div class="flow-caption">Contraste dialógico + Protocolo Colab.</div>
+                </div>
+              </div>
+              <div class="flow-connector"></div>
+              <div class="flow-step">
+                <div class="flow-badge amber">3</div>
+                <div>
+                  <div class="flow-heading">Tutoría Presencial</div>
+                  <div class="flow-caption">Docente mediador + Síntesis Tutorial</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Cards Derecha Detalladas -->
+          <div class="col col-65" style="gap: 11px;">
+            <div class="card blue" style="flex: 1; padding: 16px 20px;">
+              <div class="card-tag blue">Momento 1 · Insumo Vital e Intransferible</div>
+              <div class="card-title">Protocolo Individual</div>
+              <div class="card-desc">
+                Lectura analítica del módulo en SIMA. Cumplimiento de créditos: <strong>2 a 3 horas autónomas por crédito</strong>. Mediante técnica Feynman en Obsidian, se audita honestamente qué se comprende y qué dudas persisten antes de ingresar al CIPAS.
+              </div>
+            </div>
+
+            <div class="card green" style="flex: 1; padding: 16px 20px;">
+              <div class="card-tag green">Momento 2 · Co-Construcción Social</div>
+              <div class="card-title">Protocolo Colaborativo</div>
+              <div class="card-desc">
+                Encuentro dialógico entre pares. Se contrastan modelos mentales, se destruyen sesgos cognitivos y se redacta el documento conjunto, aislando las <strong>Dudas Semilla</strong> que el equipo no pudo resolver autónomamente.
+              </div>
+            </div>
+
+            <div class="card amber" style="flex: 1; padding: 16px 20px;">
+              <div class="card-tag amber">Momento 3 · Consolidación Dialéctica</div>
+              <div class="card-title">Síntesis Tutorial (Sábados B)</div>
+              <div class="card-desc">
+                El docente en el CTEV actúa como <strong>mediador pedagógico</strong>. Se resuelven las dudas de fondo filtradas por el CIPAS, cerrando el ciclo permanente de <em>aprender a aprender</em>.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide-footer">
+          <div class="slide-footer-author">
+            <span>CIPAS Grupo 8</span>
+            <span class="footer-dot"></span>
+            <span>Esteban Marrugo</span>
+          </div>
+          <div>3 de 5</div>
+        </div>
       </div>
-      <div class="slide-body">
-        <div class="col">
-          <div class="card">
-            <div class="card-title" style="color: #38bdf8;">1. Estudio Individual y Autónomo</div>
-            <div class="card-content">
-              Lectura analítica del módulo en SIMA, cálculo de créditos (2h a 3h autónomas por crédito) y estructuración del <strong>Protocolo Individual</strong>. Es el insumo vital e intransferible.
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-title" style="color: #4ade80;">2. Co-Validación en CIPAS</div>
-            <div class="card-content">
-              Encuentro dialógico entre pares. Se contrastan modelos mentales, se destruyen sesgos y se redacta el <strong>Protocolo Colaborativo</strong>, filtrando las dudas complejas no resueltas.
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-title" style="color: #facc15;">3. Tutoría Presencial (Sábados)</div>
-            <div class="card-content">
-              El docente actúa como tutor mediador y co-validador. Se debaten las preguntas de fondo y se consolida la síntesis tutorial, cerrando el ciclo de <em>aprender a aprender</em>.
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card" style="height: 100%; display: flex; flex-direction: column; justify-content: center; background: #0b1329;">
-            <div style="text-align: center; margin-bottom: 12px; font-weight: 700; color: #93c5fd;">
-              Flujo Cíclico Metodológico (Lora Sfer)
-            </div>
-            <div style="font-family: monospace; font-size: 13px; line-height: 1.8; color: #cbd5e1; background: #020617; padding: 16px; border-radius: 8px; border: 1px solid #1e293b;">
-              [Módulo SIMA]<br>
-              &nbsp;&nbsp;&nbsp;│<br>
-              &nbsp;&nbsp;&nbsp;▼<br>
-              <strong>Momento 1:</strong> Estudio Autónomo (Obsidian + Feynman)<br>
-              &nbsp;&nbsp;&nbsp;│ <i>(Insumo: Protocolo Individual)</i><br>
-              &nbsp;&nbsp;&nbsp;▼<br>
-              <strong>Momento 2:</strong> CIPAS Co-validación (Discord + Google Docs)<br>
-              &nbsp;&nbsp;&nbsp;│ <i>(Insumo: Dudas Semilla y Protocolo Colab.)</i><br>
-              &nbsp;&nbsp;&nbsp;▼<br>
-              <strong>Momento 3:</strong> Tutoría Presencial CTEV (Docente Mediador)<br>
-              &nbsp;&nbsp;&nbsp;│<br>
-              &nbsp;&nbsp;&nbsp;└──► Retroalimenta: <strong>Aprender a Aprender</strong>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="slide-footer">
-        <div class="presenters">
-          <span class="presenter-chip">CIPAS Grupo 8 · Sustenta: Esteban Marrugo</span>
-        </div>
-        <div>Diapositiva 3 / 6</div>
-      </div>
+      <div class="progress-track"><div class="progress-fill" style="width: 60%;"></div></div>
     </div>
 
-    <!-- DIAPOSITIVA 4: FASES DE LA ESTRATEGIA 3C Y HERRAMIENTAS -->
+    <!-- ━━━━ SLIDE 4: OPERATIVIDAD SEMANAL DE LA 3C ━━━━ -->
     <div class="slide" id="slide-4">
-      <div class="slide-header">
-        <div>
-          <div class="slide-title">Operatividad: Fases de la Estrategia 3C</div>
-          <div class="slide-subtitle">Distribución semanal de cargas y ecosistema digital</div>
+      <div class="deck-topbar"></div>
+      <div class="slide-content">
+        <div class="slide-header">
+          <div>
+            <div class="eyebrow"><span class="eyebrow-dot"></span> Implementación Práctica</div>
+            <div class="slide-title">Operatividad: La Estrategia 3C Semana a Semana</div>
+          </div>
+          <div class="slide-badge">Rutina Aplicada</div>
         </div>
-        <div class="badge">Estrategia Aplicada</div>
+
+        <div class="slide-body" style="gap: 18px;">
+          <!-- C1 -->
+          <div class="card blue" style="flex: 1; gap: 10px;">
+            <div class="card-tag blue">C1 · Lunes a Miércoles</div>
+            <div class="card-title" style="font-size: 19px; color: var(--sky);">CAPTURA</div>
+            <div class="card-desc">
+              • Lectura activa de la unidad en SIMA.<br><br>
+              • Aplicación de <strong>Técnica Feynman</strong>: reformular conceptos técnicos en palabras propias.<br><br>
+              • Redacción del <strong>Protocolo Individual</strong> sin atajos ni copia.
+            </div>
+            <div class="tag-cluster">
+              <span class="tag-chip">Obsidian</span>
+              <span class="tag-chip">Calendar</span>
+            </div>
+          </div>
+
+          <!-- C2 -->
+          <div class="card green" style="flex: 1; gap: 10px;">
+            <div class="card-tag green">C2 · Jueves a Viernes</div>
+            <div class="card-title" style="font-size: 19px; color: var(--emerald);">CO-VALIDACIÓN</div>
+            <div class="card-desc">
+              • Llamada sincrónica de 60–90 min en canal de voz.<br><br>
+              • Co-escritura en tiempo real del <strong>Protocolo Colaborativo</strong>.<br><br>
+              • Filtrado formal de <strong>Dudas Semilla</strong> que serán llevadas al tutor.
+            </div>
+            <div class="tag-cluster">
+              <span class="tag-chip">Discord</span>
+              <span class="tag-chip">Docs UDC</span>
+            </div>
+          </div>
+
+          <!-- C3 -->
+          <div class="card amber" style="flex: 1; gap: 10px;">
+            <div class="card-tag amber">C3 · Sábados B</div>
+            <div class="card-title" style="font-size: 19px; color: var(--amber);">CONSOLIDACIÓN</div>
+            <div class="card-desc">
+              • Sesión presencial de tutoría 07:00 am en CTEV.<br><br>
+              • Solo se debaten los vacíos reales que el CIPAS no logró solucionar.<br><br>
+              • Docente como <strong>mediador</strong>, fortaleciendo el rigor conceptual.
+            </div>
+            <div class="tag-cluster">
+              <span class="tag-chip">SIMA UDC</span>
+              <span class="tag-chip">Tutoría CTEV</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide-footer">
+          <div class="slide-footer-author">
+            <span>CIPAS Grupo 8</span>
+            <span class="footer-dot"></span>
+            <span>Esteban Marrugo</span>
+          </div>
+          <div>4 de 5</div>
+        </div>
       </div>
-      <div class="slide-body">
-        <div class="col">
-          <div class="card" style="border-top: 3px solid var(--accent);">
-            <div class="card-title">Fase 1: CAPTURA (Lun - Mié)</div>
-            <p class="card-content">
-              • Lectura activa del módulo de la unidad.<br>
-              • Técnica Feynman en <strong>Obsidian</strong>: explicar en palabras propias.<br>
-              • Redacción del protocolo individual sin atajos.
-            </p>
-          </div>
-          <div class="card" style="border-top: 3px solid var(--accent-secondary);">
-            <div class="card-title">Fase 2: CO-VALIDACIÓN (Jue - Vie)</div>
-            <p class="card-content">
-              • Llamada de 60-90 min en canal de voz en <strong>Discord</strong>.<br>
-              • Co-escritura en vivo sobre <strong>Google Docs Institucional</strong>.<br>
-              • Filtrado estricto de "Dudas Semilla" para el tutor.
-            </p>
-          </div>
-          <div class="card" style="border-top: 3px solid var(--gold);">
-            <div class="card-title">Fase 3: CONSOLIDACIÓN (Sábados B)</div>
-            <p class="card-content">
-              • Participación activa en la sesión presencial de las 07:00 am.<br>
-              • Discusión plenaria de dudas complejas con la docente Raquel.
-            </p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <div class="card-title" style="color: var(--purple);">🛠️ Roles Rotativos en CIPAS</div>
-            <ul class="clean-list">
-              <li><strong>Moderador de Tiempo:</strong> Controla intervenciones (máx. 5 min por concepto) y evita dispersión.</li>
-              <li><strong>Relator de Síntesis:</strong> Digita en tiempo real los consensos del equipo en Google Docs.</li>
-              <li><strong>Revisor Técnico:</strong> Valida normas APA 7, ortografía y concordancia con la rúbrica SIMA.</li>
-            </ul>
-          </div>
-          <div class="card" style="background: rgba(16, 185, 129, 0.05); border: 1px solid rgba(16, 185, 129, 0.2);">
-            <div class="card-title" style="color: var(--accent-secondary);">💻 Stack Digital Implementado</div>
-            <p class="card-content" style="font-size: 13px;">
-              <strong>Obsidian:</strong> Markdown atómico local.<br>
-              <strong>Discord:</strong> Comunicación sincrónica ágil.<br>
-              <strong>Google Workspace UDC:</strong> Registro trazable y transparente.<br>
-              <strong>Google Calendar:</strong> Time-blocking de 3h por crédito.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="slide-footer">
-        <div class="presenters">
-          <span class="presenter-chip">CIPAS Grupo 8 · Sustenta: Esteban Marrugo</span>
-        </div>
-        <div>Diapositiva 4 / 6</div>
-      </div>
+      <div class="progress-track"><div class="progress-fill" style="width: 80%;"></div></div>
     </div>
 
-    <!-- DIAPOSITIVA 5: SEGUIMIENTO, EVALUACIÓN Y RESULTADOS -->
+    <!-- ━━━━ SLIDE 5: CIERRE METACOGNITIVO & EVIDENCIA ━━━━ -->
     <div class="slide" id="slide-5">
-      <div class="slide-header">
-        <div>
-          <div class="slide-title">Seguimiento, Evaluación y Resultados</div>
-          <div class="slide-subtitle">Mecanismos de control interno y métricas de éxito</div>
-        </div>
-        <div class="badge">Control de Calidad</div>
-      </div>
-      <div class="slide-body">
-        <div class="col">
-          <div class="card" style="border-left: 4px solid var(--gold);">
-            <div class="card-title" style="color: var(--gold);">🚦 Filtros de Control Interno</div>
-            <ul class="clean-list">
-              <li><strong>Pase de Entrada al CIPAS:</strong> Al entrar a Discord, cada miembro comparte pantalla 30s mostrando sus notas de Fase 1. Quien no leyó, queda de oyente y no firma.</li>
-              <li><strong>Lista de Chequeo de Co-validación:</strong>
-                <br>• ¿Cubrimos toda la guía?
-                <br>• ¿Quedó registrada al menos una discrepancia real debatida?
-                <br>• ¿Tenemos 1 o 2 preguntas de alto nivel para el profesor?
-              </li>
-            </ul>
+      <div class="deck-topbar"></div>
+      <div class="slide-content">
+        <div class="slide-header">
+          <div>
+            <div class="eyebrow"><span class="eyebrow-dot"></span> Conclusión & Metacognición</div>
+            <div class="slide-title">Impacto en el Proceso de "Aprender a Aprender"</div>
           </div>
+          <div class="slide-badge">Cierre Metacognitivo</div>
         </div>
-        <div class="col">
-          <div class="card" style="border-left: 4px solid var(--accent-secondary);">
-            <div class="card-title">📈 Resultados Medibles Obtenidos</div>
-            <ul class="clean-list">
-              <li><strong>Cero Entregas de Emergencia:</strong> Se elimina la ansiedad de subir trabajos incompletos a las 23:55 hs.</li>
-              <li><strong>Calidad Académica Superior:</strong> Entregables rigurosos con estándares de calificación > 4.5 en SIMA.</li>
-              <li><strong>Preparación Temprana de Parciales:</strong> Los cuestionarios se resuelven sobre conceptos procesados semana a semana.</li>
-              <li><strong>Habilidades Profesionales:</strong> Entrenamiento directo en trabajo colaborativo distribuido (entorno real de Software).</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="slide-footer">
-        <div class="presenters">
-          <span class="presenter-chip">CIPAS Grupo 8 · Sustenta: Esteban Marrugo</span>
-        </div>
-        <div>Diapositiva 5 / 6</div>
-      </div>
-    </div>
 
-    <!-- DIAPOSITIVA 6: CONCLUSIÓN Y APRENDER A APRENDER -->
-    <div class="slide" id="slide-6">
-      <div class="slide-header">
-        <div>
-          <div class="slide-title">Impacto en el Proceso de "Aprender a Aprender"</div>
-          <div class="slide-subtitle">Metacognición, autonomía y conclusiones finales</div>
-        </div>
-        <div class="badge">Cierre Metacognitivo</div>
-      </div>
-      <div class="slide-body">
-        <div class="col">
-          <div class="card">
-            <div class="card-title" style="color: var(--accent);">🧠 Desarrollo de la Metacognición</div>
-            <p class="card-content">
-              El estudiante deja de memorizar pasivamente y aprende a auditar su propio conocimiento. Detecta con honestidad qué no entiende durante la Fase 1 antes de que un examen se lo demuestre.
-            </p>
-          </div>
-          <div class="card">
-            <div class="card-title" style="color: var(--accent-secondary);">🤝 Co-Construcción Social</div>
-            <p class="card-content">
-              Al explicar y defender un concepto frente al compañero en la Fase 2, se comprueba la máxima pedagógica: <em>"Quien enseña, aprende dos veces"</em>.
-            </p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card" style="background: rgba(14, 165, 233, 0.08); border: 1px solid var(--accent); height: 100%; display: flex; flex-direction: column; justify-content: center; text-align: center; padding: 28px;">
-            <div style="font-size: 18px; font-style: italic; color: #f8fafc; line-height: 1.6; margin-bottom: 18px;">
-              "En la educación a distancia, quien no estudia no aprende; pero quien aprende a co-validar en equipo, lidera con autonomía su formación como ingeniero."
+        <div class="slide-body">
+          <!-- Columna Izquierda: Metacognición + Métricas Reales -->
+          <div class="col">
+            <div class="card blue" style="flex: 1; gap: 7px;">
+              <div class="card-tag blue">Metacognición Individual</div>
+              <div class="card-title">Auditoría del Propio Conocimiento</div>
+              <div class="card-desc">
+                En la Fase 1 el estudiante detecta con honestidad qué comprende y qué no, antes de que una prueba evaluativa evidencie vacíos no atendidos.
+              </div>
             </div>
-            <div style="font-size: 13px; color: var(--accent); font-weight: 600;">
-              CIPAS Grupo 8 · Sustenta: Esteban Marrugo<br>
-              Universidad de Cartagena
+
+            <div class="card green" style="flex: 1; gap: 7px;">
+              <div class="card-tag green">Co-Construcción Social</div>
+              <div class="card-title">"Quien enseña, aprende dos veces"</div>
+              <div class="card-desc">
+                Explicar, defender y debatir conceptos técnicos frente a los compañeros en la Fase 2 fija el aprendizaje con una profundidad superior al estudio aislado.
+              </div>
+            </div>
+
+            <!-- Métricas reales comprobables -->
+            <div class="metric-grid">
+              <div class="metric-box">
+                <div class="metric-val blue">≥ 4.0</div>
+                <div class="metric-lbl">Promedio acumulado en entregables SIMA</div>
+              </div>
+              <div class="metric-box">
+                <div class="metric-val green">0</div>
+                <div class="metric-lbl">Entregas fuera de plazo en todo el semestre</div>
+              </div>
             </div>
           </div>
+
+          <!-- Columna Derecha: Tarjeta Magistral Richard Feynman -->
+          <div class="col">
+            <div class="quote-card">
+              <div class="quote-tagline">Richard Feynman · Premio Nobel de Física</div>
+              <div class="quote-body">
+                "Si quieres dominar algo de verdad, enséñalo. Al explicar un concepto en tus propias palabras, descubres exactamente lo que dominas y lo que te falta por aprender."
+              </div>
+              <div class="quote-credit">
+                Fundamento de la Técnica Feynman y el debate en CIPAS
+              </div>
+              <div class="quote-subcredit">
+                Ingeniería de Software · Universidad de Cartagena
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide-footer">
+          <div class="slide-footer-author">
+            <span>CIPAS Grupo 8</span>
+            <span class="footer-dot"></span>
+            <span>Esteban Marrugo</span>
+          </div>
+          <div>5 de 5</div>
         </div>
       </div>
-      <div class="slide-footer">
-        <div class="presenters">
-          <span class="presenter-chip">CIPAS Grupo 8 · Sustenta: Esteban Marrugo</span>
-        </div>
-        <div>Diapositiva 6 / 6</div>
-      </div>
+      <div class="progress-track"><div class="progress-fill" style="width: 100%;"></div></div>
     </div>
 
   </div>
 
-  <!-- Barra de Navegación -->
-  <div class="controls">
-    <button class="ctrl-btn" onclick="prevSlide()">◀ Anterior</button>
-    <div class="slide-indicator" id="slideIndicator">1 / 6</div>
-    <button class="ctrl-btn" onclick="nextSlide()">Siguiente ▶</button>
-    <button class="ctrl-btn" style="background: #0f766e;" onclick="toggleFullScreen()">⛶ Pantalla Completa</button>
+  <!-- ══════════════════════════════════════════════════════════
+       PRESENTATION CONTROLS
+       ══════════════════════════════════════════════════════════ -->
+  <div class="control-bar">
+    <button class="nav-btn" onclick="prevSlide()">◀ Anterior</button>
+    <div class="indicator-pill" id="slideIndex">1 / 5</div>
+    <button class="nav-btn" onclick="nextSlide()">Siguiente ▶</button>
+    <button class="nav-btn btn-fs" onclick="toggleFullScreen()">⛶ Pantalla Completa</button>
+    <div class="kbd-hint">
+      <span class="kbd-key">←</span> <span class="kbd-key">→</span> <span class="kbd-key">Espacio</span> para navegar · <span class="kbd-key">F</span> pantalla completa
+    </div>
   </div>
 
   <script>
-    let currentSlide = 1;
-    const totalSlides = 6;
+    let current = 1;
+    const total = 5;
 
     function showSlide(index) {
-      if (index < 1) index = 1;
-      if (index > totalSlides) index = totalSlides;
-      currentSlide = index;
+      if (index < 1 || index > total) return;
+      current = index;
 
-      for (let i = 1; i <= totalSlides; i++) {
+      for (let i = 1; i <= total; i++) {
         const slide = document.getElementById(`slide-${i}`);
         if (slide) {
-          slide.classList.toggle('active', i === currentSlide);
+          slide.classList.toggle('active', i === current);
         }
       }
 
-      document.getElementById('slideIndicator').innerText = `${currentSlide} / ${totalSlides}`;
+      document.getElementById('slideIndex').textContent = `${current} / ${total}`;
     }
 
     function nextSlide() {
-      if (currentSlide < totalSlides) showSlide(currentSlide + 1);
+      if (current < total) showSlide(current + 1);
     }
 
     function prevSlide() {
-      if (currentSlide > 1) showSlide(currentSlide - 1);
+      if (current > 1) showSlide(current - 1);
     }
 
     function toggleFullScreen() {
       if (!document.fullscreenElement) {
-        document.documentElement.requestFullscreen();
+        document.documentElement.requestFullscreen().catch(err => {
+          console.warn("Error al intentar pantalla completa:", err);
+        });
       } else {
         if (document.exitFullscreen) {
           document.exitFullscreen();
@@ -579,11 +1113,13 @@
     }
 
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+      if (['ArrowRight', ' ', 'PageDown'].includes(e.key)) {
+        e.preventDefault();
         nextSlide();
-      } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+      } else if (['ArrowLeft', 'PageUp'].includes(e.key)) {
+        e.preventDefault();
         prevSlide();
-      } else if (e.key === 'f' || e.key === 'F') {
+      } else if (e.key.toLowerCase() === 'f') {
         toggleFullScreen();
       }
     });
