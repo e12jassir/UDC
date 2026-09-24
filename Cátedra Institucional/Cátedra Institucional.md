@@ -78,13 +78,13 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Viernes, 11 de Septiembre de 2026 (23:41 hs)
   - **Formato:** DOCX / Markdown / PDF
-- **Protocolo Individual Unidad 4**
-  - **Estado:** 🚨 **Pendiente urgente en SIMA**
+- [[Entregables/Protocolo Individual 4 - Catedra|Protocolo Individual Unidad 4]]
+  - **Estado:** 🟡 **Redactado al 100% (Listo para subir a SIMA)**
   - **Cierre de Entrega:** Lunes, 28 de Septiembre de 2026 (18:23 hs ⚠️)
   - **Tema:** La Motivación y el Proyecto de Vida
   - **Formato:** Markdown / PDF
-- **Protocolo Colaborativo Unidad 4**
-  - **Estado:** 🚨 **Pendiente urgente en SIMA**
+- [[Entregables/Protocolo Colaborativo 4 - Catedra|Protocolo Colaborativo Unidad 4]]
+  - **Estado:** 🟡 **Redactado al 100% (Listo para subir a SIMA)**
   - **Cierre de Entrega:** Lunes, 28 de Septiembre de 2026 (18:23 hs ⚠️)
   - **Tema:** Consolidación grupal CIPAS sobre Motivación
   - **Formato:** Markdown / PDF
