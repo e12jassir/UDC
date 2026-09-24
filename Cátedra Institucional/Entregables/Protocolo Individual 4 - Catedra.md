@@ -46,11 +46,7 @@ A partir de ahí, la lectura profundiza en la teoría de Abraham Maslow. El auto
 
 En la segunda parte, el texto vincula la motivación con los valores. Plantea que los valores no vienen fijados en los genes; se construyen y aprenden mediante la convivencia social y las vivencias personales. Además, sirven de satisfactores directos de nuestras necesidades. Quien practica la solidaridad y el respeto resuelve sus necesidades de aceptación y pertenencia grupal, mientras que quien recurre a antivalores como el engaño o la indiferencia termina aislado socialmente.
 
-Finalmente, el módulo aterriza estos principios en el modelo de educación superior a distancia. Señala que este sistema requiere estudiantes activos y destaca cuatro valores formativos:
-1. **Autonomía:** Darse horarios de estudio propios y asumir con madurez las decisiones académicas sin requerir supervisión ajena.
-2. **Solidaridad:** Apoyar a compañeros con limitaciones de tiempo o conectividad, buscando el progreso colectivo.
-3. **Diálogo:** Mantener una comunicación fluida y sincera para contrarrestar el aislamiento propio del entorno virtual.
-4. **Tolerancia:** Comprender y valorar los distintos puntos de vista y ritmos de aprendizaje en el equipo.
+Finalmente, el módulo aterriza estos principios en la educación a distancia, señalando que esta modalidad requiere estudiantes activos y comprometidos. Destaca cuatro valores formativos: la autonomía para fijarse horarios y responder por el propio estudio sin requerir supervisión ajena; la solidaridad para apoyar a compañeros con limitaciones de tiempo o conectividad; el diálogo sincero para contrarrestar el aislamiento virtual; y la tolerancia para comprender y valorar los distintos puntos de vista y ritmos de aprendizaje en el equipo.
 
 ---
 
