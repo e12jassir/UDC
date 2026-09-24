@@ -11,17 +11,17 @@
 ---
 
 ### 1. Descripción del texto o actividad a realizar
-Lectura y análisis del módulo de la Unidad 4 de Cátedra Institucional sobre Motivación y Valores (`Motivación.pdf`). La actividad se enfoca en entender qué nos mueve a actuar, revisando las diferencias que plantea la APA entre impulsos, instintos, necesidades y motivos. También estudié la pirámide de Abraham Maslow, la función de los valores éticos como satisfactores directos de nuestras necesidades y los cuatro valores que exige el estudio a distancia (autonomía, solidaridad, diálogo y tolerancia) para avanzar en la carrera de Ingeniería de Software.
+Lectura y análisis del módulo de la Unidad 4 de Cátedra Institucional sobre Motivación y Valores (`Motivación.pdf`). La actividad se enfoca en entender qué nos mueve a actuar, revisando las diferencias entre impulsos, instintos, necesidades y motivos. También estudié la pirámide de Abraham Maslow, la función de los valores éticos como satisfactores directos de nuestras necesidades y los cuatro valores que exige el estudio a distancia (autonomía, solidaridad, diálogo y tolerancia) para avanzar en la carrera de Ingeniería de Software.
 
 ---
 
 ### 2. Palabras clave
-Pirámide de Maslow, Impulso vs motivo (APA, 2015), Tensión por privación, Satisfactores axiológicos, Autorrealización personal, Autonomía (*autos* y *nomos*), Solidaridad y diálogo a distancia.
+Pirámide de Maslow, Impulso vs motivo, Tensión por privación, Satisfactores de valores, Autorrealización personal, Autonomía (*autos* y *nomos*), Solidaridad y diálogo a distancia.
 
 ---
 
 ### 3. Objetivos de las lecturas o actividad a realizar
-- Diferenciar qué es un impulso, un instinto, una necesidad y un motivo según la psicología moderna.
+- Diferenciar con claridad qué es un impulso, un instinto, una necesidad y un motivo sin confundir los términos.
 - Entender los cinco niveles de la pirámide de Maslow y ver cómo influye el cuidado de las necesidades básicas en el rendimiento académico.
 - Analizar cómo los valores éticos ayudan a resolver necesidades personales y sociales de forma constructiva.
 - Reflexionar sobre el sentido práctico de la autonomía en la educación a distancia para evitar la postergación de tareas.
@@ -40,7 +40,7 @@ Pirámide de Maslow, Impulso vs motivo (APA, 2015), Tensión por privación, Sat
 ---
 
 ### 5. Resumen de la(as) lecturas
-El documento inicia contrastando la conducta animal con la humana. Mientras los animales responden a pautas instintivas fijas, las personas contamos con razonamiento para plantearnos objetivos y elegir cómo lograrlos. El módulo se apoya en el diccionario de la APA para ordenar cuatro conceptos que solemos usar como sinónimos: el impulso surge de golpe y sin deliberación previa; el instinto es una carga biológica innata; la necesidad representa una privación que desestabiliza el organismo; y el motivo es la energía psicológica enfocada en un propósito concreto.
+El documento inicia contrastando la conducta animal con la humana. Mientras los animales responden a pautas instintivas fijas, las personas contamos con razonamiento para plantearnos objetivos y elegir cómo lograrlos. El módulo ayuda a ordenar cuatro conceptos que solemos usar como sinónimos: el impulso surge de golpe y sin deliberación previa; el instinto es una carga biológica innata; la necesidad representa una privación que desestabiliza el organismo; y el motivo es la energía psicológica enfocada en un propósito concreto.
 
 A partir de ahí, la lectura profundiza en la teoría de Abraham Maslow. El autor explica que el comportamiento humano responde a necesidades insatisfechas organizadas en forma piramidal. En la base se encuentran las fisiológicas (dormir, alimentarse, descansar) y las de seguridad física y económica. Arriba se ubican la filiación social, el reconocimiento ajeno y la autorrealización personal. El punto central de Maslow es que resulta muy difícil aspirar a niveles altos de creatividad o estudio si las necesidades biológicas inmediatas están sin resolver.
 
@@ -55,7 +55,7 @@ Finalmente, el módulo aterriza estos principios en el modelo de educación supe
 ---
 
 ### 6. Metodología de trabajo (Cómo realizó la actividad)
-Descargué el documento `Motivación.pdf` del campus virtual SIMA y tomé notas en Obsidian. Al revisar la jerarquía de Maslow, la comparé con mi propia rutina universitaria: noté con claridad cómo el cansancio y el desorden en los horarios de sueño me reducen la concentración al programar o al resolver problemas de cálculo. Luego resumí las definiciones de la APA y redacté este protocolo con mis reflexiones personales.
+Entré a la plataforma SIMA, descargué el documento `Motivación.pdf` de la Unidad 4 y lo leí con calma tomando apuntes en Obsidian. Al revisar la jerarquía de Maslow, la comparé con mi propia rutina universitaria: noté con claridad cómo el cansancio y el desorden en los horarios de sueño me reducen la concentración al programar o al resolver problemas de cálculo. Para terminar de repasar, usé NotebookLM para hacerme preguntas de autoevaluación sobre el tema y confirmar que tenía claras las diferencias entre impulso, necesidad y motivo antes de redactar este protocolo.
 
 ---
 
@@ -78,4 +78,3 @@ Como sugerencia para la clase, sería positivo realizar un taller breve donde fo
 - Mendoza, E. (2009). *La motivación*. El Cid Editor | apuntes.
 - Mendoza, Y. D. S. (2017). Aprendizaje autónomo y competencias. *Dominio de las Ciencias*, 3(1), 241-253.
 - Universidad de Cartagena - CTEV. (2026). *Módulo Didáctico Unidad 4: Motivación — Cátedra Institucional*. Facultad de Ingeniería, Universidad de Cartagena.
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2.ª ed.). American Psychological Association.
