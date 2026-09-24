@@ -1,4 +1,4 @@
-# Protocolo Individual — Unidad 4: La Motivación y el Proyecto de Vida
+# Protocolo Individual — Unidad 4
 
 **Asignatura:** Cátedra Institucional  
 **Docente:** Eyvis Lucía Marrugo Batista  
@@ -7,76 +7,75 @@
 **Programa:** Ingeniería de Software  
 **Semestre:** 1  
 **Universidad de Cartagena — CTEV**  
-**Fecha de Entrega:** Lunes, 28 de Septiembre de 2026 (Campus Virtual SIMA - 18:23 hs)  
 
 ---
 
 ### 1. Descripción del texto o actividad a realizar
-Lectura detenida y análisis crítico del módulo oficial de la Unidad 4 (`Motivación.pdf`), complementado con las referencias de Mendoza (2009) y el texto de Psicología Empresarial de Interconsulting Bureau (2015). Descompuse las bases conceptuales que definen la conducta humana: las diferencias técnicas entre impulso, instinto, necesidad y motivo según la APA, la jerarquía piramidal de Abraham Maslow, la función de los valores éticos como satisfactores directos de necesidades superiores, y los cuatro valores rectores que exige la educación superior a distancia (autonomía, solidaridad, diálogo y tolerancia) para sostener un proyecto de vida profesional en Ingeniería de Software.
+Lectura y análisis del módulo de la Unidad 4 de Cátedra Institucional sobre Motivación y Valores (`Motivación.pdf`). La actividad se enfoca en entender qué nos mueve a actuar, revisando las diferencias que plantea la APA entre impulsos, instintos, necesidades y motivos. También estudié la pirámide de Abraham Maslow, la función de los valores éticos como satisfactores directos de nuestras necesidades y los cuatro valores que exige el estudio a distancia (autonomía, solidaridad, diálogo y tolerancia) para avanzar en la carrera de Ingeniería de Software.
 
 ---
 
 ### 2. Palabras clave
-Jerarquía de necesidades de Maslow, Impulso vs instinto (APA, 2015), Tensión homeostática por privación, Satisfactores axiológicos, Autorrealización y trascendencia, Autonomía autorregulada (*Autos-Nomos*), Solidaridad e interdependencia comunitaria.
+Pirámide de Maslow, Impulso vs motivo (APA, 2015), Tensión por privación, Satisfactores axiológicos, Autorrealización personal, Autonomía (*autos* y *nomos*), Solidaridad y diálogo a distancia.
 
 ---
 
 ### 3. Objetivos de las lecturas o actividad a realizar
-- Diferenciar con precisión conceptual los términos impulso, instinto, necesidad y motivo a partir del marco de la psicología contemporánea.
-- Comprender la estructura jerárquica de la pirámide de Abraham Maslow y el principio de prepotencia de las necesidades biológicas frente a las de autorrealización.
-- Analizar cómo los valores individuales y colectivos operan como satisfactores éticos de las necesidades humanas de orden superior.
-- Examinar el valor de la autonomía personal y social en la educación superior a distancia, reconociendo que darse normas propias exige un alto compromiso ético y de servicio comunitario.
+- Diferenciar qué es un impulso, un instinto, una necesidad y un motivo según la psicología moderna.
+- Entender los cinco niveles de la pirámide de Maslow y ver cómo influye el cuidado de las necesidades básicas en el rendimiento académico.
+- Analizar cómo los valores éticos ayudan a resolver necesidades personales y sociales de forma constructiva.
+- Reflexionar sobre el sentido práctico de la autonomía en la educación a distancia para evitar la postergación de tareas.
 
 ---
 
 ### 4. Conceptos clave y definiciones
-- **Impulso (*Drive*):** Urgencia repentina de actuar que brota con fuerza biológica o psíquica sin mediar una deliberación previa o una decisión consciente (VandenBos, 2015).
-- **Instinto:** Fuerza biológica e innata compartida por los miembros de una especie que orienta de forma fija la energía hacia patrones de conducta específicos de supervivencia.
-- **Necesidad:** Estado de tensión o desequilibrio en el organismo que aparece por la privación de algo indispensable para subsistir, estar bien o desarrollarse como persona.
-- **Motivo:** Estado de activación psicológica o fisiológica que canaliza de manera consciente la energía del individuo hacia la consecución de una meta trazada.
-- **Jerarquía de Maslow:** Modelo que clasifica las necesidades humanas en escalones sucesivos: fisiológicas y de seguridad en la base (orden inferior); filiación social, reconocimiento y autorrealización en la cúspide (orden superior). Las superiores adquieren fuerza una vez satisfechas razonablemente las básicas.
-- **Valores como satisfactores:** Cualidades éticas elegidas que orientan la conducta humana; actúan como respuestas constructivas que colman necesidades de pertenencia, respeto y crecimiento personal sin vulnerar a los demás.
-- **Autonomía (*Autos-Nomos*):** Capacidad del individuo maduro para dictar sus propias normas de vida, fijar metas y tomar decisiones consecuentes con su desarrollo integral y el bienestar colectivo, lejos de caprichos infantiles o dependencias externas.
+- **Impulso:** Ganas repentinas de actuar provocadas por una emoción del momento, sin un proceso reflexivo previo.
+- **Instinto:** Fuerza biológica e innata que compartimos todos los individuos de una misma especie. Asegura la supervivencia y no depende de la voluntad consciente.
+- **Necesidad:** Sensación de tensión o desequilibrio físico y psicológico que aparece cuando falta algo indispensable para vivir o estar bien.
+- **Motivo:** Razón consciente que canaliza la energía personal hacia una meta clara y medible.
+- **Escala de Maslow:** Jerarquía de necesidades en cinco peldaños. En los niveles inferiores están las biológicas y de seguridad; en los superiores se ubican la pertenencia social, el reconocimiento y la autorrealización personal.
+- **Valores como satisfactores:** Respuestas y conductas éticas que permiten cubrir necesidades humanas. Por ejemplo, la honestidad y el respeto resuelven la necesidad de vivir en armonía dentro de una comunidad.
+- **Autonomía:** Término de origen griego (*autos*, uno mismo; *nomos*, ley o norma). Capacidad individual de fijarse reglas propias y gobernarse con madurez personal.
 
 ---
 
-### 5. Resumen de las lecturas
-El documento parte de una distinción biológica elemental: a diferencia de los animales, el ser humano no vive encadenado a instintos ciegos ni a respuestas fijas. Tiene la capacidad de razonar, fijarse propósitos y elegir los medios éticos para alcanzarlos. Sin embargo, para entender por qué actuamos, el texto clarifica un enredo frecuente en el lenguaje cotidiano: el impulso empuja de golpe sin deliberar; el instinto es una fuerza innata de la especie; la necesidad es una tensión interna por privación; y el motivo es la energía psíquica orientada con claridad hacia un objetivo concreto.
+### 5. Resumen de la(as) lecturas
+El documento inicia contrastando la conducta animal con la humana. Mientras los animales responden a pautas instintivas fijas, las personas contamos con razonamiento para plantearnos objetivos y elegir cómo lograrlos. El módulo se apoya en el diccionario de la APA para ordenar cuatro conceptos que solemos usar como sinónimos: el impulso surge de golpe y sin deliberación previa; el instinto es una carga biológica innata; la necesidad representa una privación que desestabiliza el organismo; y el motivo es la energía psicológica enfocada en un propósito concreto.
 
-Al abordar las teorías motivacionales, el módulo profundiza en la pirámide de Abraham Maslow. El autor explica que el comportamiento responde a necesidades que pugnan por ser resueltas. Mientras no tengamos resueltas la comida, el descanso o la seguridad física, resulta difícil concentrarse en aspiraciones más elevadas. No obstante, en la sociedad contemporánea las motivaciones decisivas se juegan en los niveles superiores: pertenecer a una comunidad, ganar respeto por el trabajo realizado y conquistar la autorrealización personal a través de creaciones útiles y productivas.
+A partir de ahí, la lectura profundiza en la teoría de Abraham Maslow. El autor explica que el comportamiento humano responde a necesidades insatisfechas organizadas en forma piramidal. En la base se encuentran las fisiológicas (dormir, alimentarse, descansar) y las de seguridad física y económica. Arriba se ubican la filiación social, el reconocimiento ajeno y la autorrealización personal. El punto central de Maslow es que resulta muy difícil aspirar a niveles altos de creatividad o estudio si las necesidades biológicas inmediatas están sin resolver.
 
-El siguiente bloque conecta directamente la motivación con los valores. Los valores no son adornos abstractos ni leyes fijas que caen del cielo. Son el resultado de nuestras experiencias, el entorno cultural y las decisiones personales que tomamos en libertad. El texto hace una afirmación brillante: los valores funcionan como satisfactores de las necesidades humanas. Para saciar la necesidad de sociabilidad y afecto, requerimos valores como la solidaridad, la justicia y el respeto mutuo. Sin esa base ética, aparecen los antivalores (egoísmo, deshonestidad, indiferencia), los cuales degradan a la persona y rompen el tejido social.
+En la segunda parte, el texto vincula la motivación con los valores. Plantea que los valores no vienen fijados en los genes; se construyen y aprenden mediante la convivencia social y las vivencias personales. Además, sirven de satisfactores directos de nuestras necesidades. Quien practica la solidaridad y el respeto resuelve sus necesidades de aceptación y pertenencia grupal, mientras que quien recurre a antivalores como el engaño o la indiferencia termina aislado socialmente.
 
-Finalmente, la lectura aterriza en el modelo de educación superior a distancia. Advierte que esta modalidad no funciona con estudiantes pasivos que esperan órdenes externas. Por el contrario, demanda cuatro valores esenciales:
-1. **Autonomía:** Entendida en su raíz etimológica (*autos* = propio, *nomos* = ley). No es hacer lo que a uno le dé la gana, sino gobernar la propia conducta con madurez y responsabilidad frente a la sociedad.
-2. **Solidaridad:** Reconocer que somos interdependientes y que el avance técnico debe servir para cerrar brechas en las comunidades de nuestra región.
-3. **Diálogo:** Comunicación honesta en un plano de igualdad para evitar el aislamiento que puede generar la virtualidad.
-4. **Tolerancia:** Aprecio y respeto genuino por las ideas y ritmos de los compañeros dentro del equipo.
+Finalmente, el módulo aterriza estos principios en el modelo de educación superior a distancia. Señala que este sistema requiere estudiantes activos y destaca cuatro valores formativos:
+1. **Autonomía:** Darse horarios de estudio propios y asumir con madurez las decisiones académicas sin requerir supervisión ajena.
+2. **Solidaridad:** Apoyar a compañeros con limitaciones de tiempo o conectividad, buscando el progreso colectivo.
+3. **Diálogo:** Mantener una comunicación fluida y sincera para contrarrestar el aislamiento propio del entorno virtual.
+4. **Tolerancia:** Comprender y valorar los distintos puntos de vista y ritmos de aprendizaje en el equipo.
 
 ---
 
-### 6. Metodología de trabajo (Cómo realicé la actividad)
-Descargué el archivo `Motivación.pdf` del repositorio de SIMA en la carpeta de la Unidad 4. Procesé el texto en mi entorno local de Obsidian, extrayendo las definiciones formales de la APA y relacionándolas con las lecturas complementarias de Psicología Empresarial de Interconsulting Bureau (2015).
-
-A fin de conectar la teoría con mi realidad como futuro ingeniero de software y estudiante de jornada a distancia, esquematicé la pirámide de Maslow contrastándola con los retos diarios: cómo la falta de sueño o de orden personal (necesidades básicas) destruye la capacidad de concentración para programar o resolver límites matemáticos (autorrealización). Redacté este documento en Markdown garantizando una redacción propia, directa y reflexiva.
+### 6. Metodología de trabajo (Cómo realizó la actividad)
+Descargué el documento `Motivación.pdf` del campus virtual SIMA y tomé notas en Obsidian. Al revisar la jerarquía de Maslow, la comparé con mi propia rutina universitaria: noté con claridad cómo el cansancio y el desorden en los horarios de sueño me reducen la concentración al programar o al resolver problemas de cálculo. Luego resumí las definiciones de la APA y redacté este protocolo con mis reflexiones personales.
 
 ---
 
 ### 7. Conclusiones de la lectura o actividad
-- **La motivación real requiere conciencia:** Quien no comprende qué necesidad o motivo está detrás de sus desvelos termina actuando por impulsos ciegos o apagando fuegos de última hora. En la universidad, tener claro el proyecto de vida es lo único que mantiene encendida la disciplina cuando el cansancio arrecia.
-- **La autonomía no es aislamiento ni anarquía:** En la educación a distancia nadie está detrás de nosotros obligándonos a estudiar los módulos. Darse leyes propias significa ponerse horarios rigurosos, respetar las fechas de SIMA y exigirnos excelencia sin necesidad de supervisión policial.
-- **Los valores guían la tecnología:** Un ingeniero de software sin valores éticos claros puede construir sistemas que vulneren la privacidad de la gente o alimenten el fraude. La solidaridad, la honestidad y el diálogo deben ser el núcleo donde se asienten nuestras soluciones tecnológicas.
+- La motivación real se sostiene con disciplina diaria, metas específicas y hábitos estables, no con arranques emocionales pasajeros.
+- La pirámide de Maslow confirma que el descanso es una condición técnica para estudiar. Cuando descuido las horas de sueño, mi capacidad de razonamiento abstracto se cae por completo.
+- La autonomía es el eje de la educación a distancia. Nadie va a vigilar si leo o no los módulos; mi avance en la carrera depende exclusivamente de las normas que yo mismo decida cumplir.
 
 ---
 
-### 8. Discusiones y dudas (Para la tutoría presencial)
-- ¿Cómo gestionar la motivación cuando la brecha entre el esfuerzo diario de estudio y los resultados visibles a largo plazo en la carrera genera episodios de fatiga mental o síndrome del impostor?
-- En equipos CIPAS donde algún integrante confunde la autonomía con indiferencia o falta de compromiso en las entregas, ¿cuál es la vía ética y asertiva más adecuada para encauzar el trabajo sin fracturar la convivencia ni asumir cargas ajenas?
+### 8. Discusiones y recomendaciones
+El texto expone con claridad la jerarquía de necesidades, pero me surge una duda para la tutoría: cuando un estudiante atraviesa problemas económicos o familiares serios y no tiene resuelta su base de seguridad, ¿qué métodos prácticos le permiten conservar la motivación para continuar con sus estudios universitarios?
+
+Como sugerencia para la clase, sería positivo realizar un taller breve donde formulemos nuestras metas semestrales y evaluemos qué valores personales requerimos para cumplirlas.
 
 ---
 
-### 9. Referencias bibliográficas (Normas APA 7.ª ed.)
+### 9. Bibliografía
 - Interconsulting Bureau. (2015). *Psicología empresarial y comunicación* (pp. 163-180). Ediciones de la U.
-- Mendoza, E. (2009). *La motivación*. El Cid Editor | apuntes. https://elibro.unicartagenaproxy.elogim.com/es/ereader/unicartagena/29633
+- Mendoza, E. (2009). *La motivación*. El Cid Editor | apuntes.
 - Mendoza, Y. D. S. (2017). Aprendizaje autónomo y competencias. *Dominio de las Ciencias*, 3(1), 241-253.
+- Universidad de Cartagena - CTEV. (2026). *Módulo Didáctico Unidad 4: Motivación — Cátedra Institucional*. Facultad de Ingeniería, Universidad de Cartagena.
 - VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2.ª ed.). American Psychological Association.
