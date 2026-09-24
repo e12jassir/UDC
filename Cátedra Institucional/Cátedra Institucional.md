@@ -71,14 +71,23 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
   - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs)
   - **Formato:** Markdown / PDF
 - **Evaluación Cuestionario Unidad 3**
-  - **Estado:** ⏳ **Programado en SIMA (Abierto hoy)**
+  - **Estado:** 🟢 **Aprobado con 5.00/5.00 en SIMA**
   - **Guía de Estudio:** [[Entregables/Guia_Cuestionario_Unidad_3_Catedra|Guía Maestra y Cheat Sheet — Cuestionario U3]]
-  - **Ventana de Evaluación:** Viernes, 11 de Septiembre de 2026 (07:00 hs – 23:21 hs)
   - **Plataforma:** Campus Virtual SIMA
 - [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3 — Habilidades Sociales y Comunicación]]
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Cierre de Entrega:** Viernes, 11 de Septiembre de 2026 (23:41 hs)
   - **Formato:** DOCX / Markdown / PDF
+- **Protocolo Individual Unidad 4**
+  - **Estado:** 🚨 **Pendiente urgente en SIMA**
+  - **Cierre de Entrega:** Lunes, 28 de Septiembre de 2026 (18:23 hs ⚠️)
+  - **Tema:** La Motivación y el Proyecto de Vida
+  - **Formato:** Markdown / PDF
+- **Protocolo Colaborativo Unidad 4**
+  - **Estado:** 🚨 **Pendiente urgente en SIMA**
+  - **Cierre de Entrega:** Lunes, 28 de Septiembre de 2026 (18:23 hs ⚠️)
+  - **Tema:** Consolidación grupal CIPAS sobre Motivación
+  - **Formato:** Markdown / PDF
 
 ## Estado de Avances del Semestre
 
@@ -94,6 +103,8 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 - [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y subido oficialmente a SIMA.
 - [x] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA — Aprobada con 5.00/5.00 (Machete: [[Entregables/Guia_Cuestionario_Unidad_3_Catedra|Guía Cuestionario U3]]).
 - [x] **Unidad 3:** [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3]] redactada y subida oficialmente a SIMA.
+- [ ] **Unidad 4:** 📝 Redactar y cargar Protocolo Individual Unidad 4 en SIMA (🚨 Vence Lunes 28 Sep, 18:23 hs).
+- [ ] **Unidad 4:** 📝 Consolidar y cargar Protocolo Colaborativo Unidad 4 en SIMA (🚨 Vence Lunes 28 Sep, 18:23 hs).
 
 ## Cómo Estudiar la Asignatura
 

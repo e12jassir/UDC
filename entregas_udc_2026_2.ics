@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Esteban Marrugo//UDC Deadlines 2026-2//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entregas UDC 2026-2
+X-WR-TIMEZONE:America/Bogota
+
+BEGIN:VEVENT
+UID:udc-2026-calc-u2-eval@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20260927T230000
+DTEND:20260927T235900
+SUMMARY:🚨 Evaluación Unidad 2 - Cálculo Diferencial
+DESCRIPTION:Cuestionario Unidad 2 - Cálculo Diferencial B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Evaluación de Cálculo U2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 3 horas cierra la Evaluación de Cálculo U2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-calc-u2-act@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261003T230000
+DTEND:20261003T235900
+SUMMARY:📝 Actividad Unidad 2 - Cálculo Diferencial
+DESCRIPTION:Vencimiento de tarea: Actividad Unidad 2 - Cálculo Diferencial B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Actividad de Cálculo U2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence la Actividad de Cálculo U2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-algo-u2-proto-ind@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261012T230000
+DTEND:20261012T235900
+SUMMARY:📄 Protocolo Individual Unidad 2 - Algoritmos
+DESCRIPTION:Protocolo individual Unidad 2 - Algoritmos y Programación Básica B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence el Protocolo Individual de Algoritmos U2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence el Protocolo Individual de Algoritmos U2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-algo-u2-proto-colab@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261015T230000
+DTEND:20261015T235900
+SUMMARY:👥 Protocolo Colaborativo Unidad 2 - Algoritmos
+DESCRIPTION:Protocolo colaborativo Unidad 2 - Algoritmos y Programación Básica B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence el Protocolo Colaborativo de Algoritmos U2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence el Protocolo Colaborativo de Algoritmos U2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-algo-u2-act@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261020T230000
+DTEND:20261020T235900
+SUMMARY:💻 Actividad Unidad 2 - Algoritmos
+DESCRIPTION:Actividad de la Unidad 2 - Algoritmos y Programación Básica B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Actividad de Algoritmos U2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence la Actividad de Algoritmos U2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-calc-u3-eval@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261021T230000
+DTEND:20261021T235900
+SUMMARY:🚨 Evaluación Unidad 3 - Cálculo Diferencial
+DESCRIPTION:Cuestionario Unidad 3 - Cálculo Diferencial B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Evaluación de Cálculo U3
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 3 horas cierra la Evaluación de Cálculo U3
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-calc-u3-act@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261024T230000
+DTEND:20261024T235900
+SUMMARY:📝 Actividad Unidad 3 - Cálculo Diferencial
+DESCRIPTION:Actividad Unidad 3 - Cálculo Diferencial B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Actividad de Cálculo U3
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence la Actividad de Cálculo U3
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-calc-u4-eval@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261107T230000
+DTEND:20261107T235900
+SUMMARY:🚨 Evaluación Unidad 4 - Cálculo Diferencial
+DESCRIPTION:Cuestionario Unidad 4 - Cálculo Diferencial B1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Evaluación de Cálculo U4
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 3 horas cierra la Evaluación de Cálculo U4
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-intro-u2-proto-colab@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261115T230000
+DTEND:20261115T235700
+SUMMARY:👥 Protocolo Colaborativo U2 - Intro a Ing. Software
+DESCRIPTION:Protocolo colaborativo Unidad 2 (Máximo 2 personas) - Introducción a la Ingeniería de Software A1.\nCierra a las 23:57.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence el Protocolo Colab. U2 de Intro a Ing. Software
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence el Protocolo Colab. U2 de Intro a Ing. Software
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-intro-u3-proto-colab@estebanmarrugo
+DTSTAMP:20260921T150000Z
+DTSTART:20261115T230000
+DTEND:20261115T235700
+SUMMARY:👥 Protocolo Colaborativo U3 - Intro a Ing. Software
+DESCRIPTION:Protocolo colaborativo Unidad 3 (Máximo 2 personas) - Introducción a la Ingeniería de Software A1.\nCierra a las 23:57.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence el Protocolo Colab. U3 de Intro a Ing. Software
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: En 3 horas vence el Protocolo Colab. U3 de Intro a Ing. Software
+BEGIN:VEVENT
+UID:udc-2026-catedra-u4-proto-ind@estebanmarrugo
+DTSTAMP:20260924T170000Z
+DTSTART:20260928T170000
+DTEND:20260928T182300
+SUMMARY:🚨 Protocolo Individual Unidad 4 - Cátedra Institucional
+DESCRIPTION:Protocolo individual Unidad 4 - Cátedra Institucional A1.\n¡OJO A LA HORA! Cierra a las 18:23 hs.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence el Protocolo Individual de Cátedra U4 (18:23 hs)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 2 horas cierra el Protocolo Individual de Cátedra U4 (18:23 hs)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-catedra-u4-proto-colab@estebanmarrugo
+DTSTAMP:20260924T170000Z
+DTSTART:20260928T170000
+DTEND:20260928T182300
+SUMMARY:🚨 Protocolo Colaborativo Unidad 4 - Cátedra Institucional
+DESCRIPTION:Protocolo colaborativo Unidad 4 - Cátedra Institucional A1.\n¡OJO A LA HORA! Cierra a las 18:23 hs.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence el Protocolo Colaborativo de Cátedra U4 (18:23 hs)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 2 horas cierra el Protocolo Colaborativo de Cátedra U4 (18:23 hs)
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR

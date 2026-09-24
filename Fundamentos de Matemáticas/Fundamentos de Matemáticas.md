@@ -58,8 +58,8 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
   - **Estado:** 🟢 **Cargado oficialmente en SIMA**
   - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
 - **Actividad de la Unidad 2**
-  - **Estado:** ⏳ **Programado en SIMA**
-  - **Cierre de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
+  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
+  - **Fecha de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
   - **Formato:** PDF
 
 ## Estado de Avances del Semestre
@@ -70,7 +70,7 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
 - [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada en SIMA (Nota: 5,00 / 5,00).
 - [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2]] redactado al 100% y generado en PDF/DOCX (Cargado oficialmente en SIMA).
 - [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]] redactado y subido oficialmente a SIMA.
-- [ ] **Unidad 2:** Desarrollar y subir Actividad de la Unidad 2 (Vence Viernes 18 Sep, 23:59 hs).
+- [x] **Unidad 2:** Actividad de la Unidad 2 desarrollada y subida a SIMA.
 
 ## Cómo Estudiar la Asignatura
 

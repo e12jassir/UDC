@@ -40,6 +40,14 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
   - **Fecha de Entrega:** Viernes, 18 de Septiembre de 2026 (21:50 hs)
   - **Formato:** Documento PDF de 15 páginas en APA 7 con enlace a video en Google Drive
   - **Materiales:** [[Entregables/Diapositivas_Sustentacion_Rappi.html|Diapositivas Interactivas]], [[Entregables/Guion_Sustentacion_Rappi|Guion de Sustentación]], [[Entregables/Mapa_Conceptual_Rappi_Mermaid|Mapa Conceptual]]
+- **Protocolo Colaborativo Unidad 2 (máximo 2 personas)**
+  - **Estado:** 📅 **Abierto en SIMA (Vence Domingo 15 Nov, 23:57 hs)**
+  - **Instrucciones:** [Google Docs Oficial](https://docs.google.com/document/d/1x7NhYUyy3b2sWacUYjlYVAD3SZMhZvG2/edit?usp=sharing)
+  - **Condiciones Clave:** Trabajo en parejas (máx. 2 personas) + **Video de sustentación INDIVIDUAL obligatorio** + Entrega personal de cada estudiante en SIMA.
+- **Protocolo Colaborativo Unidad 3 (máximo 2 personas)**
+  - **Estado:** 📅 **Abierto en SIMA (Vence Domingo 15 Nov, 23:57 hs)**
+  - **Instrucciones:** [Google Docs Oficial](https://docs.google.com/document/d/1dsg6oycUqdmQZnHQb_d9RytvEB7bLBIf/edit?usp=sharing)
+  - **Condiciones Clave:** Trabajo en parejas (máx. 2 personas) + **Video de sustentación INDIVIDUAL obligatorio** + Entrega personal de cada estudiante en SIMA.
 
 ## Estado de Avances del Semestre
 
@@ -48,6 +56,8 @@ Introducción a la Ingeniería de Software proporciona una visión integral de l
 - [x] **Unidad 1:** [[Entregables/Actividad 1 Rappi.pdf|Actividad Unidad 1 (Caso Rappi)]] investigada, redactada en APA 7 y entregada en SIMA.
 - [x] **Unidad 1:** Video de sustentación individual (16 minutos) grabado con diapositivas interactivas y enlazado.
 - [ ] **Unidad 2:** Lectura de funcionamiento de Internet, servidores DNS y dominios.
+- [ ] **Unidad 2:** 📝 Protocolo Colaborativo Unidad 2 + Video individual (Vence Domingo 15 Nov, 23:57 hs).
+- [ ] **Unidad 3:** 📝 Protocolo Colaborativo Unidad 3 + Video individual (Vence Domingo 15 Nov, 23:57 hs).
 
 ## Cómo Estudiar la Asignatura
 

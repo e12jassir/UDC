@@ -15,8 +15,8 @@
 
 > [!IMPORTANT]
 > **Consolidado General de Entregas y Tareas — Semestre 2026-2 (6 Materias)**  
-> *Fecha actual de referencia: Lunes, 14 de Septiembre de 2026*  
-> *Nota sobre Cuestionarios:* Las evaluaciones/cuestionarios en SIMA se habilitan el mismo día fijado en la plataforma y se presentan ese mismo día.
+> *Fecha actual de referencia: Jueves, 24 de Septiembre de 2026*  
+> *Nota sobre Cuestionarios:* Las evaluaciones/cuestionarios en SIMA se habilitan en las fechas oficiales fijadas en la plataforma.
 
 | Estado | Día / Fecha Límite | Asignatura | Actividad / Entregable Específico | Destino / Plataforma |
 | :---: | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@
 | 🟢 **Subido** | **Miércoles 09 Sep** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 3** cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Individual Unidad 1** cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Jueves 10 Sep** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 1** cargado en SIMA | Entregado en SIMA |
-| 📅 **Programado** | **Viernes 11 Sep** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:21 hs) |
+| 🟢 **Subido** | **Viernes 11 Sep** | **Cátedra** | 📝 **Evaluación Cuestionario Unidad 3** aprobado con 5.00/5.00 | Campus SIMA |
 | 🟢 **Subido** | **Viernes 11 Sep** | **Cátedra** | 📝 **Actividad de la Unidad 3** cargada en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Viernes 11 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 1** aprobado con 5.00/5.00 en SIMA | Entregado en SIMA |
 | 🏫 **Pasado** | **Sábado 12 Sep** | **Presencial A** | 🏫 **Tutorías Sábados A**: Cátedra (08:40), Algoritmos (12:00) | Piedra de Bolívar |
@@ -56,29 +56,30 @@
 | 🟢 **Subido** | **Miércoles 16 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Protocolo Individual 2 - Metodologia|Protocolo Individual Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Lunes 14 Sep** | **Fundamentos** | 📝 [[Fundamentos de Matemáticas/Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]] cargado en SIMA | Entregado en SIMA |
 | 🟢 **Subido** | **Lunes 14 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Protocolo Colaborativo 2 - Metodologia|Protocolo Colaborativo Unidad 2]] cargado en SIMA | Entregado en SIMA |
-| 📅 **Programado** | **Jueves 17 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] | Campus SIMA (23:59 hs) |
+| 🟢 **Subido** | **Jueves 17 Sep** | **Metodología** | 📝 [[Metodología de la Educación a Distancia/Entregables/Actividad Unidad 2 - Metodologia|Actividad de la Unidad 2]] | Entregado en SIMA |
 | 🟢 **Subido** | **Viernes 18 Sep** | **Ing. Software** | 📝 [[Introducción a la Ingeniería de Software/Entregables/Actividad_Unidad_1_Caso_Rappi|Actividad Unidad 1 (Caso Rappi + Sustentación)]] | Entregado en SIMA |
-| 📅 **Programado** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2 (Ecuaciones)** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Viernes 18 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Domingo 20 Sep** | **Algoritmos** | 📝 **Evaluación Cuestionario Unidad 1** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Domingo 27 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 2** | Campus SIMA (23:59 hs) |
+| 🟢 **Subido** | **Viernes 18 Sep** | **Fundamentos** | 📝 **Actividad de la Unidad 2 (Ecuaciones)** | Entregado en SIMA |
+| 🟢 **Subido** | **Viernes 18 Sep** | **Metodología** | 📝 **Evaluación Cuestionario Unidad 2** | Entregado en SIMA |
+| 🟢 **Subido** | **Domingo 20 Sep** | **Algoritmos** | 📝 **Evaluación Cuestionario Unidad 1** | Entregado en SIMA |
+| ⏳ **Abre Mañana** | **Vie 25 - Dom 27 Sep** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 2 (Derivada de Funciones)** | Campus SIMA (Abre Vie 06:20 - Cierra Dom 23:59 hs) |
+| 🚨 **Entrega Urgente** | **Lunes 28 Sep** | **Cátedra** | 📝 **Protocolo Individual Unidad 4** | Campus SIMA (Vence 18:23 hs ⚠️) |
+| 🚨 **Entrega Urgente** | **Lunes 28 Sep** | **Cátedra** | 📝 **Protocolo Colaborativo Unidad 4** | Campus SIMA (Vence 18:23 hs ⚠️) |
 | 📌 **Cierre Corte** | **Lunes 28 Sep** | **Todas (6)** | 🚨 **Cierre Oficial 2.º Corte Evaluativo en SIMA** | Campus SIMA |
 | 📅 **Programado** | **Sábado 03 Oct** | **Cálculo** | 📝 **Actividad de la Unidad 2 (Derivada de Funciones)** | Campus SIMA (23:59 hs) |
 | 📅 **Programado** | **Viernes 09 Oct** | **Fundamentos** | 📝 **Taller Unidad 3:** Resolución de problemas con Ecuaciones Cuadráticas | Campus SIMA (23:57 hs) |
-| 📅 **Programado** | **Lunes 12 Oct** | **Algoritmos** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Lunes 12 Oct** | **Algoritmos** | 📝 **Protocolo Individual Unidad 2** | Campus SIMA (Abre 12 Sep - Cierra 12 Oct, 23:59 hs) |
 | 📅 **Programado** | **Martes 13 Oct** | **Inglés I** | 📝 [[Inglés I/Entregables/Actividad_Unidad_2_Market_Description|Actividad Unidad 2 (Market Description)]] | Campus SIMA (23:59 hs, abre 07 Oct) |
-| 📅 **Programado** | **Jueves 15 Oct** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 2** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Martes 20 Oct** | **Algoritmos** | 📝 **Actividad de la Unidad 2** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Miércoles 21 Oct** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (23:59 hs) |
+| 📅 **Programado** | **Jueves 15 Oct** | **Algoritmos** | 📝 **Protocolo Colaborativo Unidad 2** | Campus SIMA (Abre 12 Sep - Cierra 15 Oct, 23:59 hs) |
+| 📅 **Programado** | **Martes 20 Oct** | **Algoritmos** | 📝 **Actividad de la Unidad 2** | Campus SIMA (Abre 12 Sep - Cierra 20 Oct, 23:59 hs) |
+| 📅 **Programado** | **Miércoles 21 Oct** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 3** | Campus SIMA (Abre 19 Oct 06:20 - Cierra 21 Oct, 23:59 hs) |
 | 📅 **Programado** | **Sábado 24 Oct** | **Cálculo** | 📝 **Actividad de la Unidad 3** | Campus SIMA (23:59 hs) |
-| 📅 **Programado** | **Miércoles 28 Oct** | **Cátedra** | 📝 **Entregable:** Ensayo reflexivo sobre La Motivación (Unidad 4) | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Jueves 29 Oct** | **Metodología** | 📝 **Entregable:** Infografía de Fundamentos Pedagógicos de Ed. a Distancia | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Viernes 30 Oct** | **Ing. Software** | 📝 **Entregable:** Análisis práctico de Metadatos y cabeceras de archivos | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Miércoles 04 Nov** | **Cálculo** | 📝 **Taller Unidad 4:** Concavidad y Criterio de la Segunda Derivada | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Jueves 05 Nov** | **Fundamentos** | 📝 **Taller Unidad 4:** Identidades e inecuaciones trigonométricas | Campus SIMA (23:57 hs) |
-| 📅 **Programado** | **Sábado 07 Nov** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 4** | Campus SIMA (23:59 hs, abre 05 Nov) |
-| 📅 **Programado** | **Domingo 15 Nov** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 2 (máx. 2 personas)** | Campus SIMA (23:57 hs) |
-| 📅 **Programado** | **Domingo 15 Nov** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 3 (máx. 2 personas)** | Campus SIMA (23:57 hs) |
+| 📅 **Programado** | **Sábado 07 Nov** | **Cálculo** | 📝 **Evaluación Cuestionario Unidad 4** | Campus SIMA (Abre 05 Nov 06:20 - Cierra 07 Nov, 23:59 hs) |
+| 📅 **Programado** | **Domingo 15 Nov** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 2 (máx. 2 personas + video individual)** | Campus SIMA (23:57 hs) [Google Doc](https://docs.google.com/document/d/1x7NhYUyy3b2sWacUYjlYVAD3SZMhZvG2/edit?usp=sharing) |
+| 📅 **Programado** | **Domingo 15 Nov** | **Ing. Software** | 📝 **Protocolo Colaborativo Unidad 3 (máx. 2 personas + video individual)** | Campus SIMA (23:57 hs) [Google Doc](https://docs.google.com/document/d/1dsg6oycUqdmQZnHQb_d9RytvEB7bLBIf/edit?usp=sharing) |
 | 📅 **Programado** | **Miércoles 18 Nov** | **Metodología** | 📝 **Entregable:** Actividad práctica de Evaluación del Aprendizaje en Línea | Campus SIMA (23:57 hs) |
 | 📅 **Programado** | **Viernes 20 Nov** | **CIPAS (Todas 6)**| 📋 **Entrega Definitiva del TCC (3.000 palabras)** en plataforma SIMA | Campus SIMA (23:57 hs) |
 | 🎓 **Examen Final** | **Sábado 28 Nov** | **Sábados A** | 📝 **Exámenes Finales Presenciales (40%)**: Cátedra y Algoritmos | Piedra de Bolívar |
@@ -223,25 +224,21 @@ graph TD
 - [x] **Algoritmos (U1):** 📝 **Actividad de la Unidad 1** (Cargada oficialmente en SIMA - 11 Sep).
 - [x] **Cálculo (U1):** 📝 **Actividad de la Unidad 1 (Taller de Límites)** (Cargada oficialmente en SIMA - 14 Sep).
 - [x] **Inglés I (U1):** 🗣️ **Video Producción Oral U1** (People in My Neighborhood) grabado y entregado en SIMA (15 Sep).
-- [x] **Ing. Software (U1):** 📝 **Actividad de la Unidad 1** (Redactada al 100% con 100 preguntas argumentadas - Pendiente grabación de videos para entrega en SIMA - Vence Viernes 18 Sep, 23:57 hs).
-- [ ] **Ing. Software (U1):** 📝 **Protocolo Colaborativo U1** (Plazo SIMA: Viernes 18 Sep, 23:57 hs).
+- [x] **Ing. Software (U1):** 📝 **Actividad de la Unidad 1** (Cargada en SIMA - 18 Sep).
+- [x] **Ing. Software (U1):** 📝 **Protocolo Colaborativo U1** (Cargado en SIMA - 18 Sep).
 - [x] **Fundamentos (U2):** 📝 **Protocolo Individual U2** (Cargado oficialmente en SIMA).
 - [x] **Metodología (U2):** 📝 **Protocolo Individual U2** cargado oficialmente en plataforma SIMA.
 - [x] **Fundamentos (U2):** 📝 **Protocolo Colaborativo U2** cargado oficialmente en plataforma SIMA.
 - [x] **Metodología (U2):** 📝 **Protocolo Colaborativo U2** cargado oficialmente en plataforma SIMA.
-- [ ] **Fundamentos (U2):** 📝 **Actividad de la Unidad 2** (Plazo SIMA: Viernes 18 Sep, 23:59 hs).
-- [ ] **Metodología (U2):** 📝 **Actividad de la Unidad 2** (Plazo SIMA: Viernes 18 Sep, 23:59 hs).
-- [ ] **Metodología (U2):** 📝 **Evaluación Cuestionario U2** (Abre: Viernes 18 Sep 06:20 hs - Cierra: Domingo 20 Sep, 23:59 hs).
-- [ ] **Algoritmos (U1):** 📝 **Evaluación Cuestionario U1** (Plazo SIMA: Domingo 20 Sep, 23:59 hs).
-- [ ] **Metodología (U2):** Manejo avanzado y prácticas en el Campus Virtual SIMA.
-- [ ] **Ing. Software (U2):** Sistema de Nombres de Dominio (DNS) y funcionamiento de servidores Web.
-- [ ] **Cálculo (U2):** Definición de la Derivada como límite del cociente incremental.
-- [ ] **Algoritmos (U2):** Estructuras de control cíclicas (`while`, `do-while`, `for`) en Java.
-- [ ] **Fundamentos (U2):** Ecuaciones lineales de primer grado y sistemas $2\times 2$.
-- [ ] **CIPAS:** Elección de tema y comunidad para el **TCC de 3.000 palabras** en todas las materias.
-- [ ] **Sábado 19 (Presencial B):** 🏫 Tutorías presenciales.
-- [ ] **Sábado 26 (Presencial A):** 🏫 Tutorías presenciales.
+- [x] **Fundamentos (U2):** 📝 **Actividad de la Unidad 2** (Cargada en SIMA - 18 Sep).
+- [x] **Metodología (U2):** 📝 **Actividad de la Unidad 2** (Presentada en SIMA).
+- [x] **Metodología (U2):** 📝 **Evaluación Cuestionario U2** (Presentada en SIMA).
+- [x] **Algoritmos (U1):** 📝 **Evaluación Cuestionario U1** (Presentada en SIMA).
+- [ ] **Cálculo (U2):** 📝 **Evaluación Cuestionario Unidad 2 (Derivada de Funciones)** (⏳ Abre Viernes 25 Sep 06:20 hs - Cierra Domingo 27 Sep, 23:59 hs).
+- [ ] **Cátedra (U4):** 📝 **Protocolo Individual Unidad 4** (🚨 Vence Lunes 28 Sep, 18:23 hs ⚠️).
+- [ ] **Cátedra (U4):** 📝 **Protocolo Colaborativo Unidad 4** (🚨 Vence Lunes 28 Sep, 18:23 hs ⚠️).
 - [ ] **Lunes 28 Sep:** 🚨 **Cierre Oficial del 2.º Corte Evaluativo en SIMA.**
+- [ ] **Cálculo (U2):** 📝 **Actividad de la Unidad 2 (Derivada de Funciones)** (Vence Sábado 03 Oct, 23:59 hs).
 
 ---
 
