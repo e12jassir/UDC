@@ -1,102 +1,63 @@
 # Algoritmos y Programación Básica
 
-[[Horario General|Horario General]] · [[Guía de Estudio|Guía de Estudio]] · [[UDC]]
+[[Horario|Horario]] · [[Roadmap|Roadmap]] · [[README|UDC]]
 
-Algoritmos y Programación Básica es una asignatura fundamental del componente básico disciplinar. Se enfoca en desarrollar el pensamiento lógico, analítico y computacional para diseñar e implementar soluciones de software estructuradas a problemas de diversos entornos.
+Algoritmos y Programación Básica es una asignatura fundamental del componente básico disciplinar. Se enfoca en desarrollar el pensamiento lógico, analítico y computacional para diseñar e implementar soluciones de software estructuradas en Java (JDK).
 
-## Información General
+---
+
+## 📌 Información General
 
 - **Código:** `IX24013-B1`
 - **Docente:** Heybertt Moreno Díaz
-- **Horario:** Sábados A · 12:00 – 13:50 hrs (1:50 p.m.)
+- **Horario:** Sábados A · 12:00 – 13:50 hrs.
 - **Ubicación:** Bloque G, 2.º piso · Salón 204 (Laboratorio de Inteligencia)
 - **Créditos:** 3 (`144h` totales: `16h` presenciales, `20h` asincrónicas, `108h` autónomas)
 
-## Sistema de Evaluación
+---
+
+## ⚖️ Sistema de Evaluación
 
 | Componente | Ponderación | Descripción |
 | :--- | :---: | :--- |
 | **Evidencias de Participación** | 20% | Participación en tutorías, foros, presaberes y protocolos |
 | **Trabajo Colaborativo de Campo (TCC)** | 20% | Proyecto en CIPAS basado en Aprendizaje Basado en Problemas |
 | **Evaluaciones de Unidades** | 20% | Cuestionarios y pruebas temáticas en SIMA |
-| **Evaluación Final** | 40% | Examen presencial/en línea individual o colaborativo |
+| **Evaluación Final** | 40% | Examen individual presencial |
 
-## Contenido del Curso
+---
 
-- **Unidad 1:** Introducción a la Programación
-- **Unidad 2:** Lenguajes de Programación
-- **Unidad 3:** Variables, Tipos de Datos y Operadores
-- **Unidad 4:** Estructuras de Control Condicionales (`if`, `else`, `switch`)
-- **Unidad 5:** Estructuras de Control Cíclicas (`while`, `for`, `do-while`)
-- **Unidad 6:** Funciones (Sistema, Propias y Recursividad)
-- **Unidad 7:** Arreglos Unidimensionales (Vectores)
-- **Unidad 8:** Arreglos Multidimensionales (Matrices)
+## 🗺️ Unidades y Material de Estudio
 
-## Entregas y Actividades Destacadas
+| Unidad | Temas Principales | Material de Estudio |
+| :---: | :--- | :--- |
+| **Unidad 1** | Introducción a la Programación, pseudocódigo, diagramas de flujo y primeros pasos Java | [[Unidades/Unidad 1/Apuntes\|Apuntes de Estudio U1]] |
+| **Unidad 2** | Lenguajes de Programación, tipos de datos, variables, operadores y expresiones | [[Unidades/Unidad 2/Apuntes\|Apuntes de Estudio U2]] |
+| **Unidad 3** | Estructuras de Control Condicionales (`if/else/switch`) y Cíclicas (`while/for/do-while`) | [[Unidades/Unidad 3/Apuntes\|Apuntes de Estudio U3]] |
+| **Unidad 4** | Modularidad (Métodos/Funciones) y Arreglos (Vectores y Matrices multidimensionales) | [[Unidades/Unidad 4/Apuntes\|Apuntes de Estudio U4]] |
+| **U5 (TCC)** | Protocolo Colaborativo Contextualizado — Proyecto final grupal en CIPAS | [[Unidades/Protocolo Colaborativo Contextualizado/Rúbrica TCC\|Rúbrica y Guía TCC]] |
 
-- [[Unidades/Unidad 1/Actividades/Protocolo Individual 1|Protocolo Individual Unidad 1]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** DOCX / PDF
-- [[Entregables/Protocolo Colaborativo 1 - Algoritmos|Protocolo Colaborativo Unidad 1]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Jueves, 10 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** DOCX / PDF / Markdown
-- [[Entregables/Actividad Unidad 1 - Algoritmos|Actividad de la Unidad 1 — 19 Ejercicios de Lógica y Programación]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Fecha de entrega:** Viernes, 11 de Septiembre de 2026 (4 días antes del límite)
-  - **Cierre de Entrega:** Martes, 15 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** DOCX / PDF (19 problemas con análisis, pseudocódigo, Python y ejecución)
-- [[Entregables/Ejercicios Complementarios - Algoritmos|Ejercicios Complementarios — 6 Problemas Resueltos]]
-  - **Estado:** 🟢 **Completados y documentados en Python y Pseudocódigo**
-  - **Formato:** Markdown / Python
-- **Evaluación Cuestionario Unidad 1**
-  - **Estado:** ⏳ **Programado en SIMA**
-  - **Cierre de Cuestionario:** Domingo, 20 de Septiembre de 2026 (23:59 hs)
-  - **Plataforma:** Campus Virtual SIMA
+---
 
-## Estado de Avances del Semestre
+## 📋 Registro de Entregas y Calificaciones
 
-- [x] **Unidad 1:** Asistencia a primera tutoría presencial Sábado A (15 Ago).
-- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
-- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Algoritmos|Actividad de la Unidad 1 (19 Ejercicios)]] resuelta al 100% y cargada en SIMA.
-- [x] **Unidad 1:** [[Entregables/Ejercicios Complementarios - Algoritmos|Ejercicios Complementarios (6 Problemas)]] resueltos.
-- [x] **Unidad 1:** [[Entregables/Protocolo Colaborativo 1 - Algoritmos|Protocolo Colaborativo Unidad 1]] consolidado en CIPAS y subido a SIMA.
-- [ ] **Unidad 1:** Presentar Evaluación Cuestionario Unidad 1 en SIMA (Domingo 20 Sep, 23:59 hs).
+| Fecha | Entregable | Estado / Entrega | Calificación |
+| :--- | :--- | :--- | :---: |
+| **10 Sep 2026** | Protocolo Individual Unidad 1 | 🟢 Entregado en SIMA (`.pdf`) | — |
+| **10 Sep 2026** | Protocolo Colaborativo Unidad 1 | 🟢 Entregado en SIMA | — |
+| **11 Sep 2026** | Actividad 1 (19 Ejercicios resueltos en Python/PDF) | 🟢 [[Unidades/Unidad 1/Entregables/Actividad 1 Esteban Marrugo.pdf\|Actividad 1.pdf]] | — |
+| **20 Sep 2026** | Evaluación Cuestionario Unidad 1 | 🟢 Presentada en SIMA | Presentado |
+| **12 Oct 2026** | Protocolo Individual Unidad 2 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
+| **15 Oct 2026** | Protocolo Colaborativo Unidad 2 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
+| **20 Oct 2026** | Actividad de la Unidad 2 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
+| **20 Nov 2026** | Entrega Final TCC en SIMA | 📅 Programado en SIMA (CIPAS) | Pendiente |
+| **28 Nov 2026** | Examen Final Presencial (40%) | 🎓 Bloque G · Salón 204 | Pendiente |
 
-## Cómo Estudiar la Asignatura
+---
 
-- **Pseudocódigo Primero:** escribir en español los pasos del algoritmo antes de codificar en el IDE.
-- **Blank Page Method:** reconstruir los ejercicios resueltos desde una hoja o archivo en blanco sin mirar soluciones.
-- **Depuración Activa:** analizar y predecir la falla en el código antes de leer el mensaje de error del compilador.
-- **Trazado a Mano:** ejecutar arreglos y ciclos línea por línea en papel asignando valores a las variables.
-
-### Errores Comunes
-
-| Tema | Error Frecuente | Cómo Evitarlo |
-| :--- | :--- | :--- |
-| **Variables** | Confundir asignación (`=`) con comparación (`==`) | Leer `=` como "recibe el valor de" |
-| **Condicionales** | `if` anidados innecesarios | Resolver primero el caso base o más simple |
-| **Ciclos** | Ciclos infinitos por condición errónea | Trazar manualmente las primeras 3 iteraciones |
-| **Funciones** | Confundir `return` con imprimir en pantalla | Definir si la función devuelve un dato o muestra texto |
-| **Arreglos** | Error de índice fuera de rango (*off-by-one*) | Verificar siempre los límites de inicio (`0`) y fin (`length-1`) |
-
-> [!important] Para las evaluaciones
-> Programar es una habilidad práctica. Los parciales evalúan tu capacidad de resolver problemas desconocidos construyendo la lógica adecuada, no la memorización de sintaxis.
-
-## Bibliografía
+## 📚 Bibliografía
 
 - Joyanes Aguilar, L. (2020). *Fundamentos de programación: algoritmos, estructura de datos y objetos.* McGraw-Hill.
 - Wanumen Silva, L. F., et al. (2017). *Java básico.* Ecoe Ediciones.
 - Liang, Y. D. (2022). *Introduction to Java programming and data structures.* Pearson.
 - Trejos Buriticá, O. I. (2021). *Lógica de programación: solucionario en pseudocódigo.* Ediciones de la U.
-
-## Idea clave
-
-Dominar las estructuras de control y los arreglos es el requisito indispensable para construir aplicaciones de software de cualquier nivel.
-
-## Navegación
-
-- [[Cronograma de Actividades|Cronograma de Actividades de 16 Semanas]]
-- Anterior: [[Horario General|Horario General]]
-- Siguiente: [[Cátedra Institucional/Cátedra Institucional|Cátedra Institucional]]

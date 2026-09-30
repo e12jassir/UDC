@@ -1,10 +1,12 @@
 # Cátedra Institucional
 
-[[Horario General|Horario General]] · [[Guía de Estudio|Guía de Estudio]] · [[UDC]]
+[[Horario|Horario]] · [[Roadmap|Roadmap]] · [[README|UDC]]
 
-Cátedra Institucional orienta al estudiante en su proceso de inserción y adaptación a la vida universitaria en la Universidad de Cartagena, promoviendo el crecimiento personal, la ética, la identidad institucional y la estructuración del proyecto de vida.
+Cátedra Institucional orienta al estudiante en su inserción y adaptación a la vida universitaria en la Universidad de Cartagena, promoviendo el crecimiento personal, la ética, la identidad institucional y la estructuración del proyecto de vida.
 
-## Información General
+---
+
+## 📌 Información General
 
 - **Código:** `FN24014-A1`
 - **Docente:** Eyvis Lucía Marrugo Batista
@@ -12,119 +14,59 @@ Cátedra Institucional orienta al estudiante en su proceso de inserción y adapt
 - **Ubicación:** Bloque A · Salón 305
 - **Créditos:** 2 (`96h` totales: `16h` presenciales, `8h` asincrónicas, `72h` autónomas)
 
-## Sistema de Evaluación
+---
+
+## ⚖️ Sistema de Evaluación
 
 | Componente | Ponderación | Descripción |
 | :--- | :---: | :--- |
 | **Participación y Protocolos** | 20% | Participación en foros y entregas de protocolos individuales/grupales |
 | **Trabajo Colaborativo** | 20% | Actividades de integración en equipo |
 | **Evaluación de Unidades** | 20% | Cuestionarios y evaluaciones por módulo en SIMA |
-| **Evaluación Final (Ensayo)** | 40% | Ensayo escrito individual reflexivo sustentado |
+| **Evaluación Final (Ensayo)** | 40% | Ensayo escrito individual reflexivo sustentado con normas APA 7 |
 
-> [!important] Para las evaluaciones
-> El ensayo final es el 40% de la calificación definitiva. Debe redactarse con estructura académica rigurosa, citas bibliográficas en formato APA 7.ª edición y una nota mínima aprobatoria de 3.0 (60%).
+---
 
-## Contenido del Curso
+## 🗺️ Unidades y Material de Estudio
 
-- **Unidad 1:** Introducción a la Vida Universitaria y Adaptación al Entorno
-- **Unidad 2:** Crecimiento Personal, Autoestima y Motivación
-- **Unidad 3:** Relaciones Interpersonales y Comunicación Asertiva
-- **Unidad 4:** Proyecto de Vida Personal y Profesional
-- **Unidad 5:** Historia, Misión y Estatutos de la Universidad de Cartagena
+| Unidad | Temas Principales | Material de Estudio |
+| :---: | :--- | :--- |
+| **Unidad 1** | Historia UDC (fundada 1827), Ley de 1826, autonomía, símbolos y reglamento | [[Unidades/Unidad 1/Apuntes\|Apuntes de Estudio U1]] |
+| **Unidad 2** | Crecimiento personal, autoconocimiento, autoestima y proyecto de vida | [[Unidades/Unidad 2/Apuntes\|Apuntes de Estudio U2]] |
+| **Unidad 3** | Relaciones interpersonales, comunicación asertiva, resolución de conflictos | [[Unidades/Unidad 3/Apuntes\|Apuntes de Estudio U3]] |
+| **Unidad 4** | Motivación (Maslow, Herzberg), metas SMART, resiliencia y liderazgo | [[Unidades/Unidad 4/Apuntes\|Apuntes de Estudio U4]] |
+| **U5 (TCC)** | Protocolo Colaborativo Contextualizado — Proyecto final grupal en CIPAS | [[Unidades/Protocolo Colaborativo Contextualizado/Rúbrica TCC\|Rúbrica y Guía TCC]] |
 
-## Entregas y Actividades Destacadas
+---
 
-- [[Entregables/Actividad 1 Esteban Marrugo.pdf|Actividad 1 — Reflexión de Vida y Etapas (Unidad 1)]]
-  - **Estado:** 🟢 **Calificado oficialmente en SIMA (4.00 / 5.00)**
-  - **Cierre de Entrega:** 17 de Agosto de 2026 (23:57 hrs)
-  - **Formato:** PDF
-- **Protocolo Individual Unidad 1**
-  - **Estado:** 🟢 **Calificado oficialmente en SIMA (4.00 / 5.00)**
-  - **Cierre de Entrega:** 12 de Agosto de 2026 (23:55 hrs)
-  - **Formato:** PDF / DOCX
-- **Protocolo Colaborativo Unidad 1**
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** 13 de Agosto de 2026 (23:55 hrs)
-  - **Formato:** DOCX / PDF
-- [[Entregables/Protocolo Individual 2 - Catedra|Protocolo Individual Unidad 2]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** 26 de Agosto de 2026 (23:41 hrs)
-  - **Formato:** PDF / DOCX
-- [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Jueves, 27 de Agosto de 2026 (23:42 hs)
-  - **Formato:** Markdown / PDF
-- **Evaluación Cuestionario Unidad 2**
-  - **Estado:** 🟢 **Presentado en SIMA**
-  - **Cierre de Cuestionario:** Lunes, 31 de Agosto de 2026 (23:21 hs)
-  - **Plataforma:** Campus Virtual SIMA
-- [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2 — Crecimiento Personal]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Lunes, 31 de Agosto de 2026 (23:43 hs)
-  - **Formato:** Markdown / PDF
-- [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs ⚠️)
-  - **Formato:** Markdown / PDF
-- [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Miércoles, 09 de Septiembre de 2026 (15:50 hs)
-  - **Formato:** Markdown / PDF
-- **Evaluación Cuestionario Unidad 3**
-  - **Estado:** 🟢 **Aprobado con 5.00/5.00 en SIMA**
-  - **Guía de Estudio:** [[Entregables/Guia_Cuestionario_Unidad_3_Catedra|Guía Maestra y Cheat Sheet — Cuestionario U3]]
-  - **Plataforma:** Campus Virtual SIMA
-- [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3 — Habilidades Sociales y Comunicación]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Viernes, 11 de Septiembre de 2026 (23:41 hs)
-  - **Formato:** DOCX / Markdown / PDF
-- [[Entregables/Protocolo Individual 4 - Catedra|Protocolo Individual Unidad 4]]
-  - **Estado:** 🟡 **Redactado al 100% (Listo para subir a SIMA)**
-  - **Cierre de Entrega:** Lunes, 28 de Septiembre de 2026 (18:23 hs ⚠️)
-  - **Tema:** La Motivación y el Proyecto de Vida
-  - **Formato:** Markdown / PDF
-- [[Entregables/Protocolo Colaborativo 4 - Catedra|Protocolo Colaborativo Unidad 4]]
-  - **Estado:** 🟡 **Redactado al 100% (Listo para subir a SIMA)**
-  - **Cierre de Entrega:** Lunes, 28 de Septiembre de 2026 (18:23 hs ⚠️)
-  - **Tema:** Consolidación grupal CIPAS sobre Motivación
-  - **Formato:** Markdown / PDF
+## 📋 Registro de Entregas y Calificaciones
 
-## Estado de Avances del Semestre
+| Fecha | Entregable | Estado / Archivo | Calificación |
+| :--- | :--- | :--- | :---: |
+| **04 Ago 2026** | Actividad 1 (Reflexión de Vida) | 🟢 [[Unidades/Unidad 1/Entregables/Actividad 1 Esteban Marrugo.pdf\|Actividad 1.pdf]] | **4.00** / 5.00 |
+| **04 Ago 2026** | Protocolo Individual Unidad 1 | 🟢 [[Unidades/Unidad 1/Entregables/Protocolo Individual Esteban Marrugo.pdf\|Protocolo Ind. 1.pdf]] | **4.00** / 5.00 |
+| **04 Ago 2026** | Protocolo Colaborativo Unidad 1 | 🟢 Entregado en SIMA | **3.90** / 5.00 |
+| **22 Ago 2026** | Evaluación Cuestionario Unidad 1 | 🟢 Aprobada en SIMA | **5.00** / 5.00 |
+| **22 Ago 2026** | Protocolo Individual Unidad 2 | 🟢 Entregado en SIMA | **3.90** / 5.00 |
+| **22 Ago 2026** | Protocolo Colaborativo Unidad 2 | 🟢 Entregado en SIMA | **3.90** / 5.00 |
+| **05 Sep 2026** | Actividad de la Unidad 2 | 🟢 Entregado en SIMA | **4.00** / 5.00 |
+| **05 Sep 2026** | Evaluación Cuestionario Unidad 2 | 🟢 Presentada en SIMA | Presentado |
+| **09 Sep 2026** | Protocolo Individual Unidad 3 | 🟢 [[Unidades/Unidad 3/Entregables/Protocolo Individual 3.pdf\|Protocolo Ind. 3.pdf]] | **4.00** / 5.00 |
+| **09 Sep 2026** | Protocolo Colaborativo Unidad 3 | 🟢 Entregado en SIMA | Entregado |
+| **11 Sep 2026** | Actividad de la Unidad 3 | 🟢 [[Unidades/Unidad 3/Entregables/Actividad 3.pdf\|Actividad 3.pdf]] | **4.30** / 5.00 |
+| **11 Sep 2026** | Evaluación Cuestionario Unidad 3 | 🟢 Aprobada en SIMA | **5.00** / 5.00 |
+| **28 Sep 2026** | Protocolo Individual Unidad 4 | 🟢 [[Unidades/Unidad 4/Entregables/Protocolo Individual 4.pdf\|Protocolo Ind. 4.pdf]] | Entregado |
+| **05 Oct 2026** | Actividad de la Unidad 4 (Historia) | 🟢 [[Unidades/Unidad 4/Entregables/Actividad Unidad 4 - Catedra.pdf\|Actividad 4.pdf]] (Vence 11:11 AM) | Listo p/ subir |
+| **05 Oct 2026** | Protocolo Colaborativo Unidad 4 | 🟢 [[Unidades/Unidad 4/Entregables/Protocolo Colaborativo 4.pdf\|Protocolo Colab. 4.pdf]] (Vence 18:23) | Listo p/ subir |
+| **05 Oct 2026** | Evaluación Cuestionario Unidad 4 | 📅 Programado en SIMA (Cierra 23:59 hs) | Pendiente |
+| **20 Nov 2026** | Entrega Definitiva TCC en SIMA | 📅 Programado en SIMA (CIPAS) | Pendiente |
+| **28 Nov 2026** | Examen Final Presencial (40%) | 🎓 Bloque A · Salón 305 | Pendiente |
 
-- [x] **Unidad 1:** [[Entregables/Actividad 1 Esteban Marrugo.pdf|Actividad 1 — Reflexión de Vida]] redactada y aprobada con 4.00/5.00 en SIMA.
-- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA.
-- [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
-- [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada con 5.00/5.00 en SIMA.
-- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Catedra|Protocolo Individual Unidad 2]] redactado y subido oficialmente a SIMA.
-- [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Catedra|Protocolo Colaborativo Unidad 2]] redactado en CIPAS y listo para entrega en SIMA (Vence Jueves 27 Ago, 23:42 hs).
-- [x] **Unidad 2:** [[Entregables/Actividad Unidad 2 - Catedra|Actividad de la Unidad 2]] redactada y subida oficialmente a SIMA.
-- [x] **Unidad 2:** Presentar Evaluación Cuestionario Unidad 2 en SIMA (Lunes 31 Ago, 23:21 hs).
-- [x] **Unidad 3:** [[Entregables/Protocolo Individual 3 - Catedra|Protocolo Individual Unidad 3]] redactado y subido oficialmente a SIMA.
-- [x] **Unidad 3:** [[Entregables/Protocolo Colaborativo 3 - Catedra|Protocolo Colaborativo Unidad 3]] consolidado en CIPAS y subido oficialmente a SIMA.
-- [x] **Unidad 3:** Presentar Evaluación Cuestionario Unidad 3 en SIMA — Aprobada con 5.00/5.00 (Machete: [[Entregables/Guia_Cuestionario_Unidad_3_Catedra|Guía Cuestionario U3]]).
-- [x] **Unidad 3:** [[Entregables/Actividad Unidad 3 - Catedra|Actividad de la Unidad 3]] redactada y subida oficialmente a SIMA.
-- [ ] **Unidad 4:** 📝 Redactar y cargar Protocolo Individual Unidad 4 en SIMA (🚨 Vence Lunes 28 Sep, 18:23 hs).
-- [ ] **Unidad 4:** 📝 Consolidar y cargar Protocolo Colaborativo Unidad 4 en SIMA (🚨 Vence Lunes 28 Sep, 18:23 hs).
+---
 
-## Cómo Estudiar la Asignatura
+## 📚 Bibliografía
 
-- **Compilación Continua:** tomar notas y reflexiones desde la primera unidad para utilizarlas como insumo del ensayo final.
-- **Citas APA 7 desde el Inicio:** registrar todas las fuentes bibliográficas leídas en formato APA para evitar errores de citación.
-- **Participación Sustancial:** aportar análisis reflexivos en los foros de SIMA argumentando posturas personales.
-- **Introspección Aplicada:** relacionar los reglamentos y la historia de la UDC con los propios objetivos profesionales.
-
-## Bibliografía
-
-- Timaná Velásquez, Q. (2009). *El profesor, centro de la vida universitaria.* Universidad de La Sabana.
-- Gómez, S. M. (2012). *La construcción del lugar de alumno durante el tránsito inicial en la universidad.* Revista Praxis Educativa.
-- López Ospina, G. (2006). *Vida universitaria.* Red Universidad EAFIT.
-
-## Idea clave
-
-La adaptación a la vida universitaria requiere autoconocimiento, planificación del tiempo y alineación del esfuerzo académico con un proyecto de vida sólido.
-
-## Navegación
-
-- [[Cronograma de Actividades|Cronograma de Actividades de 16 Semanas]]
-- Anterior: [[Algoritmos y Programación Básica/Algoritmos y Programación Básica|Algoritmos y Programación Básica]]
-- Siguiente: [[Cálculo Diferencial/Cálculo Diferencial|Cálculo Diferencial]]
+- Universidad de Cartagena. (2020). *Estatuto General y Reglamento Estudiantil.* UDC.
+- Goleman, D. (2018). *La inteligencia emocional en la empresa.* Ediciones B.
+- Covey, S. R. (2015). *Los 7 hábitos de la gente altamente efectiva.* Paidós.
+- Maslow, A. H. (1991). *Motivación y personalidad.* Ediciones Díaz de Santos.

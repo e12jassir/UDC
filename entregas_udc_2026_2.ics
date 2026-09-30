@@ -193,6 +193,9 @@ BEGIN:VALARM
 TRIGGER:-PT3H
 ACTION:DISPLAY
 DESCRIPTION:Recordatorio: En 3 horas vence el Protocolo Colab. U3 de Intro a Ing. Software
+END:VALARM
+END:VEVENT
+
 BEGIN:VEVENT
 UID:udc-2026-catedra-u4-proto-ind@estebanmarrugo
 DTSTAMP:20260924T170000Z
@@ -228,6 +231,44 @@ BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:URGENTE: En 2 horas cierra el Protocolo Colaborativo de Cátedra U4 (18:23 hs)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-catedra-u4-act@estebanmarrugo
+DTSTAMP:20260925T164500Z
+DTSTART:20260930T100000
+DTEND:20260930T111100
+SUMMARY:⚠️ Actividad Unidad 4 - Cátedra Institucional
+DESCRIPTION:Actividad Unidad 4 - Cátedra Institucional A1.\n¡OJO CON LA HORA! Cierra en la mañana a las 11:11 AM.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana vence la Actividad de Cátedra U4 (11:11 AM)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 2 horas vence la Actividad de Cátedra U4 (11:11 AM)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:udc-2026-catedra-u4-eval@estebanmarrugo
+DTSTAMP:20260925T164500Z
+DTSTART:20260930T230000
+DTEND:20260930T235900
+SUMMARY:🚨 Evaluación Unidad 4 - Cátedra Institucional
+DESCRIPTION:Cuestionario Evaluación Unidad 4 - Cátedra Institucional A1.\nCierra a las 23:59.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Mañana cierra la Evaluación de Cátedra U4
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:URGENTE: En 3 horas cierra la Evaluación de Cátedra U4
 END:VALARM
 END:VEVENT
 

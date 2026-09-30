@@ -1,6 +1,6 @@
 # Fundamentos de Matemáticas
 
-[[Horario General|Horario General]] · [[Guía de Estudio|Guía de Estudio]] · [[UDC]]
+[[Horario|Horario]] · [[Roadmap|Roadmap]] · [[README|UDC]]
 
 Fundamentos de Matemáticas introduce los elementos conceptuales y operativos del álgebra, la teoría de conjuntos, la lógica y la trigonometría necesarios para abordar con éxito las matemáticas superiores del programa de Ingeniería de Software.
 
@@ -21,90 +21,41 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
 | **Evaluaciones de Unidades** | 20% | Evaluaciones escritas o en plataforma SIMA por unidad |
 | **Evaluación Final** | 40% | Prueba individual presencial |
 
-## Contenido del Curso
+## Contenido del Curso y Apuntes
 
-- **Unidad 1:** Cálculo Proposicional (Proposiciones, conectivos, tablas de verdad, reglas de inferencia)
-- **Unidad 2:** Conjuntos (Notación, operaciones, diagrama de Venn, producto cartesiano)
-- **Unidad 3:** Expresiones Algebraicas (Polinomios, productos notables, factorización, binomio de Newton)
-- **Unidad 4:** Relaciones y Funciones (Dominio, rango, tipos de funciones, composición)
-- **Unidad 5:** Sistemas de Ecuaciones Lineales y Cuadráticas
-- **Unidad 6:** Sistemas de Ecuaciones 2×2 (Igualación, sustitución, reducción, Cramer, gráfico)
-- **Unidad 7:** Conceptos Básicos de Trigonometría I (Razones, círculo unitario, identidades, ecuaciones)
-- **Unidad 8:** Conceptos Básicos de Trigonometría II (Ecuaciones de cónicas: parábola, circunferencia, elipse, hipérbola)
-
-## Entregas y Actividades Destacadas
-
-- [[Entregables/Protocolo Individual 1 - Fundamentos|Protocolo Individual Unidad 1]]
-  - **Estado:** 🟢 **Calificado en SIMA (Nota: 4,10 / 5,00)**
-  - **Fecha de Entrega:** 18 de Agosto de 2026 (Enviado con 6 días de anticipación)
-  - **Docente:** Atilano Arrieta Vivero
-  - **Formato:** PDF
-- [[Entregables/Protocolo Colaborativo 1 - Fundamentos|Protocolo Colaborativo Unidad 1]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Formato:** Markdown / PDF
-- [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1 — Taller de Lógica Matemática y Razonamiento]]
-  - **Estado:** 📝 **Listo para entregar en SIMA**
-  - **Cierre de Entrega:** Miércoles, 26 de Agosto de 2026 (23:59 hs)
-  - **Formato:** Markdown / PDF
-- **Evaluación Cuestionario Unidad 1**
-  - **Estado:** 🟢 **Aprobado en SIMA (Nota: 5,00 / 5,00)**
-  - **Cierre de Cuestionario:** Domingo, 30 de Agosto de 2026 (23:59 hs)
-  - **Plataforma:** Campus Virtual SIMA
-- [[Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2 — Expresiones Algebraicas y Funciones]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Cierre de Entrega:** Miércoles, 16 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** DOCX / PDF
-- [[Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]]
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Fecha de Entrega:** Lunes, 14 de Septiembre de 2026
-- **Actividad de la Unidad 2**
-  - **Estado:** 🟢 **Cargado oficialmente en SIMA**
-  - **Fecha de Entrega:** Viernes, 18 de Septiembre de 2026 (23:59 hs)
-  - **Formato:** PDF
-
-## Estado de Avances del Semestre
-
-- [x] **Unidad 1:** Protocolo Individual Unidad 1 redactado y subido oficialmente a SIMA (Nota: 4,10 / 5,00).
-- [x] **Unidad 1:** Protocolo Colaborativo Unidad 1 redactado en CIPAS y subido oficialmente a SIMA.
-- [x] **Unidad 1:** [[Entregables/Actividad Unidad 1 - Fundamentos|Actividad de la Unidad 1]] redactada y subida a SIMA.
-- [x] **Unidad 1:** Evaluación Cuestionario Unidad 1 aprobada en SIMA (Nota: 5,00 / 5,00).
-- [x] **Unidad 2:** [[Entregables/Protocolo Individual 2 - Fundamentos|Protocolo Individual Unidad 2]] redactado al 100% y generado en PDF/DOCX (Cargado oficialmente en SIMA).
-- [x] **Unidad 2:** [[Entregables/Protocolo Colaborativo 2 - Fundamentos|Protocolo Colaborativo Unidad 2]] redactado y subido oficialmente a SIMA.
-- [x] **Unidad 2:** Actividad de la Unidad 2 desarrollada y subida a SIMA.
-
-## Cómo Estudiar la Asignatura
-
-- **El Concepto de Función es el Eje:** comprender a fondo el dominio, rango y gráfica de funciones antes de avanzar.
-- **Revisión Rigurosa de Signos:** la mayoría de los errores algebraicos ocurren por distribución incorrecta del signo negativo.
-- **Trigonometría Visual:** memorizar las razones trigonométricas fundamentales en el círculo unitario ($0^\circ, 30^\circ, 45^\circ, 60^\circ, 90^\circ$).
-- **Derivación de Productos Notables:** verificar las fórmulas algebraicas multiplicando manualmente en lugar de memorizar sin comprender.
-
-### Errores Comunes
-
-| Tema | Error Frecuente | Cómo Evitarlo |
+| Unidad | Tema | Apuntes |
 | :--- | :--- | :--- |
-| **Conjuntos** | Confundir pertenencia (`∈`) con inclusión (`⊆`) | `∈` relaciona elemento a conjunto; `⊆` relaciona conjunto a conjunto |
-| **Álgebra** | Distribuir mal una resta: `-(a + b) = -a + b` | Recordar que el signo negativo afecta a todos los términos dentro del paréntesis |
-| **Factorización** | Aplicar un caso de factorización equivocado | Comprobar primero si existe factor común antes de buscar trinomios |
-| **Funciones** | Confundir la notación `f(x)` con multiplicación | Interpretar `f(x)` como "la función `f` evaluada en la variable `x`" |
-| **Trigonometría** | Mezclar grados sexagesimales con radianes | Verificar la unidad angular requerida antes de realizar el cálculo |
+| **Unidad 1** | Lógica Proposicional y Conjuntos | [[Unidades/Unidad 1/Apuntes\|Apuntes de Estudio U1]] |
+| **Unidad 2** | Expresiones Algebraicas y Factorización | [[Unidades/Unidad 2/Apuntes\|Apuntes de Estudio U2]] |
+| **Unidad 3** | Ecuaciones e Inecuaciones | [[Unidades/Unidad 3/Apuntes\|Apuntes de Estudio U3]] |
+| **Unidad 4** | Trigonometría | [[Unidades/Unidad 4/Apuntes\|Apuntes de Estudio U4]] |
+| **U5 (TCC)** | Protocolo Colaborativo Contextualizado | [[Unidades/Protocolo Colaborativo Contextualizado/Rúbrica TCC\|Rúbrica y Guía TCC]] |
 
-> [!important] Para las evaluaciones
-> Fundamentos de Matemáticas es el prerrequisito conceptual directo de Cálculo Diferencial. Consolidar el álgebra y las funciones en este curso garantiza un desempeño fluido en los semestres superiores.
+## 📋 Registro de Entregas
+
+| Fecha | Entregable | Estado | Nota |
+| :--- | :--- | :---: | :---: |
+| Ago 22 | Protocolo Individual U1 | ✅ Calificado | 4.10 / 5.00 |
+| Ago 22 | Protocolo Colaborativo U1 | ✅ Subido SIMA | — |
+| Ago 26 | Actividad U1 — Taller Lógica Matemática | ✅ Subido SIMA | — |
+| Sep 5 | Evaluación Cuestionario U1 | ✅ Aprobado | 5.00 / 5.00 |
+| Sep 14 | Protocolo Colaborativo U2 | ✅ Subido SIMA | — |
+| Sep 16 | Protocolo Individual U2 | ✅ Subido SIMA | — |
+| Sep 18 | Actividad U2 (Ecuaciones) | ✅ Subido SIMA | — |
+| Oct 9 | Taller U3 — Ecuaciones Cuadráticas | 🔲 Pendiente | — |
+| Nov 5 | Taller U4 — Identidades Trigonométricas | 🔲 Pendiente | — |
 
 ## Bibliografía
 
-- Stewart, J. (2012). *Precálculo: Matemáticas para el cálculo (6.ª ed.).* Cengage Learning. *(Disponible en `Recursos/`)*
+- Stewart, J. (2012). *Precálculo: Matemáticas para el cálculo (6.ª ed.).* Cengage Learning.
 - Cardenas, J., Larson, R., & Hostetler, R. (2018). *Precálculo.* Editorial Reverté.
 - Egoavil Vera, J. (2015). *Fundamentos de matemáticas: introducción al nivel universitario.* Ediciones de la U.
 - Estrada Coronado, R. M., & Jiménez, M. R. (2019). *Álgebra.* Pearson Educación.
 
-## Idea clave
-
-Dominar la lógica, el álgebra y el concepto de función proporciona el lenguaje formal indispensable para la programación y el análisis cuantitativo en ingeniería.
+> [!important] Para las evaluaciones
+> Fundamentos de Matemáticas es el prerrequisito conceptual directo de Cálculo Diferencial. Consolidar el álgebra y las funciones en este curso garantiza un desempeño fluido en los semestres superiores.
 
 ## Navegación
 
-- [[Cronograma de Actividades|Cronograma de Actividades de 16 Semanas]]
 - Anterior: [[Introducción a la Ingeniería de Software/Introducción a la Ingeniería de Software|Introducción a la Ing. de Software]]
 - Siguiente: [[Horario General|Horario General]]

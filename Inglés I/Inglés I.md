@@ -1,6 +1,6 @@
 # Inglés I (ENGV001-E2)
 
-[[Horario General|Horario General]] · [[Guía de Estudio|Guía de Estudio]] · [[UDC]]
+[[Horario|Horario]] · [[Roadmap|Roadmap]] · [[README|UDC]]
 
 Inglés I es una asignatura transversal de formación institucional orientada al desarrollo de competencias comunicativas básicas (nivel A1/A2) en lengua extranjera. Se enfoca en la comprensión y producción oral y escrita de situaciones cotidianas, personales y del entorno académico/profesional del ingeniero de software.
 
@@ -9,48 +9,54 @@ Inglés I es una asignatura transversal de formación institucional orientada al
 ## 📌 Información General
 
 - **Código:** `ENGV001-E2`
+- **Docente:** Docente Institucional
 - **Modalidad:** 100% Virtual Sincrónica (Plataforma Moodle / Meet / Teams)
 - **Horario:** Miércoles de 13:50 a 17:10 hrs (1:50 p.m. – 5:10 p.m.)
 - **Semestre:** 2026-2
 
 ---
 
-## 🗺️ Estructura del Curso por Unidades
+## 🗺️ Unidades y Apuntes
 
-|    Unidad    |     Semanas      | Núcleo Temático                                                            | Hitos Evaluativos                                                                    |
-| :----------: | :--------------: | :------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
-| **General**  |        —         | Inducción, Foro de presentación, Prior Knowledge Test                      | Diagnóstico                                                                          |
-| **Unidad 1** |  **Sem. 1 – 4**  | Jobs, Verb to be, Countries & Nationalities, Numbers, Wh-Questions         | 📝 **Unit 1 Assessment** (Semana 4)                                                  |
-| **Unidad 2** |  **Sem. 5 – 8**  | Simple Present, City Locations, Food & Drinks, Countable/Uncountable Nouns | 📝 **Unit 2 Assessment** (Semana 8)                                                  |
-| **Unidad 3** | **Sem. 9 – 12**  | Likes and Dislikes, Sports, Family, Daily Routines (Simple Present)        | 📝 **Unit 3 Assessment** (Semana 12)                                                 |
-| **Unidad 4** | **Sem. 13 – 16** | Describing People Appearance, Present Progressive, At the Airport          | 📝 **Unit 4 Assessment** (Semana 15)<br>🗣️ **Speaking Final Evaluation** (Semana 16) |
-
-## Entregables y Actividades Destacadas
-
-- [[Entregables/Guion_Video_Conversacion_Ingles_I|Guion de Video de Conversación (Unidad 1)]]
-  - **Estado:** 🟢 **Video grabado y entregado oficialmente en SIMA**
-  - **Fecha de Entrega:** Martes, 15 de Septiembre de 2026 (21:33 hs)
-  - **Requerimiento:** Video de 2 a 3 minutos presentando personas en el vecindario con verbo _to be_, preguntas Wh- y formas afirmativas/negativas.
-  - **Formato:** Video / Producción oral (Grabación con Álvaro Castillo)
-- [[Entregables/Actividad_Unidad_2_Market_Description|Actividad Escrita Unidad 2 (Market Description)]]
-  - **Estado:** 📝 **Texto redactado y blindado (7 oraciones) — Listo para subir**
-  - **Ventana en SIMA:** Miércoles, 07 de Octubre al Martes, 13 de Octubre de 2026 (23:59 hs)
-  - **Requerimiento:** Texto corto (5 a 8 oraciones) describiendo visita a un mercado con *there is / there are*, presente simple, comida/bebida y compra sencilla.
-  - **Formato:** Texto en línea / PDF
+| Unidad | Tema Principal | Gramática Central | Apuntes |
+| :---: | :--- | :--- | :--- |
+| **Unidad 1** | People and Community | Present Simple/Continuous, Verb to be, Wh- Questions | [[Unidades/Unidad 1/Apuntes\|Apuntes U1]] |
+| **Unidad 2** | Market and Commerce | Comparative/Superlative, There is/are, Countable/Uncountable | [[Unidades/Unidad 2/Apuntes\|Apuntes U2]] |
+| **Unidad 3** | Technology and Digital World | Passive Voice (Present/Past Simple) | [[Unidades/Unidad 3/Apuntes\|Apuntes U3]] |
+| **Unidad 4** | Future Plans and Goals | Will / Going to, Modal Verbs | [[Unidades/Unidad 4/Apuntes\|Apuntes U4]] |
 
 ---
 
-## 🧭 Cronograma Detallado y Enlaces
+## 📊 Sistema de Evaluación
 
-- Corte 1 ($C_1$): 20% ($0.20$)
-- Corte 2 ($C_2$): 20% ($0.20$)
-- Corte 3 ($C_3$): 60% ($0.60$)
-- Nota mínima de aprobación: $3.0$ sobre una escala de $0.0$ a $5.0$.
-- **Fórmula de Calificación:**
-  $$\text{Nota Final} = 0.20 \cdot C_1 + 0.20 \cdot C_2 + 0.60 \cdot C_3$$
-- **Despeje de la Incógnita $C_3$ para Aprobar:**
-  $$0.20(C_1 + C_2) + 0.60 \cdot C_3 \ge 3.0$$
-  $$0.60 \cdot C_3 \ge 3.0 - 0.20(C_1 + C_2)$$
-  $$C_3 \ge \frac{3.0 - 0.20(C_1 + C_2)}{0.60}$$   
-- [[Cronograma de Actividades|Cronograma de Actividades - Inglés I]]
+- Corte 1 (C₁): 20%
+- Corte 2 (C₂): 20%
+- Corte 3 (C₃): 60%
+- Nota mínima de aprobación: **3.0 / 5.0**
+
+$$\text{Nota Final} = 0.20 \cdot C_1 + 0.20 \cdot C_2 + 0.60 \cdot C_3$$
+
+---
+
+## 📋 Registro de Entregas
+
+| Fecha | Entregable | Estado | Nota |
+| :--- | :--- | :---: | :---: |
+| Sep 15 | Video Producción Oral U1 — 'People in My Neighborhood' | ✅ Subido SIMA | — |
+| Oct 13 | Actividad Escrita U2 — Market Description | 🔲 Pendiente | — |
+
+---
+
+## Bibliografía y Recursos
+
+- Murphy, R. (2019). *English Grammar in Use* (5th ed.). Cambridge University Press. *(Elementary — nivel A1/A2)*
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish) — recursos gratuitos, podcasts, ejercicios interactivos
+- [British Council LearnEnglish](https://learnenglish.britishcouncil.org) — gramática y vocabulario A1–B2
+- [Cambridge English](https://www.cambridgeenglish.org/learning-english/) — preparación y práctica oficial
+
+---
+
+## Navegación
+
+- [[Horario General|Horario General]]
 - [[Guía de Estudio|Guía de Estudio General UDC]]
