@@ -28,5 +28,20 @@ Documentos Personales/
 # Graphify artifacts
 graphify-out/
 scratch/
+
 # Local Pi runtime state
 .atl/
+
+# Calendar and export files
+*.ics
+
+# Tooling and linter configs
+.markdownlint*
+
+# Generated and working Word documents (preserves blank templates)
+*.docx
+!Plantillas/Protocolos/*.docx
+
+# Course resources, textbooks and teacher modules
+**/Recursos/
+
