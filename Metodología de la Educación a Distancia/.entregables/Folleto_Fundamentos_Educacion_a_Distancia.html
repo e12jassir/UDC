@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Folleto — Fundamentos Conceptuales del Modelo de Educación a Distancia · UDC</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=JetBrains+Mono:wght@500;700&display=swap');
+
+    :root {
+      --navy-dark: #071526;
+      --navy: #0b223d;
+      --navy-light: #163e6e;
+      --gold: #c2922e;
+      --gold-light: #f3cf7a;
+      --gold-soft: #fcf8ee;
+      --ivory: #faf7f2;
+      --paper: #ffffff;
+      --text-main: #1e293b;
+      --text-muted: #475569;
+      --border-soft: #cbd5e1;
+      --border-gold: rgba(194, 146, 46, 0.4);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-print-color-adjust: exact !important;
+      print-color-adjust: exact !important;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+      background: #1e293b;
+      color: var(--text-main);
+      padding: 24px 0 60px 0;
+      line-height: 1.52;
+      font-size: 13px;
+    }
+
+    .screen-toolbar {
+      max-width: 1120px;
+      margin: 0 auto 20px auto;
+      background: var(--navy-dark);
+      border: 1px solid rgba(194, 146, 46, 0.35);
+      color: #fff;
+      padding: 12px 24px;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    }
+
+    .screen-toolbar h1 {
+      font-size: 15px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: #f8fafc;
+    }
+
+    .btn-print {
+      background: linear-gradient(135deg, #c2922e 0%, #dfaa3b 100%);
+      color: #071526;
+      border: none;
+      padding: 10px 22px;
+      font-size: 13px;
+      font-weight: 800;
+      border-radius: 6px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 4px 14px rgba(194, 146, 46, 0.4);
+      transition: transform 0.15s ease;
+    }
+
+    .btn-print:hover {
+      transform: translateY(-1px);
+    }
+
+    .sheet-label {
+      max-width: 1120px;
+      margin: 18px auto 8px auto;
+      color: #cbd5e1;
+      font-size: 11.5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .sheet-label span {
+      background: var(--gold);
+      color: #071526;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 10px;
+    }
+
+    .sheet {
+      width: 297mm;
+      height: 209.5mm;
+      margin: 0 auto 32px auto;
+      background: var(--ivory);
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
+      border-radius: 2px;
+    }
+
+    .sheet::before, .sheet::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 14px;
+      pointer-events: none;
+      z-index: 10;
+    }
+
+    .sheet::before {
+      left: calc(33.333% - 7px);
+      background: linear-gradient(to right, rgba(0,0,0,0.14), rgba(0,0,0,0.02) 40%, rgba(255,255,255,0.2) 60%, rgba(0,0,0,0.1));
+      border-left: 1px dashed rgba(194, 146, 46, 0.45);
+    }
+
+    .sheet::after {
+      left: calc(66.666% - 7px);
+      background: linear-gradient(to right, rgba(0,0,0,0.14), rgba(0,0,0,0.02) 40%, rgba(255,255,255,0.2) 60%, rgba(0,0,0,0.1));
+      border-left: 1px dashed rgba(194, 146, 46, 0.45);
+    }
+
+    .panel {
+      height: 100%;
+      padding: 12mm 11mm 11mm 11mm;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      background: var(--ivory);
+    }
+
+    .panel-header {
+      border-bottom: 2px solid var(--gold);
+      padding-bottom: 5px;
+      margin-bottom: 8px;
+    }
+
+    .panel-kicker {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 8.5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.8px;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    .panel-title {
+      font-family: 'Cinzel', serif;
+      font-size: 16px;
+      font-weight: 800;
+      color: var(--navy);
+      line-height: 1.2;
+    }
+
+    .lead-p {
+      font-size: 11.5px;
+      color: var(--text-main);
+      line-height: 1.48;
+      text-align: justify;
+      margin-bottom: 8px;
+    }
+
+    .lead-p strong {
+      color: var(--navy);
+      font-weight: 700;
+    }
+
+    .block-box {
+      background: #ffffff;
+      border: 1px solid var(--border-soft);
+      border-left: 4px solid var(--navy);
+      border-radius: 6px;
+      padding: 9px 11px;
+      margin-bottom: 7px;
+    }
+
+    .block-box.gold {
+      border-left-color: var(--gold);
+      background: #fdfbf7;
+    }
+
+    .block-title {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--navy);
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+
+    .block-desc {
+      font-size: 10.8px;
+      color: var(--text-muted);
+      line-height: 1.42;
+      text-align: justify;
+    }
+
+    .block-desc strong {
+      color: var(--text-main);
+      font-weight: 700;
+    }
+
+    .quote-box {
+      background: var(--navy);
+      color: #ffffff;
+      padding: 10px 14px;
+      border-radius: 6px;
+      margin-top: 6px;
+    }
+
+    .quote-box p {
+      font-family: 'Cinzel', serif;
+      font-size: 10.8px;
+      font-style: italic;
+      line-height: 1.4;
+      color: #f1f5f9;
+      text-align: center;
+    }
+
+    .quote-box .author {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--gold-light);
+      margin-top: 5px;
+      text-align: right;
+      display: block;
+    }
+
+    /* CARA A: PORTADA */
+    .panel-cover {
+      background: linear-gradient(155deg, #051324 0%, #0a213b 55%, #10325a 100%);
+      color: #ffffff;
+      padding: 15mm 11mm 13mm 11mm;
+      text-align: center;
+      justify-content: space-between;
+    }
+
+    .cover-top {
+      border-bottom: 1px solid rgba(194, 146, 46, 0.35);
+      padding-bottom: 12px;
+    }
+
+    .cover-seal {
+      width: 76px;
+      height: 76px;
+      margin: 0 auto 10px auto;
+      border-radius: 50%;
+      border: 2px solid var(--gold);
+      padding: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(255, 255, 255, 0.04);
+      box-shadow: 0 0 25px rgba(194, 146, 46, 0.3);
+    }
+
+    .cover-seal svg {
+      width: 44px;
+      height: 44px;
+      stroke: var(--gold);
+    }
+
+    .cover-institution {
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: 2px;
+      color: #f8fafc;
+      text-transform: uppercase;
+      margin-bottom: 3px;
+    }
+
+    .cover-center-badge {
+      font-size: 9px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--gold-light);
+      font-weight: 700;
+      display: block;
+    }
+
+    .cover-body {
+      margin: 16px 0;
+    }
+
+    .cover-tag {
+      display: inline-block;
+      background: rgba(194, 146, 46, 0.2);
+      border: 1px solid var(--gold);
+      color: #fdefc9;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 1.8px;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 20px;
+      margin-bottom: 14px;
+    }
+
+    .cover-headline {
+      font-family: 'Cinzel', serif;
+      font-size: 22px;
+      font-weight: 800;
+      line-height: 1.2;
+      color: #ffffff;
+      margin-bottom: 14px;
+    }
+
+    .cover-headline span {
+      color: var(--gold-light);
+      display: block;
+      font-size: 17px;
+      margin-top: 5px;
+    }
+
+    .cover-description {
+      font-size: 11.5px;
+      color: #cbd5e1;
+      line-height: 1.52;
+      max-width: 260px;
+      margin: 0 auto;
+    }
+
+    .cover-footer {
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+      padding-top: 12px;
+      font-size: 9.8px;
+      color: #94a3b8;
+      line-height: 1.45;
+    }
+
+    .cover-footer strong {
+      color: #f8fafc;
+      font-weight: 700;
+    }
+
+    /* CARA A: CONTRAPORTADA */
+    .panel-back {
+      background: #f4f1eb;
+    }
+
+    .hours-infographic {
+      background: #ffffff;
+      border: 1px solid var(--border-soft);
+      border-radius: 6px;
+      padding: 9px 12px;
+      margin-bottom: 7px;
+    }
+
+    .hours-title {
+      font-size: 11.5px;
+      font-weight: 800;
+      color: var(--navy);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 6px;
+    }
+
+    .hours-badge {
+      background: var(--navy);
+      color: #fff;
+      font-size: 9px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+
+    .hours-bar {
+      display: flex;
+      height: 18px;
+      border-radius: 4px;
+      overflow: hidden;
+      font-size: 8.5px;
+      font-weight: 800;
+      color: #fff;
+      text-align: center;
+      line-height: 18px;
+      margin: 6px 0;
+    }
+
+    .bar-presencial { width: 17%; background: var(--gold); }
+    .bar-asesoria { width: 8%; background: var(--navy-light); }
+    .bar-autonomo { width: 75%; background: var(--navy); }
+
+    .hours-legend {
+      display: flex;
+      justify-content: space-between;
+      font-size: 9px;
+      color: var(--text-muted);
+      margin-top: 5px;
+    }
+
+    .hours-legend span {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+
+    .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    .roles-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 7px;
+      margin-bottom: 7px;
+    }
+
+    .role-mini-box {
+      background: #ffffff;
+      border: 1px solid var(--border-soft);
+      border-radius: 5px;
+      padding: 8px 9px;
+    }
+
+    .role-mini-box h5 {
+      font-size: 10.5px;
+      font-weight: 800;
+      color: var(--navy);
+      margin-bottom: 3px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .role-mini-box p {
+      font-size: 9.6px;
+      color: var(--text-muted);
+      line-height: 1.34;
+    }
+
+    .cipas-card {
+      background: #ffffff;
+      border: 1px solid var(--border-soft);
+      border-top: 3.5px solid var(--gold);
+      border-radius: 6px;
+      padding: 10px 12px;
+      margin-bottom: 6px;
+    }
+
+    .cipas-card-title {
+      font-size: 11px;
+      font-weight: 800;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 6px;
+      padding-bottom: 4px;
+      border-bottom: 1px solid var(--border-soft);
+    }
+
+    .cipas-grid {
+      display: grid;
+      grid-template-columns: 90px 1fr;
+      row-gap: 3.5px;
+      font-size: 10.2px;
+    }
+
+    .cipas-grid dt {
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .cipas-grid dd {
+      color: var(--navy);
+      font-weight: 700;
+    }
+
+    /* CARA B: LOS TRES MOMENTOS */
+    .timeline-wrap {
+      position: relative;
+      padding-left: 30px;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+      margin: 4px 0;
+    }
+
+    .timeline-wrap::before {
+      content: '';
+      position: absolute;
+      left: 12px;
+      top: 14px;
+      bottom: 24px;
+      width: 2.5px;
+      background: linear-gradient(to bottom, var(--navy) 0%, var(--gold) 50%, var(--navy-light) 100%);
+    }
+
+    .timeline-card {
+      position: relative;
+      background: #ffffff;
+      border: 1px solid var(--border-soft);
+      border-radius: 6px;
+      padding: 9px 11px;
+    }
+
+    .timeline-badge {
+      position: absolute;
+      left: -30px;
+      top: 10px;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--navy);
+      color: #fff;
+      font-weight: 800;
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 0 0 3px #ffffff;
+    }
+
+    .timeline-badge.step-2 {
+      background: var(--gold);
+      color: var(--navy-dark);
+    }
+
+    .timeline-badge.step-3 {
+      background: var(--navy-light);
+    }
+
+    .timeline-card h4 {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--navy);
+      line-height: 1.22;
+    }
+
+    .timeline-card .phase-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 8.2px;
+      font-weight: 700;
+      color: var(--gold);
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    .timeline-card p {
+      font-size: 10.6px;
+      color: var(--text-muted);
+      line-height: 1.4;
+      text-align: justify;
+    }
+
+    .timeline-card p strong {
+      color: var(--text-main);
+    }
+
+    .zimmerman-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 6px;
+    }
+
+    .zimmerman-box {
+      background: #ffffff;
+      border: 1px solid var(--border-soft);
+      border-top: 2.5px solid var(--navy);
+      border-radius: 4px;
+      padding: 7px 6px;
+      text-align: center;
+    }
+
+    .zimmerman-box.active {
+      border-top-color: var(--gold);
+      background: #fdfbf7;
+    }
+
+    .zimmerman-phase {
+      font-size: 9.5px;
+      font-weight: 800;
+      color: var(--navy);
+      text-transform: uppercase;
+      margin-bottom: 3px;
+    }
+
+    .zimmerman-action {
+      font-size: 8.8px;
+      color: var(--text-muted);
+      line-height: 1.32;
+    }
+
+    @media print {
+      body {
+        background: transparent !important;
+        padding: 0 !important;
+      }
+      .screen-toolbar, .sheet-label {
+        display: none !important;
+      }
+      .sheet {
+        margin: 0 !important;
+        box-shadow: none !important;
+        border-radius: 0 !important;
+        page-break-after: always !important;
+        break-after: page !important;
+      }
+      .sheet::before, .sheet::after {
+        display: none !important;
+      }
+      @page {
+        size: A4 landscape;
+        margin: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Barra de control interactiva para pantalla -->
+  <div class="screen-toolbar">
+    <h1>
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2.2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+      Folleto Tríptico Editorial: Modelo de Educación a Distancia · UDC
+    </h1>
+    <button class="btn-print" onclick="window.print()">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+      Guardar como PDF (A4 Horizontal)
+    </button>
+  </div>
+
+  <div class="sheet-label">
+    <span>Cara A</span> Exterior del Tríptico (Doblado: Solapa Interna · Contraportada · Portada)
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- CARA EXTERIOR (Folded: Panels 5, 6, 1)                      -->
+  <!-- ============================================================ -->
+  <div class="sheet">
+
+    <!-- PANEL 5: Solapa Interior -->
+    <div class="panel">
+      <div>
+        <div class="panel-header">
+          <span class="panel-kicker">Mediación & Entorno Digital</span>
+          <h2 class="panel-title">El Ecosistema CTEV</h2>
+        </div>
+
+        <p class="lead-p">
+          En la Universidad de Cartagena la tecnología no es una bodega pasiva de documentos. Constituye el <strong>entorno de mediación dialógica</strong> donde se conectan estudiantes, docentes y recursos formativos.
+        </p>
+
+        <div class="block-box">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#0b223d" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+            Plataforma SIMA (Moodle Institucional)
+          </div>
+          <p class="block-desc">
+            Campus digital centralizado para la descarga de módulos instruccionales, radicación formal de protocolos individuales y colaborativos, presentación de evaluaciones temáticas y auditoría de calificaciones en línea.
+          </p>
+        </div>
+
+        <div class="block-box gold">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+            Comunidades de Práctica & Redes CIPAS
+          </div>
+          <p class="block-desc">
+            Canales de mensajería y entornos colaborativos en la nube. Operan como el puente cotidiano para debatir lógica de desarrollo, contrastar fuentes teóricas y coordinar entregas sin restricciones de horario ni distancia geográfica.
+          </p>
+        </div>
+
+        <div class="block-box">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#0b223d" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+            Retroalimentación Formativa Continua
+          </div>
+          <p class="block-desc">
+            Comentarios orientadores y rúbricas analíticas emitidas por el tutor en foros y tareas. Permiten diagnosticar y corregir debilidades de aprendizaje de manera oportuna, antes de afrontar las pruebas presenciales del 40%.
+          </p>
+        </div>
+
+        <div class="block-box gold">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 14 14"></polyline></svg>
+            Asesoría Sincrónica y Asincrónica
+          </div>
+          <p class="block-desc">
+            Flexibilidad estructural que combina foros de consulta permanente en plataforma con sesiones de acompañamiento en tiempo real, garantizando respuesta a inquietudes durante todo el semestre.
+          </p>
+        </div>
+      </div>
+
+      <div class="quote-box">
+        <p>«La distancia en esta modalidad no se mide en kilómetros de carretera, sino en la calidad y fluidez de la comunicación entre docente y estudiante.»</p>
+        <span class="author">Lorenzo García Aretio</span>
+      </div>
+    </div>
+
+    <!-- PANEL 6: Contraportada -->
+    <div class="panel panel-back">
+      <div>
+        <div class="panel-header">
+          <span class="panel-kicker">Reglamentación & Equipo</span>
+          <h2 class="panel-title">El Crédito y el CIPAS</h2>
+        </div>
+
+        <p class="lead-p">
+          La formación a distancia en la UDC se rige por el <strong>Decreto 1295 de 2010</strong>. El avance depende de cumplir con rigor la matemática del tiempo autónomo.
+        </p>
+
+        <!-- Infografía de las 96 horas -->
+        <div class="hours-infographic">
+          <div class="hours-title">
+            <span>Asignatura de 2 Créditos</span>
+            <span class="hours-badge">96 Horas Semestrales</span>
+          </div>
+          <div class="hours-bar">
+            <div class="bar-presencial">16h</div>
+            <div class="bar-asesoria">8h</div>
+            <div class="bar-autonomo">72 Horas de Trabajo Autónomo</div>
+          </div>
+          <div class="hours-legend">
+            <span><i class="dot" style="background:var(--gold);"></i> 16h Presencial</span>
+            <span><i class="dot" style="background:var(--navy-light);"></i> 8h Asesoría</span>
+            <span><i class="dot" style="background:var(--navy);"></i> 72h Autónomo</span>
+          </div>
+          <p style="font-size: 9.8px; color: var(--text-muted); margin-top: 6px; line-height: 1.38; text-align: justify;">
+            Por cada hora de tutoría los sábados en Piedra de Bolívar, el estudiante debe consagrar <strong>entre 2 y 3 horas independientes</strong> a la investigación individual y la co-validación en CIPAS.
+          </p>
+        </div>
+
+        <!-- Roles en el modelo -->
+        <div class="roles-grid">
+          <div class="role-mini-box">
+            <h5>
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#0b223d" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+              Rol del Tutor
+            </h5>
+            <p>Mediador pedagógico experto. Guía la construcción del conocimiento, dinamiza debates y desata nudos conceptuales complejos.</p>
+          </div>
+          <div class="role-mini-box" style="border-top: 2.5px solid var(--gold);">
+            <h5>
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+              Rol del Estudiante
+            </h5>
+            <p>Sujeto activo y autorregulado. Planifica sus tiempos, lidera su aprendizaje y aporta críticamente al trabajo colaborativo del equipo.</p>
+          </div>
+        </div>
+
+        <!-- Ficha técnica del CIPAS -->
+        <div class="cipas-card">
+          <div class="cipas-card-title">Ficha Técnica del Entregable</div>
+          <dl class="cipas-grid">
+            <dt>Asignatura:</dt>
+            <dd>Metodología EaD (FN24015-A1)</dd>
+            <dt>Docente:</dt>
+            <dd>Raquel Leottau Díaz</dd>
+            <dt>Programa:</dt>
+            <dd>Ingeniería de Software · Semestre 1</dd>
+            <dt>CIPAS:</dt>
+            <dd>Grupo 8</dd>
+            <dt>Integrantes:</dt>
+            <dd style="font-size: 8.6px; line-height: 1.35; font-weight: 700; color: var(--navy);">
+              E. Marrugo · C. Flórez · G. Molina · S. Orozco · J. Villa
+            </dd>
+            <dt>Sede:</dt>
+            <dd>Piedra de Bolívar · Cartagena (2026-2)</dd>
+          </dl>
+        </div>
+
+        <div class="block-box gold" style="margin-bottom: 0;">
+          <p style="font-size: 9.6px; line-height: 1.35; text-align: justify; color: var(--navy);">
+            <strong>Compromiso Ético del CIPAS:</strong> La co-validación no es la simple suma de fragmentos aislados, sino la revisión analítica compartida que garantiza la calidad académica de cada producto radicado en SIMA.
+          </p>
+        </div>
+      </div>
+
+      <div style="text-align: center; border-top: 1px solid var(--border-soft); padding-top: 5px; margin-top: 8px;">
+        <span style="font-size: 8.5px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; font-weight: 700;">
+          Universidad de Cartagena · Fundada en 1827 · Acreditada Institucionalmente
+        </span>
+      </div>
+    </div>
+
+    <!-- PANEL 1: Portada Principal -->
+    <div class="panel panel-cover">
+      <div class="cover-top">
+        <div class="cover-seal">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+            <path d="M2 17l10 5 10-5"></path>
+            <path d="M2 12l10 5 10-5"></path>
+          </svg>
+        </div>
+        <div class="cover-institution">Universidad de Cartagena</div>
+        <span class="cover-center-badge">Centro de Tecnologías para la Educación Virtual · CTEV</span>
+      </div>
+
+      <div class="cover-body">
+        <span class="cover-tag">Modelo Pedagógico Institucional</span>
+        <h1 class="cover-headline">
+          EDUCACIÓN<br>A DISTANCIA
+          <span>Bases Conceptuales y Método</span>
+        </h1>
+        <p class="cover-description">
+          Autonomía responsable, diálogo didáctico mediado y los tres momentos metodológicos que transforman el estudio individual en ingeniería colaborativa.
+        </p>
+      </div>
+
+      <div class="cover-footer">
+        Facultad de Ingeniería · <strong>Ingeniería de Software</strong><br>
+        Campus Piedra de Bolívar · Cartagena de Indias, 2026
+      </div>
+    </div>
+
+  </div>
+
+  <div class="sheet-label">
+    <span>Cara B</span> Interior del Tríptico (Desplegado completo: Fundamento · Los Tres Momentos · Autorregulación)
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- CARA INTERIOR (Unfolded: Panels 2, 3, 4)                     -->
+  <!-- ============================================================ -->
+  <div class="sheet">
+
+    <!-- PANEL 2: Fundamento Teórico -->
+    <div class="panel">
+      <div>
+        <div class="panel-header">
+          <span class="panel-kicker">Epistemología & Enfoque</span>
+          <h2 class="panel-title">Diálogo Didáctico Mediado</h2>
+        </div>
+
+        <p class="lead-p">
+          El modelo de la Universidad de Cartagena supera la vieja concepción del estudio por correspondencia. Se fundamenta en la teoría de <strong>Lorenzo García Aretio</strong>: el aprendizaje a distancia es autónomo, pero jamás solitario.
+        </p>
+
+        <div class="block-box">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#0b223d" stroke-width="2.2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+            Conversación Didáctica Bidireccional
+          </div>
+          <p class="block-desc">
+            El estudiante deja de ser un receptor pasivo. Formula preguntas, confronta hipótesis y construye criterio profesional mediante la interacción argumentada con docentes y compañeros.
+          </p>
+        </div>
+
+        <div class="block-box gold">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2.2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+            Distancia Transaccional (Michael Moore)
+          </div>
+          <p class="block-desc">
+            La separación entre profesor y alumno no es física ni geográfica, sino pedagógica. Se reduce drásticamente mediante un diálogo fluido, una estructura curricular clara y un acompañamiento tutorial oportuno.
+          </p>
+        </div>
+
+        <div class="block-box">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#0b223d" stroke-width="2.2"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4M12 8h.01"></path></svg>
+            Enseñanza para la Comprensión (Perkins)
+          </div>
+          <p class="block-desc">
+            Comprender no consiste en memorizar definiciones para una prueba. Exige poseer la capacidad de utilizar el saber con soltura para resolver problemas técnicos inéditos en situaciones reales.
+          </p>
+        </div>
+
+        <div class="block-box gold">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2.2"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="20" y1="8" x2="20" y2="14"></line><line x1="23" y1="11" x2="17" y2="11"></line></svg>
+            Aprendizaje Situado y Significativo
+          </div>
+          <p class="block-desc">
+            Los conceptos cobran autenticidad cuando se aplican a problemas reales del entorno regional y a proyectos de desarrollo de software desde el primer semestre de carrera.
+          </p>
+        </div>
+      </div>
+
+      <div class="quote-box" style="background: var(--navy-light);">
+        <p>«Aprender no es acumular datos sueltos en la memoria; es saber qué hacer con ellos cuando el problema cambia de forma.»</p>
+        <span class="author">David Perkins · Proyecto Zero de Harvard</span>
+      </div>
+    </div>
+
+    <!-- PANEL 3: Los Tres Momentos Metodológicos -->
+    <div class="panel" style="background: #ffffff;">
+      <div>
+        <div class="panel-header">
+          <span class="panel-kicker">Metodología Central</span>
+          <h2 class="panel-title">Los Tres Momentos</h2>
+        </div>
+
+        <p class="lead-p">
+          Formulados por el maestro <strong>Amaury Lora Sfer (2014)</strong>, estructuran el ciclo pedagógico de la UDC. Su naturaleza es dialéctica: ningún momento rinde fruto si se descuida el anterior.
+        </p>
+
+        <div class="timeline-wrap">
+          <!-- Momento 1 -->
+          <div class="timeline-card">
+            <div class="timeline-badge">1</div>
+            <span class="phase-tag">Fase Autónoma Individual</span>
+            <h4>Estudio Individual Autónomo</h4>
+            <p>
+              Lectura crítica de los módulos instruccionales, subrayado analítico y elaboración del protocolo individual. Quien no estudia por su cuenta llega sin insumos al debate y bloquea el avance del grupo.
+            </p>
+          </div>
+
+          <!-- Momento 2 -->
+          <div class="timeline-card" style="border-left: 4px solid var(--gold);">
+            <div class="timeline-badge step-2">2</div>
+            <span class="phase-tag">Fase de Co-validación</span>
+            <h4>Trabajo Colaborativo en CIPAS</h4>
+            <p>
+              Debate y confrontación de perspectivas. No consiste en repartirse capítulos para pegar parches de texto, sino en contrastar dudas, afinar interpretaciones y construir el protocolo colaborativo.
+            </p>
+          </div>
+
+          <!-- Momento 3 -->
+          <div class="timeline-card" style="border-left: 4px solid var(--navy-light);">
+            <div class="timeline-badge step-3">3</div>
+            <span class="phase-tag">Fase Presencial de Cierre</span>
+            <h4>Tutoría de Síntesis en el Aula</h4>
+            <p>
+              Encuentro presencial sabatino con el docente en Piedra de Bolívar. No es una clase magistral pasiva; es el espacio de retroalimentación para desatar los nudos que el CIPAS no logró resolver solo.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="block-box gold" style="margin-top: 6px;">
+        <p style="font-size: 10px; text-align: center; color: var(--navy); font-weight: 700; line-height: 1.4;">
+          «El CIPAS es la primera trinchera contra la superficialidad académica: explicar y defender ideas ante un par afianza el dominio conceptual real.»
+        </p>
+      </div>
+    </div>
+
+    <!-- PANEL 4: Metacognición y Software -->
+    <div class="panel">
+      <div>
+        <div class="panel-header">
+          <span class="panel-kicker">Dimensión Cognitiva</span>
+          <h2 class="panel-title">Autorregulación & Mente</h2>
+        </div>
+
+        <p class="lead-p">
+          Sin la vigilancia presencial cotidiana de un profesor, la <strong>metacognición</strong> y las funciones ejecutivas asumen el control. En ingeniería de software, equivale a monitorear y depurar el propio pensamiento.
+        </p>
+
+        <!-- Ciclo trifásico de Zimmerman -->
+        <div style="background: #ffffff; border: 1px solid var(--border-soft); border-radius: 6px; padding: 8px 9px; margin-bottom: 7px;">
+          <span style="font-size: 9.5px; font-weight: 800; color: var(--navy); text-transform: uppercase; letter-spacing: 0.5px; display: block; margin-bottom: 5px; text-align: center;">
+            Ciclo de Autorregulación (Barry Zimmerman)
+          </span>
+          <div class="zimmerman-grid">
+            <div class="zimmerman-box">
+              <div class="zimmerman-phase">1. Previsión</div>
+              <div class="zimmerman-action">Fijar metas, evaluar autoeficacia y planificar tiempos antes de abordar la tarea.</div>
+            </div>
+            <div class="zimmerman-box active">
+              <div class="zimmerman-phase">2. Monitoreo</div>
+              <div class="zimmerman-action">Control atencional: advertir si se comprende o si se lee mecánicamente.</div>
+            </div>
+            <div class="zimmerman-box">
+              <div class="zimmerman-phase">3. Reflexión</div>
+              <div class="zimmerman-action">Evaluar resultados frente a rúbricas y reajustar la estrategia de estudio.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="block-box">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#0b223d" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
+            Variables Metacognitivas (Flavell)
+          </div>
+          <p class="block-desc">
+            Diferenciar con lucidez: <strong>persona</strong> (conocer el propio perfil cognitivo), <strong>tarea</strong> (medir la complejidad de un algoritmo frente a una lectura) y <strong>estrategia</strong> (escoger la técnica adecuada para resolver el problema).
+          </p>
+        </div>
+
+        <div class="block-box gold">
+          <div class="block-title">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#c2922e" stroke-width="2.2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            Mentalidad de Ingeniería en el Aprendizaje
+          </div>
+          <p class="block-desc">
+            Asumir el estudio como un ciclo iterativo de depuración: probar hipótesis, detectar fallos de comprensión a tiempo y auditar las entregas académicas antes de radicarlas formalmente.
+          </p>
+        </div>
+      </div>
+
+      <div style="border-top: 1px solid var(--border-soft); padding-top: 6px; text-align: center; margin-top: 6px;">
+        <span style="font-size: 8.5px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; font-weight: 700;">
+          Facultad de Ingeniería · Universidad de Cartagena · Semestre 2026-2
+        </span>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
