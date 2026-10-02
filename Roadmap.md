@@ -55,7 +55,7 @@
 | 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Protocolo Colaborativo U3 | SIMA (23:59) |
 | 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Actividad de la Unidad 3 | SIMA (23:59) |
 | 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Evaluación Cuestionario U3 | SIMA (23:59) |
-| 📅 **Programado** | **Lun 05 Oct** | **Cátedra** | Actividad U4 — Historia Motivacional | SIMA (11:11 ⚠️) |
+| 🟢 **Subido** | Lun 05 Oct | **Cátedra** | Actividad U4 — Historia Motivacional | SIMA |
 | 📅 **Programado** | **Lun 05 Oct** | **Cátedra** | Protocolo Colaborativo U4 | SIMA (18:23 ⚠️) |
 | 📅 **Programado** | **Lun 05 Oct** | **Cátedra** | Evaluación Cuestionario U4 | SIMA (23:59) |
 | 📅 **Programado** | **Vie 09 Oct** | **Fundamentos** | Taller U3 — Ecuaciones Cuadráticas | SIMA (23:57) |

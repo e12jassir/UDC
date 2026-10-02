@@ -56,7 +56,7 @@ Cátedra Institucional orienta al estudiante en su inserción y adaptación a la
 | **11 Sep 2026** | Actividad de la Unidad 3 | 🟢 [[Unidades/Unidad 3/Entregables/Actividad 3.pdf\|Actividad 3.pdf]] | **4.30** / 5.00 |
 | **11 Sep 2026** | Evaluación Cuestionario Unidad 3 | 🟢 Aprobada en SIMA | **5.00** / 5.00 |
 | **28 Sep 2026** | Protocolo Individual Unidad 4 | 🟢 [[Unidades/Unidad 4/Entregables/Protocolo Individual 4.pdf\|Protocolo Ind. 4.pdf]] | Entregado |
-| **05 Oct 2026** | Actividad de la Unidad 4 (Historia) | 🟢 [[Unidades/Unidad 4/Entregables/Actividad Unidad 4 - Catedra.pdf\|Actividad 4.pdf]] (Vence 11:11 AM) | Listo p/ subir |
+| **05 Oct 2026** | Actividad de la Unidad 4 (Historia) | 🟢 [[Unidades/Unidad 4/Entregables/Actividad Unidad 4 - Catedra.pdf\|Actividad 4.pdf]] (Vence 11:11 AM) | **Subido a SIMA** |
 | **05 Oct 2026** | Protocolo Colaborativo Unidad 4 | 🟢 [[Unidades/Unidad 4/Entregables/Protocolo Colaborativo 4.pdf\|Protocolo Colab. 4.pdf]] (Vence 18:23) | Listo p/ subir |
 | **05 Oct 2026** | Evaluación Cuestionario Unidad 4 | 📅 Programado en SIMA (Cierra 23:59 hs) | Pendiente |
 | **20 Nov 2026** | Entrega Definitiva TCC en SIMA | 📅 Programado en SIMA (CIPAS) | Pendiente |
