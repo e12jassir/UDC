@@ -67,7 +67,7 @@ Realizamos un diagnóstico transparente sobre el funcionamiento de nuestro grupo
 
 **Debilidades detectadas y plan de mitigación:**
 * *La ilusión de competencia por acumular archivos:* Caímos en la trampa de creer que por tener descargados los PDF y enlaces en una carpeta, ya dominábamos el tema. Lo combatimos con una regla de oro: si no somos capaces de explicar la idea con palabras propias y sin mirar la pantalla, el concepto no está aprendido.
-* *Dispersión atencional por multitarea:* Varios integrantes compartimos compromisos laborales, la formación técnica en ADSO y la universidad. Esa sobrecarga tienta a postergar lecturas densas para altas horas de la noche, rindiendo la mitad. Lo corregimos fijando entregas internas 48 horas antes de que venza el plazo en SIMA.
+* *Dispersión atencional por multitarea:* En el equipo combinamos distintas cargas externas (en el caso de Esteban, la formación técnica paralela en el SENA ADSO; en otros compañeros, compromisos laborales o familiares) con la universidad. Esa sobrecarga tienta a postergar lecturas densas para altas horas de la noche, rindiendo la mitad. Lo corregimos fijando entregas internas 48 horas antes de que venza el plazo en SIMA.
 * *Sesgo de sobreconfianza en materias teóricas:* Al priorizar asignaturas exactas como Cálculo y Algoritmos, a veces dejamos en segundo plano lecturas pedagógicas. Lo subsanamos aplicando lectura activa y esquematización previa antes de cualquier encuentro grupal.
 
 ---
