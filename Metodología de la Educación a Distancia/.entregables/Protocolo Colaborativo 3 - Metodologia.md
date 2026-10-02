@@ -17,108 +17,121 @@
 ---
 
 ### Descripción del texto o actividad a realizar:
-Nos reunimos como equipo de CIPAS para debatir a fondo el material de la Unidad 3 sobre «La Metacognición en los Procesos de Aprendizaje Autónomo». Analizamos los modelos teóricos de John Flavell y Ann Brown, el ciclo trifásico de autorregulación de Barry Zimmerman y la inteligencia ejecutiva planteada por José Antonio Marina. Además, hicimos un ejercicio de introspección colectiva para contrastar de manera honesta nuestras fortalezas y debilidades cognitivas reales, conectándolas con las exigencias cotidianas de la carrera de Ingeniería de Software.
+Nos reunimos como equipo de CIPAS para analizar y contrastar la temática de la Unidad 3 sobre «La Metacognición en los Procesos de Aprendizaje Autónomo». Articulamos los marcos teóricos de John Flavell y Ann Brown con el modelo trifásico de Barry Zimmerman, las funciones ejecutivas descritas por José Antonio Marina, el enfoque de enseñanza para la comprensión de David Perkins y los momentos metodológicos propuestos por Amaury Lora Sfer. A partir de estas fuentes y de las directrices del Módulo Didáctico del CTEV (2026), desarrollamos una reflexión autocrítica individual y grupal sobre nuestros propios procesos cognitivos en el contexto formativo de la Ingeniería de Software.
 
 ---
 
 ### Palabras claves:
-Metacognición, Conocimiento Metacognitivo (Flavell), Regulación Metacognitiva (Brown), Ciclo Trifásico de Autorregulación (Zimmerman), Inteligencia Ejecutiva (Marina), Monitoreo Epistémico, Andamiaje Cognitivo, Co-validación en CIPAS, Distancia Transaccional.
+Metacognición, Conocimiento Metacognitivo (Flavell), Regulación Metacognitiva (Brown), Ciclo Trifásico de Zimmerman, Inteligencia Ejecutiva (Marina), Comprensión Disciplinar (Perkins), Co-validación en CIPAS (Lora Sfer), Monitoreo Epistémico, Andamiaje Cognitivo.
 
 ---
 
 ### Objetivos de la actividad colaborativa:
-• Analizar el concepto de metacognición y su función decisiva en la educación a distancia. Sin un profesor encima todo el tiempo, la autonomía real es la única garantía de no perderse.  
-• Desglosar los componentes del sistema metacognitivo, separando el saber declarativo sobre la propia mente (persona, tarea y estrategia) del control ejecutivo en tiempo real (planificación, monitoreo y evaluación).  
-• Evaluar la autorregulación consciente a partir del modelo de Zimmerman (previsión, ejecución y autorreflexión), entendiéndola como un ciclo continuo y no como un esfuerzo aislado de última hora.  
-• Contrastar con franqueza las fortalezas y debilidades cognitivas de los cinco integrantes del CIPAS, diseñando soluciones prácticas para superar la dispersión, la sobreconfianza y la acumulación pasiva de archivos.
+• Analizar el concepto de metacognición y su función estructurante en la educación a distancia, donde la ausencia de supervisión docente continua exige el desarrollo de una autonomía planificada.  
+• Desglosar los componentes del sistema metacognitivo distinguiendo el conocimiento declarativo sobre la mente (persona, tarea y estrategia) de los procesos ejecutivos de control en tiempo real (planificación, monitoreo y evaluación).  
+• Comprender la autorregulación deliberada mediante el ciclo trifásico de Zimmerman (previsión, ejecución y autorreflexión), conectándola con la comprensión flexible definida por David Perkins.  
+• Contrastar de manera honesta las fortalezas y debilidades cognitivas de cada uno de los cinco integrantes del CIPAS, diseñando acciones concretas de autorregulación aplicadas a la gestión académica y el desarrollo de software.
 
 ---
 
 ### Conceptos claves y definiciones:
 
-• **Metacognición (Flavell, 1979):** Conocimiento y control que una persona ejerce sobre sus propios procesos mentales. Dicho sin rodeos: pensar sobre lo que uno piensa. Es la capacidad de advertir qué conceptos se comprendieron de verdad, cuáles quedaron flotando y qué método sirve para destrabar una duda.  
-• **Conocimiento metacognitivo:** Dimensión declarativa y estable. Reúne lo que el estudiante sabe sobre tres variables:  
-  1. *Persona:* Fortalezas y límites de la propia memoria y ritmo de trabajo.  
-  2. *Tarea:* Nivel de complejidad y esfuerzo mental que exige una actividad concreta.  
-  3. *Estrategia:* Métodos idóneos para abordar cada tipo de problema (resumir, diagramar o depurar).  
-• **Regulación metacognitiva (Brown, 1987):** Dimensión ejecutiva y procedimental. Es el control en caliente del aprendizaje: planificar la ruta antes de arrancar, vigilar si se está entendiendo mientras se lee o se programa, y evaluar el resultado final para corregir desvíos.  
-• **Ciclo de autorregulación (Zimmerman, 2000):** Proceso continuo organizado en tres momentos:  
-  1. *Previsión:* Planificación de metas, cálculo de tiempos y activación de confianza previa.  
-  2. *Control y ejecución:* Enfoque atencional sostenido y supervisión del avance.  
-  3. *Autorreflexión:* Juicio autocrítico del resultado y análisis honesto de aciertos y fallos.  
-• **Inteligencia ejecutiva (Marina, 2012):** Capacidad del cerebro para elegir metas a largo plazo, frenar distracciones momentáneas y mantener el esfuerzo voluntario hasta culminar una tarea sin supervisión externa.  
-• **Monitoreo epistémico:** Alarma cognitiva interna. Avisa cuando un razonamiento contiene contradicciones o lagunas, evitando dar por buena una solución técnica que en el fondo está rota.
+• **Metacognición (Flavell, 1979):** Conocimiento y control que una persona ejerce sobre sus propios procesos y resultados cognitivos. En términos operativos, consiste en pensar conscientemente sobre el propio pensamiento para advertir aciertos, vacíos conceptuales y pertinencia de las estrategias empleadas.  
+• **Conocimiento metacognitivo:** Dimensión declarativa y relativamente estable del sistema cognitivo. Integra lo que el estudiante reconoce acerca de tres variables interrelacionadas:  
+  1. *Variables de persona:* Capacidades, estilos y límites de la propia memoria y procesamiento.  
+  2. *Variables de tarea:* Grado de dificultad intrínseca, extensión y exigencia mental de una actividad.  
+  3. *Variables de estrategia:* Métodos idóneos para resolver un problema específico (resumir, esquematizar o depurar).  
+• **Regulación metacognitiva (Brown, 1987):** Dimensión ejecutiva y procedimental. Comprende el control dinámico del aprendizaje mediante tres procesos: planificar la ruta de trabajo, monitorear la comprensión durante la ejecución y evaluar los resultados finales frente a estándares fijados.  
+• **Ciclo de autorregulación (Zimmerman, 2000):** Proceso cíclico continuo estructurado en tres momentos:  
+  1. *Fase de previsión:* Fijación de metas estratégicas, cálculo de tiempos y activación de autoeficacia.  
+  2. *Fase de control y ejecución:* Focalización de la atención, inhibición de distractores y supervisión del progreso.  
+  3. *Fase de autorreflexión:* Autoevaluación del desempeño y atribución causal constructiva de logros o dificultades.  
+• **Inteligencia ejecutiva (Marina, 2012):** Capacidad del sistema cognitivo para definir metas a largo plazo, inhibir impulsos inmediatos y mantener el esfuerzo voluntario hasta la culminación de un proyecto formativo.  
+• **Comprensión flexible (Perkins, 1998):** Capacidad de actuar con el conocimiento de manera flexible, utilizándolo para resolver problemas inéditos, formular explicaciones propias y construir analogías, superando la retención pasiva de datos.  
+• **Segundo momento metodológico (Lora Sfer, 2014):** Espacio formativo del CIPAS donde el aprendizaje individual previo se somete a debate dialógico y co-validación entre pares, depurando sesgos y consolidando acuerdos conceptuales.  
+• **Monitoreo epistémico:** Vigilancia interna que alerta al aprendiz ante contradicciones lógicas o lagunas explicativas mientras lee un módulo teórico o construye la estructura de un algoritmo.
 
 ---
 
 ### Resumen de las discusiones grupales:
 
 #### a. Concepto de metacognición e importancia en el aprendizaje
-La metacognición no es un adorno teórico ni una definición para memorizar en un examen. En la educación a distancia, es la diferencia directa entre aprender con solidez o engañarse a uno mismo. Quien carece de vigilancia metacognitiva estudia a oscuras. Lee páginas enteras de un módulo en SIMA con los ojos puestos en la pantalla, pero con la cabeza en otra parte; confunde retener palabras sueltas con dominar un tema, y solo se da cuenta de sus vacíos cuando el cuestionario le arroja una mala nota.
+En la modalidad a distancia, la metacognición representa el núcleo operativo que posibilita el aprendizaje autónomo. Quien carece de vigilancia metacognitiva avanza a ciegas: recorre las páginas de un módulo en SIMA sin verificar si retuvo las premisas esenciales, asume erróneamente que recordar términos aislados equivale a dominar un modelo y solo descubre sus vacíos conceptuales cuando enfrenta una evaluación sumativa.
 
-Flavell (1979) demostró algo que vivimos a diario en el equipo: los estudiantes que mejor rinden no son los que tienen una memoria prodigiosa de nacimiento, sino los que mejor se auditan a sí mismos. Saben cuándo perdieron la concentración. Notan cuándo un párrafo no les cuadró y frenan enseguida para releer, consultar un glosario o debatir el punto con un compañero. En la Universidad de Cartagena, donde el 75% del tiempo del crédito académico es autónomo, esa voz de alarma interna es el único sustituto legítimo de la vigilancia presencial del docente.
+Flavell (1979) planteó como marco conceptual que el aprendizaje efectivo no depende primordialmente de una memoria acumulativa, sino de la habilidad del estudiante para auditar su propia actividad mental. Quien desarrolla esta competencia reconoce cuándo disminuye su nivel de atención, advierte qué pasajes de una lectura no resultan coherentes y detiene la marcha para releer o consultar fuentes complementarias. Tal como lo señala el Módulo Didáctico del CTEV (2026), en un modelo pedagógico donde el 75% del crédito se desarrolla mediante trabajo independiente, la autorregulación metacognitiva constituye el mecanismo principal para garantizar profundidad analítica.
+
+Asimismo, articulamos esta perspectiva con el enfoque de David Perkins (1998), quien sostiene que comprender no es simplemente poseer información, sino ser capaz de operar con ella de forma reflexiva y adaptable frente a problemas nuevos.
 
 #### b. Componentes y proceso de la metacognición
-Al desmenuzar la estructura propuesta por Ann Brown (1987), el CIPAS identificó que la mente opera en dos niveles complementarios:
+Al analizar la arquitectura metacognitiva formulada por Ann Brown (1987), el CIPAS desglosó sus dos dimensiones constitutivas:
 
-1. **El saber sobre la cognición (plano declarativo):**
-   * *Variables de persona:* Cada quien aprende distinto. En nuestras reuniones notamos que Esteban y Santiago asimilan mucho mejor estructurando esquemas y mapas conceptuales en Obsidian, mientras que Cristian y Gabriel retienen las ideas más rápido cuando debaten y explican en voz alta. Juan Guillermo, por su parte, necesita desglosar paso a paso la fundamentación teórica para ganar seguridad. Conocer estas diferencias evita fricciones en el trabajo compartido.
-   * *Variables de tarea:* No todas las materias exigen el mismo desgaste mental. Resolver una guía de 19 ejercicios de algoritmia o derivar funciones trigonométricas en Cálculo demanda una carga de concentración y cómputo abstracto mucho más pesada que la lectura narrativa de una reseña histórica. Si asignamos el mismo tiempo a tareas tan dispares, el resultado termina siendo deficiente.
-   * *Variables de estrategia:* Saber qué herramienta sacar de la caja según el problema. Para ordenar un texto denso usamos notas atómicas; para cazar un error lógico en un script de Python, aplicamos depuración paso a paso (*debugging*).
+1. **Conocimiento sobre la cognición (plano declarativo):**
+   * *Variables de persona:* Reconocer las particularidades cognitivas de los integrantes. En nuestras sesiones observamos que Esteban y Santiago retienen y organizan conceptos con mayor solidez mediante la esquematización de grafos en Obsidian; Cristian y Gabriel procesan la información con mayor agilidad cuando debaten y explican ideas en voz alta; mientras que Juan Guillermo necesita descomponer secuencialmente la fundamentación teórica para afianzar su seguridad conceptual.
+   * *Variables de tarea:* Diferenciar las demandas de procesamiento mental. Resolver una guía práctica de 19 algoritmos o calcular derivadas en Cálculo Diferencial impone una demanda de cómputo y concentración superior a la lectura descriptiva de una reseña institucional.
+   * *Variables de estrategia:* Seleccionar la técnica pertinente para cada objetivo: emplear notas atómicas estructuradas para sintetizar módulos teóricos densos, o recurrir a la depuración sistemática (*debugging*) paso a paso para corregir fallos lógicos en scripts de programación.
 
-2. **La regulación activa de la cognición (plano procedimental):**
-   * *Planificar:* Antes de escribir la primera línea, calculamos tiempos, revisamos la rúbrica y definimos qué recursos necesitamos tener a mano.
-   * *Monitorear:* Durante el proceso nos preguntamos: ¿esto tiene sentido?, ¿estoy respondiendo lo que pide la guía o me desvié del objetivo?
-   * *Evaluar:* Al terminar, contrastamos el borrador contra los criterios de evaluación de SIMA para corregir fallos antes de radicar.
+2. **Regulación de la cognición (plano procedimental):**
+   * *Planificación:* Definir metas concretas, estimar tiempos realistas y organizar las fuentes de consulta antes de iniciar cualquier desarrollo.
+   * *Monitoreo en línea:* Contrastar activamente durante la ejecución si el razonamiento se mantiene alineado con los objetivos planteados.
+   * *Evaluación:* Confrontar el resultado final contra los criterios explícitos de la rúbrica institucional antes de formalizar la entrega en SIMA.
 
 #### c. Fines de la metacognición como autorregulación consciente y deliberada
-El fin principal de la metacognición es librar al estudiante de la improvisación, convirtiéndolo en un aprendiz autorregulado. Aplicando el modelo de Barry Zimmerman (2000), entendemos que el estudio profesional sigue tres fases claras:
+El propósito fundamental de la metacognición es emancipar al aprendiz, transformándolo en un estudiante autorregulado capaz de gestionar su propio proceso formativo. Según el ciclo trifásico de Barry Zimmerman (2000):
 
-* **En la previsión:** El estudiante no espera que falten dos horas para el cierre de plataforma. Revisa los cronogramas con días de antelación, descompone actividades largas en metas diarias manejables y organiza su entorno de estudio.
-* **En la ejecución:** Pone a prueba su control de impulsos (la inhibición atencional de Marina). Silencia notificaciones del celular, cierra pestañas irrelevantes del navegador y mantiene sesiones de concentración profunda. Si detecta fatiga o lagunas, reajusta el ritmo en lugar de seguir leyendo en automático.
-* **En la autorreflexión:** Ante una retroalimentación o nota baja, no le echa la culpa a la suerte ni a la docente. Analiza las causas con cabeza fría: ¿faltó tiempo de lectura autónoma?, ¿se redactó a la carrera?, ¿falló la contrastación en el CIPAS? Esta postura permite corregir el rumbo para el siguiente corte.
+* **Fase de previsión:** El estudiante no posterga la preparación de sus obligaciones hacia las horas previas al cierre de plataforma. Revisa el cronograma de SIMA con antelación, fragmenta las actividades extensas en metas de avance periódicas y planifica sus recursos de estudio.
+* **Fase de ejecución:** Despliega lo que José Antonio Marina (2012) denomina inhibición atencional: silencia notificaciones, evita la dispersión digital y sostiene bloques protegidos de trabajo concentrado. Al detectar fatiga o incomprensión, reajusta el método en lugar de continuar de forma mecánica.
+* **Fase de autorreflexión:** Ante una retroalimentación docente, asume una atribución causal constructiva. Analiza si las deficiencias obedecieron a una planificación temporal insuficiente o a una contrastación superficial en el CIPAS, ajustando su estrategia para las actividades posteriores.
 
-#### d. Fortalezas y debilidades cognitivas del CIPAS Grupo 8
-Realizamos un diagnóstico transparente sobre el funcionamiento de nuestro grupo en lo que va de semestre:
+#### d. Fortalezas y debilidades cognitivas de los cinco integrantes del CIPAS Grupo 8
+Realizamos una valoración diagnóstica individual y grupal, reconociendo las capacidades y áreas de mejora de cada miembro:
 
-**Fortalezas del equipo:**
-* *Pensamiento lógico y estructuración algorítmica:* El perfil común en Ingeniería de Software nos facilita modelar abstracciones, descomponer problemas densos y organizar flujos paso a paso.
-* *Gestión documental y trazabilidad:* Apoyados en repositorios estructurados y notas digitales, evitamos el desorden habitual de apuntes extraviados en cuadernos, manteniendo fuentes y normatividad a la mano.
-* *Cultura de auditoría mutua:* En el Grupo 8 no aceptamos trabajos hechos como parches aislados. Todo documento pasa por la lectura crítica de los demás, señalando inconsistencias de fondo sin que nadie se lo tome a mal.
+**Diagnóstico individual de fortalezas y debilidades:**
+1. **Esteban David Marrugo Jassir:** Destaca en pensamiento algorítmico, automatización y estructuración de repositorios documentales en Markdown. Su principal reto radica en la dispersión por cruce de compromisos externos entre la UDC y el SENA ADSO, la cual mitiga reservando bloques de estudio diurnos inamovibles.
+2. **Cristian Andrés Flórez Arboleda:** Posee notable facilidad para la argumentación dialéctica y el análisis crítico de conceptos teóricos. Su debilidad identificada es la tendencia a posponer la revisión detallada de fuentes hacia el final del trabajo, lo cual compensa aplicando listas de verificación intermedias.
+3. **Gabriel Antonio Molina Meza:** Sobresale en la orientación pragmática del aprendizaje, buscando siempre la aplicación técnica de los conceptos. Su dificultad se sitúa en la asimilación de lecturas humanísticas extensas, situación que subsana elaborando mapas de ideas previos a la redacción.
+4. **Santiago Orozco Vergara:** Aporta orden metódico, capacidad de síntesis y rigor en la redacción formal. Su desafío es el sesgo de sobreconfianza en temas que aparentan ser sencillos, lo cual neutraliza sometiendo sus conclusiones al cuestionamiento del equipo.
+5. **Juan Guillermo Villa Beleño:** Se caracteriza por su meticulosidad en el seguimiento de normas metodológicas, citas APA y fundamentación teórica. Su debilidad es la lentitud en la fase inicial de planificación por exceso de perfeccionismo, aspecto que equilibra apoyándose en los plazos internos del grupo.
 
-**Debilidades detectadas y plan de mitigación:**
-* *La ilusión de competencia por acumular archivos:* Caímos en la trampa de creer que por tener descargados los PDF y enlaces en una carpeta, ya dominábamos el tema. Lo combatimos con una regla de oro: si no somos capaces de explicar la idea con palabras propias y sin mirar la pantalla, el concepto no está aprendido.
-* *Dispersión atencional por multitarea:* En el equipo combinamos distintas cargas externas (en el caso de Esteban, la formación técnica paralela en el SENA ADSO; en otros compañeros, compromisos laborales o familiares) con la universidad. Esa sobrecarga tienta a postergar lecturas densas para altas horas de la noche, rindiendo la mitad. Lo corregimos fijando entregas internas 48 horas antes de que venza el plazo en SIMA.
-* *Sesgo de sobreconfianza en materias teóricas:* Al priorizar asignaturas exactas como Cálculo y Algoritmos, a veces dejamos en segundo plano lecturas pedagógicas. Lo subsanamos aplicando lectura activa y esquematización previa antes de cualquier encuentro grupal.
+**Estrategias grupales de mitigación:**
+* *Control de la ilusión de competencia:* Evitamos asumir que acumular documentos digitales equivale a comprender su contenido. Adoptamos el principio de verificar que cada integrante pueda exponer los conceptos clave con palabras propias y sin recurrir a la pantalla.
+* *Gestión de tiempos asincrónicos:* Fijamos como norma interna radicar las versiones preliminares de cada entrega 48 horas antes del vencimiento oficial en la plataforma SIMA.
 
 ---
 
 ### Encuentros conceptuales:
-• Coincidimos en que la metacognición no es un talento con el que se nace o no se nace; es una habilidad que se entrena día a día revisando los propios errores.  
-• Validamos que el CIPAS funciona como un filtro contra la mediocridad: al explicar una idea frente a los compañeros, las lagunas de razonamiento salen a la luz de inmediato.  
-• Acordamos que la autorregulación necesita herramientas concretas (calendarios, listas de chequeo y fechas límite internas) para que no se quede en meros deseos.
+• Coincidimos en que la metacognición no constituye un atributo fijo de la personalidad, sino una macrocompetencia susceptible de desarrollo mediante la práctica deliberada y el análisis riguroso del error.  
+• Validamos, en sintonía con Amaury Lora Sfer (2014), que el CIPAS actúa como un espacio de andamiaje y co-validación: exponer un argumento ante los pares obliga a depurar la lógica del razonamiento y hace visibles inconsistencias inadvertidas en el estudio individual.  
+• Acordamos que el modelo trifásico de Zimmerman requiere instrumentos concretos de apoyo (cronogramas compartidos, listas de cotejo y rúbricas) para traducirse en hábitos de estudio efectivos.
 
 ---
 
 ### Desencuentros conceptuales:
-Durante el debate surgió una discrepancia sobre el momento adecuado para autoevaluarse. Cristian sostenía que la revisión debe hacerse al final de la jornada para no romper el estado de concentración (*deep work*). Esteban argumentó que en programación y matemáticas la supervisión debe ser en tiempo real: cometer un error en una premisa inicial y darse cuenta horas después implica botar a la basura todo el desarrollo posterior. 
-
-Gabriel y Santiago aportaron una distinción clave: señalaron que depende de la naturaleza de la tarea; en lecturas teóricas densas conviene completar un capítulo antes de evaluar la asimilación global, pero en resolución de problemas técnicos la verificación debe ser paso a paso. Juan Guillermo formuló el punto de encuentro: acordamos implementar micro-chequeos de coherencia durante el proceso para detectar fallos graves a tiempo, complementados con una auditoría integral al final contrastando el documento con la rúbrica oficial.
+Durante el debate surgió una discrepancia en torno a la frecuencia y momento óptimo de la autoevaluación:
+* **Postura inicial de Cristian Flórez:** Sostenía que la autoevaluación debía concentrarse al culminar la actividad, con el propósito de preservar el estado de inmersión y flujo cognitivo (*deep work*) sin pausas continuas.
+* **Postura inicial de Esteban Marrugo:** Planteó que en disciplinas exactas y programación el monitoreo debe ser continuo y simultáneo, advirtiendo que un error de lógica no detectado al inicio invalida el desarrollo posterior y eleva el costo de corrección.
+* **Aportes mediadores de Gabriel Molina y Santiago Orozco:** Señalaron que el criterio debe ajustarse a la naturaleza de la tarea: en lecturas conceptuales es aconsejable completar una sección antes de evaluar la comprensión global, mientras que en formulaciones matemáticas y algorítmicas la verificación debe ser paso a paso.
+* **Consenso formulado por Juan Guillermo Villa:** El equipo adoptó una solución articulada: establecer micro-chequeos periódicos de coherencia durante la elaboración del trabajo para atajar inconsistencias tempranas, complementados con una auditoría integral final contrastada con la rúbrica oficial antes del envío definitivo.
 
 ---
 
 ### Metodología de trabajo:
-La actividad se desarrolló en tres momentos definidos:  
-1. *Lectura individual previa:* Cada integrante revisó el Módulo 3 en SIMA y elaboró sus apuntes reflexivos.  
-2. *Encuentro sincrónico del CIPAS:* Nos reunimos por Google Meet/Discord para debatir los cuatro ejes de la docente, confrontando posturas y registrando nuestras vivencias cognitivas.  
-3. *Redacción y pulido colaborativo:* Se consolidaron los aportes en un documento compartido, revisando la precisión de los conceptos pedagógicos, la fluidez de la redacción y las citas bajo normas APA 7.
+La elaboración colaborativa del protocolo se estructuró en tres momentos secuenciales:  
+1. *Fase autónoma individual:* Cada integrante realizó la lectura comprensiva del Módulo 3 en SIMA (CTEV, 2026), registrando notas atómicas en Obsidian y fichas de lectura.  
+2. *Sesión sincrónica en línea:* A través de un canal de voz y compartición de pantalla en Google Meet/Discord, contrastamos las perspectivas sobre los cuatro ejes orientadores, confrontando opiniones y redactando acuerdos con participación equitativa.  
+3. *Consolidación y verificación en la nube:* En un documento colaborativo de Google Docs institucional (@unicartagena.edu.co), consolidamos la redacción final, depurando redundancias, asegurando el rigor del léxico académico y formateando las referencias bajo el estándar APA 7.
 
 ---
 
 ### Conclusiones:
-• La metacognición es la base decisiva de la educación a distancia: ser autónomo no significa estudiar aislado, sino ser capaz de planificar, supervisar y ajustar el propio aprendizaje con criterio propio.  
-• El conocimiento metacognitivo (saber qué) y la regulación ejecutiva (saber cómo y cuándo) deben marchar juntos; entender la teoría sin disciplina operativa no produce resultados académicos sólidos.  
-• El CIPAS no es un trámite formal para presentar trabajos grupales: es un espacio real de contraste dialéctico donde la co-validación entre pares eleva la profundidad del análisis y erradica la superficialidad.
+• La metacognición constituye la base estructurante de la autonomía universitaria: aprender a aprender implica autogestionar metas, monitorear la comprensión y reajustar estrategias sin depender de la instrucción presencial continua.  
+• La articulación entre el conocimiento metacognitivo (saber qué) y la regulación ejecutiva (saber cómo y cuándo) diferencia la reproducción mecánica de datos de la comprensión flexible y duradera (Perkins, 1998).  
+• El CIPAS trasciende el cumplimiento de una formalidad académica: según lo formulado por Lora Sfer (2014), representa el segundo momento metodológico indispensable donde la deliberación dialéctica protege a los aprendices de la superficialidad y eleva la calidad del trabajo intelectual.
+
+---
+
+### Discusiones y recomendaciones:
+• Recomendamos a la coordinación del programa propiciar espacios de intercambio inter-CIPAS durante las tutorías presenciales de los sábados, permitiendo socializar estrategias metacognitivas que hayan demostrado efectividad en asignaturas complejas.  
+• Sugerimos que las sesiones de tutoría en el aula incorporen actividades breves de andamiaje conceptual y depuración de errores frecuentes, orientadas a desmontar la falsa sensación de comprensión en los contenidos de mayor densidad teórica.
 
 ---
 
