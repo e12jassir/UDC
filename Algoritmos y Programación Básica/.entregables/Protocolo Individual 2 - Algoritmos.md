@@ -68,8 +68,8 @@ Descargué el archivo `Estructuras de control.pdf` desde el campus virtual SIMA 
 ---
 
 ### 8. Discusiones y recomendaciones:
-• Para el docente Heybertt: En la práctica diaria con proyectos como NOEST y Jules, procuramos evitar el anidamiento profundo de condicionales (*código flecha*) mediante el uso de retornos tempranos (*guard clauses*). ¿Cómo sugiere usted conciliar este patrón con la enseñanza tradicional de diagramas de flujo estructurados, donde habitualmente se busca un único nodo de salida?  
-• En el entorno de Java, ¿en qué casos específicos el compilador `javac` optimiza una sentencia `switch` mediante la instrucción de bytecode `tableswitch` (para valores consecutivos) frente a `lookupswitch` (para valores dispersos), y qué impacto tiene esto en el rendimiento de la CPU en sistemas de alto procesamiento?
+• Para el docente Heybertt: Cuando un problema exige validar varias condiciones y uno empieza a anidar condicionales uno dentro de otro, el código rápidamente se vuelve difícil de seguir y depurar. ¿Qué método o pautas nos recomienda usted para mantener la lógica clara y simplificar las decisiones desde el análisis en papel antes de pasarlas a Java?  
+• En su experiencia enseñando algoritmos, ¿cuál suele ser el tropiezo o la confusión más común de los estudiantes al empezar a trabajar con ciclos (`for` y `while`), y qué estrategias recomienda para dominar bien las condiciones de parada sin frustrarse?
 
 ---
 
