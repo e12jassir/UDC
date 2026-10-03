@@ -50,28 +50,28 @@
 | 🟢 **Subido** | Vie 18 Sep | **Metodología** | Evaluación Cuestionario U2 | SIMA |
 | 🟢 **Subido** | Dom 20 Sep | **Algoritmos** | Evaluación Cuestionario U1 | SIMA |
 | 🟢 **Subido** | Lun 28 Sep | **Cátedra** | Protocolo Individual U4 | SIMA |
-| 📅 **Programado** | **Sáb 03 Oct** | **Cálculo** | Actividad U2 — Derivada de Funciones | SIMA (23:59) |
-| 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Protocolo Individual U3 | SIMA (23:59) |
-| 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Protocolo Colaborativo U3 | SIMA (23:59) |
-| 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Actividad de la Unidad 3 | SIMA (23:59) |
-| 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Evaluación Cuestionario U3 | SIMA (23:59) |
+| 🟢 **Subido** | Sáb 03 Oct | **Cálculo** | Actividad U2 — Derivada de Funciones | SIMA |
+| 🟢 **Subido** | Sáb 03 Oct | **Metodología** | Protocolo Individual U3 | SIMA |
+| 🟢 **Subido** | Sáb 03 Oct | **Metodología** | Protocolo Colaborativo U3 | SIMA |
+| 📅 **Programado** | **Sáb 03 Oct** | **Metodología** | Actividad de la Unidad 3 (Video sustentación + folleto) | SIMA (23:59) |
+| 🟢 **Subido** | Sáb 03 Oct (5.00) | **Metodología** | Evaluación Cuestionario U3 | SIMA |
 | 🟢 **Subido** | Lun 05 Oct | **Cátedra** | Actividad U4 — Historia Motivacional | SIMA |
-| 📅 **Programado** | **Lun 05 Oct** | **Cátedra** | Protocolo Colaborativo U4 | SIMA (18:23 ⚠️) |
+| 🟢 **Subido** | Lun 05 Oct | **Cátedra** | Protocolo Colaborativo U4 | SIMA |
 | 📅 **Programado** | **Lun 05 Oct** | **Cátedra** | Evaluación Cuestionario U4 | SIMA (23:59) |
-| 📅 **Programado** | **Vie 09 Oct** | **Fundamentos** | Taller U3 — Ecuaciones Cuadráticas | SIMA (23:57) |
-| 📅 **Programado** | **Lun 12 Oct** | **Algoritmos** | Protocolo Individual U2 | SIMA (23:59) |
-| 📅 **Programado** | **Mar 13 Oct** | **Inglés I** | Actividad U2 — Market Description | SIMA (23:59) |
+| 🟢 **Subido** | Vie 09 Oct | **Fundamentos** | Taller U3 — Ecuaciones Cuadráticas | SIMA |
+| 🟢 **Subido** | Lun 12 Oct | **Algoritmos** | Protocolo Individual U2 | SIMA |
+| 🟢 **Subido** | Mar 13 Oct | **Inglés I** | Actividad U2 — Market Description | SIMA |
 | 📅 **Programado** | **Jue 15 Oct** | **Algoritmos** | Protocolo Colaborativo U2 | SIMA (23:59) |
 | 📅 **Programado** | **Mar 20 Oct** | **Algoritmos** | Actividad de la Unidad 2 | SIMA (23:59) |
-| 📅 **Programado** | **Mié 21 Oct** | **Cálculo** | Evaluación Cuestionario U3 | SIMA (23:59) |
+| 📅 **Programado** | **Mié 21 Oct** | **Cálculo** | Evaluación Cuestionario Unidad 3 | SIMA (23:59) |
 | 📅 **Programado** | **Sáb 24 Oct** | **Cálculo** | Actividad de la Unidad 3 | SIMA (23:59) |
 | 📅 **Programado** | **Jue 29 Oct** | **Metodología** | Infografía Fundamentos Pedagógicos Educación a Distancia | SIMA (23:57) |
 | 📅 **Programado** | **Vie 30 Oct** | **Ing. Software** | ⚡ Análisis práctico de Metadatos y cabeceras de archivos | SIMA (23:57) |
 | 📅 **Programado** | **Mié 04 Nov** | **Cálculo** | Taller U4 — Concavidad y Criterio de la Segunda Derivada | SIMA (23:57) |
 | 📅 **Programado** | **Jue 05 Nov** | **Fundamentos** | Taller U4 — Identidades e inecuaciones trigonométricas | SIMA (23:57) |
 | 📅 **Programado** | **Sáb 07 Nov** | **Cálculo** | Evaluación Cuestionario U4 | SIMA (23:59) |
-| 📅 **Programado** | **Dom 15 Nov** | **Ing. Software** | ⚡ Protocolo Colaborativo U2 (máx. 2 personas + Video individual) | SIMA (23:57) |
-| 📅 **Programado** | **Dom 15 Nov** | **Ing. Software** | ⚡ Protocolo Colaborativo U3 (máx. 2 personas + Video individual) | SIMA (23:57) |
+| 📅 **Programado** | **Dom 15 Nov** | **Ing. Software** | ⚡ Protocolo Colaborativo U2 (máx. 2 personas) | SIMA (23:57) |
+| 📅 **Programado** | **Dom 15 Nov** | **Ing. Software** | ⚡ Protocolo Colaborativo U3 (máx. 2 personas) | SIMA (23:57) |
 | 📅 **Programado** | **Mié 18 Nov** | **Metodología** | Actividad práctica Evaluación del Aprendizaje en Línea | SIMA (23:57) |
 | 📅 **Programado** | **Vie 20 Nov** | **Todas (6)** | Entrega Definitiva del TCC (3.000 palabras) | SIMA (23:57) |
 | 🎓 **Examen Final** | **Sáb 28 Nov** | **Sábados A** | Exámenes Finales Presenciales (40%): Cátedra · Algoritmos | Piedra de Bolívar |
@@ -84,12 +84,15 @@
 ## 🔴 Próximas Entregas Críticas
 
 > [!CAUTION]
-> Las siguientes entregas vencen en las próximas semanas. Verificar aperturas en SIMA antes de la fecha.
+> Las siguientes entregas vencen en las próximas semanas según el calendario oficial de SIMA.
 
-| Fecha | Asignatura | Entregable | Horas hasta cierre |
+| Fecha | Asignatura | Entregable | Estado / Límite |
 | :--- | :--- | :--- | :--- |
-| **Sáb 03 Oct** | Metodología | Protocolo Individual + Colaborativo U3 + Actividad + Cuestionario | ⚠️ Múltiples el mismo día |
-| **Lun 05 Oct** | Cátedra | Actividad U4 (vence 11:11 AM), Protocolo Colaborativo U4 (18:23), Cuestionario U4 | ⚠️ Tres en el mismo día |
-| **Vie 30 Oct** | Ing. Software | Análisis de Metadatos y cabeceras de archivos | 📌 U3 |
-| **Dom 15 Nov** | Ing. Software | Protocolo Colaborativo U2 + U3 (ambos con video individual obligatorio) | 📌 U2 y U3 |
-| **Vie 20 Nov** | Todas (6) | TCC — Entrega definitiva 3.000 palabras | 📌 CIPAS |
+| **Sáb 03 Oct** | Metodología | Actividad de la Unidad 3 (Video sustentación + folleto) | ⚠️ **Vence hoy (23:59)** |
+| **Lun 05 Oct** | Cátedra | Evaluación Cuestionario Unidad 4 | ⚠️ **Cierra 23:59** |
+| **Jue 15 Oct** | Algoritmos | Protocolo Colaborativo Unidad 2 | 📌 Vence 23:59 |
+| **Mar 20 Oct** | Algoritmos | Actividad de la Unidad 2 | 📌 Vence 23:59 |
+| **Mié 21 Oct** | Cálculo | Evaluación Cuestionario Unidad 3 | 📌 Cierra 23:59 |
+| **Sáb 24 Oct** | Cálculo | Actividad de la Unidad 3 | 📌 Vence 23:59 |
+| **Sáb 07 Nov** | Cálculo | Evaluación Cuestionario Unidad 4 | 📌 Cierra 23:59 |
+| **Dom 15 Nov** | Ing. Software | Protocolo Colaborativo U2 + U3 (máx. 2 personas) | 📌 Vence 23:57 |

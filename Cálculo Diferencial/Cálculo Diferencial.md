@@ -46,7 +46,7 @@ Cálculo Diferencial aborda el estudio del cambio continuo, los límites, las ra
 | **11 Sep 2026** | Evaluación Cuestionario Unidad 1 | 🟢 Aprobada en SIMA | **5.00** / 5.00 |
 | **14 Sep 2026** | Actividad Unidad 1 (Taller de Límites) | 🟢 [[Unidades/Unidad 1/Entregables/Actividad 1 - Limites.pdf\|Actividad 1.pdf]] | Entregado |
 | **27 Sep 2026** | Evaluación Cuestionario Unidad 2 (Derivadas) | 🟢 Presentada en SIMA | Presentado |
-| **03 Oct 2026** | Actividad Unidad 2 (Derivada de Funciones) | 📅 Programado en SIMA (23:59 hs) | Pendiente |
+| **03 Oct 2026** | Actividad Unidad 2 (Derivada de Funciones) | 🟢 Subido a SIMA | Entregado |
 | **21 Oct 2026** | Evaluación Cuestionario Unidad 3 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
 | **24 Oct 2026** | Actividad de la Unidad 3 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
 | **04 Nov 2026** | Taller Unidad 4 (Concavidad y 2.ª Derivada) | 📅 Programado en SIMA (23:57 hs) | Pendiente |

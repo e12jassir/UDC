@@ -53,8 +53,8 @@ Metodología de la Educación a Distancia dota al estudiante de los procesos ped
 | **18 Sep 2026** | Evaluación Cuestionario Unidad 2 | 🟢 Aprobada en SIMA | **5.00** / 5.00 |
 | **29 Sep 2026** | Protocolo Individual Unidad 3 | 🟢 [[Unidades/Unidad 3/Entregables/Protocolo Individual 3 - Metodologia.pdf\|Protocolo Ind. 3.pdf]] | Entregado |
 | **29 Sep 2026** | Evaluación Cuestionario Unidad 3 | 🟢 Aprobada en SIMA | **5.00** / 5.00 |
-| **03 Oct 2026** | Protocolo Colaborativo Unidad 3 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
-| **03 Oct 2026** | Actividad de la Unidad 3 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
+| **03 Oct 2026** | Protocolo Colaborativo Unidad 3 | 🟢 Entregado en SIMA | Entregado |
+| **03 Oct 2026** | Actividad de la Unidad 3 | 📅 Programado en SIMA (Vence hoy 23:59 hs) | Pendiente |
 | **29 Oct 2026** | Infografía Fundamentos Pedagógicos | 📅 Programado en SIMA (23:57 hs) | Pendiente |
 | **18 Nov 2026** | Actividad Evaluación en Línea | 📅 Programado en SIMA (23:57 hs) | Pendiente |
 | **20 Nov 2026** | Entrega Definitiva TCC en SIMA | 📅 Programado en SIMA (CIPAS) | Pendiente |
