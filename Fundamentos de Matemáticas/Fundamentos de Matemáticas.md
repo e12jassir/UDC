@@ -42,7 +42,7 @@ Fundamentos de Matemáticas introduce los elementos conceptuales y operativos de
 | Sep 14 | Protocolo Colaborativo U2 | ✅ Subido SIMA | — |
 | Sep 16 | Protocolo Individual U2 | ✅ Subido SIMA | — |
 | Sep 18 | Actividad U2 (Ecuaciones) | ✅ Subido SIMA | — |
-| Oct 9 | Taller U3 — Ecuaciones Cuadráticas | ✅ Subido SIMA | — |
+| Oct 9 | Taller U3 — Ecuaciones Cuadráticas | 🔲 Pendiente | — |
 | Nov 5 | Taller U4 — Identidades Trigonométricas | 🔲 Pendiente | — |
 
 ## Bibliografía

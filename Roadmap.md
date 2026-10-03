@@ -58,9 +58,9 @@
 | 🟢 **Subido** | Lun 05 Oct | **Cátedra** | Actividad U4 — Historia Motivacional | SIMA |
 | 🟢 **Subido** | Lun 05 Oct | **Cátedra** | Protocolo Colaborativo U4 | SIMA |
 | 📅 **Programado** | **Lun 05 Oct** | **Cátedra** | Evaluación Cuestionario U4 | SIMA (23:59) |
-| 🟢 **Subido** | Vie 09 Oct | **Fundamentos** | Taller U3 — Ecuaciones Cuadráticas | SIMA |
+| 📅 **Programado** | **Vie 09 Oct** | **Fundamentos** | Taller U3 — Ecuaciones Cuadráticas | SIMA (23:57) |
 | 🟢 **Subido** | Lun 12 Oct | **Algoritmos** | Protocolo Individual U2 | SIMA |
-| 🟢 **Subido** | Mar 13 Oct | **Inglés I** | Actividad U2 — Market Description | SIMA |
+| 📅 **Programado** | **Mar 13 Oct** | **Inglés I** | Actividad U2 — Market Description | SIMA (23:59) |
 | 📅 **Programado** | **Jue 15 Oct** | **Algoritmos** | Protocolo Colaborativo U2 | SIMA (23:59) |
 | 📅 **Programado** | **Mar 20 Oct** | **Algoritmos** | Actividad de la Unidad 2 | SIMA (23:59) |
 | 📅 **Programado** | **Mié 21 Oct** | **Cálculo** | Evaluación Cuestionario Unidad 3 | SIMA (23:59) |
@@ -90,6 +90,8 @@
 | :--- | :--- | :--- | :--- |
 | **Sáb 03 Oct** | Metodología | Actividad de la Unidad 3 (Video sustentación + folleto) | ⚠️ **Vence hoy (23:59)** |
 | **Lun 05 Oct** | Cátedra | Evaluación Cuestionario Unidad 4 | ⚠️ **Cierra 23:59** |
+| **Vie 09 Oct** | Fundamentos | Taller U3 — Ecuaciones Cuadráticas | 📌 Vence 23:57 |
+| **Mar 13 Oct** | Inglés I | Actividad U2 — Market Description | 📌 Vence 23:59 |
 | **Jue 15 Oct** | Algoritmos | Protocolo Colaborativo Unidad 2 | 📌 Vence 23:59 |
 | **Mar 20 Oct** | Algoritmos | Actividad de la Unidad 2 | 📌 Vence 23:59 |
 | **Mié 21 Oct** | Cálculo | Evaluación Cuestionario Unidad 3 | 📌 Cierra 23:59 |

@@ -43,7 +43,7 @@ $$\text{Nota Final} = 0.20 \cdot C_1 + 0.20 \cdot C_2 + 0.60 \cdot C_3$$
 | Fecha | Entregable | Estado | Nota |
 | :--- | :--- | :---: | :---: |
 | Sep 15 | Video Producción Oral U1 — 'People in My Neighborhood' | ✅ Subido SIMA | — |
-| Oct 13 | Actividad Escrita U2 — Market Description | ✅ Subido SIMA | — |
+| Oct 13 | Actividad Escrita U2 — Market Description | 🔲 Pendiente | — |
 
 ---
 
