@@ -9,20 +9,20 @@
 ---
 
 ### 1. Descripción del texto o actividad a realizar:
-Revisión analítica del módulo oficial de la Unidad 2 sobre «Estructuras de Control» (`Estructuras de control.pdf`) y su articulación con los tipos de datos, operadores relacionales y expresiones lógicas en Java. Estudié cómo los bloques de código gobiernan el flujo de ejecución de un programa mediante la secuenciación lineal, la toma de decisiones basada en condiciones booleanas (selección simple, doble y múltiple con `if/else/switch`) y la repetición iterativa de instrucciones (bucles `while`, `do-while` y `for`).
+Revisión analítica del módulo de la Unidad 2 sobre «Estructuras de Control» (`Estructuras de control.pdf`) y su articulación práctica con los tipos de datos y operadores en Java. Contrasté los fundamentos teóricos del flujo de ejecución con mi experiencia directa desarrollando software: tanto en el proyecto formativo NOEST del SENA ADSO (donde construyo interfaces y lógica de escritorio en Java) como en mi proyecto personal Jules en Python (un asistente inteligente con flujos asincrónicos y validaciones de estado). Analicé cómo la secuenciación, la selección condicional (`if/else/switch`) y la repetición iterativa (`for/while/do-while`) determinan la estabilidad y el rendimiento de cualquier sistema real.
 
 ---
 
 ### 2. Palabras claves:
-Estructuras de Control, Flujo de Ejecución, Selección Condicional (`if-else`), Selección Múltiple (`switch-case`), Bucles Iterativos (`for`, `while`, `do-while`), Condición Booleana, Cortocircuito Lógico, Bucle Infinito, Ámbito de Variables (*Scope*).
+Estructuras de Control, Flujo de Ejecución, Selección Condicional (`if-else`), Selección Múltiple (`switch-case`), Bucles Iterativos (`for`, `while`, `do-while`), Cortocircuito Lógico, Ámbito de Variables (*Scope*), Proyecto NOEST, Proyecto Jules.
 
 ---
 
 ### 3. Objetivos de las lecturas o actividad a realizar:
-• Comprender el rol de las estructuras de control como mecanismo fundamental para dirigir el orden y la toma de decisiones en un programa de software.  
-• Diferenciar con precisión conceptual y práctica los tres tipos de estructuras: secuenciales, de selección (bifurcación) y de repetición (iteración).  
-• Analizar la evaluación de expresiones booleanas y el impacto del cortocircuito en la toma de decisiones lógicas complejas.  
-• Dominar el criterio de selección entre estructuras repetitivas según se conozca previamente el número de iteraciones (`for`) o dependa de un estado dinámico (`while`, `do-while`).
+• Comprender el rol de las estructuras de control como el mecanismo esencial que transforma instrucciones secuenciales en algoritmos capaces de evaluar condiciones y reaccionar ante eventos.  
+• Contrastar la aplicación de estructuras de control entre lenguajes fuertemente tipados como Java (proyecto NOEST) y lenguajes dinámicos como Python (proyecto Jules).  
+• Analizar la evaluación de expresiones booleanas y la ventaja defensiva de la evaluación en cortocircuito (`&&`, `||`) para evitar excepciones en tiempo de ejecución.  
+• Establecer criterios técnicos para elegir la estructura iterativa adecuada (`for` determinista frente a `while`/`do-while` condicionados por estado).
 
 ---
 
@@ -37,30 +37,30 @@ Estructuras de Control, Flujo de Ejecución, Selección Condicional (`if-else`),
 ---
 
 ### 5. Resumen de la(as) lecturas:
-Al leer el módulo de Estructuras de Control, me encontré con la base de todo lo que hace que un programa deje de ser una simple calculadora lineal y pase a tomar decisiones reales. Por mi cuenta ya venía programando en Python y haciendo cositas en Java, así que los condicionales y los ciclos no eran conceptos extraños para mí. Sin embargo, al estudiar el módulo con detenimiento y contrastarlo con autores como Ramírez (2007) y Valls Ferrán y Camacho Fernández (2003), lo valioso fue entender qué pasa realmente por debajo en la máquina cuando el procesador evalúa estas estructuras.
+Al leer la guía de Estructuras de Control, no me acerqué al tema desde cero. En el tecnólogo ADSO del SENA vengo liderando el proyecto NOEST, una aplicación de escritorio donde modelamos requisitos y flujos de usuario en Java, y por mi cuenta he venido desarrollando Jules, un proyecto en Python enfocado en automatización e inteligencia artificial. Tener código real corriendo en dos ecosistemas tan distintos cambia por completo la perspectiva sobre este módulo: uno entiende que las estructuras de control no son un capítulo teórico para memorizar antes de un examen, sino el esqueleto que sostiene la lógica de negocio.
 
-Lo primero que salta a la vista es cómo la selección condicional rompe la ejecución secuencial. Un `if` no es más que una bifurcación en el flujo basada en una evaluación booleana estricta. En Java esto tiene una disciplina fuerte: a diferencia de lenguajes como C o Python donde un número distinto de cero cuenta como verdadero, aquí la condición debe resolverse obligatoriamente a un tipo `boolean`. Además, el uso de operadores en cortocircuito (`&&`, `||`) es clave no solo para ahorrar ciclos de cómputo, sino para evitar excepciones clásicas en tiempo de ejecución (como verificar que un objeto no sea nulo antes de consultar un método). Con el `switch`, por otro lado, entendí cuándo conviene sustituir una cadena larga de `else if` cuando evaluamos valores discretos, cuidando siempre no olvidar el `break` para no caer en el temido efecto cascada (*fall-through*).
+En la teoría todo corre fluido. En la práctica, el código no perdona la improvisación. En mi proyecto Jules (Python), lidiar con respuestas de APIs o árboles de decisión exige condicionales dinámicos; sin embargo, si uno no es ordenado, la flexibilidad del lenguaje puede ocultar errores de tipo que terminan reventando en ejecución. En cambio, cuando trabajo en NOEST con Java, el compilador exige rigor desde el primer momento: la condición de un `if` solo admite valores estrictamente booleanos. Nada de evaluar enteros o cadenas vacías como verdad o falsedad. Además, en Java el operador de cortocircuito (`&&`) se vuelve una herramienta de programación defensiva indispensable: validar `objeto != null && objeto.tienePermiso()` salva al programa de un `NullPointerException` fulminante antes de que intente invocar el método.
 
-En cuanto a las estructuras de repetición, la lectura ayuda a fijar un criterio claro para elegir la herramienta correcta. El ciclo `for` es ideal cuando de entrada conocemos el número exacto de iteraciones o recorremos rangos definidos con una variable de control. En cambio, cuando el número de repeticiones depende de un evento externo (una entrada del usuario, la lectura de un archivo o una bandera de estado), el ciclo `while` es el camino natural. El `do-while` tiene un caso de uso muy puntual pero potente: menús interactivos por consola o validaciones donde necesitamos que el bloque se ejecute al menos una primera vez antes de comprobar si el usuario ingresó un dato válido. El error más común aquí sigue siendo el olvido de actualizar la variable de control dentro del cuerpo del ciclo, lo que deriva en bucles infinitos que congelan la memoria.
+Con las estructuras repetitivas ocurre algo similar. En Jules uso bucles para iterar colecciones y streams de datos; en NOEST los ciclos gobiernan la lectura de registros y el procesamiento de tablas. El ciclo `for` es perfecto cuando conozco de antemano el tamaño de un lote. Pero cuando dependo de que el usuario decida salir de un menú o de que un socket reciba datos, el `while` es el rey. El módulo de la universidad y autores como Ramírez (2007) y Valls Ferrán y Camacho Fernández (2003) recalcan un punto que ya he sufrido en carne propia: olvidar la actualización de la variable de control o formular mal la condición de parada crea un bucle infinito que bloquea el hilo principal y congela la aplicación. Estudiar estas estructuras con formalismo académico me sirvió para ordenar lo que ya aplicaba por intuición y escribir código mucho más limpio y predecible.
 
 ---
 
 ### 6. Metodología de trabajo:
-Descargué la guía `Estructuras de control.pdf` desde la plataforma SIMA, la leí de forma analítica y extraje los conceptos y ejemplos directamente en mi bóveda de notas de Obsidian. Luego cargué el documento en NotebookLM para generar preguntas de autoevaluación y escuchar el resumen en formato de audio, lo que me ayuda a fijar la lógica mientras descanso la vista de la pantalla. Para validar los conceptos, abrí mi terminal en Linux y escribí pequeños programas de prueba en Java usando `javac` y `java`, testeando el comportamiento de las bifurcaciones y los ciclos con entradas intencionalmente incorrectas para observar cómo responde el control de flujo.
+Descargué la guía `Estructuras de control.pdf` desde la plataforma SIMA y sinteticé los conceptos centrales en mi bóveda de Obsidian. Luego cargué el documento en NotebookLM para generar preguntas de chequeo y repasar los contrastes teóricos en audio mientras descansaba de la pantalla. Para aterrizar la lectura a código ejecutable, abrí mi terminal en Linux y comparé cómo se comportan estas estructuras en mis dos entornos reales de trabajo: escribí pruebas rápidas en Java con `javac` para evaluar el manejo estricto de tipos frente al flujo equivalente en Python, testeando bifurcaciones complejas y validaciones con operadores de cortocircuito.
 
 ---
 
 ### 7. Conclusiones de la lectura o actividad:
-• Las estructuras de control son el núcleo del pensamiento algorítmico: transforman secuencias de datos pasivas en sistemas interactivos capaces de reaccionar y decidir de forma autónoma.  
-• Saber elegir entre un `for`, un `while` o un `do-while` no es un tema estético, sino de diseño: cada estructura responde a una naturaleza distinta del problema (iteración determinista vs. indeterminada).  
-• El tipado estricto de Java en expresiones condicionales previene errores lógicos graves en tiempo de compilación que en lenguajes dinámicos suelen explotar en producción.  
-• Comprender el ámbito (*scope*) de las variables declaradas dentro de bloques de control es fundamental para gestionar bien la memoria y evitar colisiones de nombres o referencias inválidas.
+• Las estructuras de control son el corazón del pensamiento algorítmico: transforman datos inertes en software interactivo capaz de tomar decisiones autónomas ante eventos imprevistos.  
+• Trabajar en proyectos reales como NOEST (Java) y Jules (Python) demuestra que la teoría de Ramírez (2007) y Valls Ferrán (2003) se aplica idéntica en cualquier lenguaje: lo que cambia es la sintaxis y el rigor del compilador.  
+• La evaluación en cortocircuito (`&&`, `||`) no es una curiosidad técnica de los libros, sino un estándar de programación defensiva para proteger el código contra excepciones en tiempo de ejecución.  
+• El control estricto del ámbito de variables (*scope*) dentro de los bloques de control previene fugas de memoria y evita efectos secundarios no deseados en aplicaciones grandes.
 
 ---
 
 ### 8. Discusiones y recomendaciones:
-• Para el docente Heybertt: En la práctica profesional moderna de software se habla mucho de evitar el anidamiento excesivo de condicionales (*arrow anti-pattern* o código flecha) usando retornos tempranos (*guard clauses*). ¿Cómo recomienda usted equilibrar esa buena práctica con la exigencia académica de diseñar diagramas de flujo estructurados que a veces piden un único punto de salida?  
-• ¿En qué escenarios reales de desarrollo en Java el compilador optimiza un `switch-case` mediante tablas de salto (*tableswitch* / *lookupswitch*) haciéndolo significativamente más rápido que una cadena de `if-else`?
+• Para el docente Heybertt: En proyectos medianos o grandes como NOEST y Jules, el anidamiento profundo de condicionales (*código flecha*) dificulta mucho el mantenimiento y los tests unitarios. En la industria se prefieren retornos tempranos (*guard clauses*). ¿Cómo sugiere usted equilibrar esta buena práctica de ingeniería con el modelo clásico de diagramas de flujo que suele exigir un único nodo de salida?  
+• En aplicaciones de escritorio o servicios de alto rendimiento en Java, ¿en qué casos el compilador `javac` optimiza un `switch` mediante instrucciones de bytecode `tableswitch` frente a `lookupswitch`, y qué impacto real tiene esto en el tiempo de CPU?
 
 ---
 
