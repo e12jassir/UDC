@@ -68,8 +68,8 @@ Descargué el archivo `Estructuras de control.pdf` desde el campus virtual SIMA 
 ---
 
 ### 8. Discusiones y recomendaciones:
-• Para el docente Heybertt: Cuando un problema exige validar varias condiciones y uno empieza a anidar condicionales uno dentro de otro, el código rápidamente se vuelve difícil de seguir y depurar. ¿Qué método o pautas nos recomienda usted para mantener la lógica clara y simplificar las decisiones desde el análisis en papel antes de pasarlas a Java?  
-• En su experiencia enseñando algoritmos, ¿cuál suele ser el tropiezo o la confusión más común de los estudiantes al empezar a trabajar con ciclos (`for` y `while`), y qué estrategias recomienda para dominar bien las condiciones de parada sin frustrarse?
+• La mejor forma de interiorizar estas estructuras es tirando código real y forzando casos borde (entradas vacías, listas nulas o condiciones límites) para ver exactamente cómo se comporta el flujo en cada lenguaje.  
+• Los conceptos del módulo me quedaron claros y se articulan de forma directa con lo que desarrollo a diario, por lo que no tengo dudas pendientes sobre la temática de esta unidad.
 
 ---
 
