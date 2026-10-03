@@ -1,4 +1,4 @@
-# Protocolo Colaborativo — Unidad 4
+# Protocolo Colaborativo — Unidad 4: Motivación y Valores
 
 **Programa:** Ingeniería de Software  
 **Semestre:** 1 (2026-2)  
@@ -19,95 +19,94 @@
 ---
 
 ### 1. Descripción del texto o actividad a realizar:
-Nos reunimos como CIPAS para analizar a fondo la temática de la Unidad 4 de Cátedra Institucional sobre «Motivación y Valores», a partir de la lectura analítica del Módulo Didáctico institucional (CTEV, 2026). Contrastamos la jerarquía de necesidades de Abraham Maslow con las diferencias conceptuales entre impulsos espontáneos, instintos y motivos conscientes. De igual manera, evaluamos cómo los valores éticos actúan como satisfactores directos de las necesidades humanas y de qué forma la autonomía, la solidaridad, el diálogo y la tolerancia estructuran el rendimiento académico y la convivencia en nuestro equipo durante la formación a distancia en Ingeniería de Software.
+Nos reunimos como CIPAS para analizar a fondo la temática de la Unidad 4 de Cátedra Institucional, centrada en «Motivación y Valores», tomando como base el módulo didáctico del CTEV (2026). El propósito fue contrastar la teoría con nuestra realidad diaria como estudiantes de Ingeniería de Software a distancia. Revisamos la jerarquía de necesidades de Maslow (1991), diferenciamos los impulsos pasajeros de los motivos conscientes (APA, 2015) y examinamos cómo los valores éticos operan como satisfactores de fondo (Interconsulting Bureau, 2015). A partir de esto, acordamos cómo la autonomía y la solidaridad deben guiar nuestras entregas y la convivencia del equipo en plataforma.
 
 ---
 
 ### 2. Palabras clave:
-Pirámide de Maslow (1991), Motivación Intrínseca y Extrínseca (Mendoza, 2009), Impulso y Necesidad (APA, 2015), Satisfactores Axiológicos (Interconsulting Bureau, 2015), Autonomía en Línea (Mendoza, 2017), Solidaridad Formativa, Convivencia a Distancia.
+Jerarquía de Maslow (1991), Motivos Intrínsecos (Mendoza, 2009), Impulso y Necesidad (APA, 2015), Satisfactores Axiológicos (Interconsulting Bureau, 2015), Autonomía en Línea (Mendoza, 2017), Solidaridad Formativa, Sinergia en CIPAS.
 
 ---
 
 ### 3. Objetivos de las lecturas o actividad a realizar:
-• Analizar los cinco niveles de la pirámide de Maslow para comprender cómo la atención a las necesidades fisiológicas y de descanso condiciona la capacidad de concentración en tareas cognitivas complejas.  
-• Diferenciar con precisión conceptual los impulsos inmediatos frente a los motivos deliberados que sostienen el compromiso académico a largo plazo.  
-• Evaluar la función de los valores como satisfactores de necesidades individuales y colectivas dentro del entorno formativo.  
-• Establecer acuerdos operativos sobre el ejercicio de la autonomía y la solidaridad en la educación a distancia, fijando pautas claras de trabajo y tolerancia dentro del CIPAS.
+• Comprender los cinco niveles de la pirámide de Maslow para aterrizar cómo el descanso y la estabilidad física condicionan el rendimiento mental en lógica y programación.  
+• Diferenciar con claridad los impulsos momentáneos frente a los motivos deliberados que sostienen el esfuerzo académico durante todo el semestre.  
+• Reconocer el papel de los valores como satisfactores éticos que canalizan las necesidades individuales y colectivas del grupo.  
+• Definir pautas operativas para ejercer la autonomía y la solidaridad dentro del CIPAS, estableciendo límites claros de tolerancia y compromisos de entrega.
 
 ---
 
 ### 4. Conceptos clave y definiciones:
-
-• **Motivación (Mendoza, 2009):** Fuerza interna y energía estructurada que dirige la conducta hacia el logro de un objetivo consciente. No se reduce a un entusiasmo pasajero; demanda disciplina voluntaria y constancia personal para mantener el esfuerzo ante las exigencias de la carrera.  
+• **Motivación (Mendoza, 2009):** Fuerza interna que orienta y sostiene la conducta hacia una meta clara. No depende del ánimo del día; exige voluntad reflexiva y constancia para no aflojar cuando las materias se ponen difíciles.  
 • **Impulso vs. Necesidad (VandenBos / APA, 2015):**  
-  * *Impulso:* Reacción rápida y poco deliberada desencadenada por una emoción o estímulo momentáneo.  
-  * *Necesidad:* Estado de desequilibrio biopsicológico generado por la carencia de un elemento indispensable para el bienestar orgánico o personal.  
-• **Pirámide de Maslow (1991):** Modelo jerárquico estructurado en cinco peldaños: necesidades fisiológicas y de seguridad en los niveles básicos; filiación social, estima y autorrealización en la cúspide. Maslow plantea que la satisfacción razonable de los niveles basales resulta indispensable para que emerjan aspiraciones elevadas de desarrollo intelectual y creatividad.  
-• **Valores como satisfactores axiológicos (Interconsulting Bureau, 2015):** Respuestas culturales y principios éticos que canalizan la satisfacción constructiva de las necesidades humanas. La responsabilidad y el cumplimiento recíproco generan el marco de seguridad y confianza indispensable para el trabajo en equipo.  
-• **Autonomía formativa (Mendoza, 2017):** Capacidad del estudiante para autogobernarse (*autos*, propio; *nomos*, norma). Implica fijarse horarios de estudio independientes, administrar los recursos de aprendizaje sin requerir fiscalización continua y responder por los compromisos acordados con el CIPAS.  
-• **Solidaridad académica:** Apoyo recíproco y acompañamiento dialógico entre compañeros frente a dificultades conceptuales o imprevistos de conectividad, garantizando que el avance del equipo preserve siempre la responsabilidad individual de cada integrante.
+  * *Impulso:* Reacción rápida y poco meditada provocada por un estímulo inmediato o un estado emocional transitorio.  
+  * *Necesidad:* Desequilibrio biopsicológico por la falta de algo indispensable para el bienestar físico o psicológico.  
+• **Pirámide de Maslow (1991):** Estructura jerárquica de cinco niveles donde las necesidades fisiológicas y de seguridad forman la base, mientras que la afiliación, el reconocimiento y la autorrealización ocupan los tramos superiores. Maslow sostiene que resolver los niveles basales es indispensable para que surjan inquietudes intelectuales y creativas complejas.  
+• **Valores como satisfactores axiológicos (Interconsulting Bureau, 2015):** Criterios éticos y culturales mediante los cuales las personas satisfacen sus necesidades de forma constructiva. En un equipo, la responsabilidad compartida genera el entorno seguro que permite trabajar sin desconfianza.  
+• **Autonomía formativa (Mendoza, 2017):** Capacidad del estudiante para fijar sus propias normas de trabajo. Supone organizar el tiempo sin supervisión externa permanente, asumir el autoaprendizaje y cumplir la palabra dada al grupo.  
+• **Solidaridad académica:** Apoyo mutuo entre compañeros para superar dudas conceptuales o problemas técnicos, cuidando que la ayuda sirva para que el otro aprenda y no para encubrir la falta de trabajo individual.
 
 ---
 
 ### 5. Resumen de las discusiones grupales:
 
 #### a. Motivación vocacional y realidad profesional
-En la sesión debatimos con franqueza qué nos impulsó a ingresar a la carrera de Ingeniería de Software. Varios integrantes señalamos que la proyección de estabilidad económica y la demanda laboral representan un motor inicial relevante. Sin embargo, coincidimos en que la motivación puramente extrínseca se queda corta cuando se enfrentan semestres de alta exigencia analítica. 
+Al abrir el debate, nos preguntamos con total sinceridad qué nos trajo a estudiar Ingeniería de Software. Varios reconocimos que la expectativa económica y la alta demanda laboral pesaron al inicio. Es una realidad: la estabilidad material importa y encaja en las necesidades de seguridad descritas por Maslow (1991). Sin embargo, todos coincidimos en que quedarse solo en el dinero no alcanza. Cuando toca trasnochar depurando un algoritmo que no compila o resolviendo talleres densos de Cálculo, el interés monetario se queda corto. 
 
-Tal como expone Mendoza (2009), la motivación duradera requiere de una meta consciente interiorizada. En nuestro caso, ese motor de fondo lo constituye el interés genuino por la programación, la resolución de problemas lógicos y la satisfacción de ver compilar un desarrollo diseñado por cuenta propia.
+Como explica Mendoza (2009), la motivación verdadera necesita un motivo interiorizado. En nuestro caso, ese combustible diario es el gusto por el software, el reto de resolver problemas lógicos y la satisfacción personal de construir soluciones funcionales desde cero.
 
-#### b. La jerarquía de Maslow aplicada a la rutina del estudiante
-Al examinar la teoría de Abraham Maslow (1991), conectamos sus niveles con nuestras vivencias cotidianas en la Universidad de Cartagena. Notamos un patrón recurrente: descuidar las horas de descanso, acumular estrés o pasar jornadas continuas frente a la pantalla sin pausas fisiológicas deteriora de inmediato la capacidad de razonamiento abstracto. 
+#### b. La pirámide de Maslow en la rutina del estudiante a distancia
+Al analizar a Maslow (1991), aterrizamos su modelo en nuestras propias semanas de estudio en la Universidad de Cartagena. Nos dimos cuenta de un error frecuente: sacrificar horas de sueño, alimentarse mal o pasar diez horas seguidas frente al monitor bloquea la lucidez mental. 
 
-Comprendimos que resolver el descanso básico y el orden mental no es un lujo ni una pérdida de tiempo; es una condición técnica previa. Sin una base de seguridad y bienestar físico cubierta, resulta inviable rendir con soltura en asignaturas densas como Cálculo Diferencial o Algoritmos.
+El descanso no es tiempo perdido. En carreras técnicas es una necesidad operativa básica. Si el cuerpo está agotado y el nivel fisiológico está en números rojos, la capacidad de abstracción se derrumba y resolver un problema simple termina tomando el triple de tiempo. Para pensar con claridad, primero hay que cuidar la base.
 
-#### c. Valores, satisfactores y convivencia a distancia
-Siguiendo las pautas del Módulo Didáctico (CTEV, 2026) y el marco de Interconsulting Bureau (2015), reflexionamos sobre cómo los valores canalizan nuestras necesidades. En la modalidad a distancia, donde la interacción física es limitada, los valores éticos son el único pegamento real del equipo:
-* La **autonomía** nos protege de la procrastinación y la acumulación de entregas a última hora.
-* La **solidaridad** asegura que nadie se quede atrás ante un concepto técnico difícil.
-* El **diálogo asertivo** y la **tolerancia** permiten confrontar desacuerdos conceptuales con respeto y madurez, evitando que las diferencias de criterio se conviertan en fricciones personales.
+#### c. Valores y convivencia en el entorno virtual
+Revisando el módulo del CTEV (2026) y los planteamientos de Interconsulting Bureau (2015), concluimos que en la educación a distancia los valores no son teoría decorativa: son la única garantía de que el grupo funcione. Al no vernos las caras a diario en un salón físico, dependemos por completo de la confianza mutua:
+* La **autonomía** (Mendoza, 2017) evita que dejemos las cosas para la víspera del cierre en SIMA.
+* La **solidaridad** asegura que compartamos material y expliquemos dudas al que se quede atrás.
+* El **diálogo sincero** y la **tolerancia** nos permiten resolver diferencias de criterio con madurez, debatiendo sobre las ideas sin convertir los desacuerdos en roces personales.
 
 ---
 
 ### 6. Encuentros conceptuales:
-• Coincidimos en que el descanso y la estabilidad física constituyen requisitos biológicos indispensables para sostener la concentración en labores de desarrollo de software y análisis lógico (Maslow, 1991).  
-• Validamos que la autonomía universitaria (Mendoza, 2017) requiere disciplina operativa concreta: acordamos que las entregas internas del CIPAS deben radicarse con dos días de margen (48 horas) respecto al cierre formal en SIMA.  
-• Acordamos que la verdadera solidaridad formativa consiste en explicar y brindar andamiaje conceptual al compañero rezagado, no en asumir sus deberes ni encubrir la falta de compromiso.
+• Coincidimos en que el descanso y la salud física son prerrequisitos indispensables para programar y sostener el razonamiento lógico (Maslow, 1991).  
+• Validamos que la autonomía (Mendoza, 2017) debe traducirse en reglas claras: fijamos como norma del CIPAS radicar entregas internas con 48 horas de anticipación frente al corte oficial en SIMA.  
+• Acordamos que la verdadera solidaridad consiste en brindar andamiaje conceptual al compañero rezagado, no en hacerle la tarea ni tapar su falta de compromiso.
 
 ---
 
-### 7. Desencuentros conceptuales:
-Durante el debate del equipo surgieron dos discrepancias sustanciales:
+### 7. Desencuentros conceptuales y tensiones del grupo:
+Durante el debate surgieron dos discusiones de fondo que enriquecieron el documento:
 
 1. **Límites de la tolerancia frente a los compromisos del grupo:**  
-   * *Postura de Gabriel Molina y Santiago Orozco:* Planteaban que ante imprevistos laborales y situaciones personales debía concederse una flexibilidad amplia de plazos sin penalizaciones internas, entendiendo la naturaleza abierta de la modalidad a distancia.  
-   * *Postura de Esteban Marrugo y Cristian Flórez:* Sostuvimos que una tolerancia sin límites claros termina sobrecargando a quienes entregan a tiempo, desordena el cronograma y pone en riesgo la calificación colectiva en SIMA.  
-   * *Consenso mediado por Juan Guillermo Villa:* Acordamos distinguir entre imprevistos fortuitos demostrables y desorganización personal. Establecimos como regla que todo retraso debe notificarse con antelación en el canal del CIPAS para redistribuir cargas temporalmente, manteniendo siempre el compromiso de entrega interna antes del cierre de plataforma.
+   * *Postura de Gabriel Molina y Santiago Orozco:* Planteaban que ante imprevistos laborales y cargas familiares debía existir una flexibilidad amplia en las fechas internas, considerando que la modalidad a distancia ofrece esa libertad.  
+   * *Postura de Esteban Marrugo y Cristian Flórez:* Sostuvimos que la tolerancia sin límites rompe la planificación colectiva, sobrecarga a quienes cumplen a tiempo y pone en riesgo la calificación de todos en SIMA.  
+   * *Consenso mediado por Juan Guillermo Villa:* Acordamos distinguir entre imprevistos de fuerza mayor comprobables y descuidos organizativos. Como regla definitiva, cualquier dificultad debe avisarse previamente en el canal de comunicación del CIPAS para redistribuir tareas temporalmente, sin mover la fecha límite interna previa al cierre de plataforma.
 
-2. **La legitimidad de la motivación financiera vs. vocacional:**  
-   * Se debatió si estudiar motivados por ingresos económicos desvirtuaba el sentido vocacional de la ingeniería. Algunos compañeros sostenían que la pasión técnica pura debía ser el único motor ético admisible.  
-   * Tras contrastar la pirámide de Maslow (1991), el equipo consensuó que la aspiración de estabilidad financiera encaja legítimamente en las necesidades de seguridad y sostenimiento personal. No compite con la vocación; ambas conviven de forma armónica cuando el estudiante busca el sustento mediante el ejercicio profesional ético y riguroso.
+2. **Motivación financiera frente a pasión vocacional:**  
+   * Se cuestionó si ingresar a la carrera por aspiraciones económicas restaba legitimidad ética al estudiante frente a quien lo hace por pura vocación técnica.  
+   * Al contrastar con Maslow (1991), el grupo concluyó que buscar ingresos dignos responde a necesidades legítimas de seguridad y bienestar. No compite con la vocación; ambas conviven de forma sana cuando el ejercicio profesional se ejerce con rigor, ética y amor por el oficio.
 
 ---
 
 ### 8. Metodología de trabajo:
-La actividad se desarrolló en tres momentos coordinados:  
-1. *Lectura individual analítica:* Cada miembro revisó el documento `Motivación.pdf` en SIMA (CTEV, 2026), registrando notas clave en fichas de estudio y en bases de conocimiento personales (Obsidian).  
-2. *Sesión sincrónica de debate:* Nos conectamos en canal de voz mediante Discord con compartición de pantalla. Esteban lideró la moderación de los puntos orientadores, mientras los cinco integrantes contrastamos ejemplos de nuestras primeras semanas de clase.  
-3. *Consolidación y verificación colaborativa:* En un documento de Google Docs institucional (@unicartagena.edu.co), redactamos los consensos y desacuerdos en tiempo real, verificando la correspondencia bibliográfica y el cumplimiento de las normas APA 7 antes de generar la entrega definitiva.
+Cada integrante leyó de forma independiente el módulo `Motivación.pdf` en SIMA (CTEV, 2026) y elaboró su protocolo individual registrando sus reflexiones, notas en Obsidian y apuntes conceptuales. Posteriormente, nos reunimos en una sesión sincrónica a través del canal de voz en Discord. En dicha sesión, Esteban compartió pantalla y transmitió el documento maestro, mientras los demás participamos activamente con nuestros protocolos individuales en mano para contrastar argumentos, plantear ejemplos cotidianos y concertar los acuerdos de cada sección.
+
+Durante la sesión, Esteban fue el único encargado de redactar en el documento en tiempo real, plasmando con precisión lo que el grupo debatía y consensuaba. Los demás integrantes revisaron el texto en vivo a medida que se escribía, solicitando precisiones o ajustes inmediatos cuando una frase no reflejaba fielmente lo discutido. Adoptamos esta metodología de redactor único con validación colectiva para evitar ediciones cruzadas simultáneas que suelen desordenar el formato y generar inconsistencias de estilo. Al concluir la redacción, leímos el protocolo completo en voz alta, comprobamos la correspondencia de las citas con la bibliografía en normas APA 7 y verificamos la ortografía antes de generar la versión final.
 
 ---
 
 ### 9. Conclusiones:
 • La motivación no es un impulso emocional pasajero: se fundamenta en motivos deliberados, hábitos de estudio ordenados y un proyecto de vida profesional claro que oriente el esfuerzo diario (Mendoza, 2009).  
-• La pirámide de Maslow (1991) ofrece una guía práctica de higiene mental: desatender las necesidades basales de sueño y bienestar termina bloqueando el rendimiento en los niveles superiores de abstracción y creatividad en software.  
-• Los valores institucionales de autonomía, solidaridad y diálogo (CTEV, 2026; Mendoza, 2017) no son conceptos teóricos abstractos, sino pautas de conducta que transforman al CIPAS en una comunidad de aprendizaje confiable y cohesionada.
+• La pirámide de Maslow (1991) ofrece una pauta directa de higiene mental: desatender las necesidades basales de sueño y bienestar termina bloqueando el rendimiento en los niveles superiores de abstracción y creatividad en software.  
+• Los valores institucionales de autonomía, solidaridad y diálogo (CTEV, 2026; Mendoza, 2017) no son conceptos teóricos abstractos, sino pautas de conducta que transforman al CIPAS en una comunidad de aprendizaje confiable y cohesionada.  
+• *Reflexión del grupo:* Reconocer que tenemos formas distintas de aprender y ritmos de vida diferentes nos permitió pasar de las quejas a acuerdos concretos. Aprender a trabajar juntos en este primer semestre es el mejor entrenamiento para los equipos de desarrollo en los que nos desenvolveremos mañana.
 
 ---
 
 ### 10. Discusiones y recomendaciones:
-• Recomendamos que en las tutorías presenciales de los sábados se destine un espacio para socializar herramientas de gestión del tiempo y manejo del estrés ante la coincidencia de cortes evaluativos simultáneos.  
-• A nivel interno del CIPAS, reiteramos el compromiso de mantener activo el canal de comunicación inmediata para avisar con tiempo cualquier bloqueo técnico o eventualidad que afecte el ritmo de trabajo del grupo.
+• Recomendamos que en las tutorías presenciales de los sábados en Piedra de Bolívar se destine un espacio para socializar herramientas de gestión del tiempo y manejo del estrés ante la coincidencia de cortes evaluativos simultáneos.  
+• A nivel interno del CIPAS, ratificamos el compromiso de mantener activo el canal de mensajería para avisar con tiempo cualquier bloqueo técnico o eventualidad que afecte el ritmo de trabajo del grupo.
 
 ---
 
