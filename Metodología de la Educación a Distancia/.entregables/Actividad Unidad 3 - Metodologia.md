@@ -27,6 +27,7 @@ En cumplimiento de las directrices de la Unidad 3, el CIPAS Grupo 8 grabó su vi
   `[INSERTAR_AQUÍ_EL_ENLACE_AL_VIDEO_GRABADO]`
 * **Duración aproximada:** 4 minutos
 * **Participación:** 100% de los integrantes (Esteban Marrugo, Cristian Flórez, Gabriel Molina, Santiago Orozco y Juan Guillermo Villa).
+* **Cadena de presentación circular:** Santiago presentó a Cristian ➔ Cristian presentó a Esteban ➔ Esteban presentó a Gabriel ➔ Gabriel presentó a Juan Guillermo ➔ Juan Guillermo presentó a Santiago (cerrando el ciclo continuo).
 
 ---
 
