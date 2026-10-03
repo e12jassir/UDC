@@ -47,7 +47,7 @@ Algoritmos y Programación Básica es una asignatura fundamental del componente 
 | **10 Sep 2026** | Protocolo Colaborativo Unidad 1 | 🟢 Entregado en SIMA | — |
 | **11 Sep 2026** | Actividad 1 (19 Ejercicios resueltos en Python/PDF) | 🟢 [[Unidades/Unidad 1/Entregables/Actividad 1 Esteban Marrugo.pdf\|Actividad 1.pdf]] | — |
 | **20 Sep 2026** | Evaluación Cuestionario Unidad 1 | 🟢 Presentada en SIMA | Presentado |
-| **12 Oct 2026** | Protocolo Individual Unidad 2 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
+| **12 Oct 2026** | Protocolo Individual Unidad 2 | 🟢 [[Unidades/Unidad 2/Entregables/Protocolo Individual 2.pdf|Protocolo Ind. 2.pdf]] (Vence 23:59 hs) | Listo p/ subir |
 | **15 Oct 2026** | Protocolo Colaborativo Unidad 2 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
 | **20 Oct 2026** | Actividad de la Unidad 2 | 📅 Programado en SIMA (23:59 hs) | Pendiente |
 | **20 Nov 2026** | Entrega Final TCC en SIMA | 📅 Programado en SIMA (CIPAS) | Pendiente |
